@@ -12,7 +12,6 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [API](#api)
   * [Assets](#assets)
   * [Authentication and Authorization](#authentication-and-authorization)
-  * [Authorization](#authorization)
   * [Build Automation](#build-automation)
   * [Caching](#caching)
   * [CLI](#cli)
@@ -39,22 +38,19 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 * [Other Awesome Lists](#other-awesome-lists)
 
-## Style Guide
+## API
 
-* [C# Style Guide](http://stackoverflow.com/questions/4678178/style-guide-for-c) - StackOverflow Q & A on style guides
-* [C# Coding Conventions](http://msdn.microsoft.com/en-us/library/vstudio/ff926074.aspx) - Official MSDN C# code conventions
+	* Frameworks
+		* [ASP.NET WebAPI](http://www.asp.net/web-api/) - Framework that makes it easy to build HTTP services that reach a broad range of clients, including browsers and mobile devices
+		* [ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
+
+	* [WebAPI Contrib](https://github.com/WebApiContrib/WebAPIContrib) - Collection of open source projects to help improve your work with ASP.NET Web API
 
 ## Assets
 
 * [Cassette](https://github.com/andrewdavey/cassette) - Manages .NET web application assets (scripts, css and templates)
 * [NodeAssets](https://github.com/ajorkowski/NodeAssets) - Asset Manager for .net that has live css updates using SignalR and can optionally leverage NodeJS compilers
 * [Bundler](https://github.com/ServiceStack/Bundler) - Compile & Minify Less/Sass/Stylus/Css/JS/CoffeeScript/LiveScript files. Integrates with MVC and ServiceStack
-
-## API
-
-* [ASP.NET WebAPI](http://www.asp.net/web-api/) - Framework that makes it easy to build HTTP services that reach a broad range of clients, including browsers and mobile devices
-* [WebAPI Contrib](https://github.com/WebApiContrib/WebAPIContrib) - Collection of open source projects to help improve your work with ASP.NET Web API
-* [ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
 
 ## Authentication and Authorization
 
@@ -110,9 +106,9 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 * [KVM](https://github.com/aspnet/kvm)
 
-## Game Development
+## Internationalization
 
-* [XNA](http://www.microsoft.com/en-us/download/details.aspx?id=23714) - Official Microsoft XNA development toolkit
+* [i18n](https://github.com/turquoiseowl/i18n) - Smart internationalization for ASP.NET MVC
 
 ## IoC
 
@@ -121,16 +117,14 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container
 * [Ninject](https://github.com/ninject/ninject) - The ninja of .net dependency injectors
 
-## Internationalization
-
-* [i18n](https://github.com/turquoiseowl/i18n) - Smart internationalization for ASP.NET MVC
-
 ## Logging
 
 * [NLog](https://github.com/nlog/NLog/) - NLog - Advanced .NET and Silverlight Logging
 * [ELMAH](https://code.google.com/p/elmah/) - Official ELMAH site
 * [Elmah MVC](https://github.com/alexanderbeletsky/elmah-mvc) - Elmah for MVC
 * [Log4Net](https://logging.apache.org/log4net/) - The Apache log4net library is a tool to help the programmer output log statements to a variety of output targets
+
+## Misc
 
 ## ORM
 
@@ -158,6 +152,11 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [PlainElastic.Net](https://github.com/Yegoroff/PlainElastic.Net) - Plain .Net client for ElasticSearch
 * [SolrNet](https://github.com/mausch/SolrNet) - Solr client for .Net
 
+## Style Guide
+
+* [C# Style Guide](http://stackoverflow.com/questions/4678178/style-guide-for-c) - StackOverflow Q & A on style guides
+* [C# Coding Conventions](http://msdn.microsoft.com/en-us/library/vstudio/ff926074.aspx) - Official MSDN C# code conventions
+
 ## Testing
 
 * [NUnit](https://github.com/nunit/nunit-framework)
@@ -182,8 +181,6 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [SignalR](https://github.com/SignalR/SignalR) - Library for ASP.NET developers that makes it incredibly simple to add real-time web functionality to your applications
 * [Fleck](https://github.com/statianzo/Fleck) - Fleck is a WebSocket server implementation in C#. Branched from the Nugget project
 * [Websocket-Sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
-
-## Misc
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
