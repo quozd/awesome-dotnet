@@ -97,7 +97,8 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## Documentation
 
-* [Sandcastle](http://shfb.codeplex.com/) - Sandcastle Help File Builder similar to NDoc 
+* [Sandcastle](http://shfb.codeplex.com/) - Sandcastle Help File Builder similar to NDoc
+* [SharpDox](https://github.com/Geaz/sharpDox) - A c# documentation tool
 
 ## E-Commerce and Payments
 
