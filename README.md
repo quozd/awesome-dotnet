@@ -25,6 +25,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Environment Management](#environment-management)
   * [Logging](#logging)    
+  * [IoC](#ioc)
   * [Internationalization](#internationalization) 
   * [ORM](#orm)  
   * [Queue](#queue) 
@@ -112,6 +113,13 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## Game Development
 
 * [XNA](http://www.microsoft.com/en-us/download/details.aspx?id=23714) - Official Microsoft XNA development toolkit
+
+## IoC
+
+* [Castle Windsor](https://github.com/castleproject/Windsor) - Castle Windsor is best of breed, mature Inversion of Control container available for .NET and Silverlight
+* [Unity](https://unity.codeplex.com/) - Lightweight extensible dependency injection container with support for constructor, property, and method call injection
+* [Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container
+* [Ninject](https://github.com/ninject/ninject) - The ninja of .net dependency injectors
 
 ## Internationalization
 
