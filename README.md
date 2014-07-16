@@ -127,6 +127,8 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## Misc
 
+* [AzureCrawler](https://github.com/yagopv/AzureCrawler) - Take HTML Snapshots for your Angular, Ember, Durandal or any JavaScript applications
+
 ## ORM
 
 * [Entity Framework](https://entityframework.codeplex.com/) - Object-relational mapper that enables .NET developers to work with relational data using domain-specific objects
