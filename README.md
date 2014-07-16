@@ -32,6 +32,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Search](#search)
   * [Style Guide](#style-guide)
   * [Testing](#testing)
+  * [Visual Studio Plugins](#visual-studio-plugins)
   * [Web Frameworks](#web-frameworks)
   * [Web Servers](#web-servers)
   * [WebSocket](#websocket)
@@ -165,6 +166,14 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [AutoFixture](https://github.com/AutoFixture/AutoFixture) - AutoFixture is an open source framework for .NET designed to minimize the 'Arrange' phase of your unit tests
 * [Moq](https://github.com/Moq/moq4) - The most popular and friendly mocking framework for .NET
 * [Rhino Mocks](https://github.com/ayende/rhino-mocks) - Dynamic Mocking Framework for .NET
+
+## Visual Studio Plugins
+
+* [Web Essentials](https://github.com/madskristensen/WebEssentials2013) - Web Essentials extends Visual Studio with lots of new features that web developers have been missing for many years
+* [VsVIM](https://github.com/jaredpar/VsVim) - VIM in Visual Studio
+* [Nuget Package Manager](http://visualstudiogallery.msdn.microsoft.com/27077b70-9dad-4c64-adcf-c7cf6bc9970c) - NuGet is the package manager for the Microsoft development platform including .NET
+* [SideWaffle](https://github.com/ligershark/side-waffle) - A collection of Item Templates for Visual Studio 2012/2013 that makes any web developer's life much easier
+* [Resharper](http://www.jetbrains.com/resharper/) - Developer Productivity Tool for Visual Studio *(Commercial)*
 
 ## Web Frameworks
 
