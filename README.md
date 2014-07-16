@@ -29,6 +29,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [ORM](#orm)
   * [Package Management](#package-management)
   * [Queue](#queue)
+  * [SDK and API Clients](#sdk-and-api-clients)
   * [Search](#search)
   * [Style Guide](#style-guide)
   * [Testing](#testing)
@@ -149,6 +150,12 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [NServiceBus](https://github.com/Particular/NServiceBus) - The most popular service bus for .NET
 * [RabbitMQ.NET](http://hg.rabbitmq.com/rabbitmq-dotnet-client/) - Implementation of an AMQP client library for C#, and a binding exposing AMQP services via WCF
 * [NetMQ](https://github.com/zeromq/netmq) - NetMQ is 100% native C# port of ZeroMQ
+
+## SDK and API Clients
+
+* [AWS SDK](https://github.com/aws/aws-sdk-net) - The AWS SDK for .NET enables .NET developers to easily work with Amazon Web Services
+* [Azure SDK Tools](https://github.com/Azure/azure-sdk-tools) - A set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications
+* [Octokit.NET](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
 
 ## Search
 
