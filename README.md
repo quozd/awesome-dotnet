@@ -24,7 +24,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Environment Management](#environment-management)
   * [IDE](#ide)
-  * [Image Processing](#imageprocessing)
+  * [Image Processing](#image-processing)
   * [Internationalization](#internationalization)
   * [IoC](#ioc)
   * [Logging](#logging)
