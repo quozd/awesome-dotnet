@@ -71,7 +71,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## CLI
 
-* [Command Line Parser](https://commandline.codeplex.com/) - The Command Line Parser Library offers to CLR applications a clean and concise API for manipulating command line arguments and related tasks
+* [Command Line Parser](https://github.com/gsscoder/commandline) - The Command Line Parser Library offers to CLR applications a clean and concise API for manipulating command line arguments and related tasks
 
 ## CMS
 
