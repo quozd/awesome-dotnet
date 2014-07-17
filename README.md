@@ -24,6 +24,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Environment Management](#environment-management)
   * [IDE](#ide)
+  * [Image Processing](#image-processing)
   * [Internationalization](#internationalization)
   * [IoC](#ioc)
   * [Logging](#logging)
@@ -120,6 +121,10 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 * [SharpDevelop](https://github.com/icsharpcode/SharpDevelop) - A free IDE for .NET programming languages
 * [MonoDevelop](https://github.com/mono/monodevelop) - MonoDevelop is a cross platform IDE mostly aimed at Mono/.NET developers
+
+## Image Processing
+
+* [ImageResizer](http://imageresizing.net/) - Add commands to image URLs to get altered versions in milliseconds. Resizing, editing etc of images in real-time.
 
 ## Internationalization
 
