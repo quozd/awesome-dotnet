@@ -17,6 +17,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [CLI](#cli)
   * [CMS](#cms)
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
+  * [Cryptography](#cryptography)
   * [Database Drivers](#database-drivers)
   * [DirectX](#directx)
   * [Documentation](#documentation)
@@ -84,6 +85,11 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 * [StyleCop](https://stylecop.codeplex.com/) - StyleCop analyzes C# source code to enforce a set of style and consistency rules
 * [Gendarme](https://github.com/spouliot/gendarme) - Extensible rule-based tool to find problems in .NET applications and libraries
+
+## Cryptography
+
+* [Bouncycastle](http://www.bouncycastle.org/csharp/) - Bouncy Castle provides nearly all types of encryption algorithms, secret-key algorithms, public-key algorithms, digital signatures and also supports ECC
+* [HashLib](http://hashlib.codeplex.com/) - HashLib is a collection of nearly all hash algorithms you've ever seen, it supports almost everything and is very easy to use
 
 ## Database Drivers
 
