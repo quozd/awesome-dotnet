@@ -23,6 +23,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Documentation](#documentation)
   * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Environment Management](#environment-management)
+  * [IDE](#ide)
   * [Internationalization](#internationalization)
   * [IoC](#ioc)
   * [Logging](#logging)
@@ -114,6 +115,11 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## Environment Management
 
 * [KVM](https://github.com/aspnet/kvm)
+
+## IDE
+
+* [SharpDevelop](https://github.com/icsharpcode/SharpDevelop) - A free IDE for .NET programming languages
+* [MonoDevelop](https://github.com/mono/monodevelop) - MonoDevelop is a cross platform IDE mostly aimed at Mono/.NET developers
 
 ## Internationalization
 
