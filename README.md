@@ -90,7 +90,6 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## Cryptography
 
-* [Bouncycastle](http://www.bouncycastle.org/csharp/) - Bouncy Castle provides nearly all types of encryption algorithms, secret-key algorithms, public-key algorithms, digital signatures and also supports ECC
 * [HashLib](http://hashlib.codeplex.com/) - HashLib is a collection of nearly all hash algorithms you've ever seen, it supports almost everything and is very easy to use
 
 ## Database Drivers
