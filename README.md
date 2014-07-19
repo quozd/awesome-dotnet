@@ -17,6 +17,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [CLI](#cli)
   * [CMS](#cms)
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
+  * [Continuous Integration](#continuous-integration)
   * [Cryptography](#cryptography)
   * [Database Drivers](#database-drivers)
   * [DirectX](#directx)
@@ -88,6 +89,10 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 * [StyleCop](https://stylecop.codeplex.com/) - StyleCop analyzes C# source code to enforce a set of style and consistency rules
 * [Gendarme](https://github.com/spouliot/gendarme) - Extensible rule-based tool to find problems in .NET applications and libraries
+
+##Continuous Integration
+* [TeamCity](http://www.jetbrains.com/teamcity/) - Ready to work, extensible 
+and developer-friendly build server — out of the box
 
 ## Cryptography
 
