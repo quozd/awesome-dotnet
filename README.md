@@ -157,7 +157,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Dapper Extensions](https://github.com/tmsmith/Dapper-Extensions) - Small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs
 * [NHibernate](https://github.com/nhibernate) - NHibernate Object Relational Mapper
 * [FluentMigrator](https://github.com/schambers/fluentmigrator) - Fluent Migrations framework for .net
-
+* [ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) - ServiceStack.NET OrmLite - Light, simple and fast convention-based POCO ORM
 ## Package Management
 
 * [NuGet](https://www.nuget.org/) - THE .NET Package Manager
