@@ -149,6 +149,7 @@ and developer-friendly build server — out of the box
 * [Elmah MVC](https://github.com/alexanderbeletsky/elmah-mvc) - Elmah for MVC
 * [Log4Net](https://logging.apache.org/log4net/) - The Apache log4net library is a tool to help the programmer output log statements to a variety of output targets
 * [Serilog](https://github.com/serilog/serilog) - A no-nonsense logging library for the NoSQL era. Combines the best of traditional and structured diagnostic logging in an easy-to-use package.
+* [StackExchange.Exceptional](https://github.com/NickCraver/StackExchange.Exceptional) - Error handler used for the Stack Exchange network
 
 ## Misc
 
