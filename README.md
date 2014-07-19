@@ -1,4 +1,4 @@
-# Awesome .NET! 
+# Awesome .NET!
 
 A collection of awesome .NET libraries, tools, frameworks, and software.
 
@@ -68,6 +68,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 * [Psake](https://github.com/psake/psake) - .NET-based build automation tool written in PowerShell
 * [FAKE](https://github.com/fsharp/FAKE) - F# Make, a cross platform build automation system
+* [Invoke-Build](https://github.com/nightroman/Invoke-Build) - PowerShell build and test automation tool inspired by Psake.
 
 ## Caching
 
