@@ -19,22 +19,27 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
   * [Continuous Integration](#continuous-integration)
   * [Cryptography](#cryptography)
+  * [Database](#database)
   * [Database Drivers](#database-drivers)
   * [DirectX](#directx)
   * [Documentation](#documentation)
   * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Environment Management](#environment-management)
+  * [Graphics](#graphics)
   * [IDE](#ide)
   * [Image Processing](#image-processing)
+  * [Install Tools](#install-tools)
   * [Internationalization](#internationalization)
   * [IoC](#ioc)
   * [Logging](#logging)
   * [Misc](#misc)
+  * [Office](#office)
   * [ORM](#orm)
   * [Package Management](#package-management)
   * [Queue](#queue)
   * [SDK and API Clients](#sdk-and-api-clients)
   * [Search](#search)
+  * [Serialization](#serialization)
   * [Style Guide](#style-guide)
   * [Testing](#testing)
   * [Visual Studio Plugins](#visual-studio-plugins)
@@ -99,6 +104,10 @@ and developer-friendly build server — out of the box
 
 * [HashLib](http://hashlib.codeplex.com/) - HashLib is a collection of nearly all hash algorithms you've ever seen, it supports almost everything and is very easy to use
 
+## Database
+
+* [BrightstarDb](https://github.com/BrightstarDB/BrightstarDB) - BrightstarDB is a native .NET RDF triple store
+
 ## Database Drivers
 
 * [MySQL Connector](https://dev.mysql.com/downloads/connector/net/) - Connector/Net is a fully-managed ADO.NET driver for MySQL
@@ -123,6 +132,10 @@ and developer-friendly build server — out of the box
 
 * [KVM](https://github.com/aspnet/kvm)
 
+## Graphics
+
+* [Oxyplot](https://oxyplot.codeplex.com/) - OxyPlot is a cross-platform plotting library for .NET
+
 ## IDE
 
 * [SharpDevelop](https://github.com/icsharpcode/SharpDevelop) - A free IDE for .NET programming languages
@@ -132,6 +145,10 @@ and developer-friendly build server — out of the box
 ## Image Processing
 
 * [ImageResizer](http://imageresizing.net/) - Add commands to image URLs to get altered versions in milliseconds. Resizing, editing etc of images in real-time.
+
+## Install tools
+
+* [Wix Toolset](http://wixtoolset.org/) - The most powerful set of tools available to create your Windows installation experience
 
 ## Internationalization
 
@@ -156,6 +173,10 @@ and developer-friendly build server — out of the box
 ## Misc
 
 * [AzureCrawler](https://github.com/yagopv/AzureCrawler) - Take HTML Snapshots for your Angular, Ember, Durandal or any JavaScript applications
+
+## Office
+
+* [ClosedXML](https://closedxml.codeplex.com/) - ClosedXML makes it easier for developers to create Excel 2007/2010 files
 
 ## ORM
 
@@ -190,6 +211,12 @@ and developer-friendly build server — out of the box
 * [Elasticsearch .NET](https://github.com/elasticsearch/elasticsearch-net) - Elasticsearch.Net & NEST
 * [PlainElastic.Net](https://github.com/Yegoroff/PlainElastic.Net) - Plain .Net client for ElasticSearch
 * [SolrNet](https://github.com/mausch/SolrNet) - Solr client for .Net
+
+## Serialization
+
+* [Protobuf.NET](https://code.google.com/p/protobuf-net/) - Protocol buffers is the name of the binary serialization format used by Google for much of their data communications
+* [Json.NET](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET
+* [ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text) - JSON, JSV and CSV Text Serializers used in servicestack.net
 
 ## Style Guide
 
@@ -230,6 +257,7 @@ and developer-friendly build server — out of the box
 * [SignalR](https://github.com/SignalR/SignalR) - Library for ASP.NET developers that makes it incredibly simple to add real-time web functionality to your applications
 * [Fleck](https://github.com/statianzo/Fleck) - Fleck is a WebSocket server implementation in C#. Branched from the Nugget project
 * [Websocket-Sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
+* [XSockets](http://xsockets.net/) - Provides a great set of tools for you to build real-time applications on the Microsoft.NET plattform and much more
 
 ## Windows Services
 
