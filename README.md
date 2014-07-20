@@ -217,6 +217,7 @@ and developer-friendly build server — out of the box
 * [Protobuf.NET](https://code.google.com/p/protobuf-net/) - Protocol buffers is the name of the binary serialization format used by Google for much of their data communications
 * [Json.NET](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET
 * [ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text) - JSON, JSV and CSV Text Serializers used in servicestack.net
+* [JsonFx](https://github.com/jsonfx/jsonfx) - JsonFx v2.0 - JSON serialization framework for .NET
 
 ## Style Guide
 
