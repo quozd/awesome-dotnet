@@ -12,6 +12,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [API](#api)
   * [Assets](#assets)
   * [Authentication and Authorization](#authentication-and-authorization)
+  * [Automated Deployment](#automated-deployment)
   * [Build Automation](#build-automation)
   * [Caching](#caching)
   * [CLI](#cli)
@@ -70,6 +71,8 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth) - A C# implementation of the OpenID, OAuth and InfoCard protocols
 * [Thinktecture IdentityModel](https://github.com/thinktecture/Thinktecture.IdentityModel.45) - Helper library for identity & access control in .NET 4.5 and MVC4/Web API.
 
+##Automated Deployment
+
 ## Build Automation
 
 * [Psake](https://github.com/psake/psake) - .NET-based build automation tool written in PowerShell
@@ -115,6 +118,7 @@ and developer-friendly build server — out of the box
 * [Mongo csharp driver](https://github.com/mongodb/mongo-csharp-driver)
 * [ServiceStack Redis](https://github.com/ServiceStack/ServiceStack.Redis) - .NET's leading C# Redis Client
 * [StackExchange Redis](https://github.com/StackExchange/StackExchange.Redis) - General purpose redis client from StackExchange
+
 ## DirectX
 
 * [SlimDX](http://www.slimdx.org) - DirectX framework wrapper for .NET applications
