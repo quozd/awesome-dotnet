@@ -74,6 +74,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ##Automated Deployment
 
 * [Octopus Deploy](https://octopusdeploy.com/) - Octopus Deploy is a friendly deployment automation system for .NET developers.
+* [Deployment Manager](http://www.red-gate.com/delivery/deployment-manager/) - Release management tool for SQL Server, SQL Azure, and .NET apps.
 
 ## Build Automation
 
