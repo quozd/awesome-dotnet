@@ -229,6 +229,7 @@ and developer-friendly build server — out of the box
 * [Json.NET](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET
 * [ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text) - JSON, JSV and CSV Text Serializers used in servicestack.net
 * [JsonFx](https://github.com/jsonfx/jsonfx) - JsonFx v2.0 - JSON serialization framework for .NET
+* [Msgpack-Cli](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure
 
 ## Style Guide
 
