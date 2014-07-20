@@ -34,6 +34,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [IoC](#ioc)
   * [Logging](#logging)
   * [Misc](#misc)
+  * [MVVM](#mvvm)
   * [Office](#office)
   * [ORM](#orm)
   * [Package Management](#package-management)
