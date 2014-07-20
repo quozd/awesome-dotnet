@@ -121,6 +121,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 * [SharpDevelop](https://github.com/icsharpcode/SharpDevelop) - A free IDE for .NET programming languages
 * [MonoDevelop](https://github.com/mono/monodevelop) - MonoDevelop is a cross platform IDE mostly aimed at Mono/.NET developers
+* [VisualStudioExpress](http://www.visualstudio.com/en-us/products/visual-studio-express-vs.aspx) - The free lightweight version of Visual Studio for .NET programming.
 
 ## Image Processing
 
