@@ -73,6 +73,8 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ##Automated Deployment
 
+* [Octopus Deploy](https://octopusdeploy.com/) - Octopus Deploy is a friendly deployment automation system for .NET developers.
+
 ## Build Automation
 
 * [Psake](https://github.com/psake/psake) - .NET-based build automation tool written in PowerShell
