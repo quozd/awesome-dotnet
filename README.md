@@ -17,6 +17,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [CLI](#cli)
   * [CMS](#cms)
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
+  * [Continuous Integration](#continuous-integration)
   * [Cryptography](#cryptography)
   * [Database Drivers](#database-drivers)
   * [DirectX](#directx)
@@ -90,6 +91,10 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [StyleCop](https://stylecop.codeplex.com/) - StyleCop analyzes C# source code to enforce a set of style and consistency rules
 * [Gendarme](https://github.com/spouliot/gendarme) - Extensible rule-based tool to find problems in .NET applications and libraries
 
+##Continuous Integration
+* [TeamCity](http://www.jetbrains.com/teamcity/) - Ready to work, extensible 
+and developer-friendly build server — out of the box
+
 ## Cryptography
 
 * [HashLib](http://hashlib.codeplex.com/) - HashLib is a collection of nearly all hash algorithms you've ever seen, it supports almost everything and is very easy to use
@@ -146,6 +151,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Elmah MVC](https://github.com/alexanderbeletsky/elmah-mvc) - Elmah for MVC
 * [Log4Net](https://logging.apache.org/log4net/) - The Apache log4net library is a tool to help the programmer output log statements to a variety of output targets
 * [Serilog](https://github.com/serilog/serilog) - A no-nonsense logging library for the NoSQL era. Combines the best of traditional and structured diagnostic logging in an easy-to-use package.
+* [StackExchange.Exceptional](https://github.com/NickCraver/StackExchange.Exceptional) - Error handler used for the Stack Exchange network
 
 ## Misc
 
@@ -159,7 +165,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Dapper Extensions](https://github.com/tmsmith/Dapper-Extensions) - Small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs
 * [NHibernate](https://github.com/nhibernate) - NHibernate Object Relational Mapper
 * [FluentMigrator](https://github.com/schambers/fluentmigrator) - Fluent Migrations framework for .net
-
+* [ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) - Light, simple and fast convention-based POCO ORM
 ## Package Management
 
 * [NuGet](https://www.nuget.org/) - THE .NET Package Manager
@@ -170,6 +176,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [NServiceBus](https://github.com/Particular/NServiceBus) - The most popular service bus for .NET
 * [RabbitMQ.NET](http://hg.rabbitmq.com/rabbitmq-dotnet-client/) - Implementation of an AMQP client library for C#, and a binding exposing AMQP services via WCF
 * [NetMQ](https://github.com/zeromq/netmq) - NetMQ is 100% native C# port of ZeroMQ
+* [MassTransit](https://github.com/MassTransit/MassTransit) - MassTransit is lean service bus implementation for building loosely coupled applications using the .NET Framework.
 
 ## SDK and API Clients
 
