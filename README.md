@@ -114,7 +114,7 @@ and developer-friendly build server — out of the box
 * [Npgsql](https://github.com/npgsql/Npgsql) - .Net data provider for Postgresql
 * [Mongo csharp driver](https://github.com/mongodb/mongo-csharp-driver)
 * [ServiceStack Redis](https://github.com/ServiceStack/ServiceStack.Redis) - .NET's leading C# Redis Client
-
+* [StackExchange Redis](https://github.com/StackExchange/StackExchange.Redis) - General purpose redis client from StackExchange
 ## DirectX
 
 * [SlimDX](http://www.slimdx.org) - DirectX framework wrapper for .NET applications
