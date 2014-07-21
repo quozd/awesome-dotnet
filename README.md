@@ -26,21 +26,28 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Environment Management](#environment-management)
   * [Graphics](#graphics)
+  * [GUI](#gui)
   * [IDE](#ide)
   * [Image Processing](#image-processing)
   * [Install Tools](#install-tools)
   * [Internationalization](#internationalization)
   * [IoC](#ioc)
   * [Logging](#logging)
+  * [Mail](#mail)
   * [Misc](#misc)
+  * [MVVM](#mvvm)
   * [Office](#office)
   * [ORM](#orm)
   * [Package Management](#package-management)
+  * [PDF](#pdf)
+  * [Profiler](#profiler)
   * [Queue](#queue)
+  * [Scheduling](#scheduling)
   * [SDK and API Clients](#sdk-and-api-clients)
   * [Search](#search)
   * [Serialization](#serialization)
   * [Style Guide](#style-guide)
+  * [Template Engine](#template-engine)
   * [Testing](#testing)
   * [Visual Studio Plugins](#visual-studio-plugins)
   * [Web Frameworks](#web-frameworks)
@@ -114,6 +121,7 @@ and developer-friendly build server — out of the box
 * [Npgsql](https://github.com/npgsql/Npgsql) - .Net data provider for Postgresql
 * [Mongo csharp driver](https://github.com/mongodb/mongo-csharp-driver)
 * [ServiceStack Redis](https://github.com/ServiceStack/ServiceStack.Redis) - .NET's leading C# Redis Client
+* [StackExchange Redis](https://github.com/StackExchange/StackExchange.Redis) - General purpose redis client from StackExchange
 
 ## DirectX
 
@@ -135,6 +143,11 @@ and developer-friendly build server — out of the box
 ## Graphics
 
 * [Oxyplot](https://oxyplot.codeplex.com/) - OxyPlot is a cross-platform plotting library for .NET
+
+## GUI
+
+* [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - Toolkit for creating Metro styled WPF apps
+* [Callisto](https://github.com/timheuer/callisto) - A control toolkit for Windows 8 XAML applications. Contains some UI controls to make it easier to create Windows UI style apps for the Windows Store in accordance with Windows UI guidelines.
 
 ## IDE
 
@@ -170,10 +183,25 @@ and developer-friendly build server — out of the box
 * [Serilog](https://github.com/serilog/serilog) - A no-nonsense logging library for the NoSQL era. Combines the best of traditional and structured diagnostic logging in an easy-to-use package.
 * [StackExchange.Exceptional](https://github.com/NickCraver/StackExchange.Exceptional) - Error handler used for the Stack Exchange network
 
+
+## Mail
+
+* [FluentEmail](https://github.com/lukencode/FluentEmail) - A Fluent Wrapper for System.Net.Mail with razor templating support.
+
 ## Misc
 
 * [AzureCrawler](https://github.com/yagopv/AzureCrawler) - Take HTML Snapshots for your Angular, Ember, Durandal or any JavaScript applications
 * [.NET Fiddle](https://dotnetfiddle.net/) - Write, compile and run C# code in the browser. The C# equivalent of JSFiddle.
+
+* [Humanizer](https://github.com/MehdiK/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
+
+* [.NET Fiddle](https://dotnetfiddle.net/) - Write, compile and run C# code in the browser. The C# equivalent of JSFiddle.
+
+##MVVM
+
+* [Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro) - A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV* patterns will enable you to build your solution quickly, without the need to sacrifice code quality or testability.
+* [MVVM Light Toolkit](https://mvvmlight.codeplex.com/) - The main purpose of the toolkit is to accelerate the creation and development of MVVM applications in WPF, Silverlight, Windows Store (RT) and for Windows Phone
+* [Catel](https://catel.codeplex.com/) - Catel is an application development platform with the focus on MVVM (WPF, Silverlight, Windows Phone and WinRT) and MVC (ASP.NET MVC). The core of Catel contains an IoC container, models, validation, memento, message mediator, argument checking, etc.
 
 ## Office
 
@@ -188,11 +216,20 @@ and developer-friendly build server — out of the box
 * [NHibernate](https://github.com/nhibernate) - NHibernate Object Relational Mapper
 * [FluentMigrator](https://github.com/schambers/fluentmigrator) - Fluent Migrations framework for .net
 * [ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) - Light, simple and fast convention-based POCO ORM
+* [Massive](https://github.com/robconery/massive) - A small, happy, data access tool that will love you forever.
 
 ## Package Management
 
 * [NuGet](https://www.nuget.org/) - THE .NET Package Manager
 * [OpenWrap](https://github.com/openrasta/openwrap) - OpenWrap Package Manager
+
+## PDF
+
+* [ITextSharp](https://github.com/itext/itextsharp) - iText is a PDF library that allows you to CREATE, ADAPT, INSPECT and MAINTAIN documents in the Portable Document Format (PDF)
+
+## Profiler
+
+* [MiniProfiler](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET websites
 
 ## Queue
 
@@ -200,6 +237,10 @@ and developer-friendly build server — out of the box
 * [RabbitMQ.NET](http://hg.rabbitmq.com/rabbitmq-dotnet-client/) - Implementation of an AMQP client library for C#, and a binding exposing AMQP services via WCF
 * [NetMQ](https://github.com/zeromq/netmq) - NetMQ is 100% native C# port of ZeroMQ
 * [MassTransit](https://github.com/MassTransit/MassTransit) - MassTransit is lean service bus implementation for building loosely coupled applications using the .NET Framework.
+
+## Scheduling
+
+* [QuartzNet](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET
 
 ## SDK and API Clients
 
@@ -218,11 +259,16 @@ and developer-friendly build server — out of the box
 * [Protobuf.NET](https://code.google.com/p/protobuf-net/) - Protocol buffers is the name of the binary serialization format used by Google for much of their data communications
 * [Json.NET](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET
 * [ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text) - JSON, JSV and CSV Text Serializers used in servicestack.net
+* [Msgpack-Cli](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure
 
 ## Style Guide
 
 * [C# Style Guide](http://stackoverflow.com/questions/4678178/style-guide-for-c) - StackOverflow Q & A on style guides
 * [C# Coding Conventions](http://msdn.microsoft.com/en-us/library/vstudio/ff926074.aspx) - Official MSDN C# code conventions
+
+## Template Engine
+
+* [RazorEngine](https://github.com/Antaris/RazorEngine) - Open source templating engine based on Microsoft's Razor parsing engine
 
 ## Testing
 
