@@ -222,7 +222,6 @@ and developer-friendly build server — out of the box
 * [NHibernate](https://github.com/nhibernate) - NHibernate Object Relational Mapper
 * [FluentMigrator](https://github.com/schambers/fluentmigrator) - Fluent Migrations framework for .net
 * [ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) - Light, simple and fast convention-based POCO ORM
-* [Petapoco](https://github.com/toptensoftware/petapoco) - PetaPoco is a tiny, fast, single-file micro-ORM for .NET and Mono.
 * [Massive](https://github.com/robconery/massive) - A small, happy, data access tool that will love you forever.
 
 ## Package Management
