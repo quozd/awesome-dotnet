@@ -151,6 +151,8 @@ and developer-friendly build server — out of the box
 
 ## HTML/XML Parsing
 
+* [Html Agility Pack](https://htmlagilitypack.codeplex.com/) - This is an agile HTML parser that builds a read/write DOM and supports plain XPATH or XSLT
+
 ## IDE
 
 * [SharpDevelop](https://github.com/icsharpcode/SharpDevelop) - A free IDE for .NET programming languages
