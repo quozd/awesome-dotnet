@@ -26,6 +26,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Environment Management](#environment-management)
   * [Graphics](#graphics)
+  * [GUI](#gui)
   * [IDE](#ide)
   * [Image Processing](#image-processing)
   * [Install Tools](#install-tools)
@@ -137,6 +138,8 @@ and developer-friendly build server — out of the box
 ## Graphics
 
 * [Oxyplot](https://oxyplot.codeplex.com/) - OxyPlot is a cross-platform plotting library for .NET
+
+## GUI
 
 ## IDE
 
