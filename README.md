@@ -141,6 +141,8 @@ and developer-friendly build server — out of the box
 
 ## GUI
 
+* [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - Toolkit for creating Metro styled WPF apps
+
 ## IDE
 
 * [SharpDevelop](https://github.com/icsharpcode/SharpDevelop) - A free IDE for .NET programming languages
