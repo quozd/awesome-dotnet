@@ -254,6 +254,8 @@ and developer-friendly build server — out of the box
 
 ## Template Engine
 
+* [RazorEngine](https://github.com/Antaris/RazorEngine) - Open source templating engine based on Microsoft's Razor parsing engine
+
 ## Testing
 
 * [NUnit](https://github.com/nunit/nunit-framework)
