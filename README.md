@@ -182,6 +182,7 @@ and developer-friendly build server — out of the box
 ## Misc
 
 * [AzureCrawler](https://github.com/yagopv/AzureCrawler) - Take HTML Snapshots for your Angular, Ember, Durandal or any JavaScript applications
+* [Humanizer](https://github.com/MehdiK/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 
 ##MVVM
 
