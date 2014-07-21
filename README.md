@@ -45,6 +45,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Search](#search)
   * [Serialization](#serialization)
   * [Style Guide](#style-guide)
+  * [Template Engine](#template-engine)
   * [Testing](#testing)
   * [Visual Studio Plugins](#visual-studio-plugins)
   * [Web Frameworks](#web-frameworks)
@@ -250,6 +251,8 @@ and developer-friendly build server — out of the box
 
 * [C# Style Guide](http://stackoverflow.com/questions/4678178/style-guide-for-c) - StackOverflow Q & A on style guides
 * [C# Coding Conventions](http://msdn.microsoft.com/en-us/library/vstudio/ff926074.aspx) - Official MSDN C# code conventions
+
+## Template Engine
 
 ## Testing
 
