@@ -38,6 +38,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Office](#office)
   * [ORM](#orm)
   * [Package Management](#package-management)
+  * [Profiler](#profiler)
   * [Queue](#queue)
   * [SDK and API Clients](#sdk-and-api-clients)
   * [Search](#search)
@@ -208,6 +209,8 @@ and developer-friendly build server — out of the box
 
 * [NuGet](https://www.nuget.org/) - THE .NET Package Manager
 * [OpenWrap](https://github.com/openrasta/openwrap) - OpenWrap Package Manager
+
+## Profiler
 
 ## Queue
 
