@@ -173,6 +173,7 @@ and developer-friendly build server — out of the box
 ## Misc
 
 * [AzureCrawler](https://github.com/yagopv/AzureCrawler) - Take HTML Snapshots for your Angular, Ember, Durandal or any JavaScript applications
+* [.NET Fiddle](https://dotnetfiddle.net/) - Write, compile and run C# code in the browser. The C# equivalent of JSFiddle.
 
 ## Office
 
