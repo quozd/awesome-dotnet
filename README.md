@@ -225,6 +225,8 @@ and developer-friendly build server — out of the box
 
 ## Scheduling
 
+* [QuartzNet](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET
+
 ## SDK and API Clients
 
 * [AWS SDK](https://github.com/aws/aws-sdk-net) - The AWS SDK for .NET enables .NET developers to easily work with Amazon Web Services
