@@ -142,6 +142,7 @@ and developer-friendly build server — out of the box
 ## GUI
 
 * [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - Toolkit for creating Metro styled WPF apps
+* [Callisto](https://github.com/timheuer/callisto) - A control toolkit for Windows 8 XAML applications. Contains some UI controls to make it easier to create Windows UI style apps for the Windows Store in accordance with Windows UI guidelines.
 
 ## IDE
 
