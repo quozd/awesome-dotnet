@@ -162,7 +162,6 @@ and developer-friendly build server — out of the box
 * [Unity](https://unity.codeplex.com/) - Lightweight extensible dependency injection container with support for constructor, property, and method call injection
 * [Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container
 * [Ninject](https://github.com/ninject/ninject) - The ninja of .net dependency injectors
-* [Funq](https://funq.codeplex.com/) - High performance DI framework by eliminating all runtime reflection through the use of lambdas and generic functions as factories.
 
 ## Logging
 
