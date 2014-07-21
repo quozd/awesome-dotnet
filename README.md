@@ -12,6 +12,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [API](#api)
   * [Assets](#assets)
   * [Authentication and Authorization](#authentication-and-authorization)
+  * [Automated Deployment](#automated-deployment)
   * [Build Automation](#build-automation)
   * [Caching](#caching)
   * [CLI](#cli)
@@ -33,6 +34,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [IoC](#ioc)
   * [Logging](#logging)
   * [Misc](#misc)
+  * [MVVM](#mvvm)
   * [Office](#office)
   * [ORM](#orm)
   * [Package Management](#package-management)
@@ -70,6 +72,11 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth) - A C# implementation of the OpenID, OAuth and InfoCard protocols
 * [Thinktecture IdentityModel](https://github.com/thinktecture/Thinktecture.IdentityModel.45) - Helper library for identity & access control in .NET 4.5 and MVC4/Web API.
 
+##Automated Deployment
+
+* [Octopus Deploy](https://octopusdeploy.com/) - Octopus Deploy is a friendly deployment automation system for .NET developers.
+* [Deployment Manager](http://www.red-gate.com/delivery/deployment-manager/) - Release management tool for SQL Server, SQL Azure, and .NET apps.
+
 ## Build Automation
 
 * [Psake](https://github.com/psake/psake) - .NET-based build automation tool written in PowerShell
@@ -83,6 +90,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## CLI
 
 * [Command Line Parser](https://github.com/gsscoder/commandline) - The Command Line Parser Library offers to CLR applications a clean and concise API for manipulating command line arguments and related tasks
+* [Fluent Command Line Parser](https://github.com/fclp/fluent-command-line-parser) - A simple, strongly typed .NET C# command line parser library using a fluent easy to use interface
 
 ## CMS
 
@@ -114,6 +122,7 @@ and developer-friendly build server — out of the box
 * [Npgsql](https://github.com/npgsql/Npgsql) - .Net data provider for Postgresql
 * [Mongo csharp driver](https://github.com/mongodb/mongo-csharp-driver)
 * [ServiceStack Redis](https://github.com/ServiceStack/ServiceStack.Redis) - .NET's leading C# Redis Client
+* [StackExchange Redis](https://github.com/StackExchange/StackExchange.Redis) - General purpose redis client from StackExchange
 
 ## DirectX
 
@@ -160,6 +169,7 @@ and developer-friendly build server — out of the box
 * [Unity](https://unity.codeplex.com/) - Lightweight extensible dependency injection container with support for constructor, property, and method call injection
 * [Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container
 * [Ninject](https://github.com/ninject/ninject) - The ninja of .net dependency injectors
+* [Funq](https://funq.codeplex.com/) - High performance DI framework by eliminating all runtime reflection through the use of lambdas and generic functions as factories.
 
 ## Logging
 
@@ -175,6 +185,12 @@ and developer-friendly build server — out of the box
 * [AzureCrawler](https://github.com/yagopv/AzureCrawler) - Take HTML Snapshots for your Angular, Ember, Durandal or any JavaScript applications
 * [.NET Fiddle](https://dotnetfiddle.net/) - Write, compile and run C# code in the browser. The C# equivalent of JSFiddle.
 
+##MVVM
+
+* [Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro) - A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV* patterns will enable you to build your solution quickly, without the need to sacrifice code quality or testability.
+* [MVVM Light Toolkit](https://mvvmlight.codeplex.com/) - The main purpose of the toolkit is to accelerate the creation and development of MVVM applications in WPF, Silverlight, Windows Store (RT) and for Windows Phone
+* [Catel](https://catel.codeplex.com/) - Catel is an application development platform with the focus on MVVM (WPF, Silverlight, Windows Phone and WinRT) and MVC (ASP.NET MVC). The core of Catel contains an IoC container, models, validation, memento, message mediator, argument checking, etc.
+
 ## Office
 
 * [ClosedXML](https://closedxml.codeplex.com/) - ClosedXML makes it easier for developers to create Excel 2007/2010 files
@@ -188,6 +204,8 @@ and developer-friendly build server — out of the box
 * [NHibernate](https://github.com/nhibernate) - NHibernate Object Relational Mapper
 * [FluentMigrator](https://github.com/schambers/fluentmigrator) - Fluent Migrations framework for .net
 * [ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) - Light, simple and fast convention-based POCO ORM
+* [Petapoco](http://www.toptensoftware.com/petapoco/) - PetaPoco is a tiny, fast, single-file micro-ORM for .NET and Mono.
+* [Massive](https://github.com/robconery/massive) - A small, happy, data access tool that will love you forever.
 
 ## Package Management
 
@@ -218,6 +236,8 @@ and developer-friendly build server — out of the box
 * [Protobuf.NET](https://code.google.com/p/protobuf-net/) - Protocol buffers is the name of the binary serialization format used by Google for much of their data communications
 * [Json.NET](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET
 * [ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text) - JSON, JSV and CSV Text Serializers used in servicestack.net
+* [JsonFx](https://github.com/jsonfx/jsonfx) - JsonFx v2.0 - JSON serialization framework for .NET
+* [Msgpack-Cli](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure
 
 ## Style Guide
 
@@ -259,6 +279,7 @@ and developer-friendly build server — out of the box
 * [Fleck](https://github.com/statianzo/Fleck) - Fleck is a WebSocket server implementation in C#. Branched from the Nugget project
 * [Websocket-Sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
 * [XSockets](http://xsockets.net/) - Provides a great set of tools for you to build real-time applications on the Microsoft.NET plattform and much more
+* [Pokein](http://www.pokein.com/) - Asp.Net WebSocket & Comet Ajax Library
 
 ## Windows Services
 
