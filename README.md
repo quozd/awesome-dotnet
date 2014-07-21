@@ -185,6 +185,8 @@ and developer-friendly build server — out of the box
 
 ## Mail
 
+* [FluentEmail](https://github.com/lukencode/FluentEmail) - A Fluent Wrapper for System.Net.Mail with razor templating support.
+
 ## Misc
 
 * [AzureCrawler](https://github.com/yagopv/AzureCrawler) - Take HTML Snapshots for your Angular, Ember, Durandal or any JavaScript applications
