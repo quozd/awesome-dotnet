@@ -212,6 +212,8 @@ and developer-friendly build server — out of the box
 
 ## Profiler
 
+* [MiniProfiler](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET websites
+
 ## Queue
 
 * [NServiceBus](https://github.com/Particular/NServiceBus) - The most popular service bus for .NET
