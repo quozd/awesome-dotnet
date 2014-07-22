@@ -10,6 +10,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 * [Awesome DotNet](#awesome-dotnet)
   * [API](#api)
+  * [Application Frameworks](#application-frameworks)
   * [Assets](#assets)
   * [Authentication and Authorization](#authentication-and-authorization)
   * [Build Automation](#build-automation)
@@ -64,6 +65,10 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
 
 * [WebAPI Contrib](https://github.com/WebApiContrib/WebAPIContrib) - Collection of open source projects to help improve your work with ASP.NET Web API
+
+## Application Frameworks
+
+* [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - A starting point for new modern ASP.NET MVC web applications with best practices and most popular tools.
 
 ## Assets
 
