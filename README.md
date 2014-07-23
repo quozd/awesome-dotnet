@@ -308,6 +308,7 @@ and developer-friendly build server — out of the box
 * [Fleck](https://github.com/statianzo/Fleck) - Fleck is a WebSocket server implementation in C#. Branched from the Nugget project
 * [Websocket-Sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
 * [XSockets](http://xsockets.net/) - Provides a great set of tools for you to build real-time applications on the Microsoft.NET plattform and much more
+* [WebSocketListener](http://vtortola.github.io/WebSocketListener/) - The WebSocketListener class provides simple methods that listen for and accept incoming WebSocket connection requests asynchronously. It is a lightweight listener with an API very similar to the System.Net.TcpListener class.
 
 ## Windows Services
 
