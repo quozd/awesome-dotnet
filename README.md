@@ -26,6 +26,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Documentation](#documentation)
   * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Environment Management](#environment-management)
+  * [Git Tools](#git-tools)
   * [Graphics](#graphics)
   * [GUI](#gui)
   * [HTTP](#http)
@@ -146,6 +147,8 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## Environment Management
 
 * [KVM](https://github.com/aspnet/kvm)
+
+##Git Tools
 
 ## Graphics
 
