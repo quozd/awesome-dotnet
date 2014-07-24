@@ -109,10 +109,10 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 * [StyleCop](https://stylecop.codeplex.com/) - StyleCop analyzes C# source code to enforce a set of style and consistency rules
 * [Gendarme](https://github.com/spouliot/gendarme) - Extensible rule-based tool to find problems in .NET applications and libraries
+* [Metrics-Net](https://github.com/danielcrenna/metrics-net) - Capturing CLR and application-level metrics. So you know what's going on.
 
 ##Continuous Integration
-* [TeamCity](http://www.jetbrains.com/teamcity/) - Ready to work, extensible 
-and developer-friendly build server — out of the box
+* [TeamCity](http://www.jetbrains.com/teamcity/) - Ready to work, extensible and developer-friendly build server — out of the box
 
 ## Cryptography
 
