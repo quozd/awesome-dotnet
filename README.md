@@ -143,6 +143,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## E-Commerce and Payments
 
 * [Paypal Merchant SDK](https://github.com/paypal/merchant-sdk-dotnet) - Official Paypal Merchant SDK for .NET
+* [ServiceStack.Stripe](https://github.com/ServiceStack/Stripe) - yped .NET clients for stripe.com REST APIs
 
 ## Environment Management
 
@@ -266,6 +267,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [AWS SDK](https://github.com/aws/aws-sdk-net) - The AWS SDK for .NET enables .NET developers to easily work with Amazon Web Services
 * [Azure SDK Tools](https://github.com/Azure/azure-sdk-tools) - A set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications
 * [Octokit.NET](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
+* [DropNet](https://github.com/DropNet/DropNet) - Client Library for the Dropbox API
 
 ## Search
 
