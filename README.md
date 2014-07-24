@@ -150,6 +150,8 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ##Git Tools
 
+* [LibGit2Sharp](https://github.com/libgit2/libgit2sharp) - LibGit2Sharp brings all the might and speed of libgit2, a native Git implementation, to the managed world of .Net and Mono.
+
 ## Graphics
 
 * [Oxyplot](https://oxyplot.codeplex.com/) - OxyPlot is a cross-platform plotting library for .NET
