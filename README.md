@@ -157,6 +157,7 @@ and developer-friendly build server — out of the box
 
 ##HTTP
 * [RestSharp](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API Client for .NET
+* [EasyHttp](https://github.com/hhariri/EasyHttp) - Http Library for C#
 
 ## IDE
 
