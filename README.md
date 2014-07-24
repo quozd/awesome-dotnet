@@ -241,6 +241,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## Profiler
 
 * [MiniProfiler](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET websites
+* [Glimpse](https://github.com/glimpse/glimpse) - The open source diagnostics platform for the web
 
 ## Queue
 
