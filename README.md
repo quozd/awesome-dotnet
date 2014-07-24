@@ -26,8 +26,10 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Documentation](#documentation)
   * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Environment Management](#environment-management)
+  * [Git Tools](#git-tools)
   * [Graphics](#graphics)
   * [GUI](#gui)
+  * [HTTP](#http)
   * [IDE](#ide)
   * [Image Processing](#image-processing)
   * [Install Tools](#install-tools)
@@ -35,6 +37,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [IoC](#ioc)
   * [Logging](#logging)
   * [Mail](#mail)
+  * [Markdown Processors](#markdown-processors)
   * [Misc](#misc)
   * [MVVM](#mvvm)
   * [Office](#office)
@@ -107,10 +110,10 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 * [StyleCop](https://stylecop.codeplex.com/) - StyleCop analyzes C# source code to enforce a set of style and consistency rules
 * [Gendarme](https://github.com/spouliot/gendarme) - Extensible rule-based tool to find problems in .NET applications and libraries
+* [Metrics-Net](https://github.com/danielcrenna/metrics-net) - Capturing CLR and application-level metrics. So you know what's going on.
 
 ##Continuous Integration
-* [TeamCity](http://www.jetbrains.com/teamcity/) - Ready to work, extensible 
-and developer-friendly build server — out of the box
+* [TeamCity](http://www.jetbrains.com/teamcity/) - Ready to work, extensible and developer-friendly build server — out of the box
 
 ## Cryptography
 
@@ -140,10 +143,16 @@ and developer-friendly build server — out of the box
 ## E-Commerce and Payments
 
 * [Paypal Merchant SDK](https://github.com/paypal/merchant-sdk-dotnet) - Official Paypal Merchant SDK for .NET
+* [ServiceStack.Stripe](https://github.com/ServiceStack/Stripe) - yped .NET clients for stripe.com REST APIs
+* [Stripe.Net](https://github.com/jaymedavis/stripe.net) - Stripe.net is a full service .net api for http://stripe.com. 
 
 ## Environment Management
 
 * [KVM](https://github.com/aspnet/kvm)
+
+##Git Tools
+
+* [LibGit2Sharp](https://github.com/libgit2/libgit2sharp) - LibGit2Sharp brings all the might and speed of libgit2, a native Git implementation, to the managed world of .Net and Mono.
 
 ## Graphics
 
@@ -153,6 +162,10 @@ and developer-friendly build server — out of the box
 
 * [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - Toolkit for creating Metro styled WPF apps
 * [Callisto](https://github.com/timheuer/callisto) - A control toolkit for Windows 8 XAML applications. Contains some UI controls to make it easier to create Windows UI style apps for the Windows Store in accordance with Windows UI guidelines.
+
+##HTTP
+* [RestSharp](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API Client for .NET
+* [EasyHttp](https://github.com/hhariri/EasyHttp) - Http Library for C#
 
 ## IDE
 
@@ -188,6 +201,8 @@ and developer-friendly build server — out of the box
 * [Serilog](https://github.com/serilog/serilog) - A no-nonsense logging library for the NoSQL era. Combines the best of traditional and structured diagnostic logging in an easy-to-use package.
 * [StackExchange.Exceptional](https://github.com/NickCraver/StackExchange.Exceptional) - Error handler used for the Stack Exchange network
 
+##Markdown Processors
+* [MarkdownSharp](https://code.google.com/p/markdownsharp/) - Open source C# implementation of Markdown processor, as featured on Stack Overflow.
 
 ## Mail
 
@@ -201,6 +216,8 @@ and developer-friendly build server — out of the box
 * [LINQPad](http://linqpad.net) - a C#/VB/F# scratchpad that instantly executes any expression, statement block or program with rich output formatting and a wealth of features. Also lets you interactively query databases in LINQ.
 * [.NET Fiddle](https://dotnetfiddle.net/) - Write, compile and run C# code in the browser. The C# equivalent of JSFiddle.
 * [Humanizer](https://github.com/MehdiK/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
+* [ScriptCS](https://github.com/scriptcs/scriptcs) - Write C# apps with a text editor, nuget and the power of Roslyn!
+* [Mono.Cecil](https://github.com/jbevain/cecil) - Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.
 
 ##MVVM
 
@@ -235,6 +252,7 @@ and developer-friendly build server — out of the box
 ## Profiler
 
 * [MiniProfiler](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET websites
+* [Glimpse](https://github.com/glimpse/glimpse) - The open source diagnostics platform for the web
 
 ## Queue
 
@@ -252,6 +270,7 @@ and developer-friendly build server — out of the box
 * [AWS SDK](https://github.com/aws/aws-sdk-net) - The AWS SDK for .NET enables .NET developers to easily work with Amazon Web Services
 * [Azure SDK Tools](https://github.com/Azure/azure-sdk-tools) - A set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications
 * [Octokit.NET](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
+* [DropNet](https://github.com/DropNet/DropNet) - Client Library for the Dropbox API
 
 ## Search
 
