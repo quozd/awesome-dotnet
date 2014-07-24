@@ -36,6 +36,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [IoC](#ioc)
   * [Logging](#logging)
   * [Mail](#mail)
+  * [Markdown Processors](#markdown-processors)
   * [Misc](#misc)
   * [MVVM](#mvvm)
   * [Office](#office)
@@ -193,6 +194,7 @@ and developer-friendly build server — out of the box
 * [Serilog](https://github.com/serilog/serilog) - A no-nonsense logging library for the NoSQL era. Combines the best of traditional and structured diagnostic logging in an easy-to-use package.
 * [StackExchange.Exceptional](https://github.com/NickCraver/StackExchange.Exceptional) - Error handler used for the Stack Exchange network
 
+##Markdown Processors
 
 ## Mail
 
