@@ -195,6 +195,7 @@ and developer-friendly build server — out of the box
 * [StackExchange.Exceptional](https://github.com/NickCraver/StackExchange.Exceptional) - Error handler used for the Stack Exchange network
 
 ##Markdown Processors
+* [MarkdownSharp](https://code.google.com/p/markdownsharp/) - Open source C# implementation of Markdown processor, as featured on Stack Overflow.
 
 ## Mail
 
