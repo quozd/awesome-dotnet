@@ -197,6 +197,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## Logging
 
+* [Essential Diagnostics](http://essentialdiagnostics.codeplex.com/) - Extends the inbuilt features of System.Diagnostics namespace to provide flexible logging
 * [NLog](https://github.com/nlog/NLog/) - NLog - Advanced .NET and Silverlight Logging
 * [ELMAH](https://code.google.com/p/elmah/) - Official ELMAH site
 * [Elmah MVC](https://github.com/alexanderbeletsky/elmah-mvc) - Elmah for MVC
