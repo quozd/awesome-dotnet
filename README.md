@@ -191,6 +191,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Unity](https://unity.codeplex.com/) - Lightweight extensible dependency injection container with support for constructor, property, and method call injection
 * [Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container
 * [Ninject](https://github.com/ninject/ninject) - The ninja of .net dependency injectors
+* [StructureMap](https://structuremap.github.io/) - The original IoC/DI Container for .Net
 
 ## Logging
 
