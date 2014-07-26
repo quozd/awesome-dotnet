@@ -194,6 +194,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container
 * [Ninject](https://github.com/ninject/ninject) - The ninja of .net dependency injectors
 * [StructureMap](https://structuremap.github.io/) - The original IoC/DI Container for .Net
+* [Spring.Net](https://github.com/spring-projects/spring-net) - Spring.NET is an open source application framework that makes building  enterprise .NET applications easier
 
 ## Logging
 
@@ -292,6 +293,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Json.NET](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET
 * [ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text) - JSON, JSV and CSV Text Serializers used in servicestack.net
 * [Msgpack-Cli](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure
+* [Jil](https://github.com/kevin-montrose/Jil) - Fast .NET JSON Serializer, built on Sigil (used by StackOverflow)
 
 ## Style Guide
 
