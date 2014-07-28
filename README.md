@@ -79,6 +79,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Cassette](https://github.com/andrewdavey/cassette) - Manages .NET web application assets (scripts, css and templates)
 * [NodeAssets](https://github.com/ajorkowski/NodeAssets) - Asset Manager for .net that has live css updates using SignalR and can optionally leverage NodeJS compilers
 * [Bundler](https://github.com/ServiceStack/Bundler) - Compile & Minify Less/Sass/Stylus/Css/JS/CoffeeScript/LiveScript files. Integrates with MVC and ServiceStack
+* [SquishIt](https://github.com/jetheredge/SquishIt) - Lets you *easily* bundle some css and javascript
 
 ## Authentication and Authorization
 
