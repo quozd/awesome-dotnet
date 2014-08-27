@@ -87,6 +87,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth) - A C# implementation of the OpenID, OAuth and InfoCard protocols
 * [Thinktecture IdentityModel](https://github.com/thinktecture/Thinktecture.IdentityModel.45) - Helper library for identity & access control in .NET 4.5 and MVC4/Web API.
 * [OAuth](https://github.com/danielcrenna/oauth) - A very lightweight library for generating OAuth 1.0a signatures written in C#
+* [SocialEmailLogin](https://www.nuget.org/packages/SocialEmailLogin) - A library allowing the user to login via social networks such as Facebook, Google, Yahoo, Microsoft Live, LinkedIn and Twitter.
 
 ## Build Automation
 
@@ -250,6 +251,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## ORM
 
 * [Entity Framework](https://entityframework.codeplex.com/) - Object-relational mapper that enables .NET developers to work with relational data using domain-specific objects
+* [CodeFluent Entities)(https://github.com/SoftFluent/CodeFluent-Entities) - CodeFluent Entities is a product integrated into Visual Studio which allows developers to generate database scripts (e.g. T-SQL, PL/SQL, MySQL, Pg/SQL), code (e.g. C#, VB), web services and UI components.
 * [BL Toolkit](https://github.com/igor-tkachev/bltoolkit) - Business Logic Toolkit for .NET
 * [Dapper](https://github.com/StackExchange/dapper-dot-net)
 * [Dapper Extensions](https://github.com/tmsmith/Dapper-Extensions) - Small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs
