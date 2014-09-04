@@ -365,7 +365,6 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## Deployment
 
-* [AppRolla](https://github.com/appveyor/AppRolla) - PowerShell framework for deploying distributed .NET applications to multi-server environments inspired by Capistrano
 * [Unfold](https://github.com/thomasvm/unfold) - Powershell-based deployment solution for .net web applications
 
 # Other Awesome Lists
