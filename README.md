@@ -51,6 +51,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [SDK and API Clients](#sdk-and-api-clients)
   * [Search](#search)
   * [Serialization](#serialization)
+  * [State machines](#state-machines)
   * [Style Guide](#style-guide)
   * [Template Engine](#template-engine)
   * [Testing](#testing)
@@ -307,6 +308,10 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Msgpack-Cli](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure
 * [Jil](https://github.com/kevin-montrose/Jil) - Fast .NET JSON Serializer, built on Sigil (used by StackOverflow)
 * [ProtoBuf](https://github.com/hultqvist/ProtoBuf) - Generate C# code for protocol buffer serialization from a .proto specification.
+
+## State machines
+
+* [Stateless](https://github.com/nblumhardt/stateless) - Create state machines and lightweight state machine-based workflows directly in .NET code
 
 ## Style Guide
 
