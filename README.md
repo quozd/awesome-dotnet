@@ -363,5 +363,10 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 * [TopShelf](https://github.com/Topshelf/Topshelf) - An easy service hosting framework for building Windows services using .NET
 
+## Deployment
+
+* [AppRolla](https://github.com/appveyor/AppRolla) - PowerShell framework for deploying distributed .NET applications to multi-server environments inspired by Capistrano
+* [Unfold](https://github.com/thomasvm/unfold) - Powershell-based deployment solution for .net web applications
+
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
