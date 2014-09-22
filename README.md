@@ -160,6 +160,8 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 * [LibGit2Sharp](https://github.com/libgit2/libgit2sharp) - LibGit2Sharp brings all the might and speed of libgit2, a native Git implementation, to the managed world of .Net and Mono.
 * [posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
+* [GitVersion](https://github.com/Particular/GitVersion) - Generate a Semantic Version Number based on the state of your Git Repository
+* [GitLink](https://github.com/CatenaLogic/GitLink) - let's users step through their code hosted on GitHub or BitBucket
 
 ## Graphics
 
