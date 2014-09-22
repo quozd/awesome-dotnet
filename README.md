@@ -98,6 +98,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## Caching
 
 * [CacheCow](https://github.com/aliostad/CacheCow) - An ASP.NET Web API HTTP caching implementation both on client and server
+* [Akavache](https://github.com/akavache/Acavake) - An asynchronous, persistent key-value store 
 
 ## CLI
 
@@ -148,7 +149,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## E-Commerce and Payments
 
 * [Paypal Merchant SDK](https://github.com/paypal/merchant-sdk-dotnet) - Official Paypal Merchant SDK for .NET
-* [ServiceStack.Stripe](https://github.com/ServiceStack/Stripe) - yped .NET clients for stripe.com REST APIs
+* [ServiceStack.Stripe](https://github.com/ServiceStack/Stripe) - Typed .NET clients for stripe.com REST APIs
 * [Stripe.Net](https://github.com/jaymedavis/stripe.net) - Stripe.net is a full service .net api for http://stripe.com. 
 
 ## Environment Management
@@ -158,6 +159,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ##Git Tools
 
 * [LibGit2Sharp](https://github.com/libgit2/libgit2sharp) - LibGit2Sharp brings all the might and speed of libgit2, a native Git implementation, to the managed world of .Net and Mono.
+* [posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 
 ## Graphics
 
@@ -236,6 +238,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [ScriptCS](https://github.com/scriptcs/scriptcs) - Write C# apps with a text editor, nuget and the power of Roslyn!
 * [CSScript](http://www.csscript.net/) - CS-Script is a CLR based scripting system which usesC# as a programming language. CS-Script currently targets Microsoft implementation of CLR (.NET 2.0/3.0/3.5/4.0/4.5) with full support on Mono. Comes with many additional features, such as script hosting.
 * [Mono.Cecil](https://github.com/jbevain/cecil) - Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.
+* [DotNetZip](http://dotnetzip.codeplex.com) - DotNetZip is the best open-source ZIP library for .NET
 
 ##MVVM
 
@@ -282,6 +285,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [NetMQ](https://github.com/zeromq/netmq) - NetMQ is 100% native C# port of ZeroMQ
 * [MassTransit](https://github.com/MassTransit/MassTransit) - MassTransit is lean service bus implementation for building loosely coupled applications using the .NET Framework.
 * [Rebus] (https://github.com/rebus-org/Rebus) - Rebus is a lean service bus implementation for .NET, similar in nature to NServiceBus and MassTransit, only leaner
+* [EasyNetQ](https://github.com/mikehadlow/EasyNetQ) - An easy to use .NET API for RabbitMQ
 
 ## Scheduling
 
