@@ -98,7 +98,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## Caching
 
 * [CacheCow](https://github.com/aliostad/CacheCow) - An ASP.NET Web API HTTP caching implementation both on client and server
-* [Akavache](https://github.com/akavache/Acavake) - An asynchronous, persistent key-value store 
+* [Akavache](https://github.com/akavache/Akavache) - An asynchronous, persistent key-value store 
 
 ## CLI
 
