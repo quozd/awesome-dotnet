@@ -29,6 +29,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Git Tools](#git-tools)
   * [Graphics](#graphics)
   * [GUI](#gui)
+  * [HTML and CSS](#html-and-css)
   * [HTTP](#http)
   * [IDE](#ide)
   * [Image Processing](#image-processing)
@@ -173,6 +174,12 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Callisto](https://github.com/timheuer/callisto) - A control toolkit for Windows 8 XAML applications. Contains some UI controls to make it easier to create Windows UI style apps for the Windows Store in accordance with Windows UI guidelines.
 * [ObjectListView](http://objectlistview.sourceforge.net/cs/index.html) - ObjectListView is a C# wrapper around a .NET ListView. It makes the ListView much easier to use and teaches it some new tricks
 * [DockPanelSuite](http://dockpanelsuite.com/) - The Visual Studio inspired docking library for .NET WinForms
+
+##HTML and CSS
+
+* [AngleSharp](https://github.com/FlorianRappl/AngleSharp) - Complete HTML5 DOM and CSS3 OM construction
+* [CsQuery](https://github.com/jamietre/CsQuery) - HTML5 parser with jQuery style DOM interaction
+* [ExCSS](https://github.com/TylerBrinks/ExCSS) - CSS3 parser Library for C#
 
 ##HTTP
 
