@@ -26,6 +26,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Documentation](#documentation)
   * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Environment Management](#environment-management)
+  * [Gis](#gis)
   * [Git Tools](#git-tools)
   * [Graphics](#graphics)
   * [GUI](#gui)
@@ -156,6 +157,11 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## Environment Management
 
 * [KVM](https://github.com/aspnet/kvm)
+
+##Gis
+
+ * [NetTopologySuite](https://github.com/NetTopologySuite/NetTopologySuite/)  A .NET GIS solution that is fast and reliable for the .NET platform
+ * [SharpMap](https://sharpmap.codeplex.com/) An easy-to-use mapping library for use in web and desktop applications
 
 ##Git Tools
 
