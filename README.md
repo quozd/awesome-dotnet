@@ -267,6 +267,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## Office
 
 * [ClosedXML](https://closedxml.codeplex.com/) - ClosedXML makes it easier for developers to create Excel 2007/2010 files
+* [NPOI](http://npoi.codeplex.com/) - This project is the .NET version of POI Java project at http://poi.apache.org/. 
 
 ## ORM
 
