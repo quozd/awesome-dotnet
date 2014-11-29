@@ -114,6 +114,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Composite C1](https://compositec1.codeplex.com/) - A web CMS that focus on UX and adaptability
 * [Orchard ](https://orchard.codeplex.com/) - Free, open source, community-focused project aimed at delivering applications and reusable components on the ASP.NET platform
 * [mojoPortal ](https://mojoportal.codeplex.com/) - MojoPortal is an extensible, cross database, mobile friendly, web content management system (CMS) and web application framework written in C# ASP.NET
+* [N2CMS](http://www.n2cms.com/) - Open source, lightweight, code-first CMS able to seamlessly integrate into any MVC project.
 
 ## Code Analysis and Metrics
 
