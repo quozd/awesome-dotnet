@@ -164,7 +164,6 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## ETL
 
-* [Rhino ETL](https://github.com/ayende/rhino-etl) - Developer friendly ETL Library for .NET
 * [Reactive ETL](https://reactiveetl.codeplex.com/) - Reactive ETL is a rewrite of Rhino ETL using the reactive extensions for .NET
 
 ##Gis
