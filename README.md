@@ -175,7 +175,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## Graphics
 
-* [Oxyplot](https://oxyplot.codeplex.com/) - OxyPlot is a cross-platform plotting library for .NET
+* [Oxyplot](https://github.com/oxyplot/) - OxyPlot is a cross-platform plotting library for .NET
 * [OpenTK](http://www.opentk.com/) - The Open Toolkit is an advanced, low-level C# library that wraps OpenGL, OpenCL and OpenAL
 
 ## GUI
