@@ -269,6 +269,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [DotNetZip](http://dotnetzip.codeplex.com) - DotNetZip is the best open-source ZIP library for .NET
 * [SharpZipLib](http://icsharpcode.github.io/SharpZipLib/) - a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform
 * [ILSpy](http://ilspy.net/) - ILSpy is the open-source .NET assembly browser and decompiler
+* [BitSharp](https://github.com/pmlyon/BitSharp) - C# Bitcoin Node
 
 ##MVVM
 
