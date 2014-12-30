@@ -129,6 +129,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## Cryptography
 
 * [HashLib](http://hashlib.codeplex.com/) - HashLib is a collection of nearly all hash algorithms you've ever seen, it supports almost everything and is very easy to use
+* [Bouncy Castle](http://www.bouncycastle.org/csharp/) - Cryptographic C# API (PKCS-12, X.509, PBE algorithms, Signature algorithms, Symmetric key algorithms, Asymmetric key algorithms, Digests, etc)
 
 ## Database
 
