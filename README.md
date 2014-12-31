@@ -26,6 +26,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Documentation](#documentation)
   * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Environment Management](#environment-management)
+  * [ETL](#etl)
   * [Gis](#gis)
   * [Git Tools](#git-tools)
   * [Graphics](#graphics)
@@ -160,6 +161,10 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## Environment Management
 
 * [KVM](https://github.com/aspnet/kvm)
+
+## ETL
+
+* [Reactive ETL](https://reactiveetl.codeplex.com/) - Reactive ETL is a rewrite of Rhino ETL using the reactive extensions for .NET
 
 ##Gis
 
