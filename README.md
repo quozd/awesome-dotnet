@@ -284,6 +284,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [UpdateControls](http://updatecontrols.net/cs/) - Update Controls does not require that you implement INotifyPropertyChanged or declare a DependencyProperty. It connects controls directly to CLR properties. This makes it perfect for the Model/View/ViewModel pattern.
 * [ReactiveUI](https://github.com/reactiveui/reactiveui/) - An MVVM framework for .NET that integrates the Reactive Extensions (Rx) framework, enabling developers to build elegant, testable applications using WPF, Windows Store Apps, WP8 or Xamarin.
 * [Okra App Framework](http://okraframework.github.io) - An app centric MVVM framework for Windows 8.1 built with dependency injection in mind, including a full set of Visual Studio MVVM templates.
+* [WPF Application Framework (WAF)](http://waf.codeplex.com) - A lightweight Framework that helps you to create well structured WPF Applications. It supports you in applying a Layered Architecture and the Model-View-ViewModel pattern.
 
 ## Office
 
