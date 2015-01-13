@@ -40,6 +40,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [IoC](#ioc)
   * [Logging](#logging)
   * [Mail](#mail)
+  * [Machine Learning](#machine-learning)
   * [Markdown Processors](#markdown-processors)
   * [Mathematics](#mathematics)
   * [Metrics](#metrics)
@@ -245,7 +246,11 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [StackExchange.Exceptional](https://github.com/NickCraver/StackExchange.Exceptional) - Error handler used for the Stack Exchange network
 * [Semantic Logging Application Block (SLAB)](http://slab.codeplex.com/) - Extends the inbuilt features of System.Diagnostics.Tracing namespace (EventSource class) to log to several sinks including Azure Tables, Databases, files (JSON, XML, text). Supports in-process and out-of-process logging through ETW, and Rx for real-time filtering/aggregating of events.
 
-##Markdown Processors
+## Machine Learning
+* [Accord.NET](http://accord-framework.net/) - Machine learning framework combined with audio and image processing libraries (computer vision, computer audition, signal processing and statistics).
+* [AForge.NET](http://www.aforgenet.com/) - Framework for developers and researchers in the fields of Computer Vision and Artificial Intelligence (image processing, neural networks, genetic algorithms, machine learning, robotics).
+
+## Markdown Processors
 * [MarkdownSharp](https://code.google.com/p/markdownsharp/) - Open source C# implementation of Markdown processor, as featured on Stack Overflow.
 
 ## Mail
