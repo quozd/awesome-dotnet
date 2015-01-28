@@ -23,6 +23,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Database](#database)
   * [Database Drivers](#database-drivers)
   * [DirectX](#directx)
+  * [Distributed Computing](#distributed-computing)
   * [Documentation](#documentation)
   * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Environment Management](#environment-management)
@@ -147,6 +148,10 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## DirectX
 
 * [SlimDX](http://www.slimdx.org) - DirectX framework wrapper for .NET applications
+
+## Distributed Computing
+
+* [Project Orleans](https://github.com/dotnet/orleans) - Orleans is a framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns. It was created by Microsoft Research.
 
 ## Documentation
 
