@@ -82,6 +82,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## Application Frameworks
 
 * [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - A starting point for new modern ASP.NET MVC web applications with best practices and most popular tools.
+* [Griffin.Framework](https://github.com/jgauffin/griffin.framework) - Griffin.Framework is an business application library that allows you to build applications more quickly. You can for instance use the command/query separation implementation to build micro services.
 
 ## Assets
 
