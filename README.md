@@ -84,8 +84,8 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## Application Frameworks
 
 * [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - A starting point for new modern ASP.NET MVC web applications with best practices and most popular tools.
-* [orleans](https://github.com/dotnet/orleans) - Orleans is a framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns
-* [corefx](https://github.com/dotnet/corefx) -  The corefx repo contains the library implementation (called "CoreFX") for .NET Core. It includes System.Collections, System.IO, System.Xml and many other components. It builds and runs on Windows. You can 'watch' the repo to see Linux and Mac support being added over the next few months.
+* [Orleans](https://github.com/dotnet/orleans) - Orleans is a framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns
+* [CoreFX](https://github.com/dotnet/corefx) -  The corefx repo contains the library implementation (called "CoreFX") for .NET Core. It includes System.Collections, System.IO, System.Xml and many other components. It builds and runs on Windows. You can 'watch' the repo to see Linux and Mac support being added over the next few months.
 
 ## Assets
 
@@ -119,7 +119,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## CLR
 
-* [coreclr](https://github.com/dotnet/coreclr) - The coreclr repo contains the complete runtime implementation (called "CoreCLR") for .NET Core. It includes RyuJIT, the .NET GC, native interop and many other components. It builds and runs on Windows. You can 'watch' the repo to see Linux and Mac support being added over the next few months.
+* [CoreCLR](https://github.com/dotnet/coreclr) - The coreclr repo contains the complete runtime implementation (called "CoreCLR") for .NET Core. It includes RyuJIT, the .NET GC, native interop and many other components. It builds and runs on Windows. You can 'watch' the repo to see Linux and Mac support being added over the next few months.
 
 ## CMS
 
@@ -137,10 +137,10 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## Compiler
 
-* [roslyn](https://github.com/dotnet/roslyn) - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs. It enables building code analysis tools with the same APIs that are used by Visual Studio.
-* [visualfsharp](https://github.com/Microsoft/visualfsharp) - The Visual F# compiler and tools
+* [Roslyn](https://github.com/dotnet/roslyn) - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs. It enables building code analysis tools with the same APIs that are used by Visual Studio.
+* [VisualFSharp](https://github.com/Microsoft/visualfsharp) - The Visual F# compiler and tools
 
-##Continuous Integration
+## Continuous Integration
 * [TeamCity](http://www.jetbrains.com/teamcity/) - Ready to work, extensible and developer-friendly build server — out of the box
 * [CruiseControl.NET](http://www.cruisecontrolnet.org/) - an Automated Continuous Integration server, implemented using the .NET Framework
 
@@ -321,7 +321,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## ORM
 
-* [Entity Framework](https://entityframework.codeplex.com/) - Object-relational mapper that enables .NET developers to work with relational data using domain-specific objects
+* [Entity Framework](https://github.com/aspnet/EntityFramework) - Object-relational mapper that enables .NET developers to work with relational data using domain-specific objects
 * [BL Toolkit](https://github.com/igor-tkachev/bltoolkit) - Business Logic Toolkit for .NET
 * [Dapper](https://github.com/StackExchange/dapper-dot-net)
 * [Dapper Extensions](https://github.com/tmsmith/Dapper-Extensions) - Small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs
@@ -329,7 +329,6 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [FluentMigrator](https://github.com/schambers/fluentmigrator) - Fluent Migrations framework for .net
 * [ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) - Light, simple and fast convention-based POCO ORM
 * [Massive](https://github.com/robconery/massive) - A small, happy, data access tool that will love you forever.
-* [Entity Framework 7](https://github.com/aspnet/EntityFramework) - Entity Framework 7 (EF7) provides a familiar developer experience to previous versions of EF, including LINQ, POCO, and Code First support. EF7 also enables access to data across relational and non-relational stores.
 
 ## Package Management
 
