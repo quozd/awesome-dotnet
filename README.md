@@ -65,7 +65,6 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [SDK and API Clients](#sdk-and-api-clients)
   * [Search](#search)
   * [Serialization](#serialization)
-  * [Server](#server)
   * [State machines](#state-machines)
   * [Style Guide](#style-guide)
   * [Template Engine](#template-engine)
@@ -151,6 +150,8 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## Compression
 
 * [SharpCompress](https://github.com/adamhathcock/sharpcompress) - SharpCompress is a compression library for .NET/Mono/Silverlight/WP7 that can unrar, un7zip, unzip, untar unbzip2 and ungzip with forward-only reading and file random access APIs. Write support for zip/tar/bzip2/gzip are implemented
+* [DotNetZip](http://dotnetzip.codeplex.com) - DotNetZip is the best open-source ZIP library for .NET
+* [SharpZipLib](http://icsharpcode.github.io/SharpZipLib/) - a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform
 
 ## Continuous Integration
 * [TeamCity](http://www.jetbrains.com/teamcity/) - Ready to work, extensible and developer-friendly build server — out of the box
@@ -328,8 +329,6 @@ metadata in media files, including video, audio, and photo formats
 * [ScriptCS](https://github.com/scriptcs/scriptcs) - Write C# apps with a text editor, nuget and the power of Roslyn!
 * [CSScript](http://www.csscript.net/) - CS-Script is a CLR based scripting system which usesC# as a programming language. CS-Script currently targets Microsoft implementation of CLR (.NET 2.0/3.0/3.5/4.0/4.5) with full support on Mono. Comes with many additional features, such as script hosting.
 * [Mono.Cecil](https://github.com/jbevain/cecil) - Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.
-* [DotNetZip](http://dotnetzip.codeplex.com) - DotNetZip is the best open-source ZIP library for .NET
-* [SharpZipLib](http://icsharpcode.github.io/SharpZipLib/) - a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform
 * [ILSpy](http://ilspy.net/) - ILSpy is the open-source .NET assembly browser and decompiler
 * [BitSharp](https://github.com/pmlyon/BitSharp) - C# Bitcoin Node
 
@@ -412,10 +411,6 @@ metadata in media files, including video, audio, and photo formats
 * [Jil](https://github.com/kevin-montrose/Jil) - Fast .NET JSON Serializer, built on Sigil (used by StackOverflow)
 * [ProtoBuf](https://github.com/hultqvist/ProtoBuf) - Generate C# code for protocol buffer serialization from a .proto specification.
 
-## Server
-
-* [XSP](https://github.com/mono/xsp) - Mono's ASP.NET hosting server. This module includes an Apache Module, a FastCGI module that can be hooked to other web servers as well as a standalone server used for testing (similar to Microsoft's Cassini)
-
 ## State machines
 
 * [Stateless](https://github.com/nblumhardt/stateless) - Create state machines and lightweight state machine-based workflows directly in .NET code
@@ -460,6 +455,7 @@ metadata in media files, including video, audio, and photo formats
 ## Web Servers
 
 * [EmbedIO](https://github.com/unosquare/embedio) - Web server built on Mono and cross-platform
+* [XSP](https://github.com/mono/xsp) - Mono's ASP.NET hosting server. This module includes an Apache Module, a FastCGI module that can be hooked to other web servers as well as a standalone server used for testing (similar to Microsoft's Cassini)
 
 ## WebSocket
 
