@@ -151,6 +151,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## Database
 
 * [BrightstarDb](https://github.com/BrightstarDB/BrightstarDB) - BrightstarDB is a native .NET RDF triple store
+* [RavenDB](https://github.com/ravendb/ravendb) - A linq enabled document database for .NET
 
 ## Database Drivers
 
