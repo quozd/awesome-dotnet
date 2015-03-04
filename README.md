@@ -157,9 +157,11 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 * [MySQL Connector](https://dev.mysql.com/downloads/connector/net/) - Connector/Net is a fully-managed ADO.NET driver for MySQL
 * [Npgsql](https://github.com/npgsql/Npgsql) - .Net data provider for Postgresql
-* [Mongo csharp driver](https://github.com/mongodb/mongo-csharp-driver)
+* [MongoDB](https://github.com/mongodb/mongo-csharp-driver) - Official MongoDB C# Driver
 * [ServiceStack Redis](https://github.com/ServiceStack/ServiceStack.Redis) - .NET's leading C# Redis Client
 * [StackExchange Redis](https://github.com/StackExchange/StackExchange.Redis) - General purpose redis client from StackExchange
+* [Cassandra](https://github.com/datastax/csharp-driver) - DataStax .NET Driver for Apache Cassandra
+* [Couchbase](https://github.com/couchbase/couchbase-net-client) - Official couchbase .NET client library, based on the Enyim memcached client
 
 ## DirectX
 
