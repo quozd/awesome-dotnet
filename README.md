@@ -15,7 +15,6 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Application Frameworks](#application-frameworks)
   * [Assets](#assets)
   * [Authentication and Authorization](#authentication-and-authorization)
-  * [Build]
   * [Build Automation](#build-automation)
   * [Caching](#caching)
   * [CLI](#cli)
@@ -108,15 +107,12 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Thinktecture IdentityModel](https://github.com/thinktecture/Thinktecture.IdentityModel.45) - Helper library for identity & access control in .NET 4.5 and MVC4/Web API.
 * [OAuth](https://github.com/danielcrenna/oauth) - A very lightweight library for generating OAuth 1.0a signatures written in C#
 
-## Build
-
-* [MSBuild](https://github.com/Microsoft/msbuild) - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio
-
 ## Build Automation
 
 * [Psake](https://github.com/psake/psake) - .NET-based build automation tool written in PowerShell
 * [FAKE](https://github.com/fsharp/FAKE) - F# Make, a cross platform build automation system
 * [Invoke-Build](https://github.com/nightroman/Invoke-Build) - PowerShell build and test automation tool inspired by Psake.
+* [MSBuild](https://github.com/Microsoft/msbuild) - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio
 
 ## Caching
 
