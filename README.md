@@ -27,6 +27,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Cryptography](#cryptography)
   * [Database](#database)
   * [Database Drivers](#database-drivers)
+  * [Deployment](#deployment)
   * [DirectX](#directx)
   * [Distributed Computing](#distributed-computing)
   * [Documentation](#documentation)
@@ -177,6 +178,10 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Cassandra](https://github.com/datastax/csharp-driver) - DataStax .NET Driver for Apache Cassandra
 * [Couchbase](https://github.com/couchbase/couchbase-net-client) - Official couchbase .NET client library, based on the Enyim memcached client
 
+## Deployment
+
+* [Unfold](https://github.com/thomasvm/unfold) - Powershell-based deployment solution for .net web applications
+
 ## DirectX
 
 * [SlimDX](http://www.slimdx.org) - DirectX framework wrapper for .NET applications
@@ -184,6 +189,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## Distributed Computing
 
 * [Project Orleans](https://github.com/dotnet/orleans) - Orleans is a framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns. It was created by Microsoft Research.
+* [Akka.net](https://github.com/akkadotnet/akka.net) - Akka.NET is a port of the popular Java/Scala framework Akka to .NET. This is a community driven port and is not affiliated with Typesafe who makes the original Java/Scala version.
 
 ## Documentation
 
@@ -473,10 +479,6 @@ metadata in media files, including video, audio, and photo formats
 ## Windows Services
 
 * [TopShelf](https://github.com/Topshelf/Topshelf) - An easy service hosting framework for building Windows services using .NET
-
-## Deployment
-
-* [Unfold](https://github.com/thomasvm/unfold) - Powershell-based deployment solution for .net web applications
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
