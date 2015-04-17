@@ -62,6 +62,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [PDF](#pdf)
   * [Profiler](#profiler)
   * [Queue](#queue)
+  * [Reflection](#reflection)
   * [Scheduling](#scheduling)
   * [SDK and API Clients](#sdk-and-api-clients)
   * [Search](#search)
@@ -394,6 +395,10 @@ metadata in media files, including video, audio, and photo formats
 * [MassTransit](https://github.com/MassTransit/MassTransit) - MassTransit is lean service bus implementation for building loosely coupled applications using the .NET Framework.
 * [Rebus] (https://github.com/rebus-org/Rebus) - Rebus is a lean service bus implementation for .NET, similar in nature to NServiceBus and MassTransit, only leaner
 * [EasyNetQ](https://github.com/mikehadlow/EasyNetQ) - An easy to use .NET API for RabbitMQ
+
+## Reflection
+
+* [Fody](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies
 
 ## Scheduling
 
