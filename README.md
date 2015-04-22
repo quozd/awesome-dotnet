@@ -13,6 +13,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Awesome DotNet](#awesome-dotnet)
   * [API](#api)
   * [Application Frameworks](#application-frameworks)
+  * [Assembly Manipulation](#assembly-manipulation)
   * [Assets](#assets)
   * [Authentication and Authorization](#authentication-and-authorization)
   * [Build Automation](#build-automation)
@@ -62,7 +63,6 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [PDF](#pdf)
   * [Profiler](#profiler)
   * [Queue](#queue)
-  * [Reflection](#reflection)
   * [Scheduling](#scheduling)
   * [SDK and API Clients](#sdk-and-api-clients)
   * [Search](#search)
@@ -94,6 +94,11 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [CoreFX](https://github.com/dotnet/corefx) -  The corefx repo contains the library implementation (called "CoreFX") for .NET Core. It includes System.Collections, System.IO, System.Xml and many other components. It builds and runs on Windows. You can 'watch' the repo to see Linux and Mac support being added over the next few months.
 * [Mono](https://github.com/mono/mono) - Mono open source ECMA CLI, C# and .NET implementation
 * [Mono-Addins](https://github.com/mono/mono-addins) - Mono.Addins is a generic framework for creating extensible applications, and for creating add-ins which extend those applications
+
+## Assembly Manipulation
+
+* [Fody](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies
+* [Mono.Cecil](https://github.com/jbevain/cecil) - Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.
 
 ## Assets
 
@@ -394,11 +399,6 @@ metadata in media files, including video, audio, and photo formats
 * [MassTransit](https://github.com/MassTransit/MassTransit) - MassTransit is lean service bus implementation for building loosely coupled applications using the .NET Framework.
 * [Rebus] (https://github.com/rebus-org/Rebus) - Rebus is a lean service bus implementation for .NET, similar in nature to NServiceBus and MassTransit, only leaner
 * [EasyNetQ](https://github.com/mikehadlow/EasyNetQ) - An easy to use .NET API for RabbitMQ
-
-## Reflection
-
-* [Fody](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies
-* [Mono.Cecil](https://github.com/jbevain/cecil) - Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.
 
 ## Scheduling
 
