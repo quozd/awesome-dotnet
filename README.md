@@ -155,7 +155,6 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## Compiler
 
 * [F#](https://github.com/fsharp/fsharp/) -  The F# compiler, core library and tools - a functional programming language for safer, faster, better code writing.
-* [F*](https://github.com/nikswamy/FStar) - A dependently- and session-typed extension of the F# compiler that lets you prove your programs to great accuracy.
 * [Roslyn](https://github.com/dotnet/roslyn) - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs. It enables building code analysis tools with the same APIs that are used by Visual Studio.
 * [VisualFSharp](https://github.com/Microsoft/visualfsharp) - The Visual F# compiler and tools
 * [Mono-basic](https://github.com/mono/mono-basic) - Visual Basic Compiler and Runtime
