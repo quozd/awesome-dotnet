@@ -82,6 +82,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## API
 
 * Frameworks
+  * [Suave.IO](http://suave.io/) - Framework/library/web server that makes you cry tears of joy after finishing your project ahead-of-time when you look at the beautiful code you've written in F#.
   * [ASP.NET WebAPI](http://www.asp.net/web-api/) - Framework that makes it easy to build HTTP services that reach a broad range of clients, including browsers and mobile devices
   * [ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
 
@@ -110,6 +111,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## Authentication and Authorization
 
+* [Logibit Hawk](https://github.com/logibit/logibit.hawk/) - A F# [Hawk](https://github.com/hueniverse/hawk#usage-example) authentication library
 * [ASP.NET Identity](https://aspnetidentity.codeplex.com/) - New membership system for ASP.NET applications
 * [DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth) - A C# implementation of the OpenID, OAuth and InfoCard protocols
 * [Thinktecture IdentityModel](https://github.com/thinktecture/Thinktecture.IdentityModel.45) - Helper library for identity & access control in .NET 4.5 and MVC4/Web API.
@@ -117,6 +119,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## Build Automation
 
+* [Albacore](https://github.com/Albacore/albacore/) - Use Ruby to build your .Net and mono apps, cross-platform. Has task types for all common tasks.
 * [Psake](https://github.com/psake/psake) - .NET-based build automation tool written in PowerShell
 * [FAKE](https://github.com/fsharp/FAKE) - F# Make, a cross platform build automation system
 * [Invoke-Build](https://github.com/nightroman/Invoke-Build) - PowerShell build and test automation tool inspired by Psake.
@@ -153,6 +156,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## Compiler
 
+* [F#](https://github.com/fsharp/fsharp/) -  The F# compiler, core library and tools - a functional programming language for safer, faster, better code writing.
 * [Roslyn](https://github.com/dotnet/roslyn) - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs. It enables building code analysis tools with the same APIs that are used by Visual Studio.
 * [VisualFSharp](https://github.com/Microsoft/visualfsharp) - The Visual F# compiler and tools
 * [Mono-basic](https://github.com/mono/mono-basic) - Visual Basic Compiler and Runtime
@@ -160,7 +164,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## Compression
 
 * [SharpCompress](https://github.com/adamhathcock/sharpcompress) - SharpCompress is a compression library for .NET/Mono/Silverlight/WP7 that can unrar, un7zip, unzip, untar unbzip2 and ungzip with forward-only reading and file random access APIs. Write support for zip/tar/bzip2/gzip are implemented
-* [DotNetZip](http://dotnetzip.codeplex.com) - DotNetZip is the best open-source ZIP library for .NET
+* [DotNetZip](https://github.com/haf/DotNetZip.Semverd/) - DotNetZip is an open-source ZIP library for .NET
 * [SharpZipLib](http://icsharpcode.github.io/SharpZipLib/) - a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform
 
 ## Continuous Integration
@@ -169,6 +173,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## Cryptography
 
+* [BouncyCastle](https://bouncycastle.org/) - Together with the .Net System.Security.Cryptography, the reference implementation for cryptographic algorithms on the CLR.
 * [HashLib](http://hashlib.codeplex.com/) - HashLib is a collection of nearly all hash algorithms you've ever seen, it supports almost everything and is very easy to use
 
 ## Database
@@ -261,6 +266,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## HTTP
 
+* [Http.fs](https://github.com/relentless/Http.fs) - A functional HTTP client
 * [RestSharp](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API Client for .NET
 * [EasyHttp](https://github.com/hhariri/EasyHttp) - Http Library for C#
 
@@ -303,6 +309,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## Logging
 
+* [Logary](http://logary.github.io/) - Logary is a high performance, multi-target logging, metric, tracing and health-check library for mono and .Net. .Net's answer to DropWizard. Supports many targets, built for micro-services.
 * [Essential Diagnostics](http://essentialdiagnostics.codeplex.com/) - Extends the inbuilt features of System.Diagnostics namespace to provide flexible logging
 * [NLog](https://github.com/nlog/NLog/) - NLog - Advanced .NET and Silverlight Logging
 * [ELMAH](https://code.google.com/p/elmah/) - Official ELMAH site
@@ -313,11 +320,13 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Semantic Logging Application Block (SLAB)](http://slab.codeplex.com/) - Extends the inbuilt features of System.Diagnostics.Tracing namespace (EventSource class) to log to several sinks including Azure Tables, Databases, files (JSON, XML, text). Supports in-process and out-of-process logging through ETW, and Rx for real-time filtering/aggregating of events.
 
 ## Machine Learning
+
 * [Accord.NET](http://accord-framework.net/) - Machine learning framework combined with audio and image processing libraries (computer vision, computer audition, signal processing and statistics).
 * [Accord.NET Extensions](https://github.com/dajuric/accord-net-extensions) - Advanced image processing and computer vision algorithms made as fluent extensions.
 * [AForge.NET](http://www.aforgenet.com/) - Framework for developers and researchers in the fields of Computer Vision and Artificial Intelligence (image processing, neural networks, genetic algorithms, machine learning, robotics).
 
 ## Markdown Processors
+
 * [MarkdownSharp](https://code.google.com/p/markdownsharp/) - Open source C# implementation of Markdown processor, as featured on Stack Overflow.
 
 ## Mail
@@ -337,6 +346,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## Metrics
 
+* [Logary](http://logary.github.io/) - Logary is a high performance, multi-target logging, metric, tracing and health-check library for mono and .Net. .Net's answer to DropWizard. Supports many targets, built for micro-services.
 * [C# StatsD Client](https://github.com/goncalopereira/statsd-csharp-client) - C# client for Etsy's StatsD
 
 ## Misc
@@ -381,7 +391,6 @@ metadata in media files, including video, audio, and photo formats
 ## Package Management
 
 * [NuGet](https://www.nuget.org/) - THE .NET Package Manager
-* [OpenWrap](https://github.com/openrasta/openwrap) - OpenWrap Package Manager
 
 ## PDF
 
@@ -422,6 +431,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## Serialization
 
+* [Chiron](https://github.com/xyncro/chiron) - Statically typed JSON serialisation for F#
 * [Protobuf.NET](https://code.google.com/p/protobuf-net/) - Protocol buffers is the name of the binary serialization format used by Google for much of their data communications
 * [Json.NET](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET
 * [ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text) - JSON, JSV and CSV Text Serializers used in servicestack.net
@@ -441,10 +451,12 @@ metadata in media files, including video, audio, and photo formats
 
 ## Template Engine
 
+* [DotLiquid](https://github.com/dotliquid/dotliquid) - A templating engine that implements the Liquid templating language - which itself was designed for being secure by not having non-terminating loops or access outside its sandbox. Great for e-mail templating or for letting your users template themselves.
 * [RazorEngine](https://github.com/Antaris/RazorEngine) - Open source templating engine based on Microsoft's Razor parsing engine
 
 ## Testing
 
+* [Fuchu](https://github.com/mausch/Fuchu) - A unit-testing library for F# with tests-as-values which makes DSLs extemely easy to create.
 * [NUnit](https://github.com/nunit/nunit-framework)
 * [xUnit](https://github.com/xunit/xunit) - xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework
 * [SpecFlow](https://github.com/techtalk/SpecFlow/) - Binding business requirements to .Net code
@@ -472,11 +484,13 @@ metadata in media files, including video, audio, and photo formats
 
 ## Web Servers
 
+* [Suave](http://suave.io/) - A stand-alone, asynchronous, cross-platform web server for F# that weighs in at only a few MiB and has extreme performance. Can also host ASP.Net on linux and has samples for deploying to docker, deis, heroku and Linux.
 * [EmbedIO](https://github.com/unosquare/embedio) - Web server built on Mono and cross-platform
 * [XSP](https://github.com/mono/xsp) - Mono's ASP.NET hosting server. This module includes an Apache Module, a FastCGI module that can be hooked to other web servers as well as a standalone server used for testing (similar to Microsoft's Cassini)
 
 ## WebSocket
 
+* [Suave](http://suave.io/) - Implements server-sent events which is push-only web sockets.
 * [SignalR](https://github.com/SignalR/SignalR) - Library for ASP.NET developers that makes it incredibly simple to add real-time web functionality to your applications
 * [Fleck](https://github.com/statianzo/Fleck) - Fleck is a WebSocket server implementation in C#. Branched from the Nugget project
 * [Websocket-Sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
