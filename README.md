@@ -72,6 +72,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Template Engine](#template-engine)
   * [Testing](#testing)
   * [Visual Studio Plugins](#visual-studio-plugins)
+  * [Virtual Reality](#virtual-reality)
   * [Web Frameworks](#web-frameworks)
   * [Web Servers](#web-servers)
   * [WebSocket](#websocket)
@@ -463,6 +464,10 @@ metadata in media files, including video, audio, and photo formats
 * [SideWaffle](https://github.com/ligershark/side-waffle) - A collection of Item Templates for Visual Studio 2012/2013 that makes any web developer's life much easier
 * [Resharper](http://www.jetbrains.com/resharper/) - Developer Productivity Tool for Visual Studio *(Commercial)*
 * [CodeContracts](https://github.com/Microsoft/CodeContracts) - Source code for the CodeContracts tools for .NET
+
+## Virtual Reality
+
+* [OpenVR](https://github.com/ValveSoftware/openvr) - OpenVR is an API and runtime that allows access to VR hardware from multiple vendors without requiring that applications have specific knowledge of the hardware they are targeting
 
 ## Web Frameworks
 
