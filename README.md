@@ -356,6 +356,7 @@ metadata in media files, including video, audio, and photo formats
 * [CSScript](http://www.csscript.net/) - CS-Script is a CLR based scripting system which usesC# as a programming language. CS-Script currently targets Microsoft implementation of CLR (.NET 2.0/3.0/3.5/4.0/4.5) with full support on Mono. Comes with many additional features, such as script hosting.
 * [ILSpy](http://ilspy.net/) - ILSpy is the open-source .NET assembly browser and decompiler
 * [BitSharp](https://github.com/pmlyon/BitSharp) - C# Bitcoin Node
+* [Spartacus](https://github.com/wind39/spartacus) - Spartacus is a multi-purpose library written in C#, focused on: 1) Fast, easy to use and generic database connection; 2) Render reports from a unique XML markup to PDF, using own database objects; 3) Really fast import and export spreadsheets (CSV and XLSX), with no need of Excel or any other piece of software; 4) A lot of other cool stuff. Works on .NET and Mono
 
 ## MVVM
 
