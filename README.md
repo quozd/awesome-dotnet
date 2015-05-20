@@ -346,7 +346,7 @@ metadata in media files, including video, audio, and photo formats
 * [C# StatsD Client](https://github.com/goncalopereira/statsd-csharp-client) - C# client for Etsy's StatsD
 
 ## Misc
-
+* [Polly](https://github.com/michael-wolfenden/Polly) - Express transient exception handling policies such as Retry, Retry Forever, Wait andRetry or Circuit Breaker in a fluent manner. (.NET 3.5 / 4.0 / 4.5 / PCL / Xamarin) 
 * [AzureCrawler](https://github.com/yagopv/AzureCrawler) - Take HTML Snapshots for your Angular, Ember, Durandal or any JavaScript applications
 * [LINQPad](http://linqpad.net) - a C#/VB/F# scratchpad that instantly executes any expression, statement block or program with rich output formatting and a wealth of features. Also lets you interactively query databases in LINQ.
 * [.NET Fiddle](https://dotnetfiddle.net/) - Write, compile and run C# code in the browser. The C# equivalent of JSFiddle.
