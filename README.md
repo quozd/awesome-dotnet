@@ -162,7 +162,6 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [SharpCompress](https://github.com/adamhathcock/sharpcompress) - SharpCompress is a compression library for .NET/Mono/Silverlight/WP7 that can unrar, un7zip, unzip, untar unbzip2 and ungzip with forward-only reading and file random access APIs. Write support for zip/tar/bzip2/gzip are implemented
 * [DotNetZip.Semverd](https://github.com/haf/DotNetZip.Semverd) - An open-source project that delivers a .NET library for handling ZIP files, and some associated tools. (fork of [**Unmaintained** DotNetZip](http://dotnetzip.codeplex.com))
 * [SharpZipLib](http://icsharpcode.github.io/SharpZipLib/) - a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform
-* [ZipStorer](http://zipstorer.codeplex.com/) - Small C# class to store and extract uncompressed and deflated files in new or existing Zip files, without any external library. Works with .NET and Mono
 
 ## Continuous Integration
 * [TeamCity](http://www.jetbrains.com/teamcity/) - Ready to work, extensible and developer-friendly build server — out of the box
@@ -186,7 +185,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [StackExchange Redis](https://github.com/StackExchange/StackExchange.Redis) - General purpose redis client from StackExchange
 * [Cassandra](https://github.com/datastax/csharp-driver) - DataStax .NET Driver for Apache Cassandra
 * [Couchbase](https://github.com/couchbase/couchbase-net-client) - Official couchbase .NET client library, based on the Enyim memcached client
-* [Firebird.NET](http://www.firebirdsql.org/en/net-provider/) - The .NET Data provider is written in C# and provides a high-performance, native implementation of the Firebird API
+* [Firebird.NET](http://sourceforge.net/projects/firebird/) - The .NET Data provider is written in C# and provides a high-performance, native implementation of the Firebird API
 
 ## Deployment
 
@@ -200,7 +199,6 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 * [Project Orleans](https://github.com/dotnet/orleans) - Orleans is a framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns. It was created by Microsoft Research.
 * [Akka.net](https://github.com/akkadotnet/akka.net) - Akka.NET is a port of the popular Java/Scala framework Akka to .NET. This is a community driven port and is not affiliated with Typesafe who makes the original Java/Scala version.
-* [Ovule.Nomad](https://github.com/tony-dinucci/Ovule.Nomad) - Nomad is an cross-platform easy to use .Net distributed execution framework which also supports distributed memory. Runs on .NET and Mono
 
 ## Documentation
 
@@ -359,7 +357,6 @@ metadata in media files, including video, audio, and photo formats
 * [CSScript](http://www.csscript.net/) - CS-Script is a CLR based scripting system which usesC# as a programming language. CS-Script currently targets Microsoft implementation of CLR (.NET 2.0/3.0/3.5/4.0/4.5) with full support on Mono. Comes with many additional features, such as script hosting.
 * [ILSpy](http://ilspy.net/) - ILSpy is the open-source .NET assembly browser and decompiler
 * [BitSharp](https://github.com/pmlyon/BitSharp) - C# Bitcoin Node
-* [Spartacus](https://github.com/wind39/spartacus) - Spartacus is a multi-purpose library written in C#, focused on: 1) Fast, easy to use and generic database connection; 2) Render reports from a unique XML markup to PDF, using own database objects; 3) Really fast import and export spreadsheets (CSV and XLSX), with no need of Excel or any other piece of software; 4) A lot of other cool stuff. Works on .NET and Mono
 
 ## MVVM
 
@@ -397,7 +394,6 @@ metadata in media files, including video, audio, and photo formats
 ## PDF
 
 * [ITextSharp](https://github.com/itext/itextsharp) - iText is a PDF library that allows you to CREATE, ADAPT, INSPECT and MAINTAIN documents in the Portable Document Format (PDF)
-* [PDFjet.NET](http://pdfjet.com/net/index.html) - PDFjet for .NET is a royalty-free PDF library that allows you to create documents in the Portable Document Format (PDF). It works on .NET and Mono
 
 ## Profiler
 
