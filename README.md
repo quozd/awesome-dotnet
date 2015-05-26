@@ -60,6 +60,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Office](#office)
   * [ORM](#orm)
   * [Package Management](#package-management)
+  * [Peer-to-Peer (P2P)](#peer-to-peer-p2p)
   * [PDF](#pdf)
   * [Profiler](#profiler)
   * [Queue](#queue)
@@ -388,6 +389,9 @@ metadata in media files, including video, audio, and photo formats
 
 * [NuGet](https://www.nuget.org/) - THE .NET Package Manager
 * [OpenWrap](https://github.com/openrasta/openwrap) - OpenWrap Package Manager
+
+## Peer-to-Peer (P2P)
+* [TomP2P.NET](https://github.com/tomp2p/TomP2P.NET) A P2P-based high performance key-value pair storage library for .NET
 
 ## PDF
 
