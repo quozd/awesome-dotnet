@@ -166,6 +166,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## Continuous Integration
 * [TeamCity](http://www.jetbrains.com/teamcity/) - Ready to work, extensible and developer-friendly build server — out of the box
 * [CruiseControl.NET](http://www.cruisecontrolnet.org/) - an Automated Continuous Integration server, implemented using the .NET Framework
+* [MyGet](http://www.myget.org/) - Continuous Integration and Deployment, Hosted Package Repository for NuGet, NPM, Bower and VSIX (Free for OSS).
 
 ## Cryptography
 
@@ -388,6 +389,7 @@ metadata in media files, including video, audio, and photo formats
 
 * [NuGet](https://www.nuget.org/) - THE .NET Package Manager
 * [OpenWrap](https://github.com/openrasta/openwrap) - OpenWrap Package Manager
+* [MyGet](http://www.myget.org/) - Hosted Package Repository for NuGet, NPM, Bower and VSIX. Also provides CI as-a-Service.
 
 ## PDF
 
