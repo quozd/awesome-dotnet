@@ -5,6 +5,10 @@
 * Keep descriptions concise, clear and simple
 * New categories, or improvements to the existing ones are also welcome
 
+## Pull requests workflow
+
+Please, submit one pull requests with one link per PR. If you want to add several links, you should create PR for each links, unless all of the proposed projects are belong to the same category.
+
 ## Quality standard
 
 To stay on the list, projects should follow these quality standards:
@@ -14,5 +18,15 @@ To stay on the list, projects should follow these quality standards:
 * Stable
 * Documented
 * Tests
+
+## Proprietary/commercial software notice
+
+We have additional requirements for proproetary and commercial projects:
+
+* Publicly availabe community forum or other place for discussions and support
+* At least 1 year on the market
+* Free trial or preview
+* You should add `[$]` tag to the end of the description block
+* If project has free for OSS version, please add `[Free for OSS]` tag to the end of the description
 
 Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/contributors), you're awesome and wouldn't be possible without you!
