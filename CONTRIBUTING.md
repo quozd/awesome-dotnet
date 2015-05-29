@@ -26,7 +26,7 @@ We have additional requirements for proproetary and commercial projects:
 * Publicly availabe community forum or other place for discussions and support
 * At least 1 year on the market
 * Free trial or preview
-* You should add `[$]` tag to the end of the description block
-* If project has free for OSS version, please add `[Free for OSS]` tag to the end of the description
+* You should add `**[$]**` tag to the end of the description block (in bold)
+* If project has free for OSS version, please add `**[Free for OSS]**` tag to the end of the description (in bold)
 
 Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/contributors), you're awesome and wouldn't be possible without you!
