@@ -50,7 +50,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [IoC](#ioc)
   * [Logging](#logging)
   * [Mail](#mail)
-  * [Machine Learning](#machine-learning)
+  * [Machine Learning and Data Science](#machine-learning-and-data-science)
   * [Markdown Processors](#markdown-processors)
   * [Mathematics](#mathematics)
   * [Media](#media)
