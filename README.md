@@ -417,6 +417,7 @@ metadata in media files, including video, audio, and photo formats
 ## Scheduling
 
 * [QuartzNet](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET
+* [Hangfire](https://github.com/HangfireIO/Hangfire) - An easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET apps
 
 ## SDK and API Clients
 
