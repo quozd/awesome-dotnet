@@ -397,6 +397,7 @@ metadata in media files, including video, audio, and photo formats
 * [FluentMigrator](https://github.com/schambers/fluentmigrator) - Fluent Migrations framework for .net
 * [ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) - Light, simple and fast convention-based POCO ORM
 * [Massive](https://github.com/robconery/massive) - A small, happy, data access tool that will love you forever.
+* [Simple.Data](https://github.com/markrendle/Simple.Data) - A lightweight, dynamic data access component for .NET, written in C#.
 
 ## Package Management
 
