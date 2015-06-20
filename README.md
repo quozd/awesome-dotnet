@@ -276,6 +276,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 * [RestSharp](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API Client for .NET
 * [EasyHttp](https://github.com/hhariri/EasyHttp) - Http Library for C#
+* [Spring.NET RestTemplate](http://www.springframework.net/rest/refdoc/resttemplate.html) - Spring.NET library for REST TPI calls
 
 ## IDE
 
