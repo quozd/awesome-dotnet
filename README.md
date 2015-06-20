@@ -398,6 +398,7 @@ metadata in media files, including video, audio, and photo formats
 * [FluentMigrator](https://github.com/schambers/fluentmigrator) - Fluent Migrations framework for .net
 * [ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) - Light, simple and fast convention-based POCO ORM
 * [Massive](https://github.com/robconery/massive) - A small, happy, data access tool that will love you forever.
+* [LINQ to DB](https://github.com/linq2db/linq2db) - The fastest LINQ database access library offering a simple, light, fast, and type-safe layer between your POCO objects and your database. 
 
 ## Package Management
 
