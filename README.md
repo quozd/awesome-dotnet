@@ -291,6 +291,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 * [ImageResizer](http://imageresizing.net/) - Add commands to image URLs to get altered versions in milliseconds. Resizing, editing etc of images in real-time.
 * [ImageProcessor](http://imageprocessor.org/) - Open-source .NET library to manipulate images on-the-fly.
+* [DotImaging](https://github.com/dajuric/dot-imaging) - The only .NET image IO framework you need.
 
 ## Install tools
 
