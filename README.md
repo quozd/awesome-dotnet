@@ -117,6 +117,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 * [ASP.NET Identity](https://aspnetidentity.codeplex.com/) - New membership system for ASP.NET applications
 * [DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth) - A C# implementation of the OpenID, OAuth and InfoCard protocols
+* [Logibit Hawk](https://github.com/logibit/logibit.hawk/) - A F# [Hawk](https://github.com/hueniverse/hawk#usage-example) authentication library
 * [Thinktecture IdentityModel](https://github.com/thinktecture/Thinktecture.IdentityModel.45) - Helper library for identity & access control in .NET 4.5 and MVC4/Web API.
 * [OAuth](https://github.com/danielcrenna/oauth) - A very lightweight library for generating OAuth 1.0a signatures written in C#
 
@@ -158,6 +159,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## Compiler
 
+* [F#](https://github.com/fsharp/fsharp/) -  The F# compiler, core library and tools - a functional programming language for safer, faster, better code writing.
 * [Roslyn](https://github.com/dotnet/roslyn) - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs. It enables building code analysis tools with the same APIs that are used by Visual Studio.
 * [VisualFSharp](https://github.com/Microsoft/visualfsharp) - The Visual F# compiler and tools
 * [Mono-basic](https://github.com/mono/mono-basic) - Visual Basic Compiler and Runtime
@@ -175,6 +177,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## Cryptography
 
+* [BouncyCastle](https://bouncycastle.org/) - Together with the .Net System.Security.Cryptography, the reference implementation for cryptographic algorithms on the CLR.
 * [HashLib](http://hashlib.codeplex.com/) - HashLib is a collection of nearly all hash algorithms you've ever seen, it supports almost everything and is very easy to use
 * [libsodium-net](https://github.com/adamcaudill/libsodium-net) - libsodium for .NET - A secure cryptographic library
 * [StreamCryptor](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf 
@@ -274,6 +277,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## HTTP
 
+* [Http.fs](https://github.com/relentless/Http.fs) - A functional HTTP client for `[F#]`.
 * [RestSharp](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API Client for .NET
 * [EasyHttp](https://github.com/hhariri/EasyHttp) - Http Library for C#
 * [Refit](https://github.com/paulcbetts/refit) - The automatic type-safe REST library for Xamarin and .NET
@@ -323,6 +327,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [NLog](https://github.com/nlog/NLog/) - NLog - Advanced .NET and Silverlight Logging
 * [ELMAH](https://code.google.com/p/elmah/) - Official ELMAH site
 * [Elmah MVC](https://github.com/alexanderbeletsky/elmah-mvc) - Elmah for MVC
+* [Logary](http://logary.github.io/) - Logary is a high performance, multi-target logging, metric, tracing and health-check library for mono and .Net. .Net's answer to DropWizard. Supports many targets, built for micro-services.
 * [Log4Net](https://logging.apache.org/log4net/) - The Apache log4net library is a tool to help the programmer output log statements to a variety of output targets
 * [Serilog](https://github.com/serilog/serilog) - A no-nonsense logging library for the NoSQL era. Combines the best of traditional and structured diagnostic logging in an easy-to-use package.
 * [StackExchange.Exceptional](https://github.com/NickCraver/StackExchange.Exceptional) - Error handler used for the Stack Exchange network
@@ -424,7 +429,7 @@ metadata in media files, including video, audio, and photo formats
 * [RabbitMQ.NET](http://hg.rabbitmq.com/rabbitmq-dotnet-client/) - Implementation of an AMQP client library for C#, and a binding exposing AMQP services via WCF
 * [NetMQ](https://github.com/zeromq/netmq) - NetMQ is 100% native C# port of ZeroMQ
 * [MassTransit](https://github.com/MassTransit/MassTransit) - MassTransit is lean service bus implementation for building loosely coupled applications using the .NET Framework.
-* [Rebus] (https://github.com/rebus-org/Rebus) - Rebus is a lean service bus implementation for .NET, similar in nature to NServiceBus and MassTransit, only leaner
+* [Rebus](https://github.com/rebus-org/Rebus) - Rebus is a lean service bus implementation for .NET, similar in nature to NServiceBus and MassTransit, only leaner
 * [EasyNetQ](https://github.com/mikehadlow/EasyNetQ) - An easy to use .NET API for RabbitMQ
 
 ## Scheduling
@@ -483,6 +488,7 @@ metadata in media files, including video, audio, and photo formats
 * [Fluent Assertions](https://github.com/dennisdoomen/fluentassertions) - A set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test
 * [NSubstitute](http://nsubstitute.github.io/) - A friendly substitute for .NET mocking frameworks
 * [NBuilder](https://github.com/garethdown44/nbuilder) - Rapid generation of test objects
+* [Fuchu](https://github.com/mausch/Fuchu) - A unit-testing library for F# with tests-as-values which makes DSLs extemely easy to create.
 
 ## Visual Studio Plugins
 
@@ -499,6 +505,7 @@ metadata in media files, including video, audio, and photo formats
 * [ASP.NET MVC](https://aspnetwebstack.codeplex.com/) - ASP.NET is a free web framework for building great web sites and applications
 * [NancyFx](https://github.com/NancyFx/Nancy) - Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono
 * [IISNode](https://github.com/tjanczuk/iisnode) - Host NodeJS applications in IIS
+* [Suave.IO](http://suave.io/) - Framework/library/web server that makes you cry tears of joy after finishing your project ahead-of-time when you look at the beautiful code you've written in `[F#]`.
 
 ## Web Servers
 
