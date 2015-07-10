@@ -421,6 +421,7 @@ metadata in media files, including video, audio, and photo formats
 
 * [MiniProfiler](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET websites
 * [Glimpse](https://github.com/glimpse/glimpse) - The open source diagnostics platform for the web
+* [DNTProfiler](https://github.com/VahidN/DNTProfiler) - DNTProfiler is an EF 6.x and NH 4.x profiler
 
 ## Queue
 
