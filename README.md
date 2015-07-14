@@ -370,15 +370,16 @@ metadata in media files, including video, audio, and photo formats
 * [C# StatsD Client](https://github.com/goncalopereira/statsd-csharp-client) - C# client for Etsy's StatsD
 
 ## Misc
-* [Polly](https://github.com/michael-wolfenden/Polly) - Express transient exception handling policies such as Retry, Retry Forever, Wait andRetry or Circuit Breaker in a fluent manner. (.NET 3.5 / 4.0 / 4.5 / PCL / Xamarin) 
-* [AzureCrawler](https://github.com/yagopv/AzureCrawler) - Take HTML Snapshots for your Angular, Ember, Durandal or any JavaScript applications
-* [LINQPad](http://linqpad.net) - a C#/VB/F# scratchpad that instantly executes any expression, statement block or program with rich output formatting and a wealth of features. Also lets you interactively query databases in LINQ. [$]
 * [.NET Fiddle](https://dotnetfiddle.net/) - Write, compile and run C# code in the browser. The C# equivalent of JSFiddle.
-* [Humanizer](https://github.com/MehdiK/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
-* [ScriptCS](https://github.com/scriptcs/scriptcs) - Write C# apps with a text editor, nuget and the power of Roslyn!
-* [CSScript](http://www.csscript.net/) - CS-Script is a CLR based scripting system which usesC# as a programming language. CS-Script currently targets Microsoft implementation of CLR (.NET 2.0/3.0/3.5/4.0/4.5) with full support on Mono. Comes with many additional features, such as script hosting.
-* [ILSpy](http://ilspy.net/) - ILSpy is the open-source .NET assembly browser and decompiler
+* [AzureCrawler](https://github.com/yagopv/AzureCrawler) - Take HTML Snapshots for your Angular, Ember, Durandal or any JavaScript applications
 * [BitSharp](https://github.com/pmlyon/BitSharp) - C# Bitcoin Node
+* [CSScript](http://www.csscript.net/) - CS-Script is a CLR based scripting system which usesC# as a programming language. CS-Script currently targets Microsoft implementation of CLR (.NET 2.0/3.0/3.5/4.0/4.5) with full support on Mono. Comes with many additional features, such as script hosting.
+* [FluentValidation](https://github.com/JeremySkinner/FluentValidation) - A small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
+* [Humanizer](https://github.com/MehdiK/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
+* [ILSpy](http://ilspy.net/) - ILSpy is the open-source .NET assembly browser and decompiler
+* [LINQPad](http://linqpad.net) - a C#/VB/F# scratchpad that instantly executes any expression, statement block or program with rich output formatting and a wealth of features. Also lets you interactively query databases in LINQ. [$]
+* [Polly](https://github.com/michael-wolfenden/Polly) - Express transient exception handling policies such as Retry, Retry Forever, Wait andRetry or Circuit Breaker in a fluent manner. (.NET 3.5 / 4.0 / 4.5 / PCL / Xamarin) 
+* [ScriptCS](https://github.com/scriptcs/scriptcs) - Write C# apps with a text editor, nuget and the power of Roslyn!
 
 ## MVVM
 
