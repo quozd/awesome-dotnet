@@ -495,6 +495,7 @@ metadata in media files, including video, audio, and photo formats
 * [NSubstitute](http://nsubstitute.github.io/) - A friendly substitute for .NET mocking frameworks
 * [NBuilder](https://github.com/garethdown44/nbuilder) - Rapid generation of test objects
 * [Fuchu](https://github.com/mausch/Fuchu) - A unit-testing library for F# with tests-as-values which makes DSLs extemely easy to create.
+* [Shouldly](https://github.com/shouldly/shouldly) - Shouldly is an assertion framework which focuses on giving great error messages when the assertion fails while being simple and terse.
 
 ## Visual Studio Plugins
 
