@@ -64,6 +64,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [PDF](#pdf)
   * [Profiler](#profiler)
   * [Queue](#queue)
+  * [Reactive Programming](#reactive-programming)
   * [Scheduling](#scheduling)
   * [SDK and API Clients](#sdk-and-api-clients)
   * [Search](#search)
@@ -439,6 +440,10 @@ metadata in media files, including video, audio, and photo formats
 * [Rebus](https://github.com/rebus-org/Rebus) - Rebus is a lean service bus implementation for .NET, similar in nature to NServiceBus and MassTransit, only leaner
 * [EasyNetQ](https://github.com/mikehadlow/EasyNetQ) - An easy to use .NET API for RabbitMQ
 * [Warewolf ESB](https://github.com/Warewolf-ESB/Warewolf-ESB) - An easy to use service bus and microservices platform. Easily build applications and services in a visual IDE.
+
+## Reactive Programming
+
+* [Rx.NET](https://github.com/Reactive-Extensions/Rx.NET) - The Reactive Extensions (Rx) is a library for composing asynchronous and event-based programs using observable sequences and LINQ-style query operators
 
 ## Scheduling
 
