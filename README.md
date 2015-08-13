@@ -101,6 +101,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## Application Templates
 
 * [MVC.Template](https://github.com/NonFactors/MVC.Template) - ASP.NET MVC 5 project starter template
+* [ProjectScaffold](https://github.com/fsprojects/ProjectScaffold) - A prototypical .NET solution recommended by the F# Foundation---includes file system setup, Paket for dependencies and FAKE for build/test automation. By default, build process also compiles documentation and generates NuGet packages.
 
 ## Assembly Manipulation
 
