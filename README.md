@@ -239,6 +239,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 * [MonoGame](https://github.com/mono/MonoGame) - One framework for creating powerful cross-platform games
 * [CocosSharp](https://github.com/mono/CocosSharp) - CocosSharp is a C# implementation of the Cocos2D and Cocos3D APIs that runs on any platform where MonoGame runs
+* [Paradox](https://github.com/SiliconStudio/paradox) - Paradox Game Engine http://paradox3d.net
 
 ## Gis
 
