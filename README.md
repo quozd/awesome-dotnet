@@ -78,6 +78,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Web Servers](#web-servers)
   * [WebSocket](#websocket)
   * [Windows Services](#windows-services)
+  * [Other Lists](#other-lists)
 
 * [Other Awesome Lists](#other-awesome-lists)
 
@@ -543,6 +544,11 @@ metadata in media files, including video, audio, and photo formats
 ## Windows Services
 
 * [TopShelf](https://github.com/Topshelf/Topshelf) - An easy service hosting framework for building Windows services using .NET
+
+## Other Lists
+
+* [.NET-libraries](https://github.com/tallesl/.NET-libraries) - Open Source .NET libraries that make your life easier
+
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
