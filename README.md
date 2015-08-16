@@ -458,7 +458,7 @@ metadata in media files, including video, audio, and photo formats
 ## SDK and API Clients
 
 * [AWS SDK](https://github.com/aws/aws-sdk-net) - The AWS SDK for .NET enables .NET developers to easily work with Amazon Web Services
-* [Azure SDK Tools](https://github.com/Azure/azure-sdk-tools) - A set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications
+* [Azure PowerShell](https://github.com/Azure/azure-powershell) - A set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications
 * [Octokit.NET](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
 * [DropNet](https://github.com/DropNet/DropNet) - Client Library for the Dropbox API
 
