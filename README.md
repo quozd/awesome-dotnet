@@ -502,18 +502,18 @@ metadata in media files, including video, audio, and photo formats
 
 ## Testing
 
-* [NUnit](https://github.com/nunit/nunit-framework)
-* [xUnit](https://github.com/xunit/xunit) - xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework
-* [SpecFlow](https://github.com/techtalk/SpecFlow/) - Binding business requirements to .Net code
 * [AutoFixture](https://github.com/AutoFixture/AutoFixture) - AutoFixture is an open source framework for .NET designed to minimize the 'Arrange' phase of your unit tests
-* [Moq](https://github.com/Moq/moq4) - The most popular and friendly mocking framework for .NET
-* [Machine.Specifications](https://github.com/machine/machine.specifications) - Machine.Specifications (MSpec) is a context/specification framework that removes language noise and simplifies tests.
-* [Rhino Mocks](https://github.com/ayende/rhino-mocks) - Dynamic Mocking Framework for .NET
 * [Fluent Assertions](https://github.com/dennisdoomen/fluentassertions) - A set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test
-* [NSubstitute](http://nsubstitute.github.io/) - A friendly substitute for .NET mocking frameworks
-* [NBuilder](https://github.com/garethdown44/nbuilder) - Rapid generation of test objects
 * [Fuchu](https://github.com/mausch/Fuchu) - A unit-testing library for F# with tests-as-values which makes DSLs extemely easy to create.
+* [Machine.Specifications](https://github.com/machine/machine.specifications) - Machine.Specifications (MSpec) is a context/specification framework that removes language noise and simplifies tests.
+* [Moq](https://github.com/Moq/moq4) - The most popular and friendly mocking framework for .NET
+* [NBuilder](https://github.com/garethdown44/nbuilder) - Rapid generation of test objects
+* [NSubstitute](http://nsubstitute.github.io/) - A friendly substitute for .NET mocking frameworks
+* [NUnit](https://github.com/nunit/nunit-framework)
+* [Rhino Mocks](https://github.com/ayende/rhino-mocks) - Dynamic Mocking Framework for .NET
 * [Shouldly](https://github.com/shouldly/shouldly) - Shouldly is an assertion framework which focuses on giving great error messages when the assertion fails while being simple and terse.
+* [SpecFlow](https://github.com/techtalk/SpecFlow/) - Binding business requirements to .Net code
+* [xUnit](https://github.com/xunit/xunit) - xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework
 
 ## Visual Studio Plugins
 
