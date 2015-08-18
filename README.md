@@ -283,6 +283,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 * [AngleSharp](https://github.com/FlorianRappl/AngleSharp) - Complete HTML5 DOM and CSS3 OM construction
 * [CsQuery](https://github.com/jamietre/CsQuery) - HTML5 parser with jQuery style DOM interaction
+* [dotless](https://github.com/dotless/dotless) - .NET Port of the ruby Less CSS lib http://www.dotlesscss.org
 * [ExCSS](https://github.com/TylerBrinks/ExCSS) - CSS3 parser Library for C#
 * [FluentBootstrap](http://fluentbootstrap.com) - Makes the Bootstrap CSS framework easier to use from ASP.NET MVC or WebPages.
 * [HtmlAgilityPack](http://htmlagilitypack.codeplex.com/) - an agile HTML parser that builds a read/write DOM and supports plain XPATH or XSLT
