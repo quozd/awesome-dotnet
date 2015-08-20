@@ -562,7 +562,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## Other Lists
 
-* [.NET-libraries](https://github.com/tallesl/.NET-libraries) - Open Source .NET libraries that make your life easier
+* [.NET-libraries-that-make-your-life-easier](https://github.com/tallesl/.NET-libraries-that-make-your-life-easier) - Open Source .NET libraries that make your life easier
 
 
 # Other Awesome Lists
