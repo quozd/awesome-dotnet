@@ -387,6 +387,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 * [TagLib#](https://github.com/mono/taglib-sharp) - TagLib# (aka taglib-sharp) is a library for reading and writing
 metadata in media files, including video, audio, and photo formats
+* [Splicer#](https://splicer.codeplex.com/) - Splicer for .Net is a library for the .Net framework that aims to simplify developing applications for editing and encoding audio and video using DirectShow.
 
 ## Metrics
 
