@@ -29,6 +29,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Cryptography](#cryptography)
   * [Database](#database)
   * [Database Drivers](#database-drivers)
+  * [Decompilation](#decompilation)
   * [Deployment](#deployment)
   * [DirectX](#directx)
   * [Distributed Computing](#distributed-computing)
@@ -207,6 +208,11 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Cassandra](https://github.com/datastax/csharp-driver) - DataStax .NET Driver for Apache Cassandra
 * [Couchbase](https://github.com/couchbase/couchbase-net-client) - Official couchbase .NET client library, based on the Enyim memcached client
 * [Firebird.NET](http://sourceforge.net/projects/firebird/) - The .NET Data provider is written in C# and provides a high-performance, native implementation of the Firebird API
+
+## Decompilation
+
+* [ILSpy](http://ilspy.net/) - ILSpy is the open-source .NET assembly browser and decompiler
+* [JustDecompile Engine](https://github.com/telerik/JustDecompileEngine) - The decompilation engine of [JustDecompile](http://www.telerik.com/products/decompiler.aspx)
 
 ## Deployment
 
@@ -392,7 +398,6 @@ metadata in media files, including video, audio, and photo formats
 * [CsvHelper](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files http://csvhelper.com
 * [FluentValidation](https://github.com/JeremySkinner/FluentValidation) - A small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
 * [Humanizer](https://github.com/MehdiK/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
-* [ILSpy](http://ilspy.net/) - ILSpy is the open-source .NET assembly browser and decompiler
 * [LINQPad](http://linqpad.net) - a C#/VB/F# scratchpad that instantly executes any expression, statement block or program with rich output formatting and a wealth of features. Also lets you interactively query databases in LINQ. [$]
 * [Polly](https://github.com/michael-wolfenden/Polly) - Express transient exception handling policies such as Retry, Retry Forever, Wait andRetry or Circuit Breaker in a fluent manner. (.NET 3.5 / 4.0 / 4.5 / PCL / Xamarin)
 * [Rant](https://github.com/TheBerkin/Rant) - The Rant Procedural Text Generation DSL http://berkin.me/rant
