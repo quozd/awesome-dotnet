@@ -7,7 +7,7 @@
 
 ## Pull requests workflow
 
-Please, submit one pull requests with one link per PR. If you want to add several links, you should create PR for each links, unless all of the proposed projects are belong to the same category. Pull request should have meaningful description what this project do, why do you want to add it to the list and any other info which might be useful. This will help maintainers with the review process.
+Please, submit one pull request with one link per PR. If you want to add several links, you should create PR for each link, unless all of the proposed projects are belong to the same category. Pull request should have meaningful description what this project do, why do you want to add it to the list and any other info which might be useful. This will help maintainers with the review process.
 
 ## Quality standard
 
@@ -21,9 +21,9 @@ To stay on the list, projects should follow these quality standards:
 
 ## Proprietary/commercial software notice
 
-We have additional requirements for proproetary and commercial projects:
+We have additional requirements for proprietary and commercial projects:
 
-* Publicly availabe community forum or other place for discussions and support
+* Publicly available community forum or other place for discussions and support
 * At least 1 year on the market
 * Free trial or preview
 * You should add `**[$]**` tag to the end of the description block (in bold)
