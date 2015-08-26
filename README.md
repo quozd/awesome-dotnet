@@ -14,6 +14,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [API](#api)
   * [Application Frameworks](#application-frameworks)
   * [Application Templates](#application-templates)
+  * [Artificial Intelligence](#artificial-intelligence)
   * [Assembly Manipulation](#assembly-manipulation)
   * [Assets](#assets)
   * [Authentication and Authorization](#authentication-and-authorization)
@@ -105,6 +106,10 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 * [MVC.Template](https://github.com/NonFactors/MVC.Template) - ASP.NET MVC 5 project starter template
 * [ProjectScaffold](https://github.com/fsprojects/ProjectScaffold) - A prototypical .NET solution recommended by the F# Foundation---includes file system setup, Paket for dependencies and FAKE for build/test automation. By default, build process also compiles documentation and generates NuGet packages.
+
+## Artificial Intelligence
+* [AIMLBot (Program#)](http://aimlbot.sourceforge.net/) - A small, fast, standards-compliant yet easily customizable implementation of an AIML (Artificial Intelligence Markup Language) based chatter bot in C#.
+* [SIML](http://simlbot.com/) - Synthetic Intelligence Markup Language, a next generation Chatbot & Digital Assistant Language.
 
 ## Assembly Manipulation
 
