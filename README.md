@@ -240,6 +240,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 * [Sandcastle](http://shfb.codeplex.com/) - Sandcastle Help File Builder similar to NDoc
 * [SharpDox](https://github.com/Geaz/sharpDox) - A c# documentation tool
+* [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle) - Seamlessly adds a swagger to WebApi projects!
 * [F# Formatting](http://tpetricek.github.io/FSharp.Formatting/) - Tools for documenting F# and C# projects from F# Script files, Markdown documents and inline XML or Markdown comments
 
 ## E-Commerce and Payments
