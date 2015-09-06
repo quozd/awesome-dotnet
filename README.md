@@ -176,6 +176,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Bridge.NET](https://github.com/bridgedotnet/Bridge) - Open Source C# to JavaScript Compiler http://bridge.net/
 * [ClojureCLR](https://github.com/clojure/clojure-clr) - A port of Clojure to the CLR, part of the Clojure project
 * [F#](https://github.com/fsharp/fsharp/) -  The F# compiler, core library and tools - a functional programming language for safer, faster, better code writing.
+* [FunScript](http://funscript.info/) - F# to JavaScript compiler with JQuery etc. mappings through a TypeScript type provider.
 * [JSIL](https://github.com/sq/JSIL) - CIL to Javascript Compiler http://jsil.org/
 * [Mono-basic](https://github.com/mono/mono-basic) - Visual Basic Compiler and Runtime
 * [Netjs](https://github.com/praeclarum/Netjs) - .NET to TypeScript and JavaScript compiler. Portable Class Libraries work great for this. You can even pass EXEs.
