@@ -388,6 +388,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [FluentEmail](https://github.com/lukencode/FluentEmail) - A Fluent Wrapper for System.Net.Mail with razor templating support.
 * [MailKit](https://github.com/jstedfast/MailKit) - A complete cross-platform mail stack including IMAP, POP3, SMTP, authentication and more. Built on top of MimeKit.
 * [MimeKit](https://github.com/jstedfast/MimeKit) - A cross-platform .NET MIME creation and parser library with support for S/MIME, PGP, TNEF and Unix mbox spools.
+* [PreMailer.Net](https://github.com/milkshakesoftware/PreMailer.Net) - C# library that moves your stylesheets to inline style attributes, for maximum compatibility with E-mail clients.
 
 ## Mathematics
 
