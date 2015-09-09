@@ -75,6 +75,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Style Guide](#style-guide)
   * [Template Engine](#template-engine)
   * [Testing](#testing)
+  * [Trading](#trading)
   * [Visual Studio Plugins](#visual-studio-plugins)
   * [Web Frameworks](#web-frameworks)
   * [Web Servers](#web-servers)
@@ -537,6 +538,10 @@ metadata in media files, including video, audio, and photo formats
 * [Shouldly](https://github.com/shouldly/shouldly) - Shouldly is an assertion framework which focuses on giving great error messages when the assertion fails while being simple and terse.
 * [SpecFlow](https://github.com/techtalk/SpecFlow/) - Binding business requirements to .Net code
 * [xUnit](https://github.com/xunit/xunit) - xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework
+
+## Trading
+
+* [SmartStoreNET](https://github.com/StockSharp/StockSharp) - Trading and algorithmic trading open source platform (stock markets, forex, bitcoins and options). http://stocksharp.com
 
 ## Visual Studio Plugins
 
