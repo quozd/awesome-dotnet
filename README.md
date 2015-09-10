@@ -537,7 +537,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## Trading
 
-* [SmartStoreNET](https://github.com/StockSharp/StockSharp) - Trading and algorithmic trading open source platform (stock markets, forex, bitcoins and options). http://stocksharp.com
+* [StockSharp](https://github.com/StockSharp/StockSharp) - Trading and algorithmic trading open source platform (stock markets, forex, bitcoins and options). http://stocksharp.com
 
 ## Visual Studio Plugins
 
