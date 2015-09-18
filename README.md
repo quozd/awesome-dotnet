@@ -458,6 +458,7 @@ metadata in media files, including video, audio, and photo formats
 
 * [NuGet](https://www.nuget.org/) - THE .NET Package Manager
 * [MyGet](http://www.myget.org/) - Hosted Package Repository for NuGet, NPM, Bower and VSIX. Also provides CI as-a-Service. **[[Free for OSS](https://www.myget.org/opensource)]** **[$]**
+* [Paket](https://github.com/fsprojects/Paket) - A package dependency manager for .NET with support for NuGet packages and GitHub repositories. http://fsprojects.github.io/Paket/
 
 ## PDF
 
