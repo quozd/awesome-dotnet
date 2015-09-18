@@ -181,6 +181,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [FunScript](http://funscript.info/) - F# to JavaScript compiler with JQuery etc. mappings through a TypeScript type provider.
 * [JSIL](https://github.com/sq/JSIL) - CIL to Javascript Compiler http://jsil.org/
 * [Mono-basic](https://github.com/mono/mono-basic) - Visual Basic Compiler and Runtime
+* [Nemerle](https://github.com/rsdn/nemerle) - Nemerle is a high-level statically-typed programming language for the .NET platform. It offers functional, object-oriented and imperative features. It has a simple C#-like syntax and a powerful meta-programming system. http://nemerle.org
 * [Netjs](https://github.com/praeclarum/Netjs) - .NET to TypeScript and JavaScript compiler. Portable Class Libraries work great for this. You can even pass EXEs.
 * [Roslyn](https://github.com/dotnet/roslyn) - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs. It enables building code analysis tools with the same APIs that are used by Visual Studio.
 * [VisualFSharp](https://github.com/Microsoft/visualfsharp) - The Visual F# compiler and tools
