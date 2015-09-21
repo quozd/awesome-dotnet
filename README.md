@@ -569,6 +569,7 @@ metadata in media files, including video, audio, and photo formats
 * [NancyFx](https://github.com/NancyFx/Nancy) - Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono
 * [IISNode](https://github.com/tjanczuk/iisnode) - Host NodeJS applications in IIS
 * [Suave.IO](http://suave.io/) - Framework/library/web server that makes you cry tears of joy after finishing your project ahead-of-time when you look at the beautiful code you've written in `[F#]`.
+* [Wyam](http://wyam.io) - A simple to use, highly modular, and extremely configurable static content generator.
 
 ## Web Servers
 
