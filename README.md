@@ -72,6 +72,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Search](#search)
   * [Serialization](#serialization)
   * [State machines](#state-machines)
+  * [Static Site Generators](#static-site-generators)
   * [Style Guide](#style-guide)
   * [Template Engine](#template-engine)
   * [Testing](#testing)
@@ -519,6 +520,11 @@ metadata in media files, including video, audio, and photo formats
 * [Stateless](https://github.com/nblumhardt/stateless) - Create state machines and lightweight state machine-based workflows directly in .NET code
 * [Automatonymous](https://github.com/MassTransit/Automatonymous) - A state machine library for .Net - allows you to write fluent style state machines
 
+## Static Site Generators
+* [Pretzel](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
+* [Sandra.Snow](https://github.com/Sandra/Sandra.Snow) - Jekyll inspired static site generation for .NET
+* [Wyam](http://wyam.io) - A simple to use, highly modular, and extremely configurable static content generator
+
 ## Style Guide
 
 * [C# Style Guide](http://stackoverflow.com/questions/4678178/style-guide-for-c) - StackOverflow Q & A on style guides
@@ -569,7 +575,6 @@ metadata in media files, including video, audio, and photo formats
 * [NancyFx](https://github.com/NancyFx/Nancy) - Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono
 * [IISNode](https://github.com/tjanczuk/iisnode) - Host NodeJS applications in IIS
 * [Suave.IO](http://suave.io/) - Framework/library/web server that makes you cry tears of joy after finishing your project ahead-of-time when you look at the beautiful code you've written in `[F#]`.
-* [Wyam](http://wyam.io) - A simple to use, highly modular, and extremely configurable static content generator.
 
 ## Web Servers
 
