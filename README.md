@@ -65,6 +65,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Package Management](#package-management)
   * [PDF](#pdf)
   * [Profiler](#profiler)
+  * [Push Notifications](#push-notifications)
   * [Queue](#queue)
   * [Reactive Programming](#reactive-programming)
   * [Scheduling](#scheduling)
@@ -471,6 +472,10 @@ metadata in media files, including video, audio, and photo formats
 
 * [MiniProfiler](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET websites
 * [Glimpse](https://github.com/glimpse/glimpse) - The open source diagnostics platform for the web
+
+## Push Notifications
+
+* [PushSharp](https://github.com/Redth/PushSharp) - A server-side library for sending Push Notifications to iOS, OSX, Android, Chrome, Windows Phone, Windows 8, Blackberry, and Amazon devices.
 
 ## Queue
 
