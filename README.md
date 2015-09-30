@@ -472,6 +472,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## Profiler
 
+* [Entity Profiler](https://github.com/Sebazzz/EntityProfiler) - Entity Framework out-of-process profiler
 * [MiniProfiler](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET websites
 * [Glimpse](https://github.com/glimpse/glimpse) - The open source diagnostics platform for the web
 
