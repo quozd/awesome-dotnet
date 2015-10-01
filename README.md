@@ -283,11 +283,11 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## Git Tools
 
 * [Bonobo Git Server](https://github.com/jakubgarfield/Bonobo-Git-Server) - Bonobo Git Server for Windows is a web application you can install on your IIS and easily manage and connect to your git repositories. http://bonobogitserver.com
-* [LibGit2Sharp](https://github.com/libgit2/libgit2sharp) - LibGit2Sharp brings all the might and speed of libgit2, a native Git implementation, to the managed world of .Net and Mono.
-* [posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
-* [GitVersion](https://github.com/Particular/GitVersion) - Generate a Semantic Version Number based on the state of your Git Repository
 * [GitLink](https://github.com/CatenaLogic/GitLink) - let's users step through their code hosted on GitHub or BitBucket
+* [GitVersion](https://github.com/Particular/GitVersion) - Generate a Semantic Version Number based on the state of your Git Repository
+* [LibGit2Sharp](https://github.com/libgit2/libgit2sharp) - LibGit2Sharp brings all the might and speed of libgit2, a native Git implementation, to the managed world of .Net and Mono.
 * [NGit](https://github.com/mono/ngit) - NGit is a port of JGit to C#
+* [posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 
 ## Graphics
 
