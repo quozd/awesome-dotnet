@@ -58,6 +58,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Mathematics](#mathematics)
   * [Media](#media)
   * [Metrics](#metrics)
+  * [Micro Framework](#micro-framework)
   * [Misc](#misc)
   * [MVVM](#mvvm)
   * [Office](#office)
@@ -422,6 +423,9 @@ metadata in media files, including video, audio, and photo formats
 ## Metrics
 
 * [C# StatsD Client](https://github.com/goncalopereira/statsd-csharp-client) - C# client for Etsy's StatsD
+
+## Micro Framework
+* [.NET Micro Framework Interpreter](https://github.com/NETMF/netmf-interpreter) - Microsoft® .NET Micro Framework (NETMF) for developing embedded applications on small devices using Visual Studio
 
 ## Misc
 * [.NET Fiddle](https://dotnetfiddle.net/) - Write, compile and run C# code in the browser. The C# equivalent of JSFiddle.
