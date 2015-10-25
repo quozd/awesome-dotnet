@@ -456,6 +456,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## Office
 
+* [ExcelDna](https://github.com/Excel-DNA/ExcelDna) - ExcelDna makes it easier to create and deploy Excel Add-Ins using C#, F# or VB .NET
 * [ClosedXML](https://closedxml.codeplex.com/) - ClosedXML makes it easier for developers to create Excel 2007/2010 files
 * [NPOI](http://npoi.codeplex.com/) - This project is the .NET version of POI Java project at http://poi.apache.org/.
 * [EPPlus](http://epplus.codeplex.com/) - EPPlus is a .net library that reads and writes Excel 2007/2010 files using the Open Office Xml format (xlsx).
