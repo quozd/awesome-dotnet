@@ -239,6 +239,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## Deployment
 
 * [Unfold](https://github.com/thomasvm/unfold) - Powershell-based deployment solution for .net web applications
+* [DbUp](https://github.com/DbUp/DbUp) - .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date
 
 ## DirectX
 
