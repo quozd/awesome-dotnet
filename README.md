@@ -574,6 +574,7 @@ metadata in media files, including video, audio, and photo formats
 * [Shouldly](https://github.com/shouldly/shouldly) - Shouldly is an assertion framework which focuses on giving great error messages when the assertion fails while being simple and terse.
 * [SpecFlow](https://github.com/techtalk/SpecFlow/) - Binding business requirements to .Net code
 * [xUnit](https://github.com/xunit/xunit) - xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework
+* [ReportUnit](https://github.com/reportunit/reportunit) - Generates beautiful HTML reports with dashboards from NUnit, MSTest, xUnit, TestNG and Gallio test results
 
 ## Trading
 
