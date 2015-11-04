@@ -30,6 +30,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Cryptography](#cryptography)
   * [Database](#database)
   * [Database Drivers](#database-drivers)
+  * [DateTime](#datetime)
   * [Decompilation](#decompilation)
   * [Deployment](#deployment)
   * [DirectX](#directx)
@@ -230,6 +231,10 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Cassandra](https://github.com/datastax/csharp-driver) - DataStax .NET Driver for Apache Cassandra
 * [Couchbase](https://github.com/couchbase/couchbase-net-client) - Official couchbase .NET client library, based on the Enyim memcached client
 * [Firebird.NET](http://sourceforge.net/projects/firebird/) - The .NET Data provider is written in C# and provides a high-performance, native implementation of the Firebird API
+
+## Datetime
+
+* [NodaTime](https://github.com/nodatime/nodatime) - Noda Time is an alternative date and time API for .NET. It helps you to think about your data more clearly, and express operations on that data more precisely. http://nodatime.org/
 
 ## Decompilation
 
