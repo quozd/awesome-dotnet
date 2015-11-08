@@ -548,6 +548,7 @@ metadata in media files, including video, audio, and photo formats
 * [Automatonymous](https://github.com/MassTransit/Automatonymous) - A state machine library for .Net - allows you to write fluent style state machines
 
 ## Static Site Generators
+* [FsBlog](https://github.com/fsprojects/FsBlog/) - Blog aware, static site generation using F#
 * [Pretzel](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
 * [Sandra.Snow](https://github.com/Sandra/Sandra.Snow) - Jekyll inspired static site generation for .NET
 * [Wyam](http://wyam.io) - A simple to use, highly modular, and extremely configurable static content generator
