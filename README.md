@@ -107,6 +107,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [CSLA .NET](https://github.com/MarimerLLC/csla) - business layer development framework http://www.cslanet.com
 * [Mono](https://github.com/mono/mono) - Mono open source ECMA CLI, C# and .NET implementation
 * [Mono-Addins](https://github.com/mono/mono-addins) - Mono.Addins is a generic framework for creating extensible applications, and for creating add-ins which extend those applications
+* [peasy](https://github.com/ahanusa/peasy.net) - Peasy is a middle tier framework that offers an easy to use and flexible rules engine and was designed to address common challenges such as concurrency handling, transactional support, fault tolerance, threading, scalability, async and multiple client support, and easy testability, all without a huge learning curve! 
 * [Spring.Net](https://github.com/spring-projects/spring-net) - Spring.NET is an open source application framework that makes building  enterprise .NET applications easier
 
 ## Application Templates
