@@ -138,10 +138,6 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [IdentityServer](https://github.com/IdentityServer) - Extensible OAuth2 and OpenID Connect provider framework.
 * [OAuth](https://github.com/danielcrenna/oauth) - A very lightweight library for generating OAuth 1.0a signatures written in C#
 
-## Automatic object to object mapping
-* [TinyMapper](https://github.com/TinyMapper/TinyMapper) - a tiny and quick object mapper for .Net.
-
-
 ## Build Automation
 
 * [Psake](https://github.com/psake/psake) - .NET-based build automation tool written in PowerShell
@@ -433,6 +429,7 @@ metadata in media files, including video, audio, and photo formats
 * [Polly](https://github.com/michael-wolfenden/Polly) - Express transient exception handling policies such as Retry, Retry Forever, Wait andRetry or Circuit Breaker in a fluent manner. (.NET 3.5 / 4.0 / 4.5 / PCL / Xamarin)
 * [Rant](https://github.com/TheBerkin/Rant) - The Rant Procedural Text Generation DSL http://berkin.me/rant
 * [ScriptCS](https://github.com/scriptcs/scriptcs) - Write C# apps with a text editor, nuget and the power of Roslyn!
+* [TinyMapper](https://github.com/TinyMapper/TinyMapper) - a tiny and quick object mapper for .Net.
 
 ## MVVM
 
