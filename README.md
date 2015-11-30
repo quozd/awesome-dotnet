@@ -631,7 +631,11 @@ metadata in media files, including video, audio, and photo formats
 
 * [.NET-libraries-that-make-your-life-easier](https://github.com/tallesl/.NET-libraries-that-make-your-life-easier) - Open Source .NET libraries that make your life easier
 * [awesome-LINQ](https://github.com/aloisdg/awesome-linq) - A curated collection of awesome LINQ libraries, tools, and more.
+<<<<<<< HEAD
 * [C# Algorithms, Data Structures](https://github.com/aalhour/C-Sharp-Algorithms) - A list of algorithms and data structures implementations.
+=======
+* [C# Algorithms](https://github.com/aalhour/C-Sharp-Algorithms) - Implementations of Data Structures and Algorithms in C#
+>>>>>>> refs/remotes/origin/patch-1
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
