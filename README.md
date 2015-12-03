@@ -292,6 +292,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [CocosSharp](https://github.com/mono/CocosSharp) - CocosSharp is a C# implementation of the Cocos2D and Cocos3D APIs that runs on any platform where MonoGame runs
 * [Duality](https://github.com/AdamsLair/duality) - Duality is a 2D game development framework. Focused on modularity, comes with a visual editor.
 * [Paradox](https://github.com/SiliconStudio/paradox) - Paradox Game Engine http://paradox3d.net
+* [Wave Engine](https://waveengine.net/Engine) - Wave engine is a free c# component-based modern game engine which allows you to create cross-platform games supporting kinect, oculusrift, vuforia, cardboard, leapmotion and much more. **[Free][Proprietary]**
 
 ## Gis
 
