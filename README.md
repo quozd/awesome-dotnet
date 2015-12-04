@@ -230,6 +230,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [MySQL Connector](https://dev.mysql.com/downloads/connector/net/) - Connector/Net is a fully-managed ADO.NET driver for MySQL
 * [Npgsql](https://github.com/npgsql/Npgsql) - .Net data provider for Postgresql
 * [MongoDB](https://github.com/mongodb/mongo-csharp-driver) - Official MongoDB C# Driver
+* [RethinkDb.Driver](https://github.com/bchavez/RethinkDb.Driver/) - A RethinkDB database driver in C# striving for 100% ReQL API compatibility and completeness.
 * [ServiceStack Redis](https://github.com/ServiceStack/ServiceStack.Redis) - .NET's leading C# Redis Client
 * [StackExchange Redis](https://github.com/StackExchange/StackExchange.Redis) - General purpose redis client from StackExchange
 * [Cassandra](https://github.com/datastax/csharp-driver) - DataStax .NET Driver for Apache Cassandra
