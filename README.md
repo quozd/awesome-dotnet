@@ -592,6 +592,7 @@ metadata in media files, including video, audio, and photo formats
 * [BDDfy](https://github.com/TestStack/TestStack.BDDfy) - BDDfy is the simplest BDD framework EVER!
 * [Bogus](https://github.com/bchavez/Bogus) - A simple and sane fake data generator for C#. Based on and ported from the famed faker.js.
 * [ExpressionToCode](https://github.com/EamonNerbonne/ExpressionToCode) - Use plain C# syntax in assertions that include both the expression expression and subexpression values in the failure message.
+* [FactoryAlien](https://github.com/pedrohfernandes/FactoryAlien) - A simple and useful fake data generator for .Net to help TDD and make testing more refactoring-safe.
 * [FakeItEasy](https://github.com/FakeItEasy/FakeItEasy) - The easy mocking library for .NET http://fakeiteasy.github.io
 * [Fluent Assertions](https://github.com/dennisdoomen/fluentassertions) - A set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test
 * [FluentAutomation](https://github.com/stirno/FluentAutomation) - Simple Fluent API for UI Automation
