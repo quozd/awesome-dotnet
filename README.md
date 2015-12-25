@@ -452,7 +452,6 @@ metadata in media files, including video, audio, and photo formats
 
 * [Microsoft Ajax Minifier](http://ajaxmin.codeplex.com/) - Contains JS and CSS minifiers which have a highest performance, because its have been specifically designed for .NET. Optionally produce Source Maps for JS code.
 * [Web Markup Minifier](http://webmarkupmin.codeplex.com/) - .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.
-* [YUI Compressor for .NET](https://github.com/PureKrome/YUICompressor.NET) - .NET port of the Yahoo! UI Library's YUI Compressor Java project. The objective of this project is to minify any JS and CSS code to an efficient level that works exactly as the original source, before it was minified.
 
 ## Misc
 * [.NET Fiddle](https://dotnetfiddle.net/) - Write, compile and run C# code in the browser. The C# equivalent of JSFiddle.
