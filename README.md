@@ -591,6 +591,7 @@ metadata in media files, including video, audio, and photo formats
 
 * [RazorEngine](https://github.com/Antaris/RazorEngine) - Open source templating engine based on Microsoft's Razor parsing engine
 * [Nustache](https://github.com/jdiamond/Nustache) - Open source library for logic-less templates
+* [NVelocity](http://nvelocity.sourceforge.net/) - Open source library based on Jakarta Velocity project
 * [DotLiquid](https://github.com/dotliquid/dotliquid) - C# port of the Ruby Liquid templating language
 
 ## Testing
