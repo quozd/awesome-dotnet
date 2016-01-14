@@ -22,6 +22,10 @@ To stay on the list, projects should follow these quality standards:
 * Documented
 * Tests
 
+## Research projects
+
+If you are to include a research or academic project, please use the `**[Research]**` tag.
+
 ## Proprietary/commercial software notice
 
 We have additional requirements for proprietary and commercial projects:
