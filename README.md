@@ -457,6 +457,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## Misc
 * [.NET Fiddle](https://dotnetfiddle.net/) - Write, compile and run C# code in the browser. The C# equivalent of JSFiddle.
+* [CSharp Pad](http://csharppad.com) - A web based C# REPL with awesome code completion.
 * [AzureCrawler](https://github.com/yagopv/AzureCrawler) - Take HTML Snapshots for your Angular, Ember, Durandal or any JavaScript applications
 * [BitSharp](https://github.com/pmlyon/BitSharp) - C# Bitcoin Node
 * [CSScript](http://www.csscript.net/) - CS-Script is a CLR based scripting system which usesC# as a programming language. CS-Script currently targets Microsoft implementation of CLR (.NET 2.0/3.0/3.5/4.0/4.5) with full support on Mono. Comes with many additional features, such as script hosting.
@@ -536,6 +537,7 @@ metadata in media files, including video, audio, and photo formats
 * [NetMQ](https://github.com/zeromq/netmq) - NetMQ is 100% native C# port of ZeroMQ
 * [MassTransit](https://github.com/MassTransit/MassTransit) - MassTransit is lean service bus implementation for building loosely coupled applications using the .NET Framework.
 * [Rebus](https://github.com/rebus-org/Rebus) - Rebus is a lean service bus implementation for .NET, similar in nature to NServiceBus and MassTransit, only leaner
+* [RestBus](https://github.com/tenor/RestBus) - A service oriented .NET messaging library for RabbitMQ. 
 * [EasyNetQ](https://github.com/EasyNetQ/EasyNetQ) - An easy to use .NET API for RabbitMQ
 * [Warewolf ESB](https://github.com/Warewolf-ESB/Warewolf-ESB) - An easy to use service bus and microservices platform. Easily build applications and services in a visual IDE.
 
