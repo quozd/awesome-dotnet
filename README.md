@@ -296,6 +296,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Duality](https://github.com/AdamsLair/duality) - Duality is a 2D game development framework. Focused on modularity, comes with a visual editor.
 * [Paradox](https://github.com/SiliconStudio/xenko) - Paradox Game Engine http://xenko.com/
 * [Wave Engine](https://waveengine.net/Engine) - Wave engine is a free c# component-based modern game engine which allows you to create cross-platform games supporting kinect, oculusrift, vuforia, cardboard, leapmotion and much more. **[Free][Proprietary]**
+* [Protogame](https://protogame.org/) - An open source, cross-platform C# game engine built on top of MonoGame.  Provides highly powerful features such as entity management, real-time asset reloading, event-based input, an in-game UI framework and support for multiplayer games.
 
 ## Gis
 
