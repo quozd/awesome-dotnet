@@ -1,4 +1,4 @@
-# Awesome .NET!
+﻿# Awesome .NET!
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Join the chat at https://gitter.im/quozd/awesome-dotnet](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/quozd/awesome-dotnet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -403,7 +403,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Essential Diagnostics](http://essentialdiagnostics.codeplex.com/) - Extends the inbuilt features of System.Diagnostics namespace to provide flexible logging
 * [NLog](https://github.com/nlog/NLog/) - NLog - Advanced .NET and Silverlight Logging
 * [Logazmic](https://github.com/ihtfw/Logazmic) - Open source nlog viewer for Windows
-* [ELMAH](https://code.google.com/p/elmah/) - Official ELMAH site
+* [ELMAH](https://elmah.github.io/) - Official ELMAH site
 * [Elmah MVC](https://github.com/alexbeletsky/elmah-mvc) - Elmah for MVC
 * [Logary](http://logary.github.io/) - Logary is a high performance, multi-target logging, metric, tracing and health-check library for mono and .Net. .Net's answer to DropWizard. Supports many targets, built for micro-services.
 * [Log4Net](https://logging.apache.org/log4net/) - The Apache log4net library is a tool to help the programmer output log statements to a variety of output targets
