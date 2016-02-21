@@ -549,6 +549,7 @@ metadata in media files, including video, audio, and photo formats
 ## Scheduling
 
 * [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler) - Task scheduler with fluent interface that runs automated jobs from your application
+* [NCrontab](https://github.com/atifaziz/NCrontab) - Class library for parsing & formatting [crontab](http://crontab.org/) expressions as well as calculating occurrences of time based on a crontab schedule
 * [QuartzNet](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET
 
 ## SDK and API Clients
