@@ -548,6 +548,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## Scheduling
 
+* [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler) - Task scheduler with fluent interface that runs automated jobs from your application
 * [QuartzNet](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET
 
 ## SDK and API Clients
