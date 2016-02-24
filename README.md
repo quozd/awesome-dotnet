@@ -82,6 +82,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Style Guide](#style-guide)
   * [Template Engine](#template-engine)
   * [Testing](#testing)
+  * [Tools](#tools)
   * [Trading](#trading)
   * [Visual Studio Plugins](#visual-studio-plugins)
   * [Web Frameworks](#web-frameworks)
@@ -621,6 +622,10 @@ metadata in media files, including video, audio, and photo formats
 * [SpecFlow](https://github.com/techtalk/SpecFlow/) - Binding business requirements to .Net code
 * [xBehave.net](https://github.com/xbehave/xbehave.net) - A BDD/TDD framework based on xUnit.net and inspired by Gherkin. http://xbehave.github.io
 * [xUnit](https://github.com/xunit/xunit) - xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework
+
+## Tools
+
+* [Open Live Writer](https://github.com/OpenLiveWriter/OpenLiveWriter) - Blog writer which integrated with WordPress, Blogger, et. al. Open Live Writer makes it easy to write, preview, and post to your blog. For more information see http://www.OpenLiveWriter.org/.
 
 ## Trading
 
