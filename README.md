@@ -501,7 +501,7 @@ metadata in media files, including video, audio, and photo formats
 
 * [Entity Framework](https://github.com/aspnet/EntityFramework) - Object-relational mapper that enables .NET developers to work with relational data using domain-specific objects
 * [BL Toolkit](https://github.com/igor-tkachev/bltoolkit) - Business Logic Toolkit for .NET
-* [Dapper](https://github.com/StackExchange/dapper-dot-net)
+* [Dapper](https://github.com/StackExchange/dapper-dot-net) - A simple object mapper for .NET by [StackExchange](http://stackexchange.github.io/)
 * [Dapper Extensions](https://github.com/tmsmith/Dapper-Extensions) - Small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs
 * [NHibernate](https://github.com/nhibernate) - NHibernate Object Relational Mapper
 * [Fluent NHibernate](https://github.com/jagregory/fluent-nhibernate) - Fluent, XML-less, compile safe, automated, convention-based mappings for NHibernate.
