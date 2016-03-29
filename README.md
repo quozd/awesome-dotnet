@@ -692,4 +692,4 @@ Other amazingly awesome lists can be found in the [awesome-awesomeness](https://
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Vitali Fokin](http://github.com/quozd) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has waived all copyright and related or neighboring rights to this work.
