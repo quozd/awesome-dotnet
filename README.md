@@ -553,6 +553,9 @@ metadata in media files, including video, audio, and photo formats
 * [Rx.NET](https://github.com/Reactive-Extensions/Rx.NET) - The Reactive Extensions (Rx) is a library for composing asynchronous and event-based programs using observable sequences and LINQ-style query operators
 * [Dynamic Data](https://github.com/RolandPheasant/DynamicData) - Reactive Extensions (Rx) for collections
 
+## Remote Desktop
+* [Myrtille](https://github.com/cedrozor/myrtille) - A native HTML4/5 Remote Desktop Protocol client, HTTP gateway written in C# for .NET
+
 ## Scheduling
 
 * [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler) - Task scheduler with fluent interface that runs automated jobs from your application
