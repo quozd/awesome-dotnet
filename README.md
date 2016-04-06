@@ -627,6 +627,7 @@ metadata in media files, including video, audio, and photo formats
 * [SpecFlow](https://github.com/techtalk/SpecFlow/) - Binding business requirements to .Net code
 * [xBehave.net](https://github.com/xbehave/xbehave.net) - A BDD/TDD framework based on xUnit.net and inspired by Gherkin. http://xbehave.github.io
 * [xUnit](https://github.com/xunit/xunit) - xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework
+* [Expected Objects](https://github.com/derekgreer/expectedObjects) - A testing library for creating Expected Objects. The Expected Object pattern is a technique involving the encapsulation of test-specific logic within a specialized type designed to compare its configured state against that of another object.
 
 ## Tools
 
