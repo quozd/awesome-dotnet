@@ -85,7 +85,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Tools](#tools)
   * [Trading](#trading)
   * [Visual Studio Plugins](#visual-studio-plugins)
-  * [Web Frameworks](#web-frameworks)i
+  * [Web Frameworks](#web-frameworks)
   * [Web Servers](#web-servers)
   * [WebSocket](#websocket)
   * [Windows Services](#windows-services)
