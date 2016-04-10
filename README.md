@@ -274,6 +274,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [SourceBrowser](https://github.com/KirillOsenkov/SourceBrowser) - Source browser website generator that powers http://referencesource.microsoft.com and http://source.roslyn.io
 * [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle) - Seamlessly adds a swagger to WebApi projects!
 * [F# Formatting](http://tpetricek.github.io/FSharp.Formatting/) - Tools for documenting F# and C# projects from F# Script files, Markdown documents and inline XML or Markdown comments
+* [DocFX](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects
 
 ## E-Commerce and Payments
 
