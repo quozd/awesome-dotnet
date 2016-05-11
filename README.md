@@ -268,7 +268,9 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 * [Orleans](https://github.com/dotnet/orleans) - Orleans is a framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns. It was created by Microsoft Research.
 * [Akka.net](https://github.com/akkadotnet/akka.net) - Akka.NET is a port of the popular Java/Scala framework Akka to .NET. This is a community driven port and is not affiliated with Typesafe who makes the original Java/Scala version.
-
+* [MBrace](https://github.com/mbraceproject/MBrace.Core) - A distributed streaming library http://mbrace.io/
+* [Thespian](https://github.com/nessos/Thespian) - An actor framework for F#
+* [Vagabond](https://github.com/nessos/Vagabond) - A library that facilitates the distribution of code for the .NET framework.
 ## Documentation
 
 * [Sandcastle](http://shfb.codeplex.com/) - Sandcastle Help File Builder similar to NDoc
