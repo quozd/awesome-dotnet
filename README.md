@@ -271,7 +271,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## Documentation
 
-* [Sandcastle](http://shfb.codeplex.com/) - Sandcastle Help File Builder similar to NDoc
+* [Sandcastle](https://github.com/EWSoftware/SHFB) - Sandcastle Help File Builder similar to NDoc
 * [SharpDox](https://github.com/Geaz/sharpDox) - A c# documentation tool
 * [SourceBrowser](https://github.com/KirillOsenkov/SourceBrowser) - Source browser website generator that powers http://referencesource.microsoft.com and http://source.roslyn.io
 * [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle) - Seamlessly adds a swagger to WebApi projects!
