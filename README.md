@@ -655,6 +655,7 @@ metadata in media files, including video, audio, and photo formats
 * [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
 * [Myrtille](https://github.com/cedrozor/myrtille) - A native HTML4/5 Remote Desktop Protocol client, HTTP gateway written in C# for .NET
 * [Opserver](https://github.com/Opserver/Opserver) - Stack Exchange's Monitoring System
+* [CatLight](https://catlight.io) - Build status notifications for TFS/Jenkins/Travis/Appveyor. Cross-platform desktop app based on .Net Core and Electron. **[Free][Proprietary]**
 
 ## Trading
 
