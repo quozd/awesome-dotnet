@@ -290,7 +290,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Paypal Merchant SDK](https://github.com/paypal/merchant-sdk-dotnet) - Official Paypal Merchant SDK for .NET
 * [NopCommerce](https://nopcommerce.codeplex.com/) - nopCommerce. Free open-source ecommerce shopping cart (ASP.NET MVC)
 * [ServiceStack.Stripe](https://github.com/ServiceStack/Stripe) - Typed .NET clients for stripe.com REST APIs
-* [SmartStoreNET](https://github.com/smartstoreag/SmartStoreNET) - Free ASP.NET MVC Ecommerce Shopping Cart Solution http://www.smartstore.com/net/en
+* [SmartStoreNET](https://github.com/smartstoreag/SmartStoreNET) - Free ASP.NET MVC Ecommerce Shopping Cart Solution https://www.smartstore.com/en/net
 * [Stripe.Net](https://github.com/jaymedavis/stripe.net) - Stripe.net is a full service .net api for https://stripe.com/
 * [BeYourMarket](https://github.com/beyourmarket/beyourmarket) - BeYourMarket is a peer-to-peer marketplace framework http://beyourmarket.com
 * [Virto Commerce](https://github.com/VirtoCommerce/vc-community) - Virto Commerce is the second generation release and is the only enterprise level e-commerce product fully available under Open Source license. Virto Commerce is based on .NET 4.5 with extensive use of MVC, IoC, EF, Azure, Angular JS and many other cutting edge technologies. It can be deployed in Microsoft Cloud (Azure), Amazon Web Services (AWS) and on-premise. https://virtocommerce.com
