@@ -595,6 +595,7 @@ metadata in media files, including video, audio, and photo formats
 * [Elasticsearch .NET](https://github.com/elastic/elasticsearch-net) - Elasticsearch.Net & NEST
 * [PlainElastic.Net](https://github.com/Yegoroff/PlainElastic.Net) - Plain .Net client for ElasticSearch
 * [SolrNet](https://github.com/mausch/SolrNet) - Solr client for .Net
+* [SolrExpress](https://github.com/solr-express/solr-express)) - A simple and lightweight query .NET library for Solr, in a controlled, buildable and fail fast way
 * [Lucene.net](http://lucenenet.apache.org/) - Lucene.Net is a port of the Lucene search engine library, written in C# and targeted at .NET runtime users
 
 ## Serialization
