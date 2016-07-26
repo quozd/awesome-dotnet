@@ -400,6 +400,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## Internationalization
 
 * [i18n](https://github.com/turquoiseowl/i18n) - Smart internationalization for ASP.NET MVC
+* [MessageFormat.NET](https://github.com/jeffijoe/MessageFormat.NET) - ICU MessageFormat implementation in .NET lets you write contextual UI messages (PCL library)
 
 ## Interoperability
 
