@@ -25,6 +25,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [CLI](#cli)
   * [CLR](#clr)
   * [CMS](#cms)
+  * [CQS](#cqs)
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
   * [Compiler](#compiler)
   * [Compression](#compression)
@@ -186,6 +187,9 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Piranha CMS](https://github.com/PiranhaCMS/Piranha) - Piranha is the fun, fast and lightweight .NET framework for developing cms-based web applications with an extra bite. It's built on ASP.NET MVC and Web Pages and is fully compatible with both Visual Studio and WebMatrix. http://piranhacms.org
 * [Umbraco](https://github.com/umbraco/Umbraco-CMS) - Umbraco is a free open source Content Management System built on the ASP.NET platform
 * [BetterCMS] (http://www.bettercms.com) - Open Source .NET Intuitive User Interface for Developer and Publisher
+
+### CQS
+* [CQS](https://github.com/nepente/CQS) - Just a naive implementation of CQS pattern.
 
 ## Code Analysis and Metrics
 
