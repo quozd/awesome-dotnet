@@ -307,7 +307,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## Environment Management
 
-* [DNVM](https://github.com/aspnet/dnvm) - The .NET SDK Manager, a set of command line utilities to update and configure which runtime (DNX) to use.
+* [Dotnet CLI](https://github.com/dotnet/cli) - The cross-platform .NET Core command line toolchain utility.
 
 ## ETL
 
