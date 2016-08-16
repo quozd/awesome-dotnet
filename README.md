@@ -92,6 +92,8 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Windows Services](#windows-services)
   * [Other Lists](#other-lists)
 
+
+* [Resources](#resources)
 * [Other Awesome Lists](#other-awesome-lists)
 
 ## API
@@ -732,6 +734,10 @@ metadata in media files, including video, audio, and photo formats
 * [awesome-analyzers](https://github.com/Cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 * [C# Algorithms, Data Structures](https://github.com/aalhour/C-Sharp-Algorithms) - A list of algorithms and data structures implementations.
 * [ASP.NET Core Library and Framework Support](https://github.com/jpsingleton/ANCLAFS) - A list of what .NET libraries and frameworks are currently supported by ASP.NET Core and .NET Core (also at [ANCLAFS.com](https://anclafs.com/)).
+
+# Resources
+
+* [Weekly C# Digest](http://csharpdigest.net/) - Weekly email newsletter with manually curated top 5 links from the .NET community.
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
