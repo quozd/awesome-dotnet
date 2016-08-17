@@ -213,6 +213,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Roslyn](https://github.com/dotnet/roslyn) - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs. It enables building code analysis tools with the same APIs that are used by Visual Studio.
 * [VisualFSharp](https://github.com/Microsoft/visualfsharp) - The Visual F# compiler and tools
 * [Fable](https://github.com/fsprojects/Fable) - F# to JavaScript Compiler
+* [LinqOptimizer](https://github.com/nessos/LinqOptimizer) - An automatic query optimizer-compiler for Sequential and Parallel LINQ
 
 ## Compression
 
