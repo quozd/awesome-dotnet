@@ -240,6 +240,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Event Store](https://github.com/EventStore/EventStore) - The open-source, functional database with Complex Event Processing in JavaScript. https://geteventstore.com
 * [LiteDB](https://github.com/mbdavid/LiteDB) - A .NET NoSQL Document Store in a single data file - http://www.litedb.org
 * [RavenDB](https://github.com/ravendb/ravendb) - A linq enabled document database for .NET
+* [Marten](https://github.com/JasperFx/marten) - Postgresql as a Document Database and Event Store for .Net Applications
 
 ## Database Drivers
 
