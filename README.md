@@ -589,6 +589,7 @@ metadata in media files, including video, audio, and photo formats
 * [Warewolf ESB](https://github.com/Warewolf-ESB/Warewolf) - An easy to use service bus and microservices platform. Easily build applications and services in a visual IDE.
 * [Kafka Client](https://github.com/Microsoft/CSharpClient-for-Kafka) - .Net implementation of the Apache Kafka Protocol that provides basic functionality through Producer/Consumer classes.
 * [Foundatio](https://github.com/exceptionless/Foundatio#queues) - A common interface with in memory, redis and azure implementations.
+* [Kafunk](https://github.com/jet/kafunk) - F# Kafka client from Jet
 
 ## Reactive Programming
 
