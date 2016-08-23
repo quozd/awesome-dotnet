@@ -383,7 +383,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## HTTP
 
-* [Http.fs](https://github.com/relentless/Http.fs) - A functional HTTP client for `[F#]`.
+* [Http.fs](https://github.com/haf/Http.fs) - A functional HTTP client for `[F#]`.
 * [RestSharp](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API Client for .NET
 * [Flurl.Http](http://tmenier.github.io/Flurl/) - Fluent, portable, testable REST/HTTP client library
 * [EasyHttp](https://github.com/hhariri/EasyHttp) - Http Library for C#
