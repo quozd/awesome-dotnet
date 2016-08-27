@@ -638,6 +638,7 @@ metadata in media files, including video, audio, and photo formats
 * [Wire](https://github.com/akkadotnet/Wire) - A high performance polymorphic serializer for the .NET framework.
 * [FileHelpers](https://github.com/MarcosMeli/FileHelpers) - free and easy to use .NET library to import or export data from fixed length or delimited records in files, strings or streams.
 * [FsPickler](https://github.com/mbraceproject/FsPickler) - A fast multi-format message serializer for .NET
+* [Migrant](https://github.com/antmicro/Migrant) - Fast and flexible serialization framework usable on undecorated classes.
 
 ## State machines
 
