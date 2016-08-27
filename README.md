@@ -695,6 +695,7 @@ metadata in media files, including video, audio, and photo formats
 * [Opserver](https://github.com/Opserver/Opserver) - Stack Exchange's Monitoring System
 * [CatLight](https://catlight.io) - Build status notifications for TFS/Jenkins/Travis/Appveyor. Cross-platform desktop app based on .Net Core and Electron. **[Free][Proprietary]**
 * [Netling](https://github.com/hallatore/Netling) - A load tester client for easy web testing. It is extremely fast while using little CPU or memory.
+* [Microphone](https://github.com/rogeralsing/Microphone) - Microphone is a lightweight framework to run self hosting REST services using Web Api or NancyFx ontop of a Consul or ETCD cluster.  
 
 ## Trading
 
