@@ -13,6 +13,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
 * [Awesome DotNet](#awesome-dotnet)
+  * [Algorithms and Data structures](#algorithms-and-data-structures)
   * [API](#api)
   * [Application Frameworks](#application-frameworks)
   * [Application Templates](#application-templates)
@@ -95,6 +96,10 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 * [Resources](#resources)
 * [Other Awesome Lists](#other-awesome-lists)
+
+## Algorithms and Data structures
+
+* [Algorithmia](https://github.com/SolutionsDesign/Algorithmia) - Algorithm and data-structure library for .NET 3.5 and up. Algorithmia contains sophisticated algorithms and data-structures like graphs, priority queues, command, undo-redo and more. 
 
 ## API
 
