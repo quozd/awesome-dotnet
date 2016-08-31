@@ -253,6 +253,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [RavenDB](https://github.com/ravendb/ravendb) - A linq enabled document database for .NET
 * [Marten](https://github.com/JasperFx/marten) - Postgresql as a Document Database and Event Store for .Net Applications
 * [Streamstone](https://github.com/yevhen/Streamstone) - Event store for Azure Table Storage
+* [Ignite](https://github.com/apache/ignite) - Distributed in-memory platform: document database with SQL and LINQ support; distributed computations; distributed services and events.
 
 ## Database Drivers
 
