@@ -2,7 +2,7 @@
 
 ## New entry format
 
-* Use the following format: \[LIBRARY\]\(LINK\) - DESCRIPTION
+* Use the following format: \[LIBRARY\]\(LINK\) - DESCRIPTION (\<flair\> [ ... ])
 * The link should be the name of the package or project
 * Keep descriptions concise, clear and simple
 * New categories, or improvements to the existing ones are also welcome
@@ -22,9 +22,16 @@ To stay on the list, projects should follow these quality standards:
 * Documented
 * Tests
 
+## Dotnet verse Dotnet Core support
+
+If you are to include any project which has support only .net or .net core and not both, please use the following flair tagging system:
+
+* Has support for only Dotnet `**[Full framework only]**`
+* Has support for only Dotnet core `**[Core framework only]**`
+
 ## Research projects
 
-If you are to include a research or academic project, please use the `**[Research]**` tag.
+If you are to include a research or academic project, please use the `**[Research]**` flair tag.
 
 ## Proprietary/commercial software notice
 
@@ -33,8 +40,8 @@ We have additional requirements for proprietary and commercial projects:
 * Publicly available community forum or other place for discussions and support
 * At least 1 year on the market
 * Free trial or preview
-* You should add `**[$]**` tag to the end of the description block (in bold)
-* If project is proprietary but still free to use, instead if `**[$]**` tag, please add `**[Proprietary]**` and `**[Free]**` tags.
-* If project has free for OSS version, please add `**[Free for OSS]**` tag to the end of the description (in bold)
+* You should add `**[$]**` flair tag to the end of the description block (in bold)
+* If project is proprietary but still free to use, instead if `**[$]**` tag, please add `**[Proprietary]**` and `**[Free]**` flair tags.
+* If project has free for OSS version, please add `**[Free for OSS]**` flair tag to the end of the description (in bold)
 
 Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/contributors), you're awesome and wouldn't be possible without you!
