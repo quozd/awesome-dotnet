@@ -661,6 +661,7 @@ metadata in media files, including video, audio, and photo formats
 
 * [Stateless](https://github.com/dotnet-state-machine/stateless) - Create state machines and lightweight state machine-based workflows directly in .NET code
 * [Automatonymous](https://github.com/MassTransit/Automatonymous) - A state machine library for .Net - allows you to write fluent style state machines
+* [Appccelerate - State Machine](http://www.appccelerate.com/statemachine.html) - A powerful state machine library - configured with a fluent api and synchrounous and asynchronous state transition support
 
 ## Static Site Generators
 * [FsBlog](https://github.com/fsprojects/FsBlog/) - Blog aware, static site generation using F#
