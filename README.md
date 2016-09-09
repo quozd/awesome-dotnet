@@ -67,6 +67,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Minification](#minification)
   * [Misc](#misc)
   * [MVVM](#mvvm)
+  * [NDepend](#ndepend)
   * [Office](#office)
   * [ORM](#orm)
   * [Package Management](#package-management)
@@ -726,6 +727,7 @@ metadata in media files, including video, audio, and photo formats
 
 * [Web Essentials](https://github.com/madskristensen/WebEssentials2013) - Web Essentials extends Visual Studio with lots of new features that web developers have been missing for many years
 * [VsVIM](https://github.com/jaredpar/VsVim) - VIM in Visual Studio
+* [NDepend](http://www.ndepend.com/) - .NET static analyzer for Visual Studio and for Build Process that includes code metrics and customizable code rules written through C# LINQ queries **[$]**
 * [Nuget Package Manager](https://visualstudiogallery.msdn.microsoft.com/27077b70-9dad-4c64-adcf-c7cf6bc9970c) - NuGet is the package manager for the Microsoft development platform including .NET
 * [SideWaffle](https://github.com/ligershark/side-waffle) - A collection of Item Templates for Visual Studio 2012/2013 that makes any web developer's life much easier
 * [Resharper](http://www.jetbrains.com/resharper/) - Developer Productivity Tool for Visual Studio **[$]**
