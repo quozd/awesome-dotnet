@@ -401,6 +401,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [EasyHttp](https://github.com/hhariri/EasyHttp) - Http Library for C#
 * [Refit](https://github.com/paulcbetts/refit) - The automatic type-safe REST library for Xamarin and .NET
 * [RestEase](https://github.com/canton7/RestEase) - Easy-to-use typesafe REST API client library, which is simple and customisable. Heavily inspired by Refit
+* [HttpClientGoodies](https://github.com/jeffijoe/httpclientgoodies.net) - utilities for working with `HttpClient`
 
 ## IDE
 
