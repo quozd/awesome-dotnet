@@ -246,6 +246,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [RavenDB](https://github.com/ravendb/ravendb) - A linq enabled document database for .NET
 * [Marten](https://github.com/JasperFx/marten) - Postgresql as a Document Database and Event Store for .Net Applications
 * [Streamstone](https://github.com/yevhen/Streamstone) - Event store for Azure Table Storage
+* [Yessql](https://github.com/sebastienros/yessql) - A .NET document database working on any RDBMS
 
 ## Database Drivers
 
