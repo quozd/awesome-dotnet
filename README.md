@@ -287,7 +287,6 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## DirectX
 
-* [SlimDX](https://slimdx.org/) - DirectX framework wrapper for .NET applications
 * [SharpDX](https://github.com/sharpdx/SharpDX) - SharpDX is an open-source project delivering the full DirectX API for .Net on all Windows platforms, allowing the development of high performance game, 2D and 3D graphics rendering as well as realtime sound application.
 
 ## Distributed Computing
