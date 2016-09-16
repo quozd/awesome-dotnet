@@ -56,6 +56,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Internationalization](#internationalization)
   * [Interoperability](#interoperability)
   * [IoC](#ioc)
+  * [JavaScript Engines](#javascript-engines)
   * [Logging](#logging)
   * [Mail](#mail)
   * [Machine Learning and Data Science](#machine-learning-and-data-science)
@@ -454,6 +455,12 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Microsoft.Extensions.DependencyInjection](https://github.com/aspnet/DependencyInjection) - The default IoC container for ASP.NET Core applications.
 * [Scrutor](https://github.com/khellang/Scrutor) - Assembly scanning extensions for Microsoft.Extensions.DependencyInjection.
 
+## JavaScript Engines
+
+* [Edge.js](https://github.com/tjanczuk/edge) - Run .NET and Node.js code in-process on Windows, MacOS, and Linux
+* [Jint](https://github.com/sebastienros/jint) - JavaScript interpreter for .NET which provides full ECMA 5.1 compliance and can run on any .NET platform.
+* [Jurassic](https://github.com/paulbartrum/jurassic) - A implementation of the ECMAScript language and runtime. It aims to provide the best performing and most standards-compliant implementation of JavaScript for .NET.
+
 ## Logging
 
 * [Essential Diagnostics](http://essentialdiagnostics.codeplex.com/) - Extends the inbuilt features of System.Diagnostics namespace to provide flexible logging
@@ -533,11 +540,8 @@ metadata in media files, including video, audio, and photo formats
 * [ScriptCS](https://github.com/scriptcs/scriptcs) - Write C# apps with a text editor, nuget and the power of Roslyn!
 * [Shielded](https://github.com/jbakic/Shielded) - Software Transactional Memory (STM) implementation for .NET
 * [TinyMapper](https://github.com/TinyMapper/TinyMapper) - a tiny and quick object mapper for .Net.
-* [Jint](https://github.com/sebastienros/jint) - Javascript interpreter for .NET which provides full ECMA 5.1 compliance and can run on any .NET plaftform.
-* [Jurassic](https://github.com/paulbartrum/jurassic) - A implementation of the ECMAScript language and runtime. It aims to provide the best performing and most standards-compliant implementation of JavaScript for .NET.
 * [MSBuild ILMerge task](https://ilmergemsbuild.codeplex.com/) - MSBuild ILMerge task is a NuGet package allows you to use the famous ILMerge utility in automated builds and/or Visual Studio projects.
 * [ReactJS.NET](https://github.com/reactjs/React.NET) - ReactJS.NET is a library that makes it easier to use Babel along with Facebook's React and JSX from C#.
-* [Edge.js](https://github.com/tjanczuk/edge) - Run .NET and Node.js code in-process on Windows, MacOS, and Linux
 * [Aeron.NET](https://github.com/AdaptiveConsulting/Aeron.NET) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport - .NET port of Aeron
 * [Streams](https://github.com/nessos/Streams) - A lightweight F#/C# library for efficient functional-style pipelines on streams of data.
 * [MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET 
