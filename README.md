@@ -541,7 +541,6 @@ metadata in media files, including video, audio, and photo formats
 * [Rant](https://github.com/TheBerkin/Rant) - The Rant Procedural Text Generation DSL http://berkin.me/rant/
 * [ScriptCS](https://github.com/scriptcs/scriptcs) - Write C# apps with a text editor, nuget and the power of Roslyn!
 * [Shielded](https://github.com/jbakic/Shielded) - Software Transactional Memory (STM) implementation for .NET
-* [TinyMapper](https://github.com/TinyMapper/TinyMapper) - a tiny and quick object mapper for .Net.
 * [MSBuild ILMerge task](https://ilmergemsbuild.codeplex.com/) - MSBuild ILMerge task is a NuGet package allows you to use the famous ILMerge utility in automated builds and/or Visual Studio projects.
 * [ReactJS.NET](https://github.com/reactjs/React.NET) - ReactJS.NET is a library that makes it easier to use Babel along with Facebook's React and JSX from C#.
 * [Aeron.NET](https://github.com/AdaptiveConsulting/Aeron.NET) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport - .NET port of Aeron
@@ -566,6 +565,7 @@ metadata in media files, including video, audio, and photo formats
 ## Object to object mapping
 
 * [AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET. http://automapper.org
+* [TinyMapper](https://github.com/TinyMapper/TinyMapper) - a tiny and quick object mapper for .Net.
 
 ## Office
 
