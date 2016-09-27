@@ -88,6 +88,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Testing](#testing)
   * [Tools](#tools)
   * [Trading](#trading)
+  * [UI Automation](#ui-automation)
   * [Visual Studio Plugins](#visual-studio-plugins)
   * [Web Frameworks](#web-frameworks)
   * [Web Servers](#web-servers)
@@ -737,6 +738,10 @@ metadata in media files, including video, audio, and photo formats
 
 * [Lean](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. https://lean.quantconnect.com
 * [StockSharp](https://github.com/StockSharp/StockSharp) - Trading and algorithmic trading open source platform (stock markets, forex, bitcoins and options). http://stocksharp.com
+
+## UI Automation
+
+* [Managed Windows API](http://mwinapi.sourceforge.net/) - Introspect and automate third-party Windows / VC++ applications without needing its source code.
 
 ## Visual Studio Plugins
 
