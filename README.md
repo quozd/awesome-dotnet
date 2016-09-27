@@ -74,6 +74,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Package Management](#package-management)
   * [PDF](#pdf)
   * [Profiler](#profiler)
+  * [Protocols](#protocols)
   * [Push Notifications](#push-notifications)
   * [Queue](#queue)
   * [Reactive Programming](#reactive-programming)
@@ -611,6 +612,10 @@ metadata in media files, including video, audio, and photo formats
 
 * [MiniProfiler](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET websites
 * [Glimpse](https://github.com/glimpse/glimpse) - The open source diagnostics platform for the web
+
+## Protocols
+
+* [SSH.NET](https://github.com/sshnet/SSH.NET) - A Secure Shell (SSH) library for .NET, optimized for parallelism. Provides SSH commands, SFTP/SCP uploads and downloads, and SOCKS4/SOCKS5/HTTP proxies.
 
 ## Push Notifications
 
