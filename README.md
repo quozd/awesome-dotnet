@@ -418,7 +418,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 * [SharpDevelop](https://github.com/icsharpcode/SharpDevelop) - A free IDE for .NET programming languages
 * [MonoDevelop](https://github.com/mono/monodevelop) - MonoDevelop is a cross platform IDE mostly aimed at Mono/.NET developers
-* [Visual Studio Express](https://www.visualstudio.com/en-us/products/visual-studio-express-vs.aspx) - The free lightweight version of Visual Studio for .NET programming.
+* [Visual Studio Express](http://www.visualstudio.com/en-us/products/visual-studio-express-vs) - The free lightweight version of Visual Studio for .NET programming.
 * [Visual Studio Community](https://msdn.microsoft.com/en-us/visual-studio-community-vs.aspx) - A full-Featured IDE - Free
 * [Waf DotNetPad](http://dotnetpad.codeplex.com) - A simple and fast code editor that makes fun program with C# or Visual Basic.
 * [Visual Studio Code](https://code.visualstudio.com/) - Excellent free editor from Microsoft, based on GitHub Atom.
@@ -427,7 +427,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## Image Processing
 
 * [ImageResizer](https://imageresizing.net/) - Add commands to image URLs to get altered versions in milliseconds. Resizing, editing etc of images in real-time.
-* [ImageProcessor](http://imageprocessor.org/) - Open-source .NET library to manipulate images on-the-fly.
+* [ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor) - Open-source .NET library to manipulate images on-the-fly.
 * [DynamicImage](http://dynamicimage.apphb.com/) - High-performance open-source image manipulation library for ASP.NET.
 * [MetadataExtractor](https://github.com/drewnoakes/metadata-extractor-dotnet) - Extracts Exif, IPTC, XMP, ICC and other metadata from image files.
 * [Emgu CV](http://www.emgu.com/wiki/index.php/Main_Page) - Cross-platform .NET wrapper for the OpenCV library.
