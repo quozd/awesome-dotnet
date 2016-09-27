@@ -89,6 +89,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Tools](#tools)
   * [Trading](#trading)
   * [Visual Studio Plugins](#visual-studio-plugins)
+  * [Web Browsers](#web-browsers)
   * [Web Frameworks](#web-frameworks)
   * [Web Servers](#web-servers)
   * [WebSocket](#websocket)
@@ -750,6 +751,10 @@ metadata in media files, including video, audio, and photo formats
 * [Git Diff Margin](https://github.com/laurentkempe/GitDiffMargin) - Displays live Git changes of the currently edited file on Visual Studio margin and scroll bar
 * [Productivity Power Tools](https://visualstudiogallery.msdn.microsoft.com/d0d33361-18e2-46c0-8ff2-4adea1e34fef) - A set of extensions to Visual Studio Professional (and above) which improves developer productivity.
 * [VSColorOutput](https://www.visualstudiogallery.msdn.microsoft.com/f4d9c2b5-d6d7-4543-a7a5-2d7ebabc2496) - Color highlighting for Build, Find and Debug output windows. Custom match patterns and colors can be added.
+
+## Web Browsers
+
+* [CefSharp](https://github.com/cefsharp/CefSharp/) - HTML5, CSS3 and JS web browser powered by Chromium, for WinForms and WPF
 
 ## Web Frameworks
 
