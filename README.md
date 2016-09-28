@@ -168,6 +168,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## Books
 
 * [Functional Programming in C#](https://www.manning.com/books/functional-programming-in-c-sharp) - teaches how to best leverage the functional features of the C# language. **[$]**
+* [.NET Core in Action](https://manning.com/books/dotnet-core-in-action) - teaches how to write applications and libraries with .NET Core. **[$]**
 
 ## Build Automation
 
