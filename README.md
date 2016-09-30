@@ -578,7 +578,8 @@ metadata in media files, including video, audio, and photo formats
 ## Object to object mapping
 
 * [AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET. http://automapper.org
-* [TinyMapper](https://github.com/TinyMapper/TinyMapper) - a tiny and quick object mapper for .Net.
+* [TinyMapper](https://github.com/TinyMapper/TinyMapper) - A tiny and quick object mapper for .Net.
+* [ExpressMapper](https://github.com/fluentsprings/ExpressMapper) - A lightweight, lighting fast .Net mapper to map one type of object(s) to another in automated and easy way. ExpressMapper relies completely on the expression trees.
 
 ## Office
 
