@@ -809,6 +809,7 @@ metadata in media files, including video, audio, and photo formats
 * [ASP.NET Core Library and Framework Support](https://github.com/jpsingleton/ANCLAFS) - A list of what .NET libraries and frameworks are currently supported by ASP.NET Core and .NET Core (also at [ANCLAFS.com](https://anclafs.com/)).
 * [Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance) - A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors.
 * [awesome-ddd](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
+* [Awesome Xamarin](https://github.com/benoitjadinon/awesome-xamarin) - A collection of interesting libraries/tools for Xamarin mobile projects.
 
 # Resources
 
