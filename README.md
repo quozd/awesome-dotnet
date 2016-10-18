@@ -28,6 +28,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [CLR](#clr)
   * [CMS](#cms)
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
+  * [Code Snippets](#code-snippets)
   * [Compiler](#compiler)
   * [Compression](#compression)
   * [Continuous Integration](#continuous-integration)
@@ -219,6 +220,12 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Metrics-Net](https://github.com/Recognos/Metrics.NET) - Capturing CLR and application-level metrics. So you know what's going on.
 * [AspNet.Metrics](https://github.com/alhardy/aspnet-metrics) - Capturing CLR, application-level web request metrics. Middleware and extensions using Metrics-Net
 * [BenchmarkDotNet](https://github.com/PerfDotNet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
+
+## Code Snippets
+
+* [.NET Fiddle](https://dotnetfiddle.net/) - Write, compile and run C# code in the browser. The C# equivalent of JSFiddle.
+* [Gistlyn](http://gistlyn.com/) - Create, run and share your executable C# Github Gists.
+* [TryRoslyn](http://tryroslyn.azurewebsites.net/) - Run C# code using different branches and versions of Roslyn.
 
 ## Compiler
 
@@ -544,7 +551,6 @@ metadata in media files, including video, audio, and photo formats
 * [Web Markup Minifier](https://github.com/Taritsyn/WebMarkupMin) - .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.
 
 ## Misc
-* [.NET Fiddle](https://dotnetfiddle.net/) - Write, compile and run C# code in the browser. The C# equivalent of JSFiddle.
 * [CSharp Pad](http://csharppad.com) - A web based C# REPL with awesome code completion.
 * [AzureCrawler](https://github.com/yagopv/AzureCrawler) - Take HTML Snapshots for your Angular, Ember, Durandal or any JavaScript applications
 * [BitSharp](https://github.com/pmlyon/BitSharp) - C# Bitcoin Node
