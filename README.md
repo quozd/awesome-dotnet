@@ -127,6 +127,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [peasy](https://github.com/peasy/Peasy.NET) - Peasy is a middle tier framework that offers an easy to use and flexible rules engine and was designed to address common challenges such as concurrency handling, transactional support, fault tolerance, threading, scalability, async and multiple client support, and easy testability, all without a huge learning curve!
 * [Spring.Net](https://github.com/spring-projects/spring-net) - Spring.NET is an open source application framework that makes building  enterprise .NET applications easier
 * [DotNetty](https://github.com/Azure/DotNetty) - DotNetty is a port of Netty, asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients. 
+* [Signum Framework](https://github.com/signumsoftware/framework) - Full stack framework for writing data-centric applications. Uses C#, LINQ, Typescript, React and Bootstrap (or WPF). Promotes reusing modules in different applications while being 100% statically-typed. Signum Extensions contains 24 ready-to-use modules.
 
 ## Application Templates
 
@@ -398,6 +399,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Empty Keys UI](http://emptykeys.com/ui_library) - Multi-platform and multi-engine XAML based user interface library **[Free][Proprietary]** 
 * [UWP Community Toolkit](https://github.com/Microsoft/UWPCommunityToolkit) - The UWP Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10.
 * [ScintillaNET](https://github.com/jacobslusser/ScintillaNET) - Windows Forms control for the Scintilla text editor component (Scintilla is used by Notepad++)
+* [Signum Framework](https://github.com/signumsoftware/framework) - Full stack framework for writing data-centric applications. Available for Web (using Typescript, React and Bootstrap) and Windows (using WPF). The integration of GUI and DB gives excellent default behaviours when populating Combobox, implementing Autocomplete, or exploring the database with SearchControl.
 
 ## HTML and CSS
 
@@ -614,6 +616,7 @@ metadata in media files, including video, audio, and photo formats
 * [LLBLGen Pro](https://www.llblgen.com) - Entity Modeling solution for Entity Framework, NHibernate, Linq to SQL and its own ORM framework: LLBLGen Pro Runtime Framework. **[$][Free Lite version]**
 * [Insight.Database](https://github.com/jonwagner/Insight.Database) - Insight.Database is a fast, lightweight, micro-orm for .NET
 * [DbExtensions](http://maxtoroq.github.io/DbExtensions/) - Data-access framework with a strong focus on query composition, granularity and code aesthetics.
+* [Signum Framework](https://github.com/signumsoftware/framework) - Full stack framework for writing data-centric applications. Its core is a fully-featured LINQ provider (batch deletes, updates and insert, expression methods and properties, etc..).
 
 ## Package Management
 
