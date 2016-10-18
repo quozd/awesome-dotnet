@@ -268,6 +268,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Streamstone](https://github.com/yevhen/Streamstone) - Event store for Azure Table Storage
 * [Ignite](https://github.com/apache/ignite) - Distributed in-memory platform: document database with SQL and LINQ support; distributed computations; distributed services and events.
 * [Yessql](https://github.com/sebastienros/yessql) - A .NET document database working on any RDBMS
+* [EsentSerialize](https://github.com/Const-me/EsentSerialize) - A .NET NoSQL table / document store on top of [ESENT](https://en.wikipedia.org/wiki/Extensible_Storage_Engine)
 
 ## Database Drivers
 
