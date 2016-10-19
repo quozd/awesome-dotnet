@@ -45,6 +45,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Environment Management](#environment-management)
   * [ETL](#etl)
+  * [Functional programming](#functional-programming)
   * [Game](#game)
   * [GIS](#gis)
   * [Git Tools](#git-tools)
@@ -347,6 +348,10 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## ETL
 
 * [Reactive ETL](https://reactiveetl.codeplex.com/) - Reactive ETL is a rewrite of Rhino ETL using the reactive extensions for .NET
+
+## Functional programming
+
+* [language-ext](https://github.com/louthy/language-ext) - This library uses and abuses the features of C# 6+ to provide a functional 'Base class library', that, if you squint, can look like extensions to the language itself. It also includes an 'Erlang like' process system (actors) that can optionally persist messages and state to Redis (note you can use it without Redis for in-app messaging). The process system additionally supports Rx streams of messages and state allowing for a complete system of reactive events and message dispatch.
 
 ## Game
 
