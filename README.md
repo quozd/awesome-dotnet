@@ -640,6 +640,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## Queue
 
+* [King.ServiceBus](https://github.com/jefking/King.Service.ServiceBus) - Task scheduling for .NET: Service Bus.
 * [NServiceBus](https://github.com/Particular/NServiceBus) - The most popular service bus for .NET
 * [Hangfire](https://github.com/HangfireIO/Hangfire) - Incredibly easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET applications
 * [RabbitMQ.NET](http://hg.rabbitmq.com/rabbitmq-dotnet-client/) - Implementation of an AMQP client library for C#, and a binding exposing AMQP services via WCF
@@ -806,7 +807,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## Windows Services
 
-* [King.Service](https://github.com/jefking/King.Service) - Task scheduling for .NET 
+* [King.Service](https://github.com/jefking/King.Service) - Task scheduling for .NET
 * [TopShelf](https://github.com/Topshelf/Topshelf) - An easy service hosting framework for building Windows services using .NET
 
 ## Other Lists
