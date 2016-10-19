@@ -806,6 +806,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## Windows Services
 
+* [King.Service](https://github.com/jefking/King.Service) - Task scheduling for .NET 
 * [TopShelf](https://github.com/Topshelf/Topshelf) - An easy service hosting framework for building Windows services using .NET
 
 ## Other Lists
