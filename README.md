@@ -742,6 +742,7 @@ metadata in media files, including video, audio, and photo formats
 * [Nustache](https://github.com/jdiamond/Nustache) - Open source library for logic-less templates
 * [Stubble](https://github.com/stubbleorg/stubble) - Trimmed down {{mustache}} templates in .NET. Successor of Nustache.
 * [DotLiquid](https://github.com/dotliquid/dotliquid) - C# port of the Ruby Liquid templating language
+* [Mustache Sharp](https://github.com/jehugaleahsa/mustache-sharp) - An extension of the mustache text template engine for .NET.
 
 ## Testing
 
