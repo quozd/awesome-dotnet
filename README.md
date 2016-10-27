@@ -29,7 +29,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [CMS](#cms)
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
   * [Code Snippets](#code-snippets)
-  * [Compiler](#compiler)
+  * [Compilers, Transpilers and Languages](#compiler-transpilers-and-languages)
   * [Compression](#compression)
   * [Continuous Integration](#continuous-integration)
   * [Cryptography](#cryptography)
@@ -233,7 +233,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Gistlyn](http://gistlyn.com/) - Create, run and share your executable C# Github Gists.
 * [TryRoslyn](http://tryroslyn.azurewebsites.net/) - Run C# code using different branches and versions of Roslyn.
 
-## Compiler, Transpilers and Languages
+## Compilers, Transpilers and Languages
 
 * [Bridge.NET](https://github.com/bridgedotnet/Bridge) - Open Source C# to JavaScript Compiler http://bridge.net/
 * [ClojureCLR](https://github.com/clojure/clojure-clr) - A port of Clojure to the CLR, part of the Clojure project
