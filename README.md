@@ -171,10 +171,10 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## Books
 
-* [.NET Core in Action](https://manning.com/books/dotnet-core-in-action) - teaches how to write applications and libraries with .NET Core. **[$]**
+* [.NET Core in Action](https://www.manning.com/books/dotnet-core-in-action) - teaches how to write applications and libraries with .NET Core. **[$]**
 * [CLR via C#](https://www.microsoftpressstore.com/store/clr-via-c-sharp-9780735667457) - Dig deep and master the intricacies of the common language runtime, C#, and .NET development. **[$]**
 * [Functional Programming in C#](https://www.manning.com/books/functional-programming-in-c-sharp) - teaches how to best leverage the functional features of the C# language. **[$]**
-* [Microservices in .NET Core](https://manning.com/books/microservices-in-net-core) - shows you how to build maintainable, secure and operations-friendly microservices using Nancy and .NET Core. **[$]**
+* [Microservices in .NET Core](https://www.manning.com/books/microservices-in-net-core) - shows you how to build maintainable, secure and operations-friendly microservices using Nancy and .NET Core. **[$]**
 
 ## Build Automation
 
@@ -588,6 +588,7 @@ metadata in media files, including video, audio, and photo formats
 * [Streams](https://github.com/nessos/Streams) - A lightweight F#/C# library for efficient functional-style pipelines on streams of data.
 * [MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET 
 * [Warden](https://github.com/warden-stack/Warden) - Define "health checks" for your applications, resources and infrastructure. Keep your Warden on the watch 
+* [ByteSize](https://github.com/omar/ByteSize) - ByteSize is a utility class that makes byte size representation in code easier by removing ambiguity of the value being represented. ByteSize is to bytes what System.TimeSpan is to time.
 
 ## MVVM
 
