@@ -860,9 +860,6 @@ metadata in media files, including video, audio, and photo formats
 
 * [Weekly C# Digest](http://csharpdigest.net/) - Weekly email newsletter with manually curated top 5 links from the .NET community.
 
-# Other Awesome Lists
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
-
 # License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
