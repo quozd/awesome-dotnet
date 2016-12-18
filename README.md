@@ -593,7 +593,7 @@ metadata in media files, including video, audio, and photo formats
 * [MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET 
 * [Warden](https://github.com/warden-stack/Warden) - Define "health checks" for your applications, resources and infrastructure. Keep your Warden on the watch 
 * [ByteSize](https://github.com/omar/ByteSize) - ByteSize is a utility class that makes byte size representation in code easier by removing ambiguity of the value being represented. ByteSize is to bytes what System.TimeSpan is to time.
-* [CodeJam](https://github.com/rsdn/CodeJam) - Set of handy reusable .NET components, that can simplify your daily work and save your time when you copy and paste your favorite helper methods and classes from one project to another.
+* [CodeJam](https://github.com/rsdn/CodeJam) - Set of handy reusable .NET components that can simplify your daily work and save your time when you copy and paste your favorite helper methods and classes from one project to another.
 
 ## MVVM
 
