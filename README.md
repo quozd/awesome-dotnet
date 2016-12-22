@@ -523,7 +523,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Loupe](https://onloupe.com) - Centralized .NET logging and monitoring. **[Proprietary]** **[Free Tier]**
 
 ## Machine Learning and Data Science
-* [Infer.NET](http://research.microsoft.com/en-us/um/cambridge/projects/infernet/default.aspx) - A framework for running Bayesian inference in graphical models. It can also be used for probabilistic programming. **[[Proprietary](http://research.microsoft.com/en-us/um/cambridge/projects/infernet/docs/Frequently%20Asked%20Questions.aspx)]** **[Free]** **[Research]**
+* [Infer.NET](http://infernet.azurewebsites.net/default.aspx) - A framework for running Bayesian inference in graphical models. It can also be used for probabilistic programming. **[[Proprietary](http://infernet.azurewebsites.net/docs/Frequently%20Asked%20Questions.aspx)]** **[Free]** **[Research]**
 * [Accord.NET](http://accord-framework.net/) - Machine learning framework combined with audio and image processing libraries (computer vision, computer audition, signal processing and statistics).
 * [Accord.NET Extensions](https://github.com/dajuric/accord-net-extensions) - Advanced image processing and computer vision algorithms made as fluent extensions.
 * [AForge.NET](http://www.aforgenet.com/) - Framework for developers and researchers in the fields of Computer Vision and Artificial Intelligence (image processing, neural networks, genetic algorithms, machine learning, robotics).
@@ -722,7 +722,7 @@ metadata in media files, including video, audio, and photo formats
 * [ProtoBuf](https://github.com/hultqvist/ProtoBuf) - Generate C# code for protocol buffer serialization from a .proto specification.
 * [F# Data](http://fsharp.github.io/FSharp.Data/) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
 * [Bond](https://github.com/Microsoft/bond) - cross-platform framework for working with schematized data. It supports cross-language de/serialization and powerful generic mechanisms for efficiently manipulating data.
-* [Wire](https://github.com/akkadotnet/Wire) - A high performance polymorphic serializer for the .NET framework.
+* [Hyperion](https://github.com/akkadotnet/Hyperion) - A high performance polymorphic serializer for the .NET framework.
 * [FileHelpers](https://github.com/MarcosMeli/FileHelpers) - free and easy to use .NET library to import or export data from fixed length or delimited records in files, strings or streams.
 * [FsPickler](https://github.com/mbraceproject/FsPickler) - A fast multi-format message serializer for .NET
 * [Migrant](https://github.com/antmicro/Migrant) - Fast and flexible serialization framework usable on undecorated classes.
@@ -861,7 +861,7 @@ metadata in media files, including video, audio, and photo formats
 
 # Resources
 
-* [Weekly C# Digest](http://csharpdigest.net/) - Weekly email newsletter with manually curated top 5 links from the .NET community.
+* [Weekly C# Digest](https://csharpdigest.net/) - Weekly email newsletter with manually curated top 5 links from the .NET community.
 
 # License
 
