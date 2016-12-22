@@ -15,6 +15,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Awesome DotNet](#awesome-dotnet)
   * [Algorithms and Data Structures](#algorithms-and-data-structures)
   * [API](#api)
+  * [Algorithms and Data structures](#algorithms-and-data-structures)
   * [Application Frameworks](#application-frameworks)
   * [Application Templates](#application-templates)
   * [Artificial Intelligence](#artificial-intelligence)
@@ -120,6 +121,10 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
 * [Nelibur](https://github.com/Nelibur/Nelibur) - Nelibur is message based web service framework on the pure WCF. Nelibur simplifies creating high-performance and message based web services and you certainly have all the power of the WCF.
 * [WebAPI Contrib](https://github.com/WebApiContrib/WebAPIContrib) - Collection of open source projects to help improve your work with ASP.NET Web API
+
+## Algorithms and Data structures
+
+* [Algorithmia](https://github.com/SolutionsDesign/Algorithmia) - Algorithm and data-structure library for .NET 3.5 and up. Algorithmia contains sophisticated algorithms and data-structures like graphs, priority queues, command, undo-redo and more. 
 
 ## Application Frameworks
 
