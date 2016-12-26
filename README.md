@@ -202,6 +202,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Argu](https://github.com/fsprojects/Argu) - Declarative CLI argument & XML configuration parser for F# applications.
 * [Appccelerate - Command Line Parser](http://www.appccelerate.com/commandlineparser.html) - A command line parser with fluent definition syntax, different argument types, required and optional arguments, value restrictions, aliases, type conversion and semi-automatic usage help message composition   
 * [Colorful.Console](https://github.com/tomakita/Colorful.Console) - Colorful console output.
+* [EntryPoint](https://github.com/Nick-Lucas/EntryPoint) - Lightweight declarative CLI argument parser for all modern .Net platforms.
 
 ## CLR
 
