@@ -42,10 +42,11 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Distributed Computing](#distributed-computing)
   * [DLR](#dlr)
   * [Documentation](#documentation)
-  * [Exceptions](#exceptions)
   * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Environment Management](#environment-management)
   * [ETL](#etl)
+  * [Exceptions](#exceptions)
+  * [Extensions librairies](#extensions)
   * [Functional programming](#functional-programming)
   * [Game](#game)
   * [GIS](#gis)
@@ -347,9 +348,6 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [DocFX](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects
 * [DocNet](https://github.com/FransBouma/DocNet) - Your friendly static documentation generator, using markdown files to build the content. 
 
-## Exceptions
-* [Exceptionless](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
-
 ## E-Commerce and Payments
 
 * [Paypal Merchant SDK](https://github.com/paypal/merchant-sdk-dotnet) - Official Paypal Merchant SDK for .NET
@@ -367,6 +365,12 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## ETL
 
 * [Reactive ETL](https://reactiveetl.codeplex.com/) - Reactive ETL is a rewrite of Rhino ETL using the reactive extensions for .NET
+
+## Exceptions
+* [Exceptionless](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
+
+## Extensions
+* [Z.ExtensionMethods](https://github.com/zzzprojects/Z.ExtensionMethods) - Over a 1000 useful extension methods
 
 ## Functional programming
 
