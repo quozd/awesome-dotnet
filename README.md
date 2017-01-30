@@ -524,6 +524,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Foundatio](https://github.com/exceptionless/Foundatio#logging) - A fluent logging api that can be used to log messages throughout your application. 
 * [Exceptionless](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
 * [Loupe](https://onloupe.com) - Centralized .NET logging and monitoring. **[Proprietary]** **[Free Tier]**
+* [elmah.io](https://elmah.io) - Cloud logging for .NET web applications using ELMAH. Find bugs before you go live. Powerful search, API, integration with Slack, GitHub, Visual Studio and more. **[[Free for OSS](https://elmah.io/sponsorship/opensource)]** **[$]**
 
 ## Machine Learning and Data Science
 * [Infer.NET](http://infernet.azurewebsites.net/default.aspx) - A framework for running Bayesian inference in graphical models. It can also be used for probabilistic programming. **[[Proprietary](http://infernet.azurewebsites.net/docs/Frequently%20Asked%20Questions.aspx)]** **[Free]** **[Research]**
