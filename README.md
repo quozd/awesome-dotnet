@@ -203,6 +203,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Appccelerate - Command Line Parser](http://www.appccelerate.com/commandlineparser.html) - A command line parser with fluent definition syntax, different argument types, required and optional arguments, value restrictions, aliases, type conversion and semi-automatic usage help message composition   
 * [Colorful.Console](https://github.com/tomakita/Colorful.Console) - Colorful console output.
 * [EntryPoint](https://github.com/Nick-Lucas/EntryPoint) - Composable CLI Argument Parser for .Net Core & .Net Framework 4.5+.
+* [clipr](https://github.com/nemec/clipr) - A CLI library inspired by Python's argparse that transforms a command line into a strongly-typed object. It supports custom argument types, automated (and localized) help generation, and a variety of ways to store parsed arguments.
 
 ## CLR
 
