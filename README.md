@@ -77,6 +77,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Office](#office)
   * [ORM](#orm)
   * [Package Management](#package-management)
+  * [Peer-to-Peer (P2P)](#peer-to-peer-p2p)
   * [PDF](#pdf)
   * [Profiler](#profiler)
   * [Protocols](#protocols)
@@ -659,6 +660,9 @@ metadata in media files, including video, audio, and photo formats
 * [NuGet](https://www.nuget.org/) - THE .NET Package Manager
 * [MyGet](http://www.myget.org/) - Hosted Package Repository for NuGet, NPM, Bower and VSIX. Also provides CI as-a-Service. **[[Free for OSS](https://www.myget.org/opensource)]** **[$]**
 * [Paket](https://github.com/fsprojects/Paket) - A package dependency manager for .NET with support for NuGet packages and GitHub repositories. http://fsprojects.github.io/Paket/
+
+## Peer-to-Peer (P2P)
+* [TomP2P.NET](https://github.com/tomp2p/TomP2P.NET) A P2P-based high performance key-value pair storage library for .NET
 
 ## PDF
 
