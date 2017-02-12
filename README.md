@@ -212,7 +212,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## CMS
 
-* [Composite C1](https://github.com/Orckestra/CMS-Foundation) - A web CMS that focus on UX and adaptability
+* [Composite C1](https://github.com/Orckestra/C1-CMS-Foundation) - A web CMS that focus on UX and adaptability
 * [mojoPortal ](https://mojoportal.codeplex.com/) - MojoPortal is an extensible, cross database, mobile friendly, web content management system (CMS) and web application framework written in C# ASP.NET
 * [N2CMS](http://www.n2cms.com/) - Open source, lightweight, code-first CMS able to seamlessly integrate into any MVC project.
 * [Orchard ](https://github.com/OrchardCMS/Orchard) - Free, open source, community-focused project aimed at delivering applications and reusable components on the ASP.NET platform
@@ -637,7 +637,7 @@ metadata in media files, including video, audio, and photo formats
 
 * [Entity Framework](https://github.com/aspnet/EntityFramework) - Object-relational mapper that enables .NET developers to work with relational data using domain-specific objects
 * [BL Toolkit](https://github.com/igor-tkachev/bltoolkit) - Business Logic Toolkit for .NET
-* [Dapper](https://github.com/StackExchange/dapper-dot-net) - A simple object mapper for .NET by [StackExchange](http://stackexchange.github.io/)
+* [Dapper](https://github.com/StackExchange/Dapper) - A simple object mapper for .NET by [StackExchange](http://stackexchange.github.io/)
 * [Dapper Extensions](https://github.com/tmsmith/Dapper-Extensions) - Small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs
 * [Dapper.FastCRUD](https://github.com/MoonStorm/Dapper.FastCRUD) - The fastest micro-orm extension for Dapper
 * [NHibernate](https://github.com/nhibernate) - NHibernate Object Relational Mapper
@@ -770,7 +770,7 @@ metadata in media files, including video, audio, and photo formats
 * [Bogus](https://github.com/bchavez/Bogus) - A simple and sane fake data generator for C#. Based on and ported from the famed faker.js.
 * [ExpressionToCode](https://github.com/EamonNerbonne/ExpressionToCode) - Use plain C# syntax in assertions that include both the expression expression and subexpression values in the failure message.
 * [FakeItEasy](https://github.com/FakeItEasy/FakeItEasy) - The easy mocking library for .NET https://fakeiteasy.github.io
-* [Fluent Assertions](https://github.com/dennisdoomen/fluentassertions) - A set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test
+* [Fluent Assertions](https://github.com/fluentassertions/fluentassertions) - A set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test
 * [FluentAutomation](https://github.com/stirno/FluentAutomation) - Simple Fluent API for UI Automation
 * [FsCheck](https://github.com/fscheck/FsCheck) - Random Testing for .NET.
 * [Fuchu](https://github.com/mausch/Fuchu) - A unit-testing library for F# with tests-as-values which makes DSLs extemely easy to create.
