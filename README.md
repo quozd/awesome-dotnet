@@ -205,6 +205,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Colorful.Console](https://github.com/tomakita/Colorful.Console) - Colorful console output.
 * [EntryPoint](https://github.com/Nick-Lucas/EntryPoint) - Composable CLI Argument Parser for .Net Core & .Net Framework 4.5+.
 * [clipr](https://github.com/nemec/clipr) - A CLI library inspired by Python's argparse that transforms a command line into a strongly-typed object. It supports custom argument types, automated (and localized) help generation, and a variety of ways to store parsed arguments.
+* [ReadLine](https://github.com/tsolarin/readline) - A GNU-Readline like library for .NET/.NET Core.
 
 ## CLR
 
