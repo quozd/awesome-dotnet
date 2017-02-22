@@ -493,7 +493,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [CppSharp](https://github.com/mono/CppSharp) - Tools to surface C++ APIs to C#
 * [Sharpen](https://github.com/mono/sharpen) - Sharpen is an Eclipse plugin created by db4o that allows you to convert your Java project into C#
 * [CXXI](https://github.com/mono/cxxi) - C++ interop framework
-* [pythonnet](https://github.com/pythonnet/pythonnet) Python and .NET interop framework
+* [pythonnet](https://github.com/pythonnet/pythonnet) - Python and .NET interop framework
 
 ## IoC
 
