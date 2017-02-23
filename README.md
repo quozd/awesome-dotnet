@@ -64,6 +64,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [JavaScript Engines](#javascript-engines)
   * [Logging](#logging)
   * [Mail](#mail)
+  * [Mail](#sms)
   * [Machine Learning and Data Science](#machine-learning-and-data-science)
   * [Markdown Processors](#markdown-processors)
   * [Mathematics](#mathematics)
@@ -558,6 +559,10 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [MimeKit](https://github.com/jstedfast/MimeKit) - A cross-platform .NET MIME creation and parser library with support for S/MIME, PGP, TNEF and Unix mbox spools.
 * [PreMailer.Net](https://github.com/milkshakesoftware/PreMailer.Net) - C# library that moves your stylesheets to inline style attributes, for maximum compatibility with E-mail clients.
 
+## Sms
+
+* [Twilio-dotnet](https://github.com/twilio/twilio-dotnet) - Twilio .NET Helper Library for .NET, ASP.NET, ASP.NET MVC and ASP.NET Web Pages (WebMatrix).
+
 ## Mathematics
 
 * [MathNet](https://www.mathdotnet.com/) - Math.NET is an opensource initiative to build and maintain toolkits covering fundamental mathematics, targetting advanced but also every day needs of .Net developers
@@ -582,7 +587,6 @@ metadata in media files, including video, audio, and photo formats
 
 * [Microsoft Ajax Minifier](http://ajaxmin.codeplex.com/) - Contains JS and CSS minifiers which have a highest performance, because its have been specifically designed for .NET. Optionally produce Source Maps for JS code.
 * [Web Markup Minifier](https://github.com/Taritsyn/WebMarkupMin) - .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.
-* [Bunder and Minifier](https://github.com/madskristensen/BundlerMinifier) - Visual Studio extension that let's you configure bundling and minification of JS, CSS and HTML files.
 
 ## Misc
 * [CSharp Pad](http://csharppad.com) - A web based C# REPL with awesome code completion.
