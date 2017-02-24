@@ -87,6 +87,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [SDK and API Clients](#sdk-and-api-clients)
   * [Search](#search)
   * [Serialization](#serialization)
+  * [SMS and Phone Calls](#sms-and-phone-calls)
   * [State machines](#state-machines)
   * [Static Site Generators](#static-site-generators)
   * [Style Guide](#style-guide)
@@ -740,6 +741,10 @@ metadata in media files, including video, audio, and photo formats
 * [FileHelpers](https://github.com/MarcosMeli/FileHelpers) - free and easy to use .NET library to import or export data from fixed length or delimited records in files, strings or streams.
 * [FsPickler](https://github.com/mbraceproject/FsPickler) - A fast multi-format message serializer for .NET
 * [Migrant](https://github.com/antmicro/Migrant) - Fast and flexible serialization framework usable on undecorated classes.
+
+## SMS and Phone calls
+
+* [Twilio-csharp](https://github.com/twilio/twilio-csharp) - A C#/.NET Library for sending and receiving phone calls and text messages with Twilio.
 
 ## State machines
 
