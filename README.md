@@ -804,6 +804,7 @@ metadata in media files, including video, audio, and photo formats
 * [Papercut](https://github.com/ChangemakerStudios/Papercut) - Papercut is an open source (.NET based) test email viewer that runs locally with a built-in SMTP server designed to receive and notify of test email messages.
 * [Visual Studio Uninstaller](https://github.com/Microsoft/VisualStudioUninstaller) - Uninstall and clean up all components of Visual Studio.
 * [AnyStatus](https://github.com/AlonAm/AnyStatus) - A free and open source Visual Studio extension that adds monitoring capabilities and build status notifications to Visual Studio.
+* [Objective Sharpie](https://developer.xamarin.com/guides/cross-platform/macios/binding/objective-sharpie/) - Xamarin's command line tool used to automate the process of creating a binding to an Objective-C Library
 
 ## Trading
 
