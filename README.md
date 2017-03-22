@@ -369,6 +369,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## ETL
 
+* [Cinchoo ETL](https://github.com/Cinchoo/ChoETL) - ETL Framework for .NET
 * [Reactive ETL](https://reactiveetl.codeplex.com/) - Reactive ETL is a rewrite of Rhino ETL using the reactive extensions for .NET
 
 ## Exceptions
