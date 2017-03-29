@@ -43,6 +43,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [DLR](#dlr)
   * [Documentation](#documentation)
   * [E-Commerce and Payments](#e-commerce-and-payments)
+  * [Enums](#enums)
   * [Environment Management](#environment-management)
   * [ETL](#etl)
   * [Exceptions](#exceptions)
