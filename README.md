@@ -29,7 +29,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [CMS](#cms)
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
   * [Code Snippets](#code-snippets)
-  * [Compilers, Transpilers and Languages](#compiler-transpilers-and-languages)
+  * [Compilers, Transpilers and Languages](#compilers-transpilers-and-languages)
   * [Compression](#compression)
   * [Continuous Integration](#continuous-integration)
   * [Cryptography](#cryptography)
