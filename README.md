@@ -43,7 +43,6 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [DLR](#dlr)
   * [Documentation](#documentation)
   * [E-Commerce and Payments](#e-commerce-and-payments)
-  * [Enums](#enums)
   * [Environment Management](#environment-management)
   * [ETL](#etl)
   * [Exceptions](#exceptions)
@@ -367,10 +366,6 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Virto Commerce](https://github.com/VirtoCommerce/vc-platform) - Virto Commerce is the second generation release and is the only enterprise level e-commerce product fully available under Open Source license. Virto Commerce is based on .NET 4.5 with extensive use of MVC, IoC, EF, Azure, Angular JS and many other cutting edge technologies. It can be deployed in Microsoft Cloud (Azure), Amazon Web Services (AWS) and on-premise. https://virtocommerce.com
 * [SimplCommerce](https://github.com/simplcommerce/simplcommerce) - Super simple ecommerce system built on .NET Core. Simple to use and easy to customize. Thanks to .NET Core, you can run the SimplCommerce on Windows, Linux. With various RDBMS: Microsoft SQL Server, PostgreSQL, MySQL
 
-## Enums
-
-* [Enums.NET](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET is a high-performance type-safe .NET enum utility library
-
 ## Environment Management
 
 * [Dotnet CLI](https://github.com/dotnet/cli) - The cross-platform .NET Core command line toolchain utility.
@@ -619,7 +614,8 @@ metadata in media files, including video, audio, and photo formats
 * [Warden](https://github.com/warden-stack/Warden) - Define "health checks" for your applications, resources and infrastructure. Keep your Warden on the watch 
 * [ByteSize](https://github.com/omar/ByteSize) - ByteSize is a utility class that makes byte size representation in code easier by removing ambiguity of the value being represented. ByteSize is to bytes what System.TimeSpan is to time.
 * [Jot](https://github.com/anakic/jot) - a library for persisting and restoring application state (a better alternative to .settings files).
-* [Mediator.Net](https://github.com/mayuanyang/Mediator.Net) - A simple mediator for .Net for sending command, publishing event and request response with pipelines supported 
+* [Mediator.Net](https://github.com/mayuanyang/Mediator.Net) - A simple mediator for .Net for sending command, publishing event and request response with pipelines supported
+* [Enums.NET](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET is a high-performance type-safe .NET enum utility library
 
 ## MVVM
 
