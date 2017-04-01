@@ -340,6 +340,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [FsShelter](https://github.com/Prolucid/FsShelter) - F# library for authoring [Apache Storm](https://storm.apache.org) components and topologies. Offering high-level abstractions for distributed and fault-tolerant event stream processing.
 * [Foundatio](https://github.com/exceptionless/Foundatio) - Pluggable foundation blocks for building distributed apps.
 * [MBrace](http://mbrace.io/) - Integrated Data Scripting for the Cloud
+* [PubNub](https://www.pubnub.com/) - Realtime apps made simple. APIs for developers building secure realtime mobile, web, and IoT applications. [C# SDKs here](https://www.pubnub.com/docs/c-sharp-net-c-sharp/pubnub-c-sharp-sdk). **[Free]**
 
 ## DLR
 
