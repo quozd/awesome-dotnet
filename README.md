@@ -152,7 +152,6 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## Assembly Manipulation
 
-* [dnSpy](https://github.com/0xd4d/dnSpy) - dnSpy is a .NET assembly editor, decompiler, and debugger forked from ILSpy.
 * [Fody](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies
 * [Mono.Cecil](https://github.com/jbevain/cecil) - Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.
 
@@ -317,6 +316,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## Decompilation
 
+* [dnSpy](https://github.com/0xd4d/dnSpy) - open-source .NET assembly browser, editor, decompiler and debugger
 * [ILSpy](http://ilspy.net/) - ILSpy is the open-source .NET assembly browser and decompiler
 * [JustDecompile Engine](https://github.com/telerik/JustDecompileEngine) - The decompilation engine of [JustDecompile](http://www.telerik.com/products/decompiler.aspx)
 
