@@ -122,6 +122,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
 * [Nelibur](https://github.com/Nelibur/Nelibur) - Nelibur is message based web service framework on the pure WCF. Nelibur simplifies creating high-performance and message based web services and you certainly have all the power of the WCF.
 * [WebAPI Contrib](https://github.com/WebApiContrib/WebAPIContrib) - Collection of open source projects to help improve your work with ASP.NET Web API
+* [Giraffe](https://github.com/dustinmoris/Giraffe) - Functional (F#) ASP.NET Core micro framework for building rich web applications
 
 ## Application Frameworks
 
@@ -855,6 +856,7 @@ metadata in media files, including video, audio, and photo formats
 * [IISNode](https://github.com/tjanczuk/iisnode) - Host NodeJS applications in IIS
 * [Suave.IO](https://suave.io/) - Framework/library/web server that makes you cry tears of joy after finishing your project ahead-of-time when you look at the beautiful code you've written in `[F#]`.
 * [DotVVM](https://github.com/riganti/dotvvm) - MVVM framework for people who don't like to write JavaScript, with OWIN and ASP.NET Core support and a free extension for Visual Studio 2015 and 2017.
+* [Giraffe](https://github.com/dustinmoris/Giraffe) - Functional (F#) ASP.NET Core micro framework for building rich web applications
 
 ## Web Servers
 
