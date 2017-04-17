@@ -679,6 +679,7 @@ metadata in media files, including video, audio, and photo formats
 ## PDF
 
 * [ITextSharp](https://github.com/itext/itextsharp) - iText is a PDF library that allows you to CREATE, ADAPT, INSPECT and MAINTAIN documents in the Portable Document Format (PDF)**[$]****[Free for OSS]**
+* [Rotativa](https://github.com/webgio/Rotativa) - Extremely easy way to create Pdf. You can create pdf document using razor engine (PDF) [Free]
 
 ## Profiler
 
