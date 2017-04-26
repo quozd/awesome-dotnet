@@ -78,6 +78,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Office](#office)
   * [ORM](#orm)
   * [Package Management](#package-management)
+  * [Parser Combinators](#parser-combinators)
   * [PDF](#pdf)
   * [Profiler](#profiler)
   * [Protocols](#protocols)
@@ -684,6 +685,11 @@ metadata in media files, including video, audio, and photo formats
 * [NuGet](https://www.nuget.org/) - THE .NET Package Manager
 * [MyGet](http://www.myget.org/) - Hosted Package Repository for NuGet, NPM, Bower and VSIX. Also provides CI as-a-Service. **[[Free for OSS](https://www.myget.org/opensource)]** **[$]**
 * [Paket](https://github.com/fsprojects/Paket) - A package dependency manager for .NET with support for NuGet packages and GitHub repositories. http://fsprojects.github.io/Paket/
+
+## Parser Combinators
+
+* [FParsec](http://www.quanttec.com/fparsec/) - F# specific Parser Combinator 
+* [GosuParser](https://github.com/kthompson/GosuParser)
 
 ## PDF
 
