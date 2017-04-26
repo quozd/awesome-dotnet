@@ -29,6 +29,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [CMS](#cms)
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
   * [Code Snippets](#code-snippets)
+  * [Constraint Logic Programming](#constraint-logic-programming)
   * [Compilers, Transpilers and Languages](#compilers-transpilers-and-languages)
   * [Compression](#compression)
   * [Continuous Integration](#continuous-integration)
@@ -243,6 +244,13 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [.NET Fiddle](https://dotnetfiddle.net/) - Write, compile and run C# code in the browser. The C# equivalent of JSFiddle.
 * [Gistlyn](http://gistlyn.com/) - Create, run and share your executable C# Github Gists.
 * [TryRoslyn](https://tryroslyn.azurewebsites.net/) - Run C# code using different branches and versions of Roslyn.
+
+## Constraint Logic Programming
+
+* [Decider](https://github.com/lifebeyondfife/Decider)
+* [Google OR-tools](https://developers.google.com/optimization/)
+* [Microsoft Solver Foundation](https://msdn.microsoft.com/en-us/library/ff524509.aspx)
+* [NSolver](http://www.cs.cityu.edu.hk/~hwchun/nsolver/)
 
 ## Compilers, Transpilers and Languages
 
