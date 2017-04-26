@@ -67,7 +67,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Mail](#mail)
   * [Machine Learning and Data Science](#machine-learning-and-data-science)
   * [Markdown Processors](#markdown-processors)
-  * [Mathematics](#mathematics)
+  * [Mathematics and Physics](#mathematics-and-physics)
   * [Media](#media)
   * [Metrics](#metrics)
   * [Micro Framework](#micro-framework)
@@ -577,11 +577,12 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [MimeKit](https://github.com/jstedfast/MimeKit) - A cross-platform .NET MIME creation and parser library with support for S/MIME, PGP, TNEF and Unix mbox spools.
 * [PreMailer.Net](https://github.com/milkshakesoftware/PreMailer.Net) - C# library that moves your stylesheets to inline style attributes, for maximum compatibility with E-mail clients.
 
-## Mathematics
+## Mathematics and Physics
 
 * [MathNet](https://www.mathdotnet.com/) - Math.NET is an opensource initiative to build and maintain toolkits covering fundamental mathematics, targetting advanced but also every day needs of .Net developers
 * [Microsoft Automatic Graph Layout](https://github.com/Microsoft/automatic-graph-layout) - A set of tools for graph layout and viewing.
-* [UnitConversion](https://github.com/Stratajet/UnitConversion) - Expansible Unit Conversion Library for .Net Core and .Net Framework
+* [UnitConversion](https://github.com/Stratajet/UnitConversion) - Expansible Unit Conversion Library for .NET Core and .NET Framework
+* [Quantity System Framework](https://quantitysystem.codeplex.com/) - Library for handling physical quantities and units
 
 ## Media
 
