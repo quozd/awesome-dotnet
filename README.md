@@ -27,6 +27,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [CLI](#cli)
   * [CLR](#clr)
   * [CMS](#cms)
+  * [CQS](#cqs)
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
   * [Code Snippets](#code-snippets)
   * [Compilers, Transpilers and Languages](#compilers-transpilers-and-languages)
@@ -224,6 +225,9 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Umbraco](https://github.com/umbraco/Umbraco-CMS) - Umbraco is a free open source Content Management System built on the ASP.NET platform
 * [BetterCMS](http://www.bettercms.com) - Open Source .NET Intuitive User Interface for Developer and Publisher
 * [DotNetNuke](http://www.dnnsoftware.com/community/download) - DNN Platform is our free, open source web CMS and the foundation of every professional DNN solution. Over 750,000 organizations worldwide have built websites powered by the DNN Platform.
+
+### CQS
+* [CQS](https://github.com/nepente/CQS) - Just a naive implementation of CQS pattern.
 
 ## Code Analysis and Metrics
 
