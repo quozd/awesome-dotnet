@@ -64,6 +64,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [JavaScript Engines](#javascript-engines)
   * [Logging](#logging)
   * [Mail](#mail)
+  * [SMS](#sms) / [Phone Calls](#phone-calls)
   * [Machine Learning and Data Science](#machine-learning-and-data-science)
   * [Markdown Processors](#markdown-processors)
   * [Mathematics](#mathematics)
@@ -568,6 +569,11 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [MailKit](https://github.com/jstedfast/MailKit) - A complete cross-platform mail stack including IMAP, POP3, SMTP, authentication and more. Built on top of MimeKit.
 * [MimeKit](https://github.com/jstedfast/MimeKit) - A cross-platform .NET MIME creation and parser library with support for S/MIME, PGP, TNEF and Unix mbox spools.
 * [PreMailer.Net](https://github.com/milkshakesoftware/PreMailer.Net) - C# library that moves your stylesheets to inline style attributes, for maximum compatibility with E-mail clients.
+
+## SMS / Phone Calls
+
+* [Twilio-csharp](https://github.com/twilio/twilio-csharp) - A C#/.NET Library for sending and receiving phone calls and text messages with Twilio. Supports .NET 3.5+ and .NET Standard 1.4.
+
 
 ## Mathematics
 
