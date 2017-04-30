@@ -332,6 +332,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 * [SlimDX](https://slimdx.org/) - DirectX framework wrapper for .NET applications
 * [SharpDX](https://github.com/sharpdx/SharpDX) - SharpDX is an open-source project delivering the full DirectX API for .Net on all Windows platforms, allowing the development of high performance game, 2D and 3D graphics rendering as well as realtime sound application.
+* [Win2D](https://github.com/Microsoft/Win2D) - Win2D is an easy-to-use Windows Runtime API for immediate mode 2D graphics rendering with GPU acceleration. It is available to C#, C++ and VB developers writing Windows apps for Windows 8.1, Windows Phone 8.1 and Windows 10. It utilizes the power of Direct2D, and integrates seamlessly with XAML and CoreWindow.
 
 ## Distributed Computing
 
