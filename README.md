@@ -564,6 +564,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## Mail
 
+* [RazorMailer](https://github.com/jonleigh/RazorMailer) - A lightweight framework for sending emails from any .NET platform using Razor templates. Built on top of RazorEngine.
 * [FluentEmail](https://github.com/lukencode/FluentEmail) - A Fluent Wrapper for System.Net.Mail with razor templating support.
 * [MailKit](https://github.com/jstedfast/MailKit) - A complete cross-platform mail stack including IMAP, POP3, SMTP, authentication and more. Built on top of MimeKit.
 * [MimeKit](https://github.com/jstedfast/MimeKit) - A cross-platform .NET MIME creation and parser library with support for S/MIME, PGP, TNEF and Unix mbox spools.
