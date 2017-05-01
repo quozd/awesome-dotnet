@@ -180,6 +180,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [CLR via C#](https://www.microsoftpressstore.com/store/clr-via-c-sharp-9780735667457) - Dig deep and master the intricacies of the common language runtime, C#, and .NET development. **[$]**
 * [Functional Programming in C#](https://www.manning.com/books/functional-programming-in-c-sharp) - teaches how to best leverage the functional features of the C# language. **[$]**
 * [Microservices in .NET Core](https://www.manning.com/books/microservices-in-net-core) - shows you how to build maintainable, secure and operations-friendly microservices using Nancy and .NET Core. **[$]**
+* [Dependency Injection in .NET](https://www.manning.com/books/dependency-injection-in-dot-net) [2nd edition](https://www.manning.com/books/dependency-injection-in-dot-net-second-edition) - teaches you to use Dependency Injection to reduce hard-coded dependencies between application components in .NET. **[$]**
 
 ## Build Automation
 
