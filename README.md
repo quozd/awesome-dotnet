@@ -342,7 +342,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Zebus](https://github.com/Abc-Arbitrage/Zebus) - Zebus is a lightweight, higlhy versatile, peer to peer service bus, built with CQRS principles in mind. It allows applications to communicate with each other in a fast and easy manner. Most of the complexity is hidden in the library and you can focus on writing code that matters to you, not debugging messaging code. A very fundamental base for any distributed application.
 * [FsShelter](https://github.com/Prolucid/FsShelter) - F# library for authoring [Apache Storm](https://storm.apache.org) components and topologies. Offering high-level abstractions for distributed and fault-tolerant event stream processing.
 * [Foundatio](https://github.com/exceptionless/Foundatio) - Pluggable foundation blocks for building distributed apps.
-* [MBrace](http://mbrace.io/) - Integrated Data Scripting for the Cloud
+* [MBrace](https://github.com/mbraceproject) - Integrated Data Scripting for the Cloud
 * [protoactor-dotnet](https://github.com/AsynkronIT/protoactor-dotnet) - Proto Actor - Ultra fast distributed actors for Golang and C#
 
 ## DLR
