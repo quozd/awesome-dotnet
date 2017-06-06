@@ -726,6 +726,7 @@ metadata in media files, including video, audio, and photo formats
 * [QuartzNet](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET
 * [Hangfire](https://github.com/HangfireIO) - An easy way to perform fire-and-forget, delayed and recurring tasks inside .NET apps
 * [Chroniton](https://github.com/leosperry/Chroniton) - A simple, fully integrable, and customizable library for running strongly typed jobs (tasks) on schedules.
+* [DurableTask](https://github.com/Azure/durabletask) - This framework allows users to write long running persistent workflows in C# using the async/await capabilities.
 
 ## SDK and API Clients
 
