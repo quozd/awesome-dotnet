@@ -104,9 +104,8 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Windows Services](#windows-services)
   * [Other Lists](#other-lists)
 
-
 * [Resources](#resources)
-* [Other Awesome Lists](#other-awesome-lists)
+* [License](#license)
 
 ## Algorithms and Data structures
 
