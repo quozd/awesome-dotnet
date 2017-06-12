@@ -18,6 +18,8 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has waived all copyright and related or neighboring rights to this work.
 
+# Table of Contents
+
 * [Awesome DotNet](#awesome-dotnet)
   * [Algorithms and Data Structures](#algorithms-and-data-structures)
   * [API](#api)
