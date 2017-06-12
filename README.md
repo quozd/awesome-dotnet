@@ -102,7 +102,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Web Servers](#web-servers)
   * [WebSocket](#websocket)
   * [Windows Services](#windows-services)
-  * [WPF](#WPF)
+  * [WPF](#wpf)
   * [Other Lists](#other-lists)
 
 
