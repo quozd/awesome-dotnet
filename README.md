@@ -160,7 +160,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 * [Cassette](https://github.com/andrewdavey/cassette) - Manages .NET web application assets (scripts, css and templates)
 * [NodeAssets](https://github.com/ajorkowski/NodeAssets) - Asset Manager for .net that has live css updates using SignalR and can optionally leverage NodeJS compilers
-* [Bundle Transformer](http://bundletransformer.codeplex.com/) - Modular extension for [Microsoft ASP.NET Web Optimization Framework](http://aspnetoptimization.codeplex.com/). Its modules supports LESS, Sass, CoffeeScript, TypeScript, Mustache, Handlebars, Autoprefixer along with a bunch of different JS and CSS minifiers.
+* [Bundle Transformer](https://github.com/Taritsyn/BundleTransformer) - Modular extension for [Microsoft ASP.NET Web Optimization Framework](http://aspnetoptimization.codeplex.com/). Its modules supports LESS, Sass, CoffeeScript, TypeScript, Mustache, Handlebars, Autoprefixer along with a bunch of different JS and CSS minifiers.
 * [Bundler](https://github.com/ServiceStack/Bundler) - Compile & Minify Less/Sass/Stylus/Css/JS/CoffeeScript/LiveScript files. Integrates with MVC and ServiceStack
 * [SquishIt](https://github.com/jetheredge/SquishIt) - Lets you *easily* bundle some css and javascript
 
