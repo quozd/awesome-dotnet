@@ -127,7 +127,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## Application Frameworks
 
 * [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - A starting point for new modern ASP.NET MVC web applications with best practices and most popular tools.
-* [ASP.NET MVC Boilerplate Framework](https://github.com/ASP-NET-MVC-Boilerplate/Framework) - ASP.NET MVC Extensions and Helper NuGet packages.
+* [ASP.NET MVC Boilerplate Framework](https://github.com/ASP-NET-Core-Boilerplate/Framework) - ASP.NET MVC Extensions and Helper NuGet packages.
 * [Orleans](https://github.com/dotnet/orleans) - Orleans is a framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns
 * [CoreFX](https://github.com/dotnet/corefx) -  The corefx repo contains the library implementation (called "CoreFX") for .NET Core. It includes System.Collections, System.IO, System.Xml and many other components. It builds and runs on Windows. You can 'watch' the repo to see Linux and Mac support being added over the next few months.
 * [CSLA .NET](https://github.com/MarimerLLC/csla) - business layer development framework http://cslanet.com/
@@ -140,7 +140,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## Application Templates
 
 * [ASP.NET Core Starter Kit](https://github.com/kriasoft/aspnet-starter-kit) - backend: .NET Core, EF Core, C#; frontend: Babel, Webpack, React, CSS Modules
-* [ASP.NET MVC Boilerplate](https://github.com/ASP-NET-MVC-Boilerplate/Templates) - Professional ASP.NET MVC templates for building secure, fast, robust and adaptable web applications or sites. It provides the minimum amount of code required on top of the default MVC template provided by Microsoft.
+* [ASP.NET MVC Boilerplate](https://github.com/ASP-NET-Core-Boilerplate/Templates) - Professional ASP.NET MVC templates for building secure, fast, robust and adaptable web applications or sites. It provides the minimum amount of code required on top of the default MVC template provided by Microsoft.
 * [MVC.Template](https://github.com/NonFactors/MVC6.Template) - ASP.NET Core MVC project starter template.
 * [ProjectScaffold](https://github.com/fsprojects/ProjectScaffold) - A prototypical .NET solution recommended by the F# Foundation---includes file system setup, Paket for dependencies and FAKE for build/test automation. By default, build process also compiles documentation and generates NuGet packages.
 * [Serene](https://github.com/volkanceylan/Serenity) - Serenity is an ASP.NET MVC application platform designed to simplify and shorten development of data-centric business applications with a service based architecture. Serene is a starter template to build Serenity applications.
@@ -244,7 +244,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 * [.NET Fiddle](https://dotnetfiddle.net/) - Write, compile and run C# code in the browser. The C# equivalent of JSFiddle.
 * [Gistlyn](http://gistlyn.com/) - Create, run and share your executable C# Github Gists.
-* [TryRoslyn](https://tryroslyn.azurewebsites.net/) - Run C# code using different branches and versions of Roslyn.
+* [TryRoslyn](https://sharplab.io/) - Run C# code using different branches and versions of Roslyn.
 
 ## Compilers, Transpilers and Languages
 
@@ -270,7 +270,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [SharpCompress](https://github.com/adamhathcock/sharpcompress) - SharpCompress is a compression library for .NET/Mono/Silverlight/WP7 that can unrar, un7zip, unzip, untar unbzip2 and ungzip with forward-only reading and file random access APIs. Write support for zip/tar/bzip2/gzip are implemented
 * [DotNetZip.Semverd](https://github.com/haf/DotNetZip.Semverd) - An open-source project that delivers a .NET library for handling ZIP files, and some associated tools. (fork of [**Unmaintained** DotNetZip](http://dotnetzip.codeplex.com))
 * [SharpZipLib](http://icsharpcode.github.io/SharpZipLib/) - a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform
-* [Snappy for Windows](https://snappy.angeloflogic.com) - Snappy compression library for .NET baked on PInvoke
+* [Snappy for Windows](https://snappy.machinezoo.com/) - Snappy compression library for .NET baked on PInvoke
 * [Snappy.Sharp](https://github.com/jeffesp/Snappy.Sharp) - An implementation of Google's Snappy compression algorithm in C#.
 
 ## Continuous Integration
@@ -431,7 +431,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - Toolkit for creating Metro styled WPF apps
 * [Callisto](https://github.com/timheuer/callisto) - A control toolkit for Windows 8 XAML applications. Contains some UI controls to make it easier to create Windows UI style apps for the Windows Store in accordance with Windows UI guidelines.
 * [ObjectListView](http://objectlistview.sourceforge.net/cs/index.html) - ObjectListView is a C# wrapper around a .NET ListView. It makes the ListView much easier to use and teaches it some new tricks
-* [DockPanelSuite](http://dockpanelsuite.com/) - The Visual Studio inspired docking library for .NET WinForms
+* [DockPanelSuite](https://sourceforge.net/projects/dockpanelsuite/) - The Visual Studio inspired docking library for .NET WinForms
 * [AvalonEdit](https://github.com/icsharpcode/AvalonEdit) - The WPF-based text editor component used in SharpDevelop
 * [XWT](https://github.com/mono/xwt) - A cross-platform UI toolkit for creating desktop applications with .NET and Mono
 * [Gtk#](https://github.com/mono/gtk-sharp) - Gtk# is a Mono/.NET binding to the cross platform Gtk+ GUI toolkit and the foundation of most GUI apps built with Mono
@@ -781,8 +781,8 @@ metadata in media files, including video, audio, and photo formats
 
 ## Style Guide
 
-* [C# Style Guide](http://stackoverflow.com/questions/4678178/style-guide-for-c) - StackOverflow Q & A on style guides
-* [C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/articles/csharp/programming-guide/inside-a-program/coding-conventions) - Official MSDN C# code conventions
+* [C# Style Guide](https://stackoverflow.com/questions/4678178/style-guide-for-c) - StackOverflow Q & A on style guides
+* [C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions) - Official MSDN C# code conventions
 
 ## Template Engine
 
