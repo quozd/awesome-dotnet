@@ -206,7 +206,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Akavache](https://github.com/akavache/Akavache) - An asynchronous, persistent key-value store
 * [CacheManager](https://github.com/MichaCo/CacheManager) - A common interface and abstraction layer for caching.
 * [CacheAdapter](https://bitbucket.org/glav/cacheadapter) - Another common cache abstraction layer for caching with enhanced cache API usage.
-* [Foundatio](https://github.com/exceptionless/Foundatio#caching) - A common interface with in memory, redis and hybrid implementations.
+* [Foundatio](https://github.com/FoundatioFx/Foundatio#caching) - A common interface with in memory, redis and hybrid implementations.
 
 ## CLI
 
@@ -218,7 +218,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Colorful.Console](https://github.com/tomakita/Colorful.Console) - Colorful console output.
 * [EntryPoint](https://github.com/Nick-Lucas/EntryPoint) - Composable CLI Argument Parser for .Net Core & .Net Framework 4.5+.
 * [clipr](https://github.com/nemec/clipr) - A CLI library inspired by Python's argparse that transforms a command line into a strongly-typed object. It supports custom argument types, automated (and localized) help generation, and a variety of ways to store parsed arguments.
-* [ReadLine](https://github.com/tsolarin/readline) - A GNU-Readline like library for .NET/.NET Core.
+* [ReadLine](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
 
 ## CLR
 
@@ -351,7 +351,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Akka.net](https://github.com/akkadotnet/akka.net) - Akka.NET is a port of the popular Java/Scala framework Akka to .NET. This is a community driven port and is not affiliated with Typesafe who makes the original Java/Scala version.
 * [Zebus](https://github.com/Abc-Arbitrage/Zebus) - Zebus is a lightweight, higlhy versatile, peer to peer service bus, built with CQRS principles in mind. It allows applications to communicate with each other in a fast and easy manner. Most of the complexity is hidden in the library and you can focus on writing code that matters to you, not debugging messaging code. A very fundamental base for any distributed application.
 * [FsShelter](https://github.com/Prolucid/FsShelter) - F# library for authoring [Apache Storm](https://storm.apache.org) components and topologies. Offering high-level abstractions for distributed and fault-tolerant event stream processing.
-* [Foundatio](https://github.com/exceptionless/Foundatio) - Pluggable foundation blocks for building distributed apps.
+* [Foundatio](https://github.com/FoundatioFx/Foundatio#jobs) - Pluggable foundation blocks for building distributed apps.
 * [MBrace](https://github.com/mbraceproject) - Integrated Data Scripting for the Cloud
 * [protoactor-dotnet](https://github.com/AsynkronIT/protoactor-dotnet) - Proto Actor - Ultra fast distributed actors for Golang and C#
 
@@ -375,7 +375,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [NopCommerce](https://github.com/nopSolutions/nopCommerce) - nopCommerce. Free open-source ecommerce shopping cart (ASP.NET MVC)
 * [ServiceStack.Stripe](https://github.com/ServiceStack/Stripe) - Typed .NET clients for stripe.com REST APIs
 * [SmartStoreNET](https://github.com/smartstoreag/SmartStoreNET) - Free ASP.NET MVC Ecommerce Shopping Cart Solution https://www.smartstore.com/en/net
-* [Stripe.Net](https://github.com/jaymedavis/stripe.net) - Stripe.net is a full service .net api for https://stripe.com/
+* [Stripe.Net](https://github.com/stripe/stripe-dotnet) - Stripe.net is a full service .net api for https://stripe.com/
 * [BeYourMarket](https://github.com/beyourmarket/beyourmarket) - BeYourMarket is a peer-to-peer marketplace framework http://beyourmarket.com
 * [Virto Commerce](https://github.com/VirtoCommerce/vc-platform) - Virto Commerce is the second generation release and is the only enterprise level e-commerce product fully available under Open Source license. Virto Commerce is based on .NET 4.5 with extensive use of MVC, IoC, EF, Azure, Angular JS and many other cutting edge technologies. It can be deployed in Microsoft Cloud (Azure), Amazon Web Services (AWS) and on-premise. https://virtocommerce.com
 * [SimplCommerce](https://github.com/simplcommerce/simplcommerce) - Super simple ecommerce system built on .NET Core. Simple to use and easy to customize. Thanks to .NET Core, you can run the SimplCommerce on Windows, Linux. With various RDBMS: Microsoft SQL Server, PostgreSQL, MySQL
@@ -404,7 +404,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games
 * [CocosSharp](https://github.com/mono/CocosSharp) - CocosSharp is a C# implementation of the Cocos2D and Cocos3D APIs that runs on any platform where MonoGame runs
 * [Duality](https://github.com/AdamsLair/duality) - Duality is a 2D game development framework. Focused on modularity, comes with a visual editor.
-* [Xenko](http://xenko.com/) - Xenko is a 2D/3D cross-platform game engine featuring a scene editor, particles, physically based rendering (PBR), scripting, and much more
+* [Xenko](https://xenko.com/) - Xenko is a 2D/3D cross-platform game engine featuring a scene editor, particles, physically based rendering (PBR), scripting, and much more
 * [Wave Engine](https://waveengine.net/Engine) - Wave engine is a free c# component-based modern game engine which allows you to create cross-platform games supporting kinect, oculusrift, vuforia, cardboard, leapmotion and much more. **[Free][Proprietary]**
 * [UrhoSharp](https://github.com/xamarin/urho) - UrhoSharp is a C# implementation of the Urho3D game engine that runs on iOS, Mac, Windows, Android and Linux systems
 * [Nez](https://github.com/prime31/Nez) - Nez is a free 2D focused framework that works with MonoGame and FNA
@@ -557,7 +557,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Serilog](https://github.com/serilog/serilog) - A no-nonsense logging library for the NoSQL era. Combines the best of traditional and structured diagnostic logging in an easy-to-use package.
 * [StackExchange.Exceptional](https://github.com/NickCraver/StackExchange.Exceptional) - Error handler used for the Stack Exchange network
 * [Semantic Logging Application Block (SLAB)](http://slab.codeplex.com/) - Extends the inbuilt features of System.Diagnostics.Tracing namespace (EventSource class) to log to several sinks including Azure Tables, Databases, files (JSON, XML, text). Supports in-process and out-of-process logging through ETW, and Rx for real-time filtering/aggregating of events.
-* [Foundatio](https://github.com/exceptionless/Foundatio#logging) - A fluent logging api that can be used to log messages throughout your application. 
+* [Foundatio](https://github.com/FoundatioFx/Foundatio#logging) - A fluent logging api that can be used to log messages throughout your application. 
 * [Exceptionless](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
 * [Loupe](https://onloupe.com) - Centralized .NET logging and monitoring. **[Proprietary]** **[Free Tier]**
 * [elmah.io](https://elmah.io) - Cloud logging for .NET web applications using ELMAH. Find bugs before you go live. Powerful search, API, integration with Slack, GitHub, Visual Studio and more. **[[Free for OSS](https://elmah.io/sponsorship/opensource)]** **[$]**
@@ -601,7 +601,7 @@ metadata in media files, including video, audio, and photo formats
 ## Metrics
 
 * [C# StatsD Client](https://github.com/Pereingo/statsd-csharp-client) - C# client for Etsy's StatsD
-* [Foundatio](https://github.com/exceptionless/Foundatio#metrics) - A common interface with in memory, redis, StatsD, and Metrics.NET implementations.
+* [Foundatio](https://github.com/FoundatioFx/Foundatio#metrics) - A common interface with in memory, redis, StatsD, and Metrics.NET implementations.
 
 ## Micro Framework
 * [.NET Micro Framework Interpreter](https://github.com/NETMF/netmf-interpreter) - Microsoft® .NET Micro Framework (NETMF) for developing embedded applications on small devices using Visual Studio
@@ -726,7 +726,7 @@ metadata in media files, including video, audio, and photo formats
 * [EasyNetQ](https://github.com/EasyNetQ/EasyNetQ) - An easy to use .NET API for RabbitMQ
 * [Warewolf ESB](https://github.com/Warewolf-ESB/Warewolf) - An easy to use service bus and microservices platform. Easily build applications and services in a visual IDE.
 * [Kafka Client](https://github.com/Microsoft/CSharpClient-for-Kafka) - .Net implementation of the Apache Kafka Protocol that provides basic functionality through Producer/Consumer classes.
-* [Foundatio](https://github.com/exceptionless/Foundatio#queues) - A common interface with in memory, redis and azure implementations.
+* [Foundatio](https://github.com/FoundatioFx/Foundatio#queues) - A common interface with in memory, redis and azure implementations.
 * [Kafunk](https://github.com/jet/kafunk) - F# Kafka client from Jet
 
 ## Reactive Programming
