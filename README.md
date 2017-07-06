@@ -110,7 +110,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Web Servers](#web-servers)
   * [WebSocket](#websocket)
   * [Windows Services](#windows-services)
-  * [WPF](#WPF)
+  * [WPF](#wpf)
   * [Other Lists](#other-lists)
 
 
