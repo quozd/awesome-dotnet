@@ -868,6 +868,7 @@ metadata in media files, including video, audio, and photo formats
 ## Web Browsers
 
 * [CefSharp](https://github.com/cefsharp/CefSharp/) - HTML5, CSS3 and JS web browser powered by Chromium, for WinForms and WPF
+* [SharpBrowser](https://github.com/sharpbrowser/SharpBrowser) - The fastest .NET HTML5 web browser, with tabbed browsing, download manager and more.
 
 ## Web Frameworks
 
