@@ -91,6 +91,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Push Notifications](#push-notifications)
   * [Queue](#queue)
   * [Reactive Programming](#reactive-programming)
+  * [Regular Expressions](#regular-expressions)
   * [Scheduling](#scheduling)
   * [SDK and API Clients](#sdk-and-api-clients)
   * [Search](#search)
@@ -733,6 +734,10 @@ metadata in media files, including video, audio, and photo formats
 
 * [Rx.NET](https://github.com/Reactive-Extensions/Rx.NET) - The Reactive Extensions (Rx) is a library for composing asynchronous and event-based programs using observable sequences and LINQ-style query operators
 * [Dynamic Data](https://github.com/RolandPheasant/DynamicData) - Reactive Extensions (Rx) for collections
+
+## Regular Expressions
+
+* [RegexTools](https://github.com/markwhitaker/RegexTools.CSharp) - Regular expression tools for C#, including a fluent RegexBuilder class
 
 ## Scheduling
 
