@@ -207,6 +207,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [CacheManager](https://github.com/MichaCo/CacheManager) - A common interface and abstraction layer for caching.
 * [CacheAdapter](https://bitbucket.org/glav/cacheadapter) - Another common cache abstraction layer for caching with enhanced cache API usage.
 * [Foundatio](https://github.com/FoundatioFx/Foundatio#caching) - A common interface with in memory, redis and hybrid implementations.
+* [Cashew](https://github.com/joakimskoog/Cashew) - a .NET library for caching responses easily with an HttpClient through an API that is simple and elegant yet powerful.
 
 ## CLI
 
