@@ -112,10 +112,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Windows Services](#windows-services)
   * [WPF](#wpf)
   * [Other Lists](#other-lists)
-
-
+* [Other Lists](#other-lists)
 * [Resources](#resources)
-* [Other Awesome Lists](#other-awesome-lists)
 
 ## Algorithms and Data structures
 
