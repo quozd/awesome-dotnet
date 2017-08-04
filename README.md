@@ -850,6 +850,7 @@ metadata in media files, including video, audio, and photo formats
 ## UI Automation
 
 * [Managed Windows API](http://mwinapi.sourceforge.net/) - Introspect and automate third-party Windows / VC++ applications without needing its source code.
+* [WinApi](https://www.github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop
 
 ## Visual Studio Plugins
 
