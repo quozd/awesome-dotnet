@@ -851,6 +851,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## UI Automation
 
+* [Atata](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
 * [Managed Windows API](http://mwinapi.sourceforge.net/) - Introspect and automate third-party Windows / VC++ applications without needing its source code.
 
 ## Visual Studio Plugins
