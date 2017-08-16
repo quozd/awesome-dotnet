@@ -465,7 +465,6 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## HTML and CSS
 
 * [AngleSharp](https://github.com/AngleSharp/AngleSharp) - Complete HTML5 DOM and CSS3 OM construction
-* [CsQuery](https://github.com/jamietre/CsQuery) - HTML5 parser with jQuery style DOM interaction
 * [dotless](https://github.com/dotless/dotless) - .NET Port of the ruby Less CSS lib http://www.dotlesscss.org
 * [ExCSS](https://github.com/TylerBrinks/ExCSS) - CSS3 parser Library for C#
 * [FluentBootstrap](http://fluentbootstrap.com) - Makes the Bootstrap CSS framework easier to use from ASP.NET MVC or WebPages.
