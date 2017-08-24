@@ -910,6 +910,7 @@ metadata in media files, including video, audio, and photo formats
 ## WPF
 
 * [Data Grid Extensions](https://github.com/tom-englert/DataGridExtensions) - Modular extensions for the WPF DataGrid control, like filtering, additional column events, extended star-size column behavior, and more...
+* [Splash Generator](https://github.com/tom-englert/SplashGenerator) - Automates the generation of the WPF splash screen bitmap from a WPF control. 
 
 ## Other Lists
 
