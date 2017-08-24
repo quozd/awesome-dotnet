@@ -37,6 +37,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [CMS](#cms)
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
   * [Code Snippets](#code-snippets)
+  * [Constraint Logic Programming](#constraint-logic-programming)
   * [Compilers, Transpilers and Languages](#compilers-transpilers-and-languages)
   * [Compression](#compression)
   * [Continuous Integration](#continuous-integration)
@@ -74,7 +75,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Mail](#mail)
   * [Machine Learning and Data Science](#machine-learning-and-data-science)
   * [Markdown Processors](#markdown-processors)
-  * [Mathematics](#mathematics)
+  * [Mathematics and Physics](#mathematics-and-physics)
   * [Media](#media)
   * [Metrics](#metrics)
   * [Micro Framework](#micro-framework)
@@ -85,6 +86,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Office](#office)
   * [ORM](#orm)
   * [Package Management](#package-management)
+  * [Parser Combinators](#parser-combinators)
   * [PDF](#pdf)
   * [Profiler](#profiler)
   * [Protocols](#protocols)
@@ -254,6 +256,13 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [.NET Fiddle](https://dotnetfiddle.net/) - Write, compile and run C# code in the browser. The C# equivalent of JSFiddle.
 * [Gistlyn](http://gistlyn.com/) - Create, run and share your executable C# Github Gists.
 * [TryRoslyn](https://sharplab.io/) - Run C# code using different branches and versions of Roslyn.
+
+## Constraint Logic Programming
+
+* [Decider](https://github.com/lifebeyondfife/Decider)
+* [Google OR-tools](https://developers.google.com/optimization/)
+* [Microsoft Solver Foundation](https://msdn.microsoft.com/en-us/library/ff524509.aspx)
+* [NSolver](http://www.cs.cityu.edu.hk/~hwchun/nsolver/)
 
 ## Compilers, Transpilers and Languages
 
@@ -588,11 +597,12 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [MimeKit](https://github.com/jstedfast/MimeKit) - A cross-platform .NET MIME creation and parser library with support for S/MIME, PGP, TNEF and Unix mbox spools.
 * [PreMailer.Net](https://github.com/milkshakesoftware/PreMailer.Net) - C# library that moves your stylesheets to inline style attributes, for maximum compatibility with E-mail clients.
 
-## Mathematics
+## Mathematics and Physics
 
 * [MathNet](https://www.mathdotnet.com/) - Math.NET is an opensource initiative to build and maintain toolkits covering fundamental mathematics, targetting advanced but also every day needs of .Net developers
 * [Microsoft Automatic Graph Layout](https://github.com/Microsoft/automatic-graph-layout) - A set of tools for graph layout and viewing.
-* [UnitConversion](https://github.com/Stratajet/UnitConversion) - Expansible Unit Conversion Library for .Net Core and .Net Framework
+* [UnitConversion](https://github.com/Stratajet/UnitConversion) - Expansible Unit Conversion Library for .NET Core and .NET Framework
+* [Quantity System Framework](https://quantitysystem.codeplex.com/) - Library for handling physical quantities and units
 
 ## Media
 
@@ -696,6 +706,11 @@ metadata in media files, including video, audio, and photo formats
 * [NuGet](https://www.nuget.org/) - THE .NET Package Manager
 * [MyGet](http://www.myget.org/) - Hosted Package Repository for NuGet, NPM, Bower and VSIX. Also provides CI as-a-Service. **[[Free for OSS](https://www.myget.org/opensource)]** **[$]**
 * [Paket](https://github.com/fsprojects/Paket) - A package dependency manager for .NET with support for NuGet packages and GitHub repositories. http://fsprojects.github.io/Paket/
+
+## Parser Combinators
+
+* [FParsec](http://www.quanttec.com/fparsec/) - F# specific Parser Combinator 
+* [GosuParser](https://github.com/kthompson/GosuParser)
 
 ## PDF
 
