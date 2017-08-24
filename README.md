@@ -55,6 +55,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [ETL](#etl)
   * [Exceptions](#exceptions)
   * [Extensions librairies](#extensions)
+  * [File Systems](#file-systems)
   * [Functional programming](#functional-programming)
   * [Game](#game)
   * [GIS](#gis)
@@ -394,6 +395,10 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Extensions
 * [Z.ExtensionMethods](https://github.com/zzzprojects/Z.ExtensionMethods) - Over a 1000 useful extension methods
+
+## File Systems
+
+* [WinFsp](https://github.com/billziss-gh/winfsp) - Windows File System Proxy - FUSE for Windows. A set of software components for Windows computers that allows the creation of user mode file systems that fully integrate with the OS. Includes .NET layer.
 
 ## Functional programming
 
