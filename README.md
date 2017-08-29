@@ -701,6 +701,7 @@ metadata in media files, including video, audio, and photo formats
 ## PDF
 
 * [ITextSharp](https://github.com/itext/itextsharp) - iText is a PDF library that allows you to CREATE, ADAPT, INSPECT and MAINTAIN documents in the Portable Document Format (PDF)**[$]****[Free for OSS]**
+* [WKHTML] (https://wkhtmltopdf.org/) - WKHTML is a open source command line tools to render HTML into PDF and various image formats using the Qt WebKit rendering engine
 
 ## Profiler
 
