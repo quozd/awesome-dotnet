@@ -595,6 +595,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [MathNet](https://www.mathdotnet.com/) - Math.NET is an opensource initiative to build and maintain toolkits covering fundamental mathematics, targetting advanced but also every day needs of .Net developers
 * [Microsoft Automatic Graph Layout](https://github.com/Microsoft/automatic-graph-layout) - A set of tools for graph layout and viewing.
 * [UnitConversion](https://github.com/Stratajet/UnitConversion) - Expansible Unit Conversion Library for .Net Core and .Net Framework
+* [Mpir.NET](http://wezeku.github.io/Mpir.NET/) - Mpir.NET lets you use the MPIR library, which is a GMP fork for Windows, from .NET languages.
 
 ## Media
 
