@@ -89,6 +89,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Profiler](#profiler)
   * [Protocols](#protocols)
   * [Push Notifications](#push-notifications)
+  * [Query Builders](#query-builders)
   * [Queue](#queue)
   * [Reactive Programming](#reactive-programming)
   * [Scheduling](#scheduling)
@@ -309,7 +310,6 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Ignite](https://github.com/apache/ignite) - Distributed in-memory platform: document database with SQL and LINQ support; distributed computations; distributed services and events.
 * [Yessql](https://github.com/sebastienros/yessql) - A .NET document database working on any RDBMS
 * [JsonFlatFileDataStore](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data
-* [SqlKata](http://sqlkata.vivida-apps.com) - Elegant Sql Query Builder, that supports complex queries, joins, sub queries, nested where conditions, vendor engine targets and more
 
 ## Database Drivers
 
@@ -717,6 +717,10 @@ metadata in media files, including video, audio, and photo formats
 ## Push Notifications
 
 * [PushSharp](https://github.com/Redth/PushSharp) - A server-side library for sending Push Notifications to iOS, OSX, Android, Chrome, Windows Phone, Windows 8, Blackberry, and Amazon devices.
+
+## Query Builders
+* [SqlKata](https://sqlkata.com) - Elegant Sql Query Builder, that supports complex queries, joins, sub queries, nested where conditions, vendor engine targets and more
+
 
 ## Queue
 
