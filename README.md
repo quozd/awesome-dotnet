@@ -197,6 +197,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [MSBuild](https://github.com/Microsoft/msbuild) - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio
 * [Cake](https://github.com/cake-build/cake) - Cake (C# Make) is a cross platform build automation system with a C# DSL.
 * [Nake](https://github.com/yevhen/Nake) - Magic script-based C# task runner
+* [Nuke](https://github.com/nuke-build/nuke) - Cross-platform build automation system
 
 ## Caching
 
