@@ -594,7 +594,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [MathNet](https://www.mathdotnet.com/) - Math.NET is an opensource initiative to build and maintain toolkits covering fundamental mathematics, targetting advanced but also every day needs of .Net developers
 * [Microsoft Automatic Graph Layout](https://github.com/Microsoft/automatic-graph-layout) - A set of tools for graph layout and viewing.
 * [UnitConversion](https://github.com/Stratajet/UnitConversion) - Expansible Unit Conversion Library for .Net Core and .Net Framework
-* [ALGLIB](http://www.alglib.net/) - ALGLIB is a cross-platform numerical analysis and data processing library. It supports several programming languages (C++, C#, Delphi) and several operating systems (Windows and POSIX, including Linux)
+* [ALGLIB](http://www.alglib.net/) - ALGLIB is a cross-platform numerical analysis and data processing library. It supports several programming languages (C++, C#, Delphi) and several operating systems (Windows and POSIX, including Linux) **[Proprietary]** and **[Free Edition]**
 
 ## Media
 
