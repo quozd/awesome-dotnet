@@ -89,6 +89,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Profiler](#profiler)
   * [Protocols](#protocols)
   * [Push Notifications](#push-notifications)
+  * [Query Builders](#query-builders)
   * [Queue](#queue)
   * [Reactive Programming](#reactive-programming)
   * [Scheduling](#scheduling)
@@ -719,6 +720,10 @@ metadata in media files, including video, audio, and photo formats
 ## Push Notifications
 
 * [PushSharp](https://github.com/Redth/PushSharp) - A server-side library for sending Push Notifications to iOS, OSX, Android, Chrome, Windows Phone, Windows 8, Blackberry, and Amazon devices.
+
+## Query Builders
+* [SqlKata](https://sqlkata.com) - Elegant Sql Query Builder, that supports complex queries, joins, sub queries, nested where conditions, vendor engine targets and more
+
 
 ## Queue
 
