@@ -649,6 +649,7 @@ metadata in media files, including video, audio, and photo formats
 * [ByteSize](https://github.com/omar/ByteSize) - ByteSize is a utility class that makes byte size representation in code easier by removing ambiguity of the value being represented. ByteSize is to bytes what System.TimeSpan is to time.
 * [Jot](https://github.com/anakic/jot) - a library for persisting and restoring application state (a better alternative to .settings files).
 * [Enums.NET](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET is a high-performance type-safe .NET enum utility library
+* [TinyMessenger](https://github.com/grumpydev/TinyMessenger) - A lightweight event aggregator/messenger for loosely coupled communication.
 
 ## MVVM
 
