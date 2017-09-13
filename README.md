@@ -504,6 +504,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Emgu CV](http://www.emgu.com/wiki/index.php/Main_Page) - Cross-platform .NET wrapper for the OpenCV library.
 * [DotImaging](https://github.com/dajuric/dot-imaging) - Minimalistic .NET imaging portable platform
 * [Magick.NET](https://github.com/dlemstra/Magick.NET) - .NET wrapper for the ImageMagick library.
+* [OpenCvSharp](https://github.com/shimat/opencvsharp/) - Cross platform wrapper of OpenCV for .NET Framework.
 
 ## Install tools
 
