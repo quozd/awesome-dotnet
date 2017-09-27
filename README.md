@@ -437,6 +437,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [LibGit2Sharp](https://github.com/libgit2/libgit2sharp) - LibGit2Sharp brings all the might and speed of libgit2, a native Git implementation, to the managed world of .Net and Mono.
 * [NGit](https://github.com/mono/ngit) - NGit is a port of JGit to C#
 * [posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
+* [RepoZ](https://github.com/awaescher/RepoZ) - A Git repository information aggregator with Windows Explorer & CLI-enhancements
 * [Git Credential Manager for Windows](https://github.com/Microsoft/Git-Credential-Manager-for-Windows) - Helps solving issues of credentials, made by Microsoft
 
 ## Graphics
