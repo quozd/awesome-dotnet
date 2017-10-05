@@ -427,6 +427,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
  * [SharpMap](https://github.com/SharpMap) An easy-to-use mapping library for use in web and desktop applications
  * [OsmSharp](http://www.osmsharp.com/) - C# library to work with OpenStreetMap (OSM) data. Provides reading, writing and route-planning for OSM data.
  * [GeoJSON4EntityFramework](https://github.com/alatas/GeoJSON4EntityFramework) - A library to create GeoJSON from Entity Framework Spatial Data or Well-Known Text (WKT) inputs.
+ * [GeoJSON.NET](https://github.com/GeoJSON-Net/GeoJSON.Net) - .Net library for GeoJSON types & corresponding Json.Net (de)serializers
 
 ## Git Tools
 
