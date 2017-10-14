@@ -654,6 +654,7 @@ metadata in media files, including video, audio, and photo formats
 * [Jot](https://github.com/anakic/jot) - a library for persisting and restoring application state (a better alternative to .settings files).
 * [Enums.NET](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET is a high-performance type-safe .NET enum utility library
 * [HidLibrary](https://github.com/mikeobrien/HidLibrary) - This library enables you to enumerate and communicate with HID-compatible USB devices in .NET.
+* [Sprache](https://github.com/sprache/Sprache) - A simple, lightweight library for constructing parsers directly in C# code
 
 ## MVVM
 
