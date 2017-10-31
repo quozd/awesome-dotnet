@@ -236,6 +236,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Umbraco](https://github.com/umbraco/Umbraco-CMS) - Umbraco is a free open source Content Management System built on the ASP.NET platform
 * [BetterCMS](http://www.bettercms.com) - Open Source .NET Intuitive User Interface for Developer and Publisher
 * [DotNetNuke](http://www.dnnsoftware.com/community/download) - DNN Platform is our free, open source web CMS and the foundation of every professional DNN solution. Over 750,000 organizations worldwide have built websites powered by the DNN Platform.
+* [BlogEngine.NET](https://github.com/rxtur/BlogEngine.NET) - Simple but full featured ASP.NET blog
+* [Blogifier.NET](https://github.com/blogifierdotnet/Blogifier.NET) - This project is implementation on top of Blogifier.Core.PostgreSql. It is light-weight ASP.NET Core application with blogging module using PostgreSql database and optimized to run on Linux server. It combines excellent MS development tools with inexpensive Linux hosting solutions, making it a great fit for open source or small business.
 
 ## Code Analysis and Metrics
 
