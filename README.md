@@ -660,6 +660,7 @@ metadata in media files, including video, audio, and photo formats
 * [SystemWrapper](https://github.com/jozefizso/SystemWrapper) - SystemWrapper is .NET library for easier testing of system APIs.
 * [Sprache](https://github.com/sprache/Sprache) - A simple, lightweight library for constructing parsers directly in C# code
 * [YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Ultimate library for extracting metadata and downloading Youtube videos and playlists.
+* [DeviceId](https://github.com/MatthewKing/DeviceId) - Generate a 'device ID' that can be used to uniquely identify a computer.
 
 ## MVVM
 
