@@ -222,6 +222,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [ReadLine](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
 * [SharpNetSH](https://github.com/rpetz/SharpNetSH) - A simple netsh library for C#.
 * [Docopt](https://github.com/docopt/docopt.net) - Command-line interface description language that will make you smile.
+* [posh-dotnet](https://github.com/bergmeister/posh-dotnet) - `PowerShell` tab completion for the [dotnet CLI](https://github.com/dotnet/cli).
 
 ## CLR
 
