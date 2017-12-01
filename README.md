@@ -464,7 +464,6 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Dragablz](https://github.com/ButchersBoy/Dragablz) - Dragable, tearable WPF tab control (similar to Chrome) which supports layouts and is full themeable, including themese compatible with MahApps and Material Design.
 * [Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) - Fluent Ribbon Control Suite is a library that implements an Office- and Windows 8-like Ribbon for WPF.
 * [Office Ribbon](http://officeribbon.codeplex.com/) - A library that implements MS Office Ribbon for WinForms.
-* [Perspex](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework.
 * [MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin) - Theming .NET WinForms, C# or VB.Net, to Google's Material Design principles.
 * [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) - Build native UIs for iOS, Android and Windows from a single, shared C# codebase.
 * [SciterSharp](https://github.com/MISoftware/SciterSharp) - Create .NET cross-platform desktop apps using not just HTML, but all features of Sciter engine: CSS3, SVG, scripting, AJAX, &lt;video&gt;... Sciter is free for commercial use
