@@ -643,6 +643,7 @@ metadata in media files, including video, audio, and photo formats
 * [CsvHelper](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files https://github.com/JoshClose/CsvHelper
 * [FlatMapper](https://github.com/joaomatossilva/FlatMapper) - A library to import and export data from and to plain text files in a LINQ-compatible way.
 * [FluentValidation](https://github.com/JeremySkinner/FluentValidation) - A small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
+* [Valit](https://github.com/valit-stack/Valit) - Valit is dead simple, fluent validation for .NET Core.
 * [Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 * [LINQPad](http://www.linqpad.net) - a C#/VB/F# scratchpad that instantly executes any expression, statement block or program with rich output formatting and a wealth of features. Also lets you interactively query databases in LINQ. [$]
 * [Polly](https://github.com/App-vNext/Polly) - Express transient-exception-handling and resilience policies such as Retry, Wait-and-Retry, Circuit Breaker, and Bulkhead Isolation in a fluent manner. Fully thread-safe and full async support.  (4.0 / 4.5 / .NET Core / .NET Standard / Xamarin).  
