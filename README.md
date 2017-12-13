@@ -71,7 +71,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Interoperability](#interoperability)
   * [IoC](#ioc)
   * [JavaScript Engines](#javascript-engines)
-  * [Kubernetes] (#kubernetes)
+  * [Kubernetes](#kubernetes)
   * [Logging](#logging)
   * [Mail](#mail)
   * [Machine Learning and Data Science](#machine-learning-and-data-science)
