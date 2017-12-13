@@ -71,6 +71,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Interoperability](#interoperability)
   * [IoC](#ioc)
   * [JavaScript Engines](#javascript-engines)
+  * [Kubernetes] (#kubernetes)
   * [Logging](#logging)
   * [Mail](#mail)
   * [Machine Learning and Data Science](#machine-learning-and-data-science)
@@ -564,6 +565,10 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Edge.js](https://github.com/tjanczuk/edge) - Run .NET and Node.js code in-process on Windows, macOS, and Linux
 * [Jint](https://github.com/sebastienros/jint) - JavaScript interpreter for .NET which provides full ECMA 5.1 compliance and can run on any .NET platform.
 * [Jurassic](https://github.com/paulbartrum/jurassic) - A implementation of the ECMAScript language and runtime. It aims to provide the best performing and most standards-compliant implementation of JavaScript for .NET.
+
+## Kubernetes
+
+* [Metaparticle](https://metaparticle.io) - A standard library for cloud native applications on Kubernetes. Metaparticle provides simple, but powerful building blocks, built on top of containers and Kubernetes.
 
 ## Logging
 
