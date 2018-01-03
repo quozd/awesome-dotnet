@@ -454,6 +454,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## GUI
 
+* [QtSharp](https://github.com/ddobrev/QtSharp) - Mono/.NET Bindings for Qt
 * [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - Toolkit for creating Metro-styled WPF apps
 * [Callisto](https://github.com/timheuer/callisto) - A control toolkit for Windows 8 XAML applications. Contains some UI controls to make it easier to create Windows UI style apps for the Windows Store in accordance with Windows UI guidelines.
 * [ObjectListView](http://objectlistview.sourceforge.net/cs/index.html) - ObjectListView is a C# wrapper around a .NET ListView. It makes the ListView much easier to use and teaches it some new tricks
@@ -505,7 +506,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Visual Studio Express](https://www.visualstudio.com/vs/visual-studio-express/) - The free lightweight version of Visual Studio for .NET programming.
 * [Visual Studio Community](https://msdn.microsoft.com/en-us/visual-studio-community-vs.aspx) - A full-featured IDE
 * [Waf DotNetPad](http://dotnetpad.codeplex.com) - A simple and fast code editor that makes fun program with C# or Visual Basic.
-* [Visual Studio Code](https://code.visualstudio.com/) - Excellent free editor from Microsoft, based on GitHub Atom.
+* [Visual Studio Code](https://code.visualstudio.com/) - Excellent open source editor from Microsoft, based on Electron.
 * [Ionide](http://ionide.io/) - An Atom Editor and Visual Studio Code package suite for cross platform F# development.
 * [Rider](https://www.jetbrains.com/rider/) - A cross-platform C# IDE based on the IntelliJ platform and ReSharper
 * [RoslynPad](https://github.com/aelij/RoslynPad) - A simple C# editor based on Roslyn and AvalonEdit.
