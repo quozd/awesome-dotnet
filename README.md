@@ -498,7 +498,6 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [RestEase](https://github.com/canton7/RestEase) - Easy-to-use typesafe REST API client library, which is simple and customisable. Heavily inspired by Refit
 * [RestLess](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
 * [HttpClientGoodies](https://github.com/jeffijoe/httpclientgoodies.net) - utilities for working with `HttpClient`
-* [SugarRestSharp](https://github.com/mattkol/SugarRestSharp) : .NET C# SugarCRM/SuiteCRM Rest API Client.
 
 ## IDE
 
