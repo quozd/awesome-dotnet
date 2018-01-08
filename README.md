@@ -400,7 +400,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET 
 * [Rx Event Aggregator](https://mikebridge.github.io/articles/csharp-domain-event-aggregator/) - Super-simple Reactive-Extension code from Reactive.EventAggregator
 * [TinyMessenger](https://github.com/grumpydev/TinyMessenger) - A lightweight event aggregator/messenger for loosely coupled communication.
-
+* [Xer.Cqrs](https://github.com/jeyjeyemem/Xer.Cqrs) - A simple library for creating applications based on the CQRS pattern with support for attribute routing and hosted handlers. Developed in C# targeting .NET Standard 1.0.
 
 ## Exceptions
 * [Exceptionless](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
