@@ -157,7 +157,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Artificial Intelligence
 * [AIMLBot (Program#)](http://aimlbot.sourceforge.net/) - A small, fast, standards-compliant yet easily customizable implementation of an AIML (Artificial Intelligence Markup Language) based chatter bot in C#.
-* [SIML](http://simlbot.com/) - Synthetic Intelligence Markup Language, a next generation Chatbot & Digital Assistant Language.
+* [SIML](https://simlbot.com/) - Synthetic Intelligence Markup Language, a next generation Chatbot & Digital Assistant Language.
 
 ## Assembly Manipulation
 
@@ -257,7 +257,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## Code Snippets
 
 * [.NET Fiddle](https://dotnetfiddle.net/) - Write, compile and run C# code in the browser. The C# equivalent of JSFiddle.
-* [Gistlyn](http://gistlyn.com/) - Create, run and share your executable C# GitHub Gists.
+* [Gistlyn](https://gistlyn.com/) - Create, run and share your executable C# GitHub Gists.
 * [TryRoslyn](https://sharplab.io/) - Run C# code using different branches and versions of Roslyn.
 
 ## Compilers, Transpilers and Languages
@@ -308,7 +308,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [LiteDB](https://github.com/mbdavid/LiteDB) - A .NET NoSQL Document Store in a single data file - http://www.litedb.org
 * [RavenDB](https://github.com/ravendb/ravendb) - A LINQ-enabled document database for .NET
 * [Marten](https://github.com/JasperFx/marten) - PostgreSQL as a document database and event store for .NET applications
-* [Realm Xamarin](https://github.com/realm/realm-dotnet) - A fast, easy-to-use alternative to SQLite & ORMs - https://realm.io/docs/xamarin/latest/
+* [Realm Xamarin](https://github.com/realm/realm-dotnet) - A fast, easy-to-use alternative to SQLite & ORMs - https://realm.io/docs/dotnet/latest/
 * [Streamstone](https://github.com/yevhen/Streamstone) - Event store for Azure Table Storage
 * [Ignite](https://github.com/apache/ignite) - Distributed in-memory platform: document database with SQL and LINQ support; distributed computations; distributed services and events.
 * [Yessql](https://github.com/sebastienros/yessql) - A .NET document database working on any RDBMS
@@ -382,7 +382,6 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [ServiceStack.Stripe](https://github.com/ServiceStack/Stripe) - Typed .NET clients for stripe.com REST APIs
 * [SmartStoreNET](https://github.com/smartstoreag/SmartStoreNET) - Free ASP.NET MVC e-commerce Shopping Cart Solution https://www.smartstore.com/en/net
 * [Stripe.Net](https://github.com/stripe/stripe-dotnet) - Stripe.net is a full service .NET API for https://stripe.com/
-* [BeYourMarket](https://github.com/beyourmarket/beyourmarket) - BeYourMarket is a peer-to-peer marketplace framework http://beyourmarket.com
 * [Virto Commerce](https://github.com/VirtoCommerce/vc-platform) - Virto Commerce is the second generation release and is the only enterprise level e-commerce product fully available under Open Source license. Virto Commerce is based on .NET 4.5 with extensive use of MVC, IoC, EF, Azure, AngularJS and many other cutting edge technologies. It can be deployed in Microsoft Cloud (Azure), Amazon Web Services (AWS) and on-premise. https://virtocommerce.com
 * [SimplCommerce](https://github.com/simplcommerce/simplcommerce) - Super simple ecommerce system built on .NET Core. Simple to use and easy to customize. Thanks to .NET Core, you can run the SimplCommerce on Windows, Linux. With various RDBMS: Microsoft SQL Server, PostgreSQL, MySQL
 
@@ -641,7 +640,6 @@ metadata in media files, including video, audio, and photo formats
 ## Misc
 * [CSharp Pad](http://csharppad.com) - A web-based C# REPL with awesome code completion.
 * [AzureCrawler](https://github.com/yagopv/AzureCrawler) - Take HTML Snapshots for your Angular, Ember, Durandal or any JavaScript applications
-* [BitSharp](https://github.com/pmlyon/BitSharp) - C# Bitcoin Node
 * [CSScript](http://www.csscript.net/) - CS-Script is a CLR based scripting system which uses C# as a programming language. CS-Script currently targets Microsoft implementation of CLR (.NET 2.0/3.0/3.5/4.0/4.5) with full support on Mono. Comes with many additional features, such as script hosting.
 * [CsvHelper](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files https://github.com/JoshClose/CsvHelper
 * [FlatMapper](https://github.com/joaomatossilva/FlatMapper) - A library to import and export data from and to plain text files in a LINQ-compatible way.
@@ -925,7 +923,7 @@ metadata in media files, including video, audio, and photo formats
 * [IISNode](https://github.com/tjanczuk/iisnode) - Host Node.js applications in IIS
 * [Suave.IO](https://suave.io/) - Framework/library/web server that makes you cry tears of joy after finishing your project ahead-of-time when you look at the beautiful code you've written in F#.
 * [DotVVM](https://github.com/riganti/dotvvm) - MVVM framework for people who don't like to write JavaScript, with OWIN and ASP.NET Core support and a free extension for Visual Studio 2015 and 2017.
-* [Giraffe](https://github.com/dustinmoris/Giraffe) - Functional (F#) ASP.NET Core micro framework for building rich web applications
+* [Giraffe](https://github.com/giraffe-fsharp/Giraffe) - Functional (F#) ASP.NET Core micro framework for building rich web applications
 
 ## Web Servers
 
