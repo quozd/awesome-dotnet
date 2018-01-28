@@ -130,6 +130,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
 * [Nelibur](https://github.com/Nelibur/Nelibur) - Nelibur is message based web service framework on the pure WCF. Nelibur simplifies creating high-performance and message-based web services and you certainly have all the power of the WCF.
 * [WebAPI Contrib](https://github.com/WebApiContrib/WebAPIContrib) - Collection of open source projects to help improve your work with ASP.NET Web API
+* [Sieve](https://github.com/biarity/sieve) - Clean & extensible Sorting, Filtering, and Pagination for ASP.NET Core
 
 ## Application Frameworks
 
@@ -181,6 +182,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [IdentityServer](https://github.com/IdentityServer) - Extensible OAuth2 and OpenID Connect provider framework.
 * [OAuth](https://github.com/danielcrenna/vault/tree/master/oauth) - A very lightweight library for generating OAuth 1.0a signatures written in C#
 * [Stuntman](http://rimdev.io/stuntman/) - Stuntman is a library for impersonating users during development leveraging .NET Claims Identity.
+* [Cierge](https://github.com/pwdless/cierge) - Passwordless OpenID Connect server that handles user signup, login, profiles, management, social logins, and more.
 
 ## Books
 
