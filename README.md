@@ -439,6 +439,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [GitLink](https://github.com/GitTools/GitLink) - let's users step through their code hosted on GitHub or BitBucket
 * [GitVersion](https://github.com/GitTools/GitVersion) - Generate a Semantic Version Number based on the state of your Git repository
 * [LibGit2Sharp](https://github.com/libgit2/libgit2sharp) - LibGit2Sharp brings all the might and speed of libgit2, a native Git implementation, to the managed world of .NET and Mono.
+* [GitRead.Net](https://github.com/kingsimmy/GitRead.Net) - GitRead.Net is a .NET Standard library which allows you to very easily interrogate a Git repository that you have on disk. It allows you to enumerate the commit log, count lines per file and list files changed by a commit.
 * [NGit](https://github.com/mono/ngit) - NGit is a port of JGit to C#
 * [posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 * [RepoZ](https://github.com/awaescher/RepoZ) - A Git repository information aggregator with Windows Explorer & CLI-enhancements
