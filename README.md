@@ -224,6 +224,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [SharpNetSH](https://github.com/rpetz/SharpNetSH) - A simple netsh library for C#.
 * [CliWrap](https://github.com/Tyrrrz/CliWrap) - Wrapper for command line interfaces.
 * [Docopt](https://github.com/docopt/docopt.net) - Command-line interface description language that will make you smile.
+* [CsConsoleFormat](https://github.com/Athari/CsConsoleFormat) - .NET C# library for advanced formatting of console output.
 
 ## CLR
 
