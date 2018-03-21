@@ -31,6 +31,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Authentication and Authorization](#authentication-and-authorization)
   * [Books](#books)
   * [Build Automation](#build-automation)
+  * [Business Intelligence and Reporting](#business-intelligence)
   * [Caching](#caching)
   * [CLI](#cli)
   * [CLR](#clr)
@@ -200,6 +201,10 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Cake](https://github.com/cake-build/cake) - Cake (C# Make) is a cross-platform build automation system with a C# DSL.
 * [Nake](https://github.com/yevhen/Nake) - Magic script-based C# task runner
 * [Nuke](https://github.com/nuke-build/nuke) - Cross-platform build automation system
+
+## Business Intelligence
+
+* [NReco PivotData](https://www.nrecosite.com/pivot_data_library_net.aspx) - in-memory data aggregation/OLAP library, pivot tables generation (render to HTML, exports), ASP.NET pivot builder control **[$][Free for single-deployment/non-SaaS]**
 
 ## Caching
 
