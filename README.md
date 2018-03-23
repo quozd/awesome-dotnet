@@ -627,6 +627,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [TagLib#](https://github.com/mono/taglib-sharp) - TagLib# (aka taglib-sharp) is a library for reading and writing
 metadata in media files, including video, audio, and photo formats
 * [NAudio](https://github.com/naudio/NAudio) - Playback, decode and encode audio in a variety of file formats such as MP3, MP4, WAV, AIFF, Speex, etc.
+* [Xabe.FFmpeg](https://github.com/tomaszzmuda/Xabe.FFmpeg) - .NET Standard wrapper for FFmpeg. It allows to process media without know how FFmpeg works, and can be used to pass customized arguments to FFmpeg from C# application. **[$]**
 
 ## Metrics
 
