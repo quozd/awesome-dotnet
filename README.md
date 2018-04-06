@@ -505,6 +505,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## IDE
 
+* [AvalonStudio](https://github.com/VitalElement/AvalonStudio) - An extensible, cross platform IDE written in C# for Embedded C/C++, .NET Core, Avalonia and Typescript
 * [SharpDevelop](https://github.com/icsharpcode/SharpDevelop) - A free IDE for .NET programming languages
 * [MonoDevelop](https://github.com/mono/monodevelop) - MonoDevelop is a cross-platform IDE mostly aimed at Mono/.NET developers
 * [Visual Studio Express](https://www.visualstudio.com/vs/visual-studio-express/) - The free lightweight version of Visual Studio for .NET programming.
