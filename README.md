@@ -803,6 +803,7 @@ metadata in media files, including video, audio, and photo formats
 * [Azure PowerShell](https://github.com/Azure/azure-powershell) - A set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications
 * [Octokit.NET](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
 * [DropNet](https://github.com/DropNet/DropNet) - Client library for the Dropbox API
+* [Getty Images API SDK](https://github.com/gettyimages/gettyimages-api_dotnet) - SDK for the Getty Images and iStock APIs
 
 ## Search
 
