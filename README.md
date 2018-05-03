@@ -983,3 +983,4 @@ metadata in media files, including video, audio, and photo formats
 # Resources
 
 * [Weekly C# Digest](https://csharpdigest.net/) - Weekly email newsletter with manually curated top 5 links from the .NET community.
+* [Commmunity Curated ASP.NET Resources](https://hackr.io/tutorials/learn-asp-net) - A list of most recommended resources for learning ASP.NET
