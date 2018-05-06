@@ -58,6 +58,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Extensions librairies](#extensions)
   * [Functional programming](#functional-programming)
   * [Game](#game)
+  * [GPU](#gpu)
   * [GIS](#gis)
   * [Git Tools](#git-tools)
   * [Graphics](#graphics)
@@ -426,6 +427,9 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Wave Engine](https://waveengine.net/Engine) - Wave engine is a free C# component-based modern game engine which allows you to create cross-platform games supporting Kinect, Oculus Rift, Vuforia, Cardboard, Leap Motion and much more. **[Free][Proprietary]**
 * [UrhoSharp](https://github.com/xamarin/urho) - UrhoSharp is a C# implementation of the Urho3D game engine that runs on iOS, Mac, Windows, Android and Linux systems
 * [Nez](https://github.com/prime31/Nez) - Nez is a free 2D-focused framework that works with MonoGame and FNA
+
+## GPU
+* [Alea GPU](http://www.aleagpu.com) - provides CUDA support for all .NET languages, is fully cross platform.  **[$]**
 
 ## GIS
 
