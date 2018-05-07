@@ -395,6 +395,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## ETL
 
+* [Cinchoo ETL](https://github.com/Cinchoo/ChoETL) - ETL Framework for .NET (Read / Write CSV, Flat, Xml, JSON, Key-Value formatted files)
 * [Reactive ETL](https://reactiveetl.codeplex.com/) - Reactive ETL is a rewrite of Rhino ETL using the reactive extensions for .NET
 
 ## Event aggregator and messenger
