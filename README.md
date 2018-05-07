@@ -511,9 +511,9 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [AvalonStudio](https://github.com/VitalElement/AvalonStudio) - An extensible, cross platform IDE written in C# for Embedded C/C++, .NET Core, Avalonia and Typescript
 * [SharpDevelop](https://github.com/icsharpcode/SharpDevelop) - A free IDE for .NET programming languages
 * [MonoDevelop](https://github.com/mono/monodevelop) - MonoDevelop is a cross-platform IDE mostly aimed at Mono/.NET developers
-* [Visual Studio Express](https://www.visualstudio.com/vs/express) - The free lightweight version of Visual Studio for .NET programming.
+* [Visual Studio Express](https://www.visualstudio.com/vs/express/) - The free lightweight version of Visual Studio for .NET programming.
 * [Visual Studio Community](https://msdn.microsoft.com/en-us/visual-studio-community-vs.aspx) - A full-featured IDE
-* [Waf DotNetPad](http://dotnetpad.codeplex.com) - A simple and fast code editor that makes fun program with C# or Visual Basic.
+* [Waf DotNetPad](http://jbe2277.github.io/dotnetpad/) - A simple and fast code editor that makes fun program with C# or Visual Basic.
 * [Visual Studio Code](https://code.visualstudio.com/) - Excellent open source editor from Microsoft, based on Electron.
 * [Ionide](http://ionide.io/) - An Atom Editor and Visual Studio Code package suite for cross platform F# development.
 * [Rider](https://www.jetbrains.com/rider/) - A cross-platform C# IDE based on the IntelliJ platform and ReSharper
@@ -625,7 +625,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 * [MathNet](https://www.mathdotnet.com/) - Math.NET is an open source initiative to build and maintain toolkits covering fundamental mathematics, targetting advanced but also every day needs of .NET developers
 * [Microsoft Automatic Graph Layout](https://github.com/Microsoft/automatic-graph-layout) - A set of tools for graph layout and viewing.
-* [UnitConversion](https://github.com/Stratajet/UnitConversion) - Expansible Unit Conversion Library for .NET Core and .NET Framework
+* [UnitConversion](https://github.com/gkampolis/UnitConversion) - Expansible Unit Conversion Library for .NET Core and .NET Framework
 * [ALGLIB](http://www.alglib.net/) - ALGLIB is a cross-platform numerical analysis and data processing library. It supports several programming languages (C++, C#, Delphi) and several operating systems (Windows and POSIX, including Linux) **[Proprietary]** and **[Free Edition]**
 * [AutoDiff](https://github.com/alexshtf/autodiff) - AutoDiff is a library for quickly computing gradients of functions defined by expressions. Mainly useful in numerical optimization
 * [GeometRi](https://github.com/RiSearcher/GeometRi) - Simple and lightweight computational geometry library for .Net
@@ -647,7 +647,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## Minification
 
-* [Microsoft Ajax Minifier](http://ajaxmin.codeplex.com/) - Contains JS and CSS minifiers which have a highest performance, because its have been specifically designed for .NET. Optionally produce Source Maps for JS code.
+* [Microsoft Ajax Minifier](https://archive.codeplex.com/?p=ajaxmin) - Contains JS and CSS minifiers which have a highest performance, because its have been specifically designed for .NET. Optionally produce Source Maps for JS code.
 * [Web Markup Minifier](https://github.com/Taritsyn/WebMarkupMin) - .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.
 
 ## Misc
@@ -662,10 +662,10 @@ metadata in media files, including video, audio, and photo formats
 * [Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 * [LINQPad](http://www.linqpad.net) - a C#/VB/F# scratchpad that instantly executes any expression, statement block or program with rich output formatting and a wealth of features. Also lets you interactively query databases in LINQ. [$]
 * [Polly](https://github.com/App-vNext/Polly) - Express transient-exception-handling and resilience policies such as Retry, Wait-and-Retry, Circuit Breaker, and Bulkhead Isolation in a fluent manner. Fully thread-safe and full async support.  (4.0 / 4.5 / .NET Core / .NET Standard / Xamarin).  
-* [Rant](https://github.com/TheBerkin/Rant) - The Rant Procedural Text Generation DSL http://berkin.me/rant/
+* [Rant](https://github.com/TheBerkin/Rant) - The Rant Procedural Text Generation DSL https://berkin.me/rant/
 * [ScriptCS](https://github.com/scriptcs/scriptcs) - Write C# apps with a text editor, NuGet and the power of Roslyn!
 * [Shielded](https://github.com/jbakic/Shielded) - Software Transactional Memory (STM) implementation for .NET
-* [MSBuild ILMerge task](https://ilmergemsbuild.codeplex.com/) - MSBuild ILMerge task is a NuGet package allows you to use the famous ILMerge utility in automated builds and/or Visual Studio projects.
+* [MSBuild ILMerge task](https://archive.codeplex.com/?p=ilmergemsbuild) - MSBuild ILMerge task is a NuGet package allows you to use the famous ILMerge utility in automated builds and/or Visual Studio projects.
 * [ReactJS.NET](https://github.com/reactjs/React.NET) - ReactJS.NET is a library that makes it easier to use Babel along with Facebook's React and JSX from C#.
 * [Aeron.NET](https://github.com/AdaptiveConsulting/Aeron.NET) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport - .NET port of Aeron
 * [TypeShape](https://github.com/eiriktsarpalis/TypeShape) - TypeShape is a small, extensible F# library for practical generic programming
@@ -684,7 +684,7 @@ metadata in media files, including video, audio, and photo formats
 ## MVVM
 
 * [Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro) - A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV* patterns will enable you to build your solution quickly, without the need to sacrifice code quality or testability.
-* [MVVM Light Toolkit](https://mvvmlight.codeplex.com/) - The main purpose of the toolkit is to accelerate the creation and development of MVVM applications in WPF, Silverlight, Windows Store (RT) and for Windows Phone
+* [MVVM Light Toolkit](https://github.com/lbugnion/mvvmlight) - The main purpose of the toolkit is to accelerate the creation and development of MVVM applications in WPF, Silverlight, Windows Store (RT) and for Windows Phone
 * [Catel](http://catelproject.com/) - Catel is an application development platform with the focus on MVVM (WPF, Silverlight, Windows Phone and WinRT) and MVC (ASP.NET MVC). The core of Catel contains an IoC container, models, validation, memento, message mediator, argument checking, etc.
 * [UpdateControls](http://updatecontrols.net/cs/) - Update Controls does not require that you implement `INotifyPropertyChanged` or declare a `DependencyProperty`. It connects controls directly to CLR properties. This makes it perfect for the Model/View/ViewModel pattern.
 * [ReactiveUI](https://github.com/reactiveui/reactiveui/) - An MVVM framework for .NET that integrates the Reactive Extensions (Rx) framework, enabling developers to build elegant, testable applications using WPF, Windows Store Apps, WP8 or Xamarin.
@@ -708,8 +708,8 @@ metadata in media files, including video, audio, and photo formats
 
 * [ExcelDna](https://github.com/Excel-DNA/ExcelDna) - ExcelDna makes it easier to create and deploy Excel Add-Ins using C#, F# or VB .NET
 * [ClosedXML](https://github.com/ClosedXML/ClosedXML) - ClosedXML makes it easier for developers to create Excel 2007/2010 files
-* [NPOI](http://npoi.codeplex.com/) - This project is the .NET version of POI Java project at http://poi.apache.org/.
-* [EPPlus](http://epplus.codeplex.com/) - EPPlus is a .NET library that reads and writes Excel 2007/2010 files using the Open Office XML format (xlsx).
+* [NPOI](https://github.com/tonyqus/npoi) - This project is the .NET version of POI Java project at http://poi.apache.org/.
+* [EPPlus](https://github.com/JanKallman/EPPlus) - EPPlus is a .NET library that reads and writes Excel 2007/2010 files using the Open Office XML format (xlsx).
 * [Open XML SDK](https://github.com/officedev/open-xml-sdk) - The Open XML SDK provides open-source libraries for working with Open XML Documents (DOCX, XLSX, and PPTX).
 * [DocX](https://github.com/xceedsoftware/DocX) - DocX is a .NET library that allows developers to manipulate Word 2007/2010/2013 files, it does not require Microsoft Word or Office to be installed.
 * [ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files (2.0-2007).
@@ -722,7 +722,7 @@ metadata in media files, including video, audio, and photo formats
 * [Dapper Extensions](https://github.com/tmsmith/Dapper-Extensions) - Small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs
 * [Dapper.FastCRUD](https://github.com/MoonStorm/Dapper.FastCRUD) - The fastest micro-ORM extension for Dapper
 * [NHibernate](https://github.com/nhibernate) - NHibernate Object Relational Mapper
-* [Fluent NHibernate](https://github.com/jagregory/fluent-nhibernate) - Fluent, XML-less, compile safe, automated, convention-based mappings for NHibernate.
+* [Fluent NHibernate](https://github.com/FluentNHibernate/fluent-nhibernate) - Fluent, XML-less, compile safe, automated, convention-based mappings for NHibernate.
 * [FluentMigrator](https://github.com/fluentmigrator/fluentmigrator) - Fluent Migrations framework for .net
 * [ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) - Light, simple and fast convention-based POCO ORM **[[Free for OSS](https://github.com/ServiceStack/ServiceStack.OrmLite/blob/master/license.txt)]** **[$]**
 * [Massive](https://github.com/FransBouma/Massive) - A small, happy, data access tool that will love you forever.
@@ -787,7 +787,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## Reactive Programming
 
-* [Rx.NET](https://github.com/Reactive-Extensions/Rx.NET) - The Reactive Extensions (Rx) is a library for composing asynchronous and event-based programs using observable sequences and LINQ-style query operators
+* [Rx.NET](https://github.com/dotnet/reactive) - The Reactive Extensions (Rx) is a library for composing asynchronous and event-based programs using observable sequences and LINQ-style query operators
 * [Dynamic Data](https://github.com/RolandPheasant/DynamicData) - Reactive Extensions (Rx) for collections
 
 ## Scheduling
@@ -877,7 +877,7 @@ metadata in media files, including video, audio, and photo formats
 * [Machine.Specifications](https://github.com/machine/machine.specifications) - Machine.Specifications (MSpec) is a context/specification framework that removes language noise and simplifies tests.
 * [Moq](https://github.com/Moq/moq4) - The most popular and friendly mocking framework for .NET
 * [NBuilder](https://github.com/garethdown44/nbuilder) - Rapid generation of test objects
-* [NCrunch](http://www.ncrunch.net) - An automated continuous & concurrent testing tool for Visual Studio. **[$]**
+* [NCrunch](http://www.ncrunch.net/) - An automated continuous & concurrent testing tool for Visual Studio. **[$]**
 * [NSubstitute](http://nsubstitute.github.io/) - A friendly substitute for .NET mocking frameworks
 * [NUnit](https://github.com/nunit/nunit) - A unit-testing framework for all .NET languages
 * [Rhino Mocks](https://github.com/ayende/rhino-mocks) - Dynamic Mocking Framework for .NET
@@ -924,7 +924,7 @@ metadata in media files, including video, audio, and photo formats
 * [CodeContracts](https://github.com/Microsoft/CodeContracts) - Source code for the CodeContracts tools for .NET
 * [Git Diff Margin](https://github.com/laurentkempe/GitDiffMargin) - Displays live Git changes of the currently edited file on Visual Studio margin and scroll bar
 * [Productivity Power Tools](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.ProductivityPowerTools) - A set of extensions to Visual Studio Professional (and above) which improves developer productivity.
-* [VSColorOutput](https://www.visualstudiogallery.msdn.microsoft.com/f4d9c2b5-d6d7-4543-a7a5-2d7ebabc2496) - Color highlighting for Build, Find and Debug output windows. Custom match patterns and colors can be added.
+* [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput) - Color highlighting for Build, Find and Debug output windows. Custom match patterns and colors can be added.
 * [Developer Assistant](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.DeveloperAssistant) - Developer Assistant for Visual Studio enables developers to find and reuse over 21 million code snippets and code sample projects from within the Visual Studio IDE.
 * [CodeLineage](https://marketplace.visualstudio.com/items?itemName=HippoCampSoftwareLtd.CodeLineage) - Easy access to a cumulative diff view between file revisions (supports svn, git, mercurial, perforce).
 * [OzCode](https://marketplace.visualstudio.com/items?itemName=CodeValueLtd.OzCode) - OzCode is a Visual Studio Extension which cuts down on debugging time and increases productivity by detecting and isolating bugs, making them easy to fix. **[$]**
@@ -935,7 +935,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## Web Frameworks
 
-* [ASP.NET MVC](https://aspnetwebstack.codeplex.com/) - ASP.NET is a free web framework for building great web sites and applications
+* [ASP.NET MVC](https://www.asp.net/) - ASP.NET is a free web framework for building great web sites and applications
 * [FubuMVC](https://github.com/DarthFubuMVC/fubumvc) - A front-controller style MVC framework for .NET
 * [NancyFx](https://github.com/NancyFx/Nancy) - Lightweight, low-ceremony, framework for building HTTP-based services on .NET and Mono
 * [IISNode](https://github.com/tjanczuk/iisnode) - Host Node.js applications in IIS
@@ -955,9 +955,9 @@ metadata in media files, including video, audio, and photo formats
 * [SignalR](https://github.com/SignalR/SignalR) - Library for ASP.NET developers that makes it incredibly simple to add real-time web functionality to your applications
 * [SuperSocket](https://github.com/kerryjiang/SuperSocket) - SuperSocket is a light weight extensible socket application framework
 * [Websocket-Sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
-* [WebSocket4NET](https://websocket4net.codeplex.com) - WebSocket client for .NET 2.0+, Xamarin, Mono, Silverlight, Windows Phone, & WinRT
-* [Crossertech](https://crossertech.com/) - Provides a great set of tools for you to build real-time applications on the Microsoft.NET plattform and much more. **[$]**
-* [WampSharp](https://github.com/Code-Sharp/WampSharp) - A C# implementation of [The Web Application Messaging Protocol](http://wamp-proto.org/) - a protocol that provides messaging patterns of Remote Procedure Calls and Publish/Subscribe over WebSockets.
+* [WebSocket4NET](https://archive.codeplex.com/?p=websocket4net) - WebSocket client for .NET 2.0+, Xamarin, Mono, Silverlight, Windows Phone, & WinRT
+* [Crossertech](http://crosser.io/) - Provides a great set of tools for you to build real-time applications on the Microsoft.NET plattform and much more. **[$]**
+* [WampSharp](https://github.com/Code-Sharp/WampSharp) - A C# implementation of [The Web Application Messaging Protocol](https://wamp-proto.org/) - a protocol that provides messaging patterns of Remote Procedure Calls and Publish/Subscribe over WebSockets.
 * [NetGain](https://github.com/StackExchange/NetGain) - A high performance WebSocket server library powering Stack Overflow.
 * [Websockets.PCL](https://github.com/NVentimiglia/Websockets.PCL) - WebSockets.PCL is a portable class library, profile 259, C# WebSocket implementation.
 
