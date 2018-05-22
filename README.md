@@ -988,4 +988,5 @@ metadata in media files, including video, audio, and photo formats
 
 # Resources
 
+* [Discover .NET](https://discoverdot.net) - Awesome .NET open source and community resources.
 * [Weekly C# Digest](https://csharpdigest.net/) - Weekly email newsletter with manually curated top 5 links from the .NET community.
