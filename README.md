@@ -162,7 +162,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Assembly Manipulation
 
-* [Fody](https://github.com/Fody/Fody) - Extensible tool for weaving .NET assemblies
+* [Fody](https://github.com/Fody/Fody) - Extensible tool for weaving .NET assemblies.
+* [ILRepack](https://github.com/gluck/il-repack) - Open-source alternative to ILMerge.
 * [Mono.Cecil](https://github.com/jbevain/cecil) - Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.
 
 ## Assets
