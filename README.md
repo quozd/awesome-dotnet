@@ -133,8 +133,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Application Frameworks
 
+* [.NET Boxed Framework](https://github.com/Dotnet-Boxed/Framework) - .NET Core Extensions and Helper NuGet packages
 * [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - A starting point for new modern ASP.NET MVC web applications with best practices and most popular tools.
-* [ASP.NET MVC Boilerplate Framework](https://github.com/Dotnet-Boxed/Framework) - ASP.NET MVC Extensions and Helper NuGet packages.
 * [Orleans](https://github.com/dotnet/orleans) - Orleans is a framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns
 * [CoreFX](https://github.com/dotnet/corefx) -  The corefx repo contains the library implementation (called "CoreFX") for .NET Core. It includes System.Collections, System.IO, System.Xml and many other components.
 * [CSLA .NET](https://github.com/MarimerLLC/csla) - business layer development framework http://cslanet.com/
@@ -148,8 +148,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Application Templates
 
+* [.NET Boxed Templates](https://github.com/Dotnet-Boxed/Templates) - .NET project templates with batteries included, providing the minimum amount of code required to get you going faster.
 * [ASP.NET Core Starter Kit](https://github.com/kriasoft/aspnet-starter-kit) - backend: .NET Core, EF Core, C#; frontend: Babel, Webpack, React, CSS Modules
-* [ASP.NET MVC Boilerplate](https://github.com/Dotnet-Boxed/Templates) - Professional ASP.NET MVC templates for building secure, fast, robust and adaptable web applications or sites. It provides the minimum amount of code required on top of the default MVC template provided by Microsoft.
 * [MVC.Template](https://github.com/NonFactors/MVC6.Template) - ASP.NET Core MVC project starter template.
 * [ProjectScaffold](https://github.com/fsprojects/ProjectScaffold) - A prototypical .NET solution recommended by the F# Foundation---includes file system setup, Paket for dependencies and FAKE for build/test automation. By default, build process also compiles documentation and generates NuGet packages.
 * [Serene](https://github.com/volkanceylan/Serenity) - Serenity is an ASP.NET MVC application platform designed to simplify and shorten development of data-centric business applications with a service-based architecture. Serene is a starter template to build Serenity applications.
