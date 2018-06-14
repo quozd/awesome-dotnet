@@ -917,6 +917,7 @@ metadata in media files, including video, audio, and photo formats
 
 * [Atata](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
 * [Managed Windows API](http://mwinapi.sourceforge.net/) - Introspect and automate third-party Windows / VC++ applications without needing its source code.
+* [FlaUI](https://github.com/Roemer/FlaUI) - FlaUI is a .NET library which helps with automated UI testing of Windows applications (Win32, WinForms, WPF, Store Apps, ...).
 
 ## Visual Studio Plugins
 
