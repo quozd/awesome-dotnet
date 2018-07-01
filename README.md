@@ -452,6 +452,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 * [RepoZ](https://github.com/awaescher/RepoZ) - A Git repository information aggregator with Windows Explorer & CLI-enhancements
 * [Git Credential Manager for Windows](https://github.com/Microsoft/Git-Credential-Manager-for-Windows) - Helps solving issues of credentials, made by Microsoft
+* [GitMind](http://michael-reichenauer.github.io/GitMind/) - GitMind is a visual Windows Git client, which intends to make it easier to use Git when using a branching model similar to e.g. GitFlow. The goal is to visualize the branch structure on screen in the same way as the you imagines the structure in your mind.
 
 ## Graphics
 
