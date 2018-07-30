@@ -137,7 +137,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - A starting point for new modern ASP.NET MVC web applications with best practices and most popular tools.
 * [Orleans](https://github.com/dotnet/orleans) - Orleans is a framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns
 * [CoreFX](https://github.com/dotnet/corefx) -  The corefx repo contains the library implementation (called "CoreFX") for .NET Core. It includes System.Collections, System.IO, System.Xml and many other components.
-* [CSLA .NET](https://github.com/MarimerLLC/csla) - business layer development framework http://cslanet.com/
+* [CSLA .NET](https://github.com/MarimerLLC/csla) - business layer development framework https://cslanet.com/
 * [Mono](https://github.com/mono/mono) - Open source ECMA CLI, C#, F#, VB and .NET implementation
 * [Mono-Addins](https://github.com/mono/mono-addins) - Mono.Addins is a generic framework for creating extensible applications, and for creating add-ins which extend those applications
 * [peasy](https://github.com/peasy/Peasy.NET) - Peasy is a middle tier framework that offers an easy to use and flexible rules engine and was designed to address common challenges such as concurrency handling, transactional support, fault tolerance, threading, scalability, async and multiple client support, and easy testability, all without a huge learning curve!
@@ -210,7 +210,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## Caching
 
 * [CacheCow](https://github.com/aliostad/CacheCow) - An ASP.NET Web API HTTP caching implementation both on client and server
-* [Akavache](https://github.com/akavache/Akavache) - An asynchronous, persistent key-value store
+* [Akavache](https://github.com/reactiveui/Akavache) - An asynchronous, persistent key-value store
 * [CacheManager](https://github.com/MichaCo/CacheManager) - A common interface and abstraction layer for caching.
 * [CacheAdapter](https://bitbucket.org/glav/cacheadapter) - Another common cache abstraction layer for caching with enhanced cache API usage.
 * [Foundatio](https://github.com/FoundatioFx/Foundatio#caching) - A common interface with in memory, Redis and hybrid implementations.
@@ -319,7 +319,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [LiteDB](https://github.com/mbdavid/LiteDB) - A .NET NoSQL Document Store in a single data file - http://www.litedb.org
 * [RavenDB](https://github.com/ravendb/ravendb) - A LINQ-enabled document database for .NET
 * [Marten](https://github.com/JasperFx/marten) - PostgreSQL as a document database and event store for .NET applications
-* [Realm Xamarin](https://github.com/realm/realm-dotnet) - A fast, easy-to-use alternative to SQLite & ORMs - https://www.realm.io/docs/dotnet/latest/
+* [Realm Xamarin](https://github.com/realm/realm-dotnet) - A fast, easy-to-use alternative to SQLite & ORMs - https://realm.io/docs/dotnet/latest/
 * [Streamstone](https://github.com/yevhen/Streamstone) - Event store for Azure Table Storage
 * [Ignite](https://github.com/apache/ignite) - Distributed in-memory platform: document database with SQL and LINQ support; distributed computations; distributed services and events.
 * [Yessql](https://github.com/sebastienros/yessql) - A .NET document database working on any RDBMS
@@ -521,8 +521,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [AvalonStudio](https://github.com/VitalElement/AvalonStudio) - An extensible, cross platform IDE written in C# for Embedded C/C++, .NET Core, Avalonia and Typescript
 * [SharpDevelop](https://github.com/icsharpcode/SharpDevelop) - A free IDE for .NET programming languages
 * [MonoDevelop](https://github.com/mono/monodevelop) - MonoDevelop is a cross-platform IDE mostly aimed at Mono/.NET developers
-* [Visual Studio Express](https://www.visualstudio.com/vs/express/) - The free lightweight version of Visual Studio for .NET programming.
-* [Visual Studio Community](https://msdn.microsoft.com/en-us/visual-studio-community-vs.aspx) - A full-featured IDE
+* [Visual Studio Express](https://visualstudio.microsoft.com/vs/express/) - The free lightweight version of Visual Studio for .NET programming.
+* [Visual Studio Community](https://www.visualstudio.com/vs/community/) - A full-featured IDE
 * [Waf DotNetPad](http://jbe2277.github.io/dotnetpad/) - A simple and fast code editor that makes fun program with C# or Visual Basic.
 * [Visual Studio Code](https://code.visualstudio.com/) - Excellent open source editor from Microsoft, based on Electron.
 * [Ionide](http://ionide.io/) - An Atom Editor and Visual Studio Code package suite for cross platform F# development.
@@ -672,7 +672,7 @@ metadata in media files, including video, audio, and photo formats
 * [FluentValidation](https://github.com/JeremySkinner/FluentValidation) - A small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
 * [Valit](https://github.com/valit-stack/Valit) - Valit is dead simple, fluent validation for .NET Core.
 * [Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
-* [LINQPad](http://www.linqpad.net) - a C#/VB/F# scratchpad that instantly executes any expression, statement block or program with rich output formatting and a wealth of features. Also lets you interactively query databases in LINQ. [$]
+* [LINQPad](https://www.linqpad.net) - a C#/VB/F# scratchpad that instantly executes any expression, statement block or program with rich output formatting and a wealth of features. Also lets you interactively query databases in LINQ. [$]
 * [Polly](https://github.com/App-vNext/Polly) - Express transient-exception-handling and resilience policies such as Retry, Wait-and-Retry, Circuit Breaker, and Bulkhead Isolation in a fluent manner. Fully thread-safe and full async support.  (4.0 / 4.5 / .NET Core / .NET Standard / Xamarin).  
 * [Rant](https://github.com/TheBerkin/Rant) - The Rant Procedural Text Generation DSL https://berkin.me/rant/
 * [ScriptCS](https://github.com/scriptcs/scriptcs) - Write C# apps with a text editor, NuGet and the power of Roslyn!
@@ -697,7 +697,7 @@ metadata in media files, including video, audio, and photo formats
 
 * [Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro) - A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV* patterns will enable you to build your solution quickly, without the need to sacrifice code quality or testability.
 * [MVVM Light Toolkit](https://github.com/lbugnion/mvvmlight) - The main purpose of the toolkit is to accelerate the creation and development of MVVM applications in WPF, Silverlight, Windows Store (RT) and for Windows Phone
-* [Catel](http://catelproject.com/) - Catel is an application development platform with the focus on MVVM (WPF, Silverlight, Windows Phone and WinRT) and MVC (ASP.NET MVC). The core of Catel contains an IoC container, models, validation, memento, message mediator, argument checking, etc.
+* [Catel](https://catelproject.com/) - Catel is an application development platform with the focus on MVVM (WPF, Silverlight, Windows Phone and WinRT) and MVC (ASP.NET MVC). The core of Catel contains an IoC container, models, validation, memento, message mediator, argument checking, etc.
 * [UpdateControls](http://updatecontrols.net/cs/) - Update Controls does not require that you implement `INotifyPropertyChanged` or declare a `DependencyProperty`. It connects controls directly to CLR properties. This makes it perfect for the Model/View/ViewModel pattern.
 * [ReactiveUI](https://github.com/reactiveui/reactiveui/) - An MVVM framework for .NET that integrates the Reactive Extensions (Rx) framework, enabling developers to build elegant, testable applications using WPF, Windows Store Apps, WP8 or Xamarin.
 * [Okra App Framework](http://okraframework.github.io) - An app centric MVVM framework for Windows 8.1 built with dependency injection in mind, including a full set of Visual Studio MVVM templates.
@@ -746,7 +746,7 @@ metadata in media files, including video, audio, and photo formats
 * [Limebean](https://github.com/Nick-Lucas/LimeBean) - Hybrid ORM which uses SQL fragments and doesn't require Model Classes.
 * [LLBLGen Pro](https://www.llblgen.com) - Entity Modeling solution for Entity Framework, NHibernate, Linq to SQL and its own ORM framework: LLBLGen Pro Runtime Framework. **[$][Free Lite version]**
 * [Insight.Database](https://github.com/jonwagner/Insight.Database) - Insight.Database is a fast, lightweight, micro-ORM for .NET
-* [DbExtensions](http://maxtoroq.github.io/DbExtensions/) - Data-access framework with a strong focus on query composition, granularity and code aesthetics.
+* [DbExtensions](https://maxtoroq.github.io/DbExtensions/) - Data-access framework with a strong focus on query composition, granularity and code aesthetics.
 
 ## Package Management
 
