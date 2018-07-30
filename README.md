@@ -522,7 +522,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [SharpDevelop](https://github.com/icsharpcode/SharpDevelop) - A free IDE for .NET programming languages
 * [MonoDevelop](https://github.com/mono/monodevelop) - MonoDevelop is a cross-platform IDE mostly aimed at Mono/.NET developers
 * [Visual Studio Express](https://visualstudio.microsoft.com/vs/express/) - The free lightweight version of Visual Studio for .NET programming.
-* [Visual Studio Community](https://www.visualstudio.com/vs/community/) - A full-featured IDE
+* [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) - A full-featured IDE
 * [Waf DotNetPad](http://jbe2277.github.io/dotnetpad/) - A simple and fast code editor that makes fun program with C# or Visual Basic.
 * [Visual Studio Code](https://code.visualstudio.com/) - Excellent open source editor from Microsoft, based on Electron.
 * [Ionide](http://ionide.io/) - An Atom Editor and Visual Studio Code package suite for cross platform F# development.
@@ -697,7 +697,7 @@ metadata in media files, including video, audio, and photo formats
 
 * [Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro) - A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV* patterns will enable you to build your solution quickly, without the need to sacrifice code quality or testability.
 * [MVVM Light Toolkit](https://github.com/lbugnion/mvvmlight) - The main purpose of the toolkit is to accelerate the creation and development of MVVM applications in WPF, Silverlight, Windows Store (RT) and for Windows Phone
-* [Catel](https://catelproject.com/) - Catel is an application development platform with the focus on MVVM (WPF, Silverlight, Windows Phone and WinRT) and MVC (ASP.NET MVC). The core of Catel contains an IoC container, models, validation, memento, message mediator, argument checking, etc.
+* [Catel](https://www.catelproject.com/) - Catel is an application development platform with the focus on MVVM (WPF, Silverlight, Windows Phone and WinRT) and MVC (ASP.NET MVC). The core of Catel contains an IoC container, models, validation, memento, message mediator, argument checking, etc.
 * [UpdateControls](http://updatecontrols.net/cs/) - Update Controls does not require that you implement `INotifyPropertyChanged` or declare a `DependencyProperty`. It connects controls directly to CLR properties. This makes it perfect for the Model/View/ViewModel pattern.
 * [ReactiveUI](https://github.com/reactiveui/reactiveui/) - An MVVM framework for .NET that integrates the Reactive Extensions (Rx) framework, enabling developers to build elegant, testable applications using WPF, Windows Store Apps, WP8 or Xamarin.
 * [Okra App Framework](http://okraframework.github.io) - An app centric MVVM framework for Windows 8.1 built with dependency injection in mind, including a full set of Visual Studio MVVM templates.
