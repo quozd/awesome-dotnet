@@ -248,6 +248,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [BetterCMS](http://www.bettercms.com) - Open Source .NET Intuitive User Interface for Developer and Publisher
 * [DotNetNuke](http://www.dnnsoftware.com/community/download) - DNN Platform is our free, open source web CMS and the foundation of every professional DNN solution. Over 750,000 organizations worldwide have built websites powered by the DNN Platform.
 * [BlogEngine.NET](https://github.com/rxtur/BlogEngine.NET) - Simple but full featured ASP.NET blog
+* [Deviser Platform](https://github.com/deviserplatform/deviserplatform) - Deviser is an open-source lightweight framework for developing modern cross-platform applications and Web Content Management system based on ASP.NET Core. 
 
 ## Code Analysis and Metrics
 
