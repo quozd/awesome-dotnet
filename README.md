@@ -755,6 +755,7 @@ metadata in media files, including video, audio, and photo formats
 * [LLBLGen Pro](https://www.llblgen.com) - Entity Modeling solution for Entity Framework, NHibernate, Linq to SQL and its own ORM framework: LLBLGen Pro Runtime Framework. **[$][Free Lite version]**
 * [Insight.Database](https://github.com/jonwagner/Insight.Database) - Insight.Database is a fast, lightweight, micro-ORM for .NET
 * [DbExtensions](https://maxtoroq.github.io/DbExtensions/) - Data-access framework with a strong focus on query composition, granularity and code aesthetics.
+* [eXpress Persistent Objects (XPO)](https://www.devexpress.com/xpo) - a high-performance and [mature](https://community.devexpress.com/blogs/xpo/archive/2018/08/30/xpo-interview-with-the-team.aspx) ORM library that targets [14 RDBMS](https://documentation.devexpress.com/CoreLibraries/2114/DevExpress-ORM-Tool/Fundamentals/Database-Systems-Supported-by-XPO) by simply changing the connection string. Flexible enough to help you solve a wide range of tasks, starting from simple WinForms, ASP.NET and WPF applications, all the way up to data services and complex n-tier solutions. **[Proprietary]** and **[Free]**
 
 ## Package Management
 
