@@ -536,8 +536,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Rider](https://www.jetbrains.com/rider/) - A cross-platform C# IDE based on the IntelliJ platform and ReSharper
 * [RoslynPad](https://github.com/aelij/RoslynPad) - A simple C# editor based on Roslyn and AvalonEdit.
 <!---
-* [Consulo](https://consulo.io) - A cross-platform IDE with C# & Java support, fork of IntelliJ IDEA Community Edition
-https://consulo.io Connection timed out - connect(2) for "consulo.io" port 443
+REMOVED link to consulo.io because tests did not pass several times due to timed out connection.
+* Consulo - A cross-platform IDE with C# & Java support, fork of IntelliJ IDEA Community Edition
 -->
 
 ## Image Processing
@@ -758,12 +758,12 @@ metadata in media files, including video, audio, and photo formats
 * [LLBLGen Pro](https://www.llblgen.com) - Entity Modeling solution for Entity Framework, NHibernate, Linq to SQL and its own ORM framework: LLBLGen Pro Runtime Framework. **[$][Free Lite version]**
 * [Insight.Database](https://github.com/jonwagner/Insight.Database) - Insight.Database is a fast, lightweight, micro-ORM for .NET
 * [DbExtensions](https://maxtoroq.github.io/DbExtensions/) - Data-access framework with a strong focus on query composition, granularity and code aesthetics.
-* [eXpress Persistent Objects (XPO)](https://www.devexpress.com/products/net/libraries/xpo/) - a high-performance and [mature](https://community.devexpress.com/blogs/xpo/archive/2018/08/30/xpo-interview-with-the-team.aspx) ORM library that targets [14 RDBMS](https://documentation.devexpress.com/CoreLibraries/2114/DevExpress-ORM-Tool/Fundamentals/Database-Systems-Supported-by-XPO) by simply changing the connection string. Flexible enough to help you solve a wide range of tasks, starting from simple WinForms, ASP.NET and WPF applications, all the way up to data services and complex n-tier solutions. **[Proprietary]** and **[Free]**
+* [eXpress Persistent Objects (XPO)](https://www.devexpress.com/products/net/orm/) - a high-performance and [mature](https://community.devexpress.com/blogs/xpo/archive/2018/08/30/xpo-interview-with-the-team.aspx) ORM library that targets [14 RDBMS](https://documentation.devexpress.com/CoreLibraries/2114/DevExpress-ORM-Tool/Fundamentals/Database-Systems-Supported-by-XPO) by simply changing the connection string. Flexible enough to help you solve a wide range of tasks, starting from simple WinForms, ASP.NET and WPF applications, all the way up to data services and complex n-tier solutions. **[Proprietary]** and **[Free]**
 
 ## Package Management
 
 * [NuGet](https://www.nuget.org/) - The .NET package manager
-* [MyGet](https://www.myget.org/) - Hosted Package Repository for NuGet, NPM, Bower and VSIX. Also provides CI as-a-Service. **[[Free for OSS](https://www.myget.org/opensource)]** **[$]**
+* [MyGet](https://www.myget.org/) - Hosted Package Repository for NuGet, NPM, Bower and VSIX. Also provides CI as-a-Service. **[[Free for OSS](https://www.myget.org/)]** **[$]**
 * [Paket](https://github.com/fsprojects/Paket) - A package dependency manager for .NET with support for NuGet packages and GitHub repositories. http://fsprojects.github.io/Paket/
 
 ## PDF
