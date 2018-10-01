@@ -514,6 +514,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## HTTP
 
+* [Tiny.RestClient](https://github.com/restsharp/RestSharp) - Simpliest Fluent REST client for .NET.
 * [Http.fs](https://github.com/haf/Http.fs) - A functional HTTP client for F#.
 * [RestSharp](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API client for .NET
 * [Flurl](https://flurl.io) - Fluent, portable, testable REST/HTTP client library
