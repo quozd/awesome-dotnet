@@ -604,6 +604,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Elmah MVC](https://github.com/alexbeletsky/elmah-mvc) - Elmah for MVC
 * [Logary](http://logary.github.io/) - Logary is a high performance, multi-target logging, metric, tracing and health-check library for Mono and .NET. .NET's answer to DropWizard. Supports many targets, built for micro-services.
 * [Log4Net](https://logging.apache.org/log4net/) - The Apache log4net library is a tool to help the programmer output log statements to a variety of output targets
+* [Sentry](https://github.com/getsentry/sentry-dotnet) - .NET SDK for [Sentry](https://sentry.io) Open-source error tracking that helps developers monitor and fix crashes in real time..
 * [Serilog](https://github.com/serilog/serilog) - A no-nonsense logging library for the NoSQL era. Combines the best of traditional and structured diagnostic logging in an easy-to-use package.
 * [StackExchange.Exceptional](https://github.com/NickCraver/StackExchange.Exceptional) - Error handler used for the Stack Exchange network
 * [Semantic Logging Application Block (SLAB)](https://github.com/MicrosoftArchive/semantic-logging) - Extends the inbuilt features of System.Diagnostics.Tracing namespace (EventSource class) to log to several sinks including Azure Tables, Databases, files (JSON, XML, text). Supports in-process and out-of-process logging through ETW, and Rx for real-time filtering/aggregating of events.
