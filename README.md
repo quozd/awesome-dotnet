@@ -616,7 +616,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [BugSnag](https://docs.bugsnag.com/platforms/dotnet/) - Logs errors. Includes useful diagnostic info like stack trace, session, release, etc. Has a free tier. **[Free for OSS][$]**
 
 ## Machine Learning and Data Science
-* [Infer.NET](http://infernet.azurewebsites.net/default.aspx) - A framework for running Bayesian inference in graphical models. It can also be used for probabilistic programming. **[[Proprietary](http://infernet.azurewebsites.net/docs/Frequently%20Asked%20Questions.aspx)]** **[Free]** **[Research]**
+* [Infer.NET](https://dotnet.github.io/infer/) - A framework for running Bayesian inference in graphical models. It can also be used for probabilistic programming. **[[Proprietary](https://dotnet.github.io/infer/userguide/Frequently%20Asked%20Questions.html)]** **[Free]** **[Research]**
 * [Accord.NET](http://accord-framework.net/) - Machine learning framework combined with audio and image processing libraries (computer vision, computer audition, signal processing and statistics).
 * [Accord.NET Extensions](https://github.com/dajuric/accord-net-extensions) - Advanced image processing and computer vision algorithms made as fluent extensions.
 * [AForge.NET](http://www.aforgenet.com/) - Framework for developers and researchers in the fields of Computer Vision and Artificial Intelligence (image processing, neural networks, genetic algorithms, machine learning, robotics).
