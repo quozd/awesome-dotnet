@@ -582,6 +582,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Ninject](https://github.com/ninject/ninject) - The ninja of .NET dependency injectors
 * [StructureMap](https://structuremap.github.io/) - The original IoC/DI Container for .Net
 * [Spring.Net](https://github.com/spring-projects/spring-net) - Spring.NET is an open source application framework that makes building  enterprise .NET applications easier
+* [Lamar](https://jasperfx.github.io/lamar/) - A fast IoC container heavily optimized for usage within ASP.Net Core and other .Net server side applications.
 * [LightInject](https://github.com/seesharper/LightInject) - A ultra lightweight IoC container
 * [Simple Injector](https://github.com/simpleinjector/SimpleInjector) - Simple Injector is an easy-to-use Dependency Injection (DI) library for .NET 4+ that supports Silverlight 4+, Windows Phone 8, Windows 8 including Universal apps and Mono.
 * [Microsoft.Extensions.DependencyInjection](https://github.com/aspnet/DependencyInjection) - The default IoC container for ASP.NET Core applications.
