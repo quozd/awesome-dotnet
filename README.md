@@ -589,6 +589,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Scrutor](https://github.com/khellang/Scrutor) - Assembly scanning extensions for Microsoft.Extensions.DependencyInjection.
 * [VS MEF](https://github.com/Microsoft/vs-mef) - Managed Extensibility Framework (MEF) implementation used by Visual Studio.
 * [TinyIoC](https://github.com/grumpydev/TinyIoC) - An easy to use, hassle free, Inversion of Control Container for small projects, libraries and beginners alike.
+* [Inyector](https://github.com/davidrevoledo/Inyector) - Dependency Injection Automation for AspNetCore 
 
 ## JavaScript Engines
 
