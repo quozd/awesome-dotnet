@@ -434,6 +434,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 * [language-ext](https://github.com/louthy/language-ext) - This library uses and abuses the features of C# 6+ to provide a functional 'Base class library', that, if you squint, can look like extensions to the language itself. It also includes an 'Erlang like' process system (actors) that can optionally persist messages and state to Redis (note you can use it without Redis for in-app messaging). The process system additionally supports Rx streams of messages and state allowing for a complete system of reactive events and message dispatch.
 * [Optional](https://github.com/nlkl/Optional) - A robust option type for C#
+* [Lemonad](https://github.com/inputfalken/Lemonad) A functional **C#** library with data structures and functions whose main goal is to have an [declarative](https://en.wikipedia.org/wiki/Declarative_programming) approach to problem solving by using various [HOF's](https://en.wikipedia.org/wiki/Higher-order_function#C#) to achieve cleaner code bases & code which is easier to think about.
+
 
 ## Game
 
