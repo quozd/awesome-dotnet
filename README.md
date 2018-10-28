@@ -239,6 +239,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Gui.cs](https://github.com/migueldeicaza/gui.cs) - Terminal UI toolkit for .NET.
 * [Power Args](https://github.com/adamabdelhamed/PowerArgs) - PowerArgs converts command-line arguments into .NET objects that are easy to program against. It also provides a ton of optional capabilities such as argument validation, auto generated usage, tab completion, and plenty of extensibility
 * [ReadLine](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
+* [RunInfoBuilder](https://github.com/rushfive/RunInfoBuilder) - A unique command line parser, utilizing object trees for commands.
 * [SharpNetSH](https://github.com/rpetz/SharpNetSH) - A simple netsh library for C#.
 
 ## CLR
