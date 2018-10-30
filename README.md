@@ -476,6 +476,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [NGraphics](https://github.com/praeclarum/NGraphics) - NGraphics is a cross-platform library for rendering vector graphics on .NET
 * [Live-Charts](https://github.com/Live-Charts/Live-Charts) - An Animated, MVVM oriented and modern charting library
 * [Helix Toolkit](http://www.helix-toolkit.org) - Helix Toolkit is a collection of 3D components for .NET
+* [AssimpNet](https://bitbucket.org/Starnick/assimpnet) - A cross-platform .NET Standard wrapper for the Open Asset Importer ("Assimp"). The library enables importing, processing, and exporting of 3D models for rendering in graphics/game applications. Over 40 formats are supported for importing (e.g. OBJ, FBX, GLTF, 3DS, Collada) and a subset of those formats can be exported to (e.g. OBJ, GLTF, 3DS, Collada). Mesh processing features allow for mesh data to be generated or optimized for real-time rendering.
 
 ## GUI
 
