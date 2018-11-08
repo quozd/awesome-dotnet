@@ -213,6 +213,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Business Intelligence
 
+* [FastReport](https://github.com/FastReports/FastReport) - The open source report generator for .NET Core 2.x/.Net Framework 4.x. FastReport can be used in ASP.NET MVC, Web API applications.
 * [NReco PivotData](https://www.nrecosite.com/pivot_data_library_net.aspx) - in-memory data aggregation/OLAP library, pivot tables generation (render to HTML, exports), ASP.NET pivot builder control **[$][Free for single-deployment/non-SaaS]**
 
 ## Caching
