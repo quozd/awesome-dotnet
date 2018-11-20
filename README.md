@@ -1010,6 +1010,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## Parser Library
 
+* [Sprache](https://github.com/sprache/Sprache) - Tiny C# parser construction library
 * [Pidgin](https://github.com/benjamin-hodgson/Pidgin) - A lightweight, fast and flexible parsing library for C#, developed at Stack Overflow
 * [FParsec](https://github.com/stephan-tolksdorf/fparsec) - A parser combinator library for F#
 * [Superpower](https://github.com/datalust/superpower) - A C# parser construction toolkit with high-quality error reporting
