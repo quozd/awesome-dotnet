@@ -114,6 +114,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [WebSocket](#websocket)
   * [Windows Services](#windows-services)
   * [WPF](#wpf)
+  * [Parser Library](#parser-library)
 * [Other Lists](#other-lists)
 * [Resources](#resources)
 
@@ -1006,6 +1007,12 @@ metadata in media files, including video, audio, and photo formats
 
 * [Data Grid Extensions](https://github.com/tom-englert/DataGridExtensions) - Modular extensions for the WPF DataGrid control, like filtering, additional column events, extended star-size column behavior, and more...
 * [Extended WPF Toolkit™](https://github.com/xceedsoftware/wpftoolkit) - A rich collection of controls, components and utilities for creating WPF applications
+
+## Parser Library
+
+* [Pidgin](https://github.com/benjamin-hodgson/Pidgin) - A lightweight, fast and flexible parsing library for C#, developed at Stack Overflow
+* [FParsec](https://github.com/stephan-tolksdorf/fparsec) - A parser combinator library for F#
+* [Superpower](https://github.com/datalust/superpower) - A C# parser construction toolkit with high-quality error reporting
 
 # Other Lists
 
