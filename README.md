@@ -114,6 +114,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [WebSocket](#websocket)
   * [Windows Services](#windows-services)
   * [WPF](#wpf)
+  * [Parser Library](#parser-library)
 * [Other Lists](#other-lists)
 * [Resources](#resources)
 
@@ -708,7 +709,6 @@ metadata in media files, including video, audio, and photo formats
 * [Enums.NET](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET is a high-performance type-safe .NET enum utility library
 * [HidLibrary](https://github.com/mikeobrien/HidLibrary) - This library enables you to enumerate and communicate with Hid compatible USB devices in .NET.
 * [SystemWrapper](https://github.com/jozefizso/SystemWrapper) - SystemWrapper is .NET library for easier testing of system APIs.
-* [Sprache](https://github.com/sprache/Sprache) - A simple, lightweight library for constructing parsers directly in C# code
 * [YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Ultimate library for extracting metadata and downloading Youtube videos and playlists.
 * [DeviceId](https://github.com/MatthewKing/DeviceId) - Generate a 'device ID' that can be used to uniquely identify a computer.
 * [DeviceDetector.NET](https://github.com/totpero/DeviceDetector.NET) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
@@ -1009,6 +1009,13 @@ metadata in media files, including video, audio, and photo formats
 
 * [Data Grid Extensions](https://github.com/tom-englert/DataGridExtensions) - Modular extensions for the WPF DataGrid control, like filtering, additional column events, extended star-size column behavior, and more...
 * [Extended WPF Toolkit™](https://github.com/xceedsoftware/wpftoolkit) - A rich collection of controls, components and utilities for creating WPF applications
+
+## Parser Library
+
+* [Sprache](https://github.com/sprache/Sprache) - A simple, lightweight library for constructing parsers directly in C# code
+* [Pidgin](https://github.com/benjamin-hodgson/Pidgin) - A lightweight, fast and flexible parsing library for C#, developed at Stack Overflow
+* [FParsec](https://github.com/stephan-tolksdorf/fparsec) - A parser combinator library for F#
+* [Superpower](https://github.com/datalust/superpower) - A C# parser construction toolkit with high-quality error reporting
 
 # Other Lists
 
