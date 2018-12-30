@@ -486,6 +486,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## GUI
 
+* [HandyControl](https://github.com/NaBian/HandyControl) - Contains some simple and commonly used WPF controls
+* [Wpf.Notifications](https://github.com/Enterwell/Wpf.Notifications) - WPF notifications UI controls (as seen in VS Code)
 * [QtSharp](https://github.com/ddobrev/QtSharp) - Mono/.NET Bindings for Qt
 * [Qml.Net](https://github.com/qmlnet/qmlnet) - A cross-platform Qml/.NET integration for Mono/.NET/.NET Core
 * [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - Toolkit for creating Metro-styled WPF apps
@@ -859,6 +861,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## Serialization
 
+* [JsonSettings](https://github.com/Nucs/JsonSettings) - Easiest way you'll ever write settings for your app. As readable Json or encrypted byte file.
 * [Protobuf.NET](https://github.com/mgravell/protobuf-net) - Protocol buffers is the name of the binary serialization format used by Google for much of their data communications
 * [Json.NET](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET
 * [ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text) - JSON, JSV and CSV Text Serializers used in servicestack.net
