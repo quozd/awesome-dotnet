@@ -848,6 +848,7 @@ metadata in media files, including video, audio, and photo formats
 * [Octokit.NET](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
 * [DropNet](https://github.com/DropNet/DropNet) - Client library for the Dropbox API
 * [Getty Images API SDK](https://github.com/gettyimages/gettyimages-api_dotnet) - SDK for the Getty Images and iStock APIs
+* [Proxmox VE Client API](https://github.com/EnterpriseVE/eve2pve-api-dotnet) - ProxmoVE Client API .Net C#.
 
 ## Search
 
