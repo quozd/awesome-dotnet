@@ -581,6 +581,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Sharpen](https://github.com/mono/sharpen) - Sharpen is an Eclipse plugin created by db4o that allows you to convert your Java project into C#
 * [CXXI](https://github.com/mono/cxxi) - C++ interop framework
 * [pythonnet](https://github.com/pythonnet/pythonnet) - Python and .NET interop framework
+* [PInvoke Interop Assistant](https://github.com/jaredpar/pinvoke) - Converts C to managed P/Invoke signatures or verse visa.
 * [LegacyWrapper](https://github.com/CodefoundryDE/LegacyWrapper) - LegacyWrapper uses a wrapper process to call DLLs from a process of the opposing architecture (x86 or AMD64).
 
 ## IoC
