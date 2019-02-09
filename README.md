@@ -12,6 +12,9 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
+You can download [PDF](https://raw.githubusercontent.com/quozd/awesome-dotnet/master/awesome-dotnet.pdf) version of Awesome .NET
+
+
 # License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
