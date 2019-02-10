@@ -113,6 +113,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Web Servers](#web-servers)
   * [WebSocket](#websocket)
   * [Windows Services](#windows-services)
+  * [Workflow Engines](#workflow-engines)
   * [WPF](#wpf)
   * [Parser Library](#parser-library)
 * [Other Lists](#other-lists)
@@ -1014,6 +1015,10 @@ metadata in media files, including video, audio, and photo formats
 ## Windows Services
 
 * [TopShelf](https://github.com/Topshelf/Topshelf) - An easy service hosting framework for building Windows services using .NET
+
+## Workflow Engines
+
+* [Workflow Core](https://github.com/danielgerlag/workflow-core) - Lightweight embeddable workflow engine
 
 ## WPF
 
