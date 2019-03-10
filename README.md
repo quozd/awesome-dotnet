@@ -775,6 +775,7 @@ metadata in media files, including video, audio, and photo formats
 * [Insight.Database](https://github.com/jonwagner/Insight.Database) - Insight.Database is a fast, lightweight, micro-ORM for .NET
 * [DbExtensions](https://maxtoroq.github.io/DbExtensions/) - Data-access framework with a strong focus on query composition, granularity and code aesthetics.
 * [SmartSql](https://github.com/Smart-Kit/SmartSql) - SmartSql = MyBatis + Cache（Memory | Redis）+ ZooKeeper + R / W Splitting + Dynamic Repository ....
+* [RepoDb](https://github.com/mikependon/RepoDb) - A dynamic, lightweight, and very fast ORM .NET Library.
 
 ## Package Management
 
