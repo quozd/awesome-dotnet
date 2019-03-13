@@ -584,6 +584,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [PInvoke Interop Assistant](https://github.com/jaredpar/pinvoke-interop-assistant) - Converts C to managed P/Invoke signatures or verse visa.
 * [pinvoke](https://github.com/AArnott/pinvoke) - A library containing P/Invoke code for latest Windows OS.
 * [LegacyWrapper](https://github.com/CodefoundryDE/LegacyWrapper) - LegacyWrapper uses a wrapper process to call DLLs from a process of the opposing architecture (x86 or AMD64).
+* [Pyrolite](https://github.com/irmen/Pyrolite) - This library allows your Java or .NET program to interface very easily with
+the Python world. It uses the Pyro protocol to call methods on remote objects.
 
 ## IoC
 
