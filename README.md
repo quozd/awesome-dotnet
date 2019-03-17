@@ -113,7 +113,6 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Web Servers](#web-servers)
   * [WebSocket](#websocket)
   * [Windows Services](#windows-services)
-  * [Workflow Engines](#workflow-engines)
   * [WPF](#wpf)
   * [Parser Library](#parser-library)
 * [Other Lists](#other-lists)
@@ -843,6 +842,7 @@ metadata in media files, including video, audio, and photo formats
 * [Chroniton](https://github.com/leosperry/Chroniton) - A simple, fully integrable, and customizable library for running strongly typed jobs (tasks) on schedules.
 * [DurableTask](https://github.com/Azure/durabletask) - This framework allows users to write long running persistent workflows in C# using the async/await capabilities.
 * [Wexflow](https://github.com/aelassas/Wexflow) - An extensible workflow engine with a cross-platform manager and designer.
+* [Workflow Core](https://github.com/danielgerlag/workflow-core) - Lightweight embeddable workflow engine
 
 ## SDK and API Clients
 
@@ -1015,10 +1015,6 @@ metadata in media files, including video, audio, and photo formats
 ## Windows Services
 
 * [TopShelf](https://github.com/Topshelf/Topshelf) - An easy service hosting framework for building Windows services using .NET
-
-## Workflow Engines
-
-* [Workflow Core](https://github.com/danielgerlag/workflow-core) - Lightweight embeddable workflow engine
 
 ## WPF
 
