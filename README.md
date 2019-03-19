@@ -403,7 +403,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## E-Commerce and Payments
 
 * [Paypal Merchant SDK](https://github.com/paypal/merchant-sdk-dotnet) - Official PayPal Merchant SDK for .NET
-* [NopCommerce](https://github.com/nopSolutions/nopCommerce) - nopCommerce. Free open-source e-commerce shopping cart (ASP.NET MVC)
+* [NopCommerce](https://github.com/nopSolutions/nopCommerce) - nopCommerce. Free open-source e-commerce shopping cart (ASP.NET Core)
 * [ServiceStack.Stripe](https://github.com/ServiceStack/Stripe) - Typed .NET clients for stripe.com REST APIs
 * [SmartStoreNET](https://github.com/smartstoreag/SmartStoreNET) - Free ASP.NET MVC e-commerce Shopping Cart Solution https://www.smartstore.com/en/net
 * [Stripe.Net](https://github.com/stripe/stripe-dotnet) - Stripe.net is a full service .NET API for https://stripe.com/
