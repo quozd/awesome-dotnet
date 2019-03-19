@@ -846,6 +846,7 @@ metadata in media files, including video, audio, and photo formats
 * [Chroniton](https://github.com/leosperry/Chroniton) - A simple, fully integrable, and customizable library for running strongly typed jobs (tasks) on schedules.
 * [DurableTask](https://github.com/Azure/durabletask) - This framework allows users to write long running persistent workflows in C# using the async/await capabilities.
 * [Wexflow](https://github.com/aelassas/Wexflow) - An extensible workflow engine with a cross-platform manager and designer.
+* [Workflow Core](https://github.com/danielgerlag/workflow-core) - Lightweight embeddable workflow engine
 
 ## SDK and API Clients
 
