@@ -514,6 +514,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [WinApi](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
 * [Neutronium](https://github.com/NeutroniumCore/Neutronium) - Build .NET desktop applications using HTML, CSS, javascript and MVVM bindings such as with WPF.
 * [Ooui](https://github.com/praeclarum/Ooui) - A small cross-platform UI library that brings the simplicity of native UI development to the web
+* [AdonisUI](https://github.com/benruehl/adonis-ui) - Lightweight UI toolkit for WPF applications offering classic but enhanced Windows visuals.
 
 ## HTML and CSS
 
