@@ -530,7 +530,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Tiny.RestClient](https://github.com/jgiacomini/Tiny.RestClient) - Simpliest Fluent REST client for .NET.
 * [Http.fs](https://github.com/haf/Http.fs) - A functional HTTP client for F#.
 * [RestSharp](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API client for .NET
-* [Flurl](https://flurl.io) - Fluent, portable, testable REST/HTTP client library
+* [Flurl](https://flurl.dev) - Fluent, portable, testable REST/HTTP client library
 * [EasyHttp](https://github.com/EasyHttp/EasyHttp) - HTTP library for C#
 * [Refit](https://github.com/reactiveui/refit) - The automatic type-safe REST library for Xamarin and .NET
 * [RestEase](https://github.com/canton7/RestEase) - Easy-to-use typesafe REST API client library, which is simple and customisable. Heavily inspired by Refit
