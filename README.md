@@ -368,6 +368,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Deployment
 
+* [DatabaseMigrateExt](https://github.com/minhhungit/DatabaseMigrateExt) - A new way, new rule to deploy and manage MSSQL database versioning using Fluent Migrator
 * [Unfold](https://github.com/thomasvm/unfold) - PowerShell-based deployment solution for .NET web applications
 * [DbUp](https://github.com/DbUp/DbUp) - .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date
 * [Octo Pack](https://github.com/OctopusDeploy/OctoPack) - Used to build NuGet packages of your application for deployment using tools such as Octopus Deploy
