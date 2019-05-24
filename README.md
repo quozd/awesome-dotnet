@@ -101,6 +101,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [SMS and Phone Calls](#sms-and-phone-calls)
   * [State machines](#state-machines)
   * [Static Site Generators](#static-site-generators)
+  * [Strong Naming](#strong-naming)
   * [Style Guide](#style-guide)
   * [Template Engine](#template-engine)
   * [Testing](#testing)
@@ -403,13 +404,13 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## E-Commerce and Payments
 
 * [Paypal Merchant SDK](https://github.com/paypal/merchant-sdk-dotnet) - Official PayPal Merchant SDK for .NET
-* [NopCommerce](https://github.com/nopSolutions/nopCommerce) - nopCommerce. Free open-source e-commerce shopping cart (ASP.NET MVC)
+* [NopCommerce](https://github.com/nopSolutions/nopCommerce) - nopCommerce. Free open-source e-commerce shopping cart (ASP.NET Core)
 * [ServiceStack.Stripe](https://github.com/ServiceStack/Stripe) - Typed .NET clients for stripe.com REST APIs
 * [SmartStoreNET](https://github.com/smartstoreag/SmartStoreNET) - Free ASP.NET MVC e-commerce Shopping Cart Solution https://www.smartstore.com/en/net
 * [Stripe.Net](https://github.com/stripe/stripe-dotnet) - Stripe.net is a full service .NET API for https://stripe.com/
 * [Virto Commerce](https://github.com/VirtoCommerce/vc-platform) - Virto Commerce is the second generation release and is the only enterprise level e-commerce product fully available under Open Source license. Virto Commerce is based on .NET 4.5 with extensive use of MVC, IoC, EF, Azure, AngularJS and many other cutting edge technologies. It can be deployed in Microsoft Cloud (Azure), Amazon Web Services (AWS) and on-premise. https://virtocommerce.com
 * [SimplCommerce](https://github.com/simplcommerce/simplcommerce) - Super simple ecommerce system built on .NET Core. Simple to use and easy to customize. Thanks to .NET Core, you can run the SimplCommerce on Windows, Linux. With various RDBMS: Microsoft SQL Server, PostgreSQL, MySQL
-[GrandNode](https://github.com/grandnode/grandnode) - GrandNode is a functional cross-platform e-commerce solution developed for the most demanding users. You are able to run it on any system - Linux, Windows, Mac. GrandNode supports Docker, so you can install it with Docker for Linux containers. Scalable e-commerce solution which can be adapted in any company independently from company size or industry. 
+* [GrandNode](https://github.com/grandnode/grandnode) - GrandNode is a functional cross-platform e-commerce solution developed for the most demanding users. You are able to run it on any system - Linux, Windows, Mac. GrandNode supports Docker, so you can install it with Docker for Linux containers. Scalable e-commerce solution which can be adapted in any company independently from company size or industry. 
 * [Square](https://github.com/square/connect-csharp-sdk) - The official SDK for Square payments and other Square APIs.
 
 ## Environment Management
@@ -513,6 +514,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [WinApi](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
 * [Neutronium](https://github.com/NeutroniumCore/Neutronium) - Build .NET desktop applications using HTML, CSS, javascript and MVVM bindings such as with WPF.
 * [Ooui](https://github.com/praeclarum/Ooui) - A small cross-platform UI library that brings the simplicity of native UI development to the web
+* [AdonisUI](https://github.com/benruehl/adonis-ui) - Lightweight UI toolkit for WPF applications offering classic but enhanced Windows visuals.
 
 ## HTML and CSS
 
@@ -525,10 +527,10 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## HTTP
 
-* [Tiny.RestClient](https://github.com/restsharp/RestSharp) - Simpliest Fluent REST client for .NET.
+* [Tiny.RestClient](https://github.com/jgiacomini/Tiny.RestClient) - Simpliest Fluent REST client for .NET.
 * [Http.fs](https://github.com/haf/Http.fs) - A functional HTTP client for F#.
 * [RestSharp](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API client for .NET
-* [Flurl](https://flurl.io) - Fluent, portable, testable REST/HTTP client library
+* [Flurl](https://flurl.dev) - Fluent, portable, testable REST/HTTP client library
 * [EasyHttp](https://github.com/EasyHttp/EasyHttp) - HTTP library for C#
 * [Refit](https://github.com/reactiveui/refit) - The automatic type-safe REST library for Xamarin and .NET
 * [RestEase](https://github.com/canton7/RestEase) - Easy-to-use typesafe REST API client library, which is simple and customisable. Heavily inspired by Refit
@@ -778,7 +780,7 @@ metadata in media files, including video, audio, and photo formats
 * [Insight.Database](https://github.com/jonwagner/Insight.Database) - Insight.Database is a fast, lightweight, micro-ORM for .NET
 * [DbExtensions](https://maxtoroq.github.io/DbExtensions/) - Data-access framework with a strong focus on query composition, granularity and code aesthetics.
 * [SmartSql](https://github.com/Smart-Kit/SmartSql) - SmartSql = MyBatis + Cache（Memory | Redis）+ ZooKeeper + R / W Splitting + Dynamic Repository ....
-* [RepoDb](https://github.com/mikependon/RepoDb) - A dynamic, lightweight, and very fast ORM .NET Library.
+* [RepoDb](https://github.com/mikependon/RepoDb) - A dynamic, lightweight, efficient and very fast Hybrid ORM library for .NET.
 
 ## Package Management
 
@@ -786,6 +788,7 @@ metadata in media files, including video, audio, and photo formats
 * [BaGet](https://github.com/loic-sharma/BaGet/) - A cross-platform, lightweight NuGet and Symbol server
 * [MyGet](https://www.myget.org/) - Hosted Package Repository for NuGet, NPM, Bower and VSIX. Also provides CI as-a-Service. **[$]**
 * [Paket](https://github.com/fsprojects/Paket) - A package dependency manager for .NET with support for NuGet packages and GitHub repositories. https://fsprojects.github.io/Paket/
+* [Sleet](https://github.com/emgarten/sleet/) - A NuGet v3 static feed generator with support for AWS S3 and Azure Storage
 
 ## PDF
 
@@ -846,6 +849,7 @@ metadata in media files, including video, audio, and photo formats
 * [Chroniton](https://github.com/leosperry/Chroniton) - A simple, fully integrable, and customizable library for running strongly typed jobs (tasks) on schedules.
 * [DurableTask](https://github.com/Azure/durabletask) - This framework allows users to write long running persistent workflows in C# using the async/await capabilities.
 * [Wexflow](https://github.com/aelassas/Wexflow) - An extensible workflow engine with a cross-platform manager and designer.
+* [Workflow Core](https://github.com/danielgerlag/workflow-core) - Lightweight embeddable workflow engine
 
 ## SDK and API Clients
 
@@ -893,10 +897,15 @@ metadata in media files, including video, audio, and photo formats
 * [LiquidState](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET
 
 ## Static Site Generators
+
 * [FsBlog](https://github.com/fsprojects/FsBlog/) - Blog aware, static site generation using F#
 * [Pretzel](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
 * [Sandra.Snow](https://github.com/Sandra/Sandra.Snow) - Jekyll-inspired static site generation for .NET
 * [Wyam](https://wyam.io/) - A simple to use, highly modular, and extremely configurable static content generator
+
+## Strong Naming
+
+* [Strong Namer](https://github.com/dsplaisted/strongnamer) - Automatically add strong names to referenced assemblies which do not already have a strong name. This will allow you to reference and use (NuGet packages with) assemblies which are not strong named from your projects that do use a strong name.
 
 ## Style Guide
 
@@ -927,6 +936,7 @@ metadata in media files, including video, audio, and photo formats
 * [Moq](https://github.com/Moq/moq4) - The most popular and friendly mocking framework for .NET
 * [NBuilder](https://github.com/garethdown44/nbuilder) - Rapid generation of test objects
 * [NCrunch](https://www.ncrunch.net/) - An automated continuous & concurrent testing tool for Visual Studio. **[$]**
+* [NFluent](http://www.n-fluent.net) - NFluent is an assertion library which aims to fluent your .NET TDD experience.
 * [NSubstitute](https://nsubstitute.github.io/) - A friendly substitute for .NET mocking frameworks
 * [NUnit](https://github.com/nunit/nunit) - A unit-testing framework for all .NET languages
 * [Rhino Mocks](https://github.com/ayende/rhino-mocks) - Dynamic Mocking Framework for .NET
@@ -937,6 +947,7 @@ metadata in media files, including video, audio, and photo formats
 * [xUnit.net](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework. [https://xunit.github.io/](https://xunit.github.io/)
 * [Canopy](https://github.com/lefthandedgoat/canopy) - Canopy is a free, open source F# web automation and testing framework
 * [Expecto](https://github.com/haf/expecto) - A smooth testing framework for F# with tests as values. Unit testing, property based testing, performance testing and stress testing.
+* [ReportPortal](http://reportportal.io) - AI-powered Test Automation Dashboard. Acquire, aggregate and analyze test reports to ascertain release health.
 
 ## Tools
 
