@@ -193,6 +193,10 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [OAuth](https://github.com/danielcrenna/vault/tree/master/oauth) - A very lightweight library for generating OAuth 1.0a signatures written in C#
 * [Stuntman](https://rimdev.io/stuntman/) - Stuntman is a library for impersonating users during development leveraging .NET Claims Identity.
 
+## Blockchain
+
+* [Nethermind](https://github.com/NethermindEth/nethermind) - full Ethereum client in .NET Core
+
 ## Books
 
 * [.NET Core in Action](https://www.manning.com/books/dotnet-core-in-action) - teaches how to write applications and libraries with .NET Core. **[$]**
