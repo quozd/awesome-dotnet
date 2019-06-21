@@ -515,6 +515,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Neutronium](https://github.com/NeutroniumCore/Neutronium) - Build .NET desktop applications using HTML, CSS, javascript and MVVM bindings such as with WPF.
 * [Ooui](https://github.com/praeclarum/Ooui) - A small cross-platform UI library that brings the simplicity of native UI development to the web
 * [AdonisUI](https://github.com/benruehl/adonis-ui) - Lightweight UI toolkit for WPF applications offering classic but enhanced Windows visuals.
+* [Tangram](https://github.com/TangramDev/Tangram) - An amazing framework that embeds the entire chromium browser into the WinForm. Allow web pages and forms to be mixed.
 
 ## HTML and CSS
 
