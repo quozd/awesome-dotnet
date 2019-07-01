@@ -607,6 +607,8 @@ the Python world. It uses the Pyro protocol to call methods on remote objects.
 * [VS MEF](https://github.com/Microsoft/vs-mef) - Managed Extensibility Framework (MEF) implementation used by Visual Studio.
 * [TinyIoC](https://github.com/grumpydev/TinyIoC) - An easy to use, hassle free, Inversion of Control Container for small projects, libraries and beginners alike.
 * [Stashbox](https://github.com/z4kn4fein/stashbox) - A lightweight, portable dependency injection framework for .NET based solutions.
+* [Simplify.DI](https://github.com/i4004/Simplify/wiki/Simplify.DI) - A common interface for IOC containers. Decouples users and frameworks (that are based on Simplify.DI) from dependency on IOC containers.
+
 
 ## JavaScript Engines
 
