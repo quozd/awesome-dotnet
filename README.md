@@ -571,6 +571,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Squirrel](https://github.com/squirrel/squirrel.windows) - Squirrel is both a set of tools and a library, to completely manage both installation and updating your desktop Windows application.
 * [Chocolatey](https://github.com/chocolatey/choco) - like `yum` or `apt-get`, but for Windows.
 * [Wax](https://marketplace.visualstudio.com/items?itemName=TomEnglert.Wax) - An interactive editor for WiX projects.
+* [Onova](https://github.com/Tyrrrz/Onova) - An unopinionated auto-update framework for desktop applications.
 
 ## Internationalization
 
