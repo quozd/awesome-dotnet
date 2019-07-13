@@ -757,6 +757,7 @@ metadata in media files, including video, audio, and photo formats
 * [DocX](https://github.com/xceedsoftware/DocX) - DocX is a .NET library that allows developers to manipulate Word 2007/2010/2013 files, it does not require Microsoft Word or Office to be installed.
 * [ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files (2.0-2007).
 * [NetOffice](https://github.com/NetOfficeFw/NetOffice) - .NET wrapper assemblies for Microsoft Office applications.
+* [Outlook Redemption](http://www.dimastr.com/redemption/home.htm) - Library to work with the Outlook Object Model and (Extended) MAPI.  Supports Outlook 98 - 2019. Work with objects/mails/accounts/folders in Exchange and Outlook. **[$]**
 
 ## ORM
 
