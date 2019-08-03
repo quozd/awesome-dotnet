@@ -1061,4 +1061,7 @@ metadata in media files, including video, audio, and photo formats
 # Resources
 
 * [Discover .NET](https://discoverdot.net) - Awesome .NET open source and community resources.
+* [NuGet Trends](https://nugettrends.com) - Check out NuGet packages adoption and what's trending on NuGet.
+* [FuGet](https://fuget.org) - Alternative NuGet package browser with API diffs.
+* [BuiltWithDotNet](https://builtwithdot.net) - Community showcase of projects built with .NET.
 * [Weekly C# Digest](https://csharpdigest.net/) - Weekly email newsletter with manually curated top 5 links from the .NET community.
