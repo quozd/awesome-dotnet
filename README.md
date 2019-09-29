@@ -531,6 +531,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [FluentBootstrap](http://fluentbootstrap.com) - Makes the Bootstrap CSS framework easier to use from ASP.NET MVC or WebPages.
 * [HtmlAgilityPack](https://html-agility-pack.net/?z=codeplex) - an agile HTML parser that builds a read/write DOM and supports plain XPath or XSLT
 * [LibSass Host](https://github.com/Taritsyn/LibSassHost) - .NET wrapper around the [libSass](https://sass-lang.com/libsass) library with the ability to support a virtual file system
+* [LtGt](https://github.com/Tyrrrz/LtGt) - lightweight HTML processor, can be used to parse and navigate DOM, handles CSS selectors, can convert to Linq2Xml, easily extensible, and more.
 
 ## HTTP
 
