@@ -1030,7 +1030,7 @@ metadata in media files, including video, audio, and photo formats
 ## Windows Services
 
 * [TopShelf](https://github.com/Topshelf/Topshelf) - An easy service hosting framework for building Windows services using .NET
-* [Simplify.WindowsServices](https://github.com/i4004/Simplify/wiki/Simplify.WindowsServices) - A windows services framework with DI.
+* [Simplify.WindowsServices](https://github.com/SimplifyNet/Simplify/wiki/Simplify.WindowsServices) - A windows services framework with DI.
 
 ## WPF
 
