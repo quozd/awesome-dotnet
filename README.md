@@ -928,6 +928,7 @@ metadata in media files, including video, audio, and photo formats
 
 * [C# Style Guide](https://stackoverflow.com/questions/4678178/style-guide-for-c) - StackOverflow Q & A on style guides
 * [C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions) - Official MSDN C# code conventions
+* [C# Async Guidance](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md) - list of problematic asynchronous patterns for .NET Core with an explanation of how to solve those issues
 
 ## Template Engine
 
