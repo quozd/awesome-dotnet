@@ -784,6 +784,7 @@ metadata in media files, including video, audio, and photo formats
 * [NHibernate](https://github.com/nhibernate) - NHibernate Object Relational Mapper
 * [Fluent NHibernate](https://github.com/FluentNHibernate/fluent-nhibernate) - Fluent, XML-less, compile safe, automated, convention-based mappings for NHibernate.
 * [FluentMigrator](https://github.com/fluentmigrator/fluentmigrator) - Fluent Migrations framework for .net
+* [OKHOSTING.ORM](https://github.com/okhosting/OKHOSTING.ORM) - Flexible, simple, feature complete, multi-database, multi-platform ORM. Works with any class, any naming convention, and most used databases.
 * [ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) - Light, simple and fast convention-based POCO ORM **[[Free for OSS](https://github.com/ServiceStack/ServiceStack.OrmLite/blob/master/license.txt)]** **[$]**
 * [Massive](https://github.com/FransBouma/Massive) - A small, happy, data access tool that will love you forever.
 * [LINQ to DB](https://github.com/linq2db/linq2db) - The fastest LINQ database access library offering a simple, light, fast, and type-safe layer between your POCO objects and your database.
