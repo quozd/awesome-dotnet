@@ -832,7 +832,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## Query Builders
 * [SqlKata](https://sqlkata.com) - Elegant SQL query builder, that supports complex queries, joins, sub queries, nested where conditions, vendor engine targets and more
-
+* [OKHOSTING.SQL](https://github.com/okhosting/OKHOSTING.SQL) - Data acces library with a focus on portability, SQL generation and schema management.
 
 ## Queue
 
