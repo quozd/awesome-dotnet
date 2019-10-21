@@ -332,6 +332,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [HashLib](https://archive.codeplex.com/?p=hashlib) - HashLib is a collection of nearly all hash algorithms you've ever seen, it supports almost everything and is very easy to use
 * [libsodium-net](https://github.com/adamcaudill/libsodium-net) - libsodium for .NET - A secure cryptographic library
 * [Pkcs11Interop](https://github.com/Pkcs11Interop/Pkcs11Interop) - Managed .NET wrapper for unmanaged PKCS#11 libraries that provide access to the cryptographic hardware
+* [SharpHash](https://github.com/ron4fun/SharpHash) - SharpHash is a C# hashing library which provides an easy to use interface for computing hashes and checksums of data. It also supports state based (incremental) hashing.
 * [StreamCryptor](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf
 * [SecurityDriven.Inferno](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET crypto library. Professionally audited.
 
