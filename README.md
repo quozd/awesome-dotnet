@@ -660,7 +660,7 @@ the Python world. It uses the Pyro protocol to call methods on remote objects.
 * [R Provider](https://bluemountaincapital.github.io/FSharpRProvider/) - Type provider that exposes R packages and functions in a type-safe way to F# callers
 * [F# Data](https://fsharp.github.io/FSharp.Data/) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
 * [Spreads](https://github.com/Spreads/Spreads/) - Series and Panels for Real-time and Exploratory Analysis of Data Streams. Spreads library is optimized for performance and memory usage. It is several times faster than other open source projects.
-* [SciSharp STACK](http://scisharpstack.org) - A rich machine learning ecosystem for .NET created by porting the most popular Python libraries to C#. 
+* [SciSharp STACK](https://scisharp.github.io/SciSharp/) - A rich machine learning ecosystem for .NET created by porting the most popular Python libraries to C#. 
 
 ## Markdown Processors
 * [MarkdownSharp](https://code.google.com/archive/p/markdownsharp) - Open source C# implementation of Markdown processor, as featured on Stack Overflow.
