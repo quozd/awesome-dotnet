@@ -1,0 +1,5 @@
+{
+  "error": true,
+  "title": "Found 1 link issue",
+  "message": "#### Link issue by [`awesome_bot`](https://github.com/dkhamsing/awesome_bot)\n\n  Line | Status | Link\n| ---: | :----: | --- |\n420 | [302](https://httpstatuses.com/302) | https://stripe.com/ redirects to<br>https://stripe.com/it\n"
+}
