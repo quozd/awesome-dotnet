@@ -575,6 +575,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [OpenCvSharp](https://github.com/shimat/opencvsharp/) - Cross platform wrapper of OpenCV for .NET Framework.
 * [TeximpNet](https://bitbucket.org/Starnick/teximpnet) - A cross-platform .NET Standard library for reading/manipulating/writing image files. The primary focus is to create 2D/3D/Cubemap textures for graphics/game applications, notably to convert images to GPU compressed formats and generate mipmaps.  The library wraps the FreeImage native library to import/export over 30 common image formats, and wraps the Nvidia Texture Tools native library for GPU compression features. It also has a fully featured DDS format importer/exporter written in C#.
 * [Colourful](https://github.com/tompazourek/Colourful) - Open source .NET library for working with color spaces.
+* [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - Open source .NET tool allows you to record a selected area of your screen, live feed from your webcam or live drawings from a sketchboard.
 
 ## Install tools
 
