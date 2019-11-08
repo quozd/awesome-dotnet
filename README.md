@@ -547,6 +547,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [RestLess](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
 * [HttpClientGoodies](https://github.com/jeffijoe/httpclientgoodies.net) - utilities for working with `HttpClient`
 * [CoreRPC](https://github.com/kekekeks/CoreRPC) - Extensible library for WCF-like RPC targeting netstandard1.3. Compatible with .NET, Mono and .NET Core.
+* [Rx.Http](https://github.com/lucassklp/Rx.Http) - A library that help programmers to make asynchronous http requests.
 
 ## IDE
 
