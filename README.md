@@ -528,6 +528,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## HTML and CSS
 
 * [AngleSharp](https://github.com/AngleSharp/AngleSharp) - Complete HTML5 DOM and CSS3 OM construction
+* [Autoprefixer Host](https://github.com/Taritsyn/AutoprefixerHost) - .NET wrapper around the [Andrey Sitnik's Autoprefixer](https://github.com/postcss/autoprefixer)
 * [dotless](https://github.com/dotless/dotless) - .NET port of the Ruby Less CSS lib http://www.dotlesscss.org
 * [ExCSS](https://github.com/TylerBrinks/ExCSS) - CSS3 parser library for C#
 * [FluentBootstrap](http://fluentbootstrap.com) - Makes the Bootstrap CSS framework easier to use from ASP.NET MVC or WebPages.
