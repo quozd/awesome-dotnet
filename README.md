@@ -324,6 +324,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## Continuous Integration
 * [TeamCity](https://www.jetbrains.com/teamcity/) - Ready to work, extensible and developer-friendly build server — out of the box **[$]**
 * [MyGet](https://www.myget.org/) - Continuous Integration and Deployment, Hosted Package Repository for NuGet, NPM, Bower and VSIX **[$]**
+* [dotnet-ci-pipelines](https://github.com/lastlink/dotnet-ci-pipelines) - Example repo of CI/CD with built in pipelines for github, github, azure devops, gitlab, bitbucket, and etc.
 * [AppVeyor](https://www.appveyor.com/) - .NET Continuous Integration and Deployment as a service. **[$]** **[Free for OSS]**
 
 ## Cryptography
