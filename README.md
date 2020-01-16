@@ -707,6 +707,7 @@ metadata in media files, including video, audio, and photo formats
 
 * [Microsoft Ajax Minifier](https://archive.codeplex.com/?p=ajaxmin) - Contains JS and CSS minifiers which have a highest performance, because its have been specifically designed for .NET. Optionally produce Source Maps for JS code.
 * [Web Markup Minifier](https://github.com/Taritsyn/WebMarkupMin) - .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.
+* [HTML Minifier](https://github.com/deanhume/html-minifier) - A simple command line tool to minify your HTML, Razor views & Web Forms views.
 
 ## Misc
 * [CSharp Pad](http://csharppad.com) - A web-based C# REPL with awesome code completion.
