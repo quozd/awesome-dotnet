@@ -886,7 +886,7 @@ metadata in media files, including video, audio, and photo formats
 * [Lucene.net](https://lucenenet.apache.org/) - Lucene.Net is a port of the Lucene search engine library, written in C# and targeted at .NET runtime users
 
 ## Serialization
-
+* [AvroConvert](https://github.com/AdrianStrugala/AvroConvert) - Apache Avro serializer for .NET. Avro is one of the most popular file formats in the Big Data world.
 * [Ceras](https://github.com/rikimaru0345/Ceras) - [Very fast](https://github.com/rikimaru0345/Ceras#performance-benchmarks) binary serializer for .NET/Core/Unity; [huge set of features](https://github.com/rikimaru0345/Ceras/wiki/Full-feature-list-&-planned-features), can be used [for easy networking](https://www.rikidev.com/networking-with-ceras-part-1/), handles circular references, polymorphism, ...
 * [Protobuf.NET](https://github.com/mgravell/protobuf-net) - Protocol buffers is the name of the binary serialization format used by Google for much of their data communications
 * [Json.NET](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET
