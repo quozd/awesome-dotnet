@@ -127,6 +127,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## API
 
 * [Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot) - .NET Client for [Telegram Bot API](https://core.telegram.org/bots/api)
+*[VK.NET](https://github.com/vknet/vk) .NET Client for [VK Api](https://vk.com/dev/methods)
 * [TLSharp](https://github.com/sochix/TLSharp) - It's a perfect fit for any developer who would like to send data directly to Telegram users or write own custom Telegram client.
 * [NancyFx](https://github.com/NancyFx/Nancy) - Lightweight, low-ceremony, framework for building HTTP-based services on .NET and Mono
 * [ASP.NET Web API](https://dotnet.microsoft.com/apps/aspnet/apis) - Framework that makes it easy to build HTTP services that reach a broad range of clients, including browsers and mobile devices
@@ -495,7 +496,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Veldrid](https://github.com/mellinoe/veldrid) - A low-level, portable graphics and compute library for .NET
 
 ## GUI
-
+*[AvaloniaUI](https://avaloniaui.net/) - A cross platform XAML Framework for .NET Framework, .NET Core and Mono
 * [HandyControl](https://github.com/HandyOrg/HandyControl) - Contains some simple and commonly used WPF controls
 * [QtSharp](https://github.com/ddobrev/QtSharp) - Mono/.NET Bindings for Qt
 * [Qml.Net](https://github.com/qmlnet/qmlnet) - A cross-platform Qml/.NET integration for Mono/.NET/.NET Core
@@ -524,6 +525,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Neutronium](https://github.com/NeutroniumCore/Neutronium) - Build .NET desktop applications using HTML, CSS, javascript and MVVM bindings such as with WPF.
 * [Ooui](https://github.com/praeclarum/Ooui) - A small cross-platform UI library that brings the simplicity of native UI development to the web
 * [AdonisUI](https://github.com/benruehl/adonis-ui) - Lightweight UI toolkit for WPF applications offering classic but enhanced Windows visuals.
+*[Material.Avalonia](https://github.com/CreateLab/material.avalonia)  - UI toolkit to  Google's Material dising for AvaloniaUI.
+*[Avalonia.Citrus](https://github.com/worldbeater/Avalonia.Citrus) - Bright and Light AvaloniaUI theme.
 
 ## HTML and CSS
 
