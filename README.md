@@ -972,6 +972,7 @@ metadata in media files, including video, audio, and photo formats
 * [Expecto](https://github.com/haf/expecto) - A smooth testing framework for F# with tests as values. Unit testing, property based testing, performance testing and stress testing.
 * [ReportPortal](http://reportportal.io) - AI-powered Test Automation Dashboard. Acquire, aggregate and analyze test reports to ascertain release health.
 * [Compare-Net-Objects](https://github.com/GregFinzer/Compare-Net-Objects) - Perform a deep compare of any two .NET objects using reflection. Shows the differences between the two objects. 
+* [Verify](https://github.com/SimonCropp/Verify) - Verification tool to enable simple approval of complex models and documents.
 
 ## Tools
 
