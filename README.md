@@ -166,6 +166,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Side-Waffle](https://github.com/LigerShark/side-waffle) - Large collection of useful templates for Web and Desktop development.
 * [Template10](https://github.com/Windows-XAML/Template10) - Windows 10 templates with design patterns.
 * [Nucleus](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
+* [DotNetCleanArchitecture](https://github.com/ivanpaulovich/dotnet-clean-architecture) - A Clean Architecture and Model-View-Presenter demo with implementation guided by Tests.
 
 ## Artificial Intelligence
 * [AIMLBot (Program#)](http://aimlbot.sourceforge.net/) - A small, fast, standards-compliant yet easily customizable implementation of an AIML (Artificial Intelligence Markup Language) based chatter bot in C#.
