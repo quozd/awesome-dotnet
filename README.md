@@ -340,7 +340,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## Database
 
 * [BrightstarDb](https://github.com/BrightstarDB/BrightstarDB) - BrightstarDB is a native .NET RDF triple store
-* [Event Store](https://github.com/EventStore/EventStore) - The open-source, functional database with Complex Event Processing in JavaScript. https://eventstore.org/
+* [Event Store](https://github.com/EventStore/EventStore) - The open-source, functional database with Complex Event Processing in JavaScript
 * [LiteDB](https://github.com/mbdavid/LiteDB) - A .NET NoSQL Document Store in a single data file - https://www.litedb.org
 * [RavenDB](https://github.com/ravendb/ravendb) - A LINQ-enabled document database for .NET
 * [Marten](https://github.com/JasperFx/marten) - PostgreSQL as a document database and event store for .NET applications
