@@ -331,6 +331,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## Database
 
 * [BrightstarDb](https://github.com/BrightstarDB/BrightstarDB) - BrightstarDB is a native .NET RDF triple store
+* [DBreeze](https://github.com/hhblaze/DBreeze) - DBreeze Database is a professional, open-source, multi-paradigm (embedded Key-Value store, objects, NoSql, text search, multi-parameter search etc.), multi-threaded, transactional and ACID-compliant data management system for .NET 3.5> / Xamarin MONO Android iOS / .NET Core 1.0> / .NET Standard 1.6> / Universal Windows Platform / .NET Portable / CoreRT
+...for servers, desktops, mobiles and internet-of-things...
 * [Event Store](https://github.com/EventStore/EventStore) - The open-source, functional database with Complex Event Processing in JavaScript. https://eventstore.org/
 * [LiteDB](https://github.com/mbdavid/LiteDB) - A .NET NoSQL Document Store in a single data file - https://www.litedb.org
 * [RavenDB](https://github.com/ravendb/ravendb) - A LINQ-enabled document database for .NET
