@@ -915,6 +915,7 @@ metadata in media files, including video, audio, and photo formats
 * [FsPickler](https://github.com/mbraceproject/FsPickler) - A fast multi-format message serializer for .NET
 * [Migrant](https://github.com/antmicro/Migrant) - Fast and flexible serialization framework usable on undecorated classes.
 * [Utf8Json](https://github.com/neuecc/Utf8Json) - Fast and Zero Allocation JSON Serializer for C#(.NET, .NET Core, Unity and Xamarin), this serializer write/read directly to UTF8 binary so boostup performance.
+* [Jsonapi-consumer](https://github.com/OKTAYKIR/jsonapi-consumer) - Client framework for consuming JSONAPI services
 
 ## SMS and Phone calls
 
