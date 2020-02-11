@@ -747,6 +747,7 @@ metadata in media files, including video, audio, and photo formats
 * [DeviceDetector.NET](https://github.com/totpero/DeviceDetector.NET) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
 * [NaturalSort.Extension](https://github.com/tompazourek/NaturalSort.Extension) - Extension method for StringComparer that adds support for natural sorting (e.g. "abc1", "abc2", "abc10" instead of "abc1", "abc10", "abc2").
 * [Coravel](https://github.com/jamesmh/coravel) Near-zero config .NET Core library that makes Task Scheduling, Caching, Queuing, Mailing, Event Broadcasting (and more) a breeze!
+* [wbm-dl](https://github.com/erlange/wbm-dl) Wayback Machine Downloader. Tools to download archived websites from the Internet Archive Wayback Machine. 
 
 ## MVVM
 
