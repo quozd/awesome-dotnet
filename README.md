@@ -641,7 +641,7 @@ the Python world. It uses the Pyro protocol to call methods on remote objects.
 * [Logazmic](https://github.com/ihtfw/Logazmic) - Open source NLog viewer for Windows
 * [ELMAH](https://elmah.github.io/) - Official ELMAH site
 * [Elmah MVC](https://github.com/alexbeletsky/elmah-mvc) - Elmah for MVC
-* [Logary](https://logary.github.io/) - Logary is a high performance, multi-target logging, metric, tracing and health-check library for Mono and .NET. .NET's answer to DropWizard. Supports many targets, built for micro-services.
+* [Logary](https://github.com/logary/logary) - Logary is a high performance, multi-target logging, metric, tracing and health-check library for Mono and .NET. .NET's answer to DropWizard. Supports many targets, built for micro-services.
 * [Log4Net](https://logging.apache.org/log4net/) - The Apache log4net library is a tool to help the programmer output log statements to a variety of output targets
 * [Sentry](https://github.com/getsentry/sentry-dotnet) - .NET SDK for [Sentry](https://sentry.io/welcome/) Open-source error tracking that helps developers monitor and fix crashes in real time..
 * [Serilog](https://github.com/serilog/serilog) - A no-nonsense logging library for the NoSQL era. Combines the best of traditional and structured diagnostic logging in an easy-to-use package.
