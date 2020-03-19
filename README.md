@@ -388,7 +388,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## DirectX
 
-* [SharpDX](https://github.com/sharpdx/SharpDX) - SharpDX is an open-source project delivering the full DirectX API for .NET on all Windows platforms, allowing the development of high performance game, 2D and 3D graphics rendering as well as real-time sound application.
+* [Vortice.Windows](https://github.com/amerkoleci/Vortice.Windows) - Cross platform .NET standard libraries for DirectX, WIC, Direct2D1, XInput, XAudio and X3DAudio 
 
 ## Distributed Computing
 
