@@ -637,6 +637,7 @@ the Python world. It uses the Pyro protocol to call methods on remote objects.
 
 ## Logging
 
+* [Logging.Samples](https://github.com/akovac35/Logging.Samples) Samples for .NET Core and ASP.NET Core logging using various logger frameworks.
 * [Essential Diagnostics](https://github.com/sgryphon/essential-diagnostics) - Extends the inbuilt features of System.Diagnostics namespace to provide flexible logging
 * [NLog](https://github.com/nlog/NLog/) - NLog - Advanced .NET and Silverlight logging
 * [Logazmic](https://github.com/ihtfw/Logazmic) - Open source NLog viewer for Windows
