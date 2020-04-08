@@ -812,6 +812,11 @@ metadata in media files, including video, audio, and photo formats
 * [DbExtensions](https://maxtoroq.github.io/DbExtensions/) - Data-access framework with a strong focus on query composition, granularity and code aesthetics.
 * [SmartSql](https://github.com/Smart-Kit/SmartSql) - SmartSql = MyBatis + Cache（Memory | Redis）+ ZooKeeper + R / W Splitting + Dynamic Repository ....
 * [RepoDb](https://github.com/mikependon/RepoDb) - A hybrid ORM library for .NET.
+  * [RepoDb.SqlServer](https://github.com/mikependon/RepoDb/tree/master/RepoDb.SqlServer) - A hybrid .NET ORM library for SQL Server.
+  * [RepoDb.MySql](https://github.com/mikependon/RepoDb/tree/master/RepoDb.MySql) - A hybrid .NET ORM library for MySQL.
+  * [RepoDb.SqLite](https://github.com/mikependon/RepoDb/tree/master/RepoDb.SqLite) - A hybrid .NET ORM library for SQLite.
+  * [RepoDb.PostgreSql](https://github.com/mikependon/RepoDb/tree/master/RepoDb.PostgreSql) - A hybrid .NET ORM library for PostgreSQL.
+  * [RepoDb.SqlServer.BulkOperations](https://github.com/mikependon/RepoDb/tree/master/RepoDb.Extensions/RepoDb.SqlServer.BulkOperations) - An extension library that contains the official Bulk Operations of RepoDb for SQL Server.
 
 ## Package Management
 
