@@ -811,7 +811,7 @@ metadata in media files, including video, audio, and photo formats
 * [LLBLGen Pro](https://www.llblgen.com) - Entity Modeling solution for Entity Framework, NHibernate, Linq to SQL and its own ORM framework: LLBLGen Pro Runtime Framework. **[$][Free Lite version]**
 * [Insight.Database](https://github.com/jonwagner/Insight.Database) - Insight.Database is a fast, lightweight, micro-ORM for .NET
 * [DbExtensions](https://maxtoroq.github.io/DbExtensions/) - Data-access framework with a strong focus on query composition, granularity and code aesthetics.
-* [SmartSql](https://github.com/Smart-Kit/SmartSql) - SmartSql = MyBatis + Cache（Memory | Redis）+ ZooKeeper + R / W Splitting + Dynamic Repository ....
+* [SmartSql](https://github.com/dotnetcore/SmartSql) - SmartSql = MyBatis + Cache（Memory | Redis）+ ZooKeeper + R / W Splitting + Dynamic Repository ....
 * [RepoDb](https://github.com/mikependon/RepoDb) - A hybrid ORM library for .NET.
 
 ## Package Management
