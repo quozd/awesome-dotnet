@@ -981,7 +981,7 @@ metadata in media files, including video, audio, and photo formats
 * [SpecFlow](https://github.com/SpecFlowOSS/SpecFlow) - Binding business requirements to .Net code
 * [Stryker.NET](https://github.com/stryker-mutator/stryker-net) - Mutation testing for .NET Core projects
 * [xBehave.net](https://github.com/xbehave/xbehave.net) - An xUnit.net extension for describing your tests using natural language. [https://xbehave.github.io](https://xbehave.github.io)
-* [xUnit.net](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework. [https://xunit.github.io/](https://xunit.github.io/)
+* [xUnit.net](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework.
 * [Canopy](https://github.com/lefthandedgoat/canopy) - Canopy is a free, open source F# web automation and testing framework
 * [Expecto](https://github.com/haf/expecto) - A smooth testing framework for F# with tests as values. Unit testing, property based testing, performance testing and stress testing.
 * [ReportPortal](http://reportportal.io) - AI-powered Test Automation Dashboard. Acquire, aggregate and analyze test reports to ascertain release health.
