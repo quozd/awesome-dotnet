@@ -33,6 +33,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Build Automation](#build-automation)
   * [Business Intelligence and Reporting](#business-intelligence)
   * [Caching](#caching)
+  * [Calendar](#calendar)
   * [CLI](#cli)
   * [CLR](#clr)
   * [CMS](#cms)
@@ -235,6 +236,10 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [CacheAdapter](https://bitbucket.org/glav/cacheadapter) - Another common cache abstraction layer for caching with enhanced cache API usage.
 * [Foundatio](https://github.com/FoundatioFx/Foundatio#caching) - A common interface with in memory, Redis and hybrid implementations.
 * [Cashew](https://github.com/joakimskoog/Cashew) - a .NET library for caching responses easily with an `HttpClient` through an API that is simple and elegant yet powerful.
+
+## Calendar
+
+* [iCal.NET](https://github.com/rianjs/ical.net) iCal.NET is an iCalendar (RFC 5545) class library for .NET aimed at providing RFC 5545 compliance, while providing full compatibility with popular calendaring applications and libraries.
 
 ## CLI
 
@@ -685,10 +690,6 @@ the Python world. It uses the Pyro protocol to call methods on remote objects.
 * [MimeKit](https://github.com/jstedfast/MimeKit) - A cross-platform .NET MIME creation and parser library with support for S/MIME, PGP, TNEF and Unix mbox spools.
 * [PreMailer.Net](https://github.com/milkshakesoftware/PreMailer.Net) - C# library that moves your stylesheets to inline style attributes, for maximum compatibility with e-mail clients.
 * [StrongGrid](https://github.com/Jericho/StrongGrid) - Client for SendGrid's v3 API. Not only allows you to send emails, but also allows you to bulk import contacts, manage lists and segments, create custom fields for your lists, etc. Also includes a parser for SendGrid Webhooks.
-
-## Calendar
-
-* [iCal.NET](https://github.com/rianjs/ical.net) iCal.NET is an iCalendar (RFC 5545) class library for .NET aimed at providing RFC 5545 compliance, while providing full compatibility with popular calendaring applications and libraries.
 
 ## Mathematics
 
