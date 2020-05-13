@@ -33,6 +33,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Build Automation](#build-automation)
   * [Business Intelligence and Reporting](#business-intelligence)
   * [Caching](#caching)
+  * [Calendar](#calendar)
   * [CLI](#cli)
   * [CLR](#clr)
   * [CMS](#cms)
@@ -235,6 +236,10 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [CacheAdapter](https://bitbucket.org/glav/cacheadapter) - Another common cache abstraction layer for caching with enhanced cache API usage.
 * [Foundatio](https://github.com/FoundatioFx/Foundatio#caching) - A common interface with in memory, Redis and hybrid implementations.
 * [Cashew](https://github.com/joakimskoog/Cashew) - a .NET library for caching responses easily with an `HttpClient` through an API that is simple and elegant yet powerful.
+
+## Calendar
+
+* [iCal.NET](https://github.com/rianjs/ical.net) iCal.NET is an iCalendar (RFC 5545) class library for .NET aimed at providing RFC 5545 compliance, while providing full compatibility with popular calendaring applications and libraries.
 
 ## CLI
 
