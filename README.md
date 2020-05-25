@@ -961,6 +961,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## Template Engine
 
+* [Fluid](https://github.com/sebastienros/fluid) - Fluid is an open-source .NET template engine that is as close as possible to the Liquid template language.
 * [RazorEngine](https://github.com/Antaris/RazorEngine) - Open source templating engine based on Microsoft's Razor parsing engine
 * [RazorLight](https://github.com/toddams/RazorLight) - Open source template engine based on Microsoft's Razor parsing engine supporting .NET Standard 2.0
 * [Nustache](https://github.com/jdiamond/Nustache) - Open source library for logic-less templates
