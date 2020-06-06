@@ -452,6 +452,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [FluentMediator](https://github.com/ivanpaulovich/FluentMediator) - FluentMediator is an unobtrusive library that allows developers to build custom pipelines for Commands, Queries and Events
 
 ## Exceptions
+* [Excepticon](https://github.com/Excepticon/excepticon-dotnet) - Exception monitoring service for .NET applications and services
 * [Exceptionless](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
 
 ## Extensions
