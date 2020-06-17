@@ -95,6 +95,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Query Builders](#query-builders)
   * [Queue](#queue)
   * [Reactive Programming](#reactive-programming)
+  * [Real-time Communications](#real-time-communications)
   * [Scheduling](#scheduling)
   * [SDK and API Clients](#sdk-and-api-clients)
   * [Search](#search)
@@ -887,6 +888,10 @@ metadata in media files, including video, audio, and photo formats
 
 * [Rx.NET](https://github.com/dotnet/reactive) - The Reactive Extensions (Rx) is a library for composing asynchronous and event-based programs using observable sequences and LINQ-style query operators
 * [Dynamic Data](https://github.com/reactiveui/DynamicData) - Reactive Extensions (Rx) for collections
+
+## Real-time Communications
+
+* [SIPSorcery](https://github.com/sipsorcery/sipsorcery) - A cross platform C# .NET library supporting SIP, VoIP and WebRTC.
 
 ## Scheduling
 
