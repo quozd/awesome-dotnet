@@ -516,6 +516,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## GUI
 
 * [HandyControl](https://github.com/HandyOrg/HandyControl) - Contains some simple and commonly used WPF controls
+* [Lara](https://github.com/integrativesoft/lara) - Lara Web Engine is a library for developing Web user interfaces in C#
 * [QtSharp](https://github.com/ddobrev/QtSharp) - Mono/.NET Bindings for Qt
 * [Qml.Net](https://github.com/qmlnet/qmlnet) - A cross-platform Qml/.NET integration for Mono/.NET/.NET Core
 * [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - Toolkit for creating Metro-styled WPF apps
