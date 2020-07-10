@@ -974,6 +974,7 @@ metadata in media files, including video, audio, and photo formats
 * [Stubble](https://github.com/stubbleorg/stubble) - Trimmed down {{mustache}} templates in .NET. Successor of Nustache.
 * [DotLiquid](https://github.com/dotliquid/dotliquid) - C# port of the Ruby Liquid templating language
 * [Mustache Sharp](https://github.com/jehugaleahsa/mustache-sharp) - An extension of the mustache text template engine for .NET.
+* [Scriban](https://github.com/lunet-io/scriban) - A fast, powerful, safe and lightweight text templating language and engine for .NET
 
 ## Testing
 
