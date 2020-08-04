@@ -279,6 +279,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [BetterCMS](http://www.bettercms.com) - Open Source .NET Intuitive User Interface for Developer and Publisher
 * [DotNetNuke](https://www.dnnsoftware.com/community/download) - DNN Platform is our free, open source web CMS and the foundation of every professional DNN solution. Over 750,000 organizations worldwide have built websites powered by the DNN Platform.
 * [BlogEngine.NET](https://github.com/rxtur/BlogEngine.NET) - Simple but full featured ASP.NET blog
+* [DotNetBlog](https://github.com/OmidID/DotNetBlog) - A Tiny Blog Written in Asp.Net Core.
 
 ## Code Analysis and Metrics
 
