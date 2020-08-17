@@ -466,6 +466,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Optional](https://github.com/nlkl/Optional) - A robust option type for C#
 * [JFlepp.Maybe](https://github.com/jflepp/JFlepp.Maybe) - A Maybe type for C#, aimed as an idiomatic port of the option type in F# to C#
 * [Optuple](https://github.com/atifaziz/Optuple) - .NET Standard Library for giving `(bool, T)` Option-like semantics in a non-obtrusive way; this is, there is no new option type dependency for a library or its users.
+* [System.Collections.Immutable](https://docs.microsoft.com/en-us/dotnet/api/system.collections.immutable) - The .NET Core System.Collections.Immutable namespace contains interfaces and classes that define immutable collections.
 
 ## Game
 
