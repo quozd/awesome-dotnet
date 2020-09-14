@@ -139,6 +139,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [WebAPI Contrib](https://github.com/WebApiContrib/WebAPIContrib) - Collection of open source projects to help improve your work with ASP.NET Web API
 * [Xamarin.Essentials](https://docs.microsoft.com/en-us/xamarin/essentials/) - Xamarin.Essentials provides developers with cross-platform APIs for their mobile applications.
 * [Ocelot](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
+* [CommandQuery](https://github.com/hlaueriksson/CommandQuery) - Command Query Separation for ASP.NET Web API 2, ASP.NET Core, AWS Lambda and Azure Functions.
 
 ## Application Frameworks
 
