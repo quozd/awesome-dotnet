@@ -480,6 +480,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Nez](https://github.com/prime31/Nez) - Nez is a free 2D-focused framework that works with MonoGame and FNA
 * [BEPUphysics](https://github.com/bepu/bepuphysics2) - BEPUphysics is a pure C# 3D physics library
 * [Devtodev](https://github.com/devtodev-analytics/winstore-sdk) - A full-cycle analytics solution for game developers.
+* [UnrealCLR](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine .NET Core integration 
 
 ## GIS
 
