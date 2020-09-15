@@ -967,6 +967,7 @@ metadata in media files, including video, audio, and photo formats
 ## Strong Naming
 
 * [Strong Namer](https://github.com/dsplaisted/strongnamer) - Automatically add strong names to referenced assemblies which do not already have a strong name. This will allow you to reference and use (NuGet packages with) assemblies which are not strong named from your projects that do use a strong name.
+* [.NET Assembly Strong-Name Signer](https://github.com/brutaldev/StrongNameSigner) - Utility software to strong-name sign .NET assemblies, including assemblies you do not have the source code for. 
 
 ## Style Guide
 
