@@ -1043,7 +1043,7 @@ metadata in media files, including video, audio, and photo formats
 
 * [Atata](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
 * [Managed Windows API](http://mwinapi.sourceforge.net/) - Introspect and automate third-party Windows / VC++ applications without needing its source code.
-* [FlaUI](https://github.com/Roemer/FlaUI) - FlaUI is a .NET library which helps with automated UI testing of Windows applications (Win32, WinForms, WPF, Store Apps, ...).
+* [FlaUI](https://github.com/FlaUI/FlaUI) - FlaUI is a .NET library which helps with automated UI testing of Windows applications (Win32, WinForms, WPF, Store Apps, ...).
 * [PuppeteerSharp](https://github.com/hardkoded/puppeteer-sharp) - Puppeteer Sharp is a .NET port of the official Node.JS Puppeteer API.
 * [PuppeteerSharp.Contrib](https://github.com/hlaueriksson/puppeteer-sharp-contrib) - Contributions to Puppeteer Sharp that provides a convenient way to write readable and robust browser tests.
 
