@@ -837,7 +837,7 @@ metadata in media files, including video, audio, and photo formats
 
 * [NuGet](https://www.nuget.org/) - The .NET package manager
 * [BaGet](https://github.com/loic-sharma/BaGet/) - A cross-platform, lightweight NuGet and Symbol server
-* [Cloudsmith](https://cloudsmith.io/l/nuget-feed/) - A fully managed package management SaaS, with support for NuGet, Npm, Docker and much more. **[Free for Public/OSS]** **[$]**
+* [Cloudsmith](https://cloudsmith.com/nuget-feed/) - A fully managed package management SaaS, with support for NuGet, Npm, Docker and much more. **[Free for Public/OSS]** **[$]**
 * [MyGet](https://www.myget.org/) - Hosted Package Repository for NuGet, NPM, Bower and VSIX. Also provides CI as-a-Service. **[$]**
 * [Paket](https://github.com/fsprojects/Paket) - A package dependency manager for .NET with support for NuGet packages and GitHub repositories. https://fsprojects.github.io/Paket/
 * [Sleet](https://github.com/emgarten/sleet/) - A NuGet v3 static feed generator with support for AWS S3 and Azure Storage
