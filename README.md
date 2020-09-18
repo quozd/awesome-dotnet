@@ -895,7 +895,7 @@ metadata in media files, including video, audio, and photo formats
 ## Reactive Programming
 
 * [Rx.NET](https://github.com/dotnet/reactive) - The Reactive Extensions (Rx) is a library for composing asynchronous and event-based programs using observable sequences and LINQ-style query operators
-* [Dynamic Data](https://github.com/reactiveui/DynamicData) - Reactive Extensions (Rx) for collections
+* [Dynamic Data](https://github.com/reactivemarbles/DynamicData) - Reactive Extensions (Rx) for collections
 
 ## Real-time Communications
 
@@ -1063,7 +1063,7 @@ metadata in media files, including video, audio, and photo formats
 * [OzCode](https://marketplace.visualstudio.com/items?itemName=CodeValueLtd.OzCode) - OzCode is a Visual Studio Extension which cuts down on debugging time and increases productivity by detecting and isolating bugs, making them easy to fix. **[$]**
  * [Roslynator](https://github.com/JosefPihrt/Roslynator) - A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn
  * [Unchase.Odata.Connectedservice](https://github.com/unchase/Unchase.Odata.Connectedservice) - A Visual Studio Connected Service for generating API client code in C# or VB for OData web service.
- * [Unchase.OpenAPI.Connectedservice](https://github.com/unchase/Unchase.OpenAPI.Connectedservice) - A Visual Studio 2017/2019 extension to generate C# (TypeScript) HttpClient (or C# Controllers) code for OpenAPI (formerly [Swagger API](https://swagger.io/docs/specification/about/)) web service with [NSwag](https://github.com/RicoSuter/NSwag).
+ * [Unchase.OpenAPI.Connectedservice](https://github.com/unchase/Unchase.OpenAPI.Connectedservice) - A Visual Studio 2017/2019 extension to generate C# (TypeScript) HttpClient (or C# Controllers) code for OpenAPI web service with [NSwag](https://github.com/RicoSuter/NSwag).
 
 ## Web Browsers
 
