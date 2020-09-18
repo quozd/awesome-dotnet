@@ -750,7 +750,7 @@ metadata in media files, including video, audio, and photo formats
 * [Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 * [LINQPad](https://www.linqpad.net) - a C#/VB/F# scratchpad that instantly executes any expression, statement block or program with rich output formatting and a wealth of features. Also lets you interactively query databases in LINQ. [$]
 * [Polly](https://github.com/App-vNext/Polly) - Express transient-exception-handling and resilience policies such as Retry, Wait-and-Retry, Circuit Breaker, and Bulkhead Isolation in a fluent manner. Fully thread-safe and full async support.  (4.0 / 4.5 / .NET Core / .NET Standard / Xamarin).
-* [Rant](https://github.com/TheBerkin/Rant) - The Rant Procedural Text Generation DSL https://berkin.me/rant/
+* [Rant](https://github.com/TheBerkin/rant3) - The Rant Procedural Text Generation DSL https://berkin.me/rant/
 * [ScriptCS](https://github.com/scriptcs/scriptcs) - Write C# apps with a text editor, NuGet and the power of Roslyn!
 * [Shielded](https://github.com/jbakic/Shielded) - Software Transactional Memory (STM) implementation for .NET
 * [MSBuild ILMerge task](https://archive.codeplex.com/?p=ilmergemsbuild) - MSBuild ILMerge task is a NuGet package allows you to use the famous ILMerge utility in automated builds and/or Visual Studio projects.
