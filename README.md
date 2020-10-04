@@ -550,6 +550,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [AdonisUI](https://github.com/benruehl/adonis-ui) - Lightweight UI toolkit for WPF applications offering classic but enhanced Windows visuals.
 * [Windows UI Library](https://github.com/microsoft/microsoft-ui-xaml) - The Windows UI Library (WinUI) provides official native Microsoft UI controls and features for Windows UWP apps.
 * [Bunifu UI Framework](https://bunifuframework.com) - Carefully crafted Winforms controls and components for creating stunning modern application UI. **[$]**
+* [CshtmlComponent](https://github.com/Acmion/CshtmlComponent) - Extensive Component Framework for ASP.NET Core MVC and Razor Pages projects. Supports Razor syntax, nested child content, named slots and more.
 
 ## HTML and CSS
 
