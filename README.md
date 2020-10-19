@@ -264,6 +264,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [ReadLine](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
 * [RunInfoBuilder](https://github.com/rushfive/RunInfoBuilder) - A unique command line parser, utilizing object trees for commands.
 * [SharpNetSH](https://github.com/rpetz/SharpNetSH) - A simple netsh library for C#.
+* [spectre.console](https://github.com/spectresystems/spectre.console) - A library that makes it easier to create beautiful console applications.
 
 ## CLR
 
