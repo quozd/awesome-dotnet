@@ -647,7 +647,7 @@ the Python world. It uses the Pyro protocol to call methods on remote objects.
 * [VS MEF](https://github.com/Microsoft/vs-mef) - Managed Extensibility Framework (MEF) implementation used by Visual Studio.
 * [TinyIoC](https://github.com/grumpydev/TinyIoC) - An easy to use, hassle free, Inversion of Control Container for small projects, libraries and beginners alike.
 * [Stashbox](https://github.com/z4kn4fein/stashbox) - A lightweight, portable dependency injection framework for .NET based solutions.
-
+* [TinYard](https://github.com/TinYard/TinYard) - A small but powerful IoC framework that also enables MVC through simple extensability.  
 ## JavaScript Engines
 
 * [ClearScript](https://github.com/Microsoft/ClearScript) - A library that makes it easy to add scripting to your .NET applications. It currently supports JavaScript (via V8 and JScript) and VBScript.
