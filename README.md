@@ -553,6 +553,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [AdonisUI](https://github.com/benruehl/adonis-ui) - Lightweight UI toolkit for WPF applications offering classic but enhanced Windows visuals.
 * [Windows UI Library](https://github.com/microsoft/microsoft-ui-xaml) - The Windows UI Library (WinUI) provides official native Microsoft UI controls and features for Windows UWP apps.
 * [Bunifu UI Framework](https://bunifuframework.com) - Carefully crafted Winforms controls and components for creating stunning modern application UI. **[$]**
+* [Ookii.Dialogs.Wpf](https://github.com/augustoproiete/ookii-dialogs-wpf) - Enable WPF applications to access common Windows dialogs such as task dialogs, credential dialog, progress dialog, folder browser dialog, and more
+* [Ookii.Dialogs.WinForms](https://github.com/augustoproiete/ookii-dialogs-winforms) - Enable Windows Forms applications to access common Windows dialogs such as task dialogs, credential dialog, progress dialog, folder browser dialog, and more
 
 ## HTML and CSS
 
