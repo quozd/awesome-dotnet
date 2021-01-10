@@ -580,7 +580,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [RestLess](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
 * [HttpClientGoodies](https://github.com/jeffijoe/httpclientgoodies.net) - utilities for working with `HttpClient`
 * [CoreRPC](https://github.com/kekekeks/CoreRPC) - Extensible library for WCF-like RPC targeting netstandard1.3. Compatible with .NET, Mono and .NET Core.
-
+* [WebApiClient](https://github.com/dotnetcore/WebApiClient) An open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
 ## IDE
 
 * [AvalonStudio](https://github.com/VitalElement/AvalonStudio) - An extensible, cross platform IDE written in C# for Embedded C/C++, .NET Core, Avalonia and Typescript
