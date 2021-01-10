@@ -944,6 +944,7 @@ metadata in media files, including video, audio, and photo formats
 ## Serialization
 
 * [Ceras](https://github.com/rikimaru0345/Ceras) - Ceras is a binary serializer. It converts any object into a byte[] and back. It goes above and beyond in terms of features, speed, and comfort. Supports reference loops, large/complicated inheritance chains, splitting objects into parts and more.
+* [CsvExport](https://github.com/jitbit/CsvExport) - Very simple & lightweight CSV exporter, Excel friendly, escapes text & quotes etc.
 * [Protobuf.NET](https://github.com/protobuf-net/protobuf-net) - Protocol buffers is the name of the binary serialization format used by Google for much of their data communications
 * [Json.NET](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET
 * [ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text) - JSON, JSV and CSV Text Serializers used in servicestack.net
