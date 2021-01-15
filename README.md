@@ -260,6 +260,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Colorful.Console](https://github.com/tomakita/Colorful.Console) - Colorful console output.
 * [CommandDotNet](https://github.com/bilal-fazlani/commanddotnet) - Model your console app using C# in a composable manner. Define commands with methods. Define subcommands with properties or nested classes. Extensible parsing and command execution.   
 * [Command Line Parser](https://github.com/commandlineparser/commandline) - The Command Line Parser Library offers to CLR applications a clean and concise API for manipulating command-line arguments and related tasks
+* [CommandLineUtils](https://github.com/natemcmaster/CommandLineUtils) - This is a fork of Microsoft.Extensions.CommandLineUtils, which is no longer under active development.
 * [CsConsoleFormat](https://github.com/Athari/CsConsoleFormat) - .NET C# library for advanced formatting of console output.
 * [Docopt](https://github.com/docopt/docopt.net) - Command-line interface description language that will make you smile.
 * [EntryPoint](https://github.com/Nick-Lucas/EntryPoint) - Composable CLI Argument Parser for .NET Core & .NET Framework 4.5+.
