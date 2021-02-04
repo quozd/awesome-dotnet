@@ -29,6 +29,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Assembly Manipulation](#assembly-manipulation)
   * [Assets](#assets)
   * [Authentication and Authorization](#authentication-and-authorization)
+  * [Blazor](#blazor)
   * [Books](#books)
   * [Build Automation](#build-automation)
   * [Business Intelligence and Reporting](#business-intelligence)
@@ -202,6 +203,10 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [IdentityServer](https://github.com/IdentityServer) - Extensible OAuth2 and OpenID Connect provider framework.
 * [OAuth](https://github.com/danielcrenna/vault/tree/master/oauth) - A very lightweight library for generating OAuth 1.0a signatures written in C#
 * [Stuntman](https://rimdev.io/stuntman/) - Stuntman is a library for impersonating users during development leveraging .NET Claims Identity.
+
+## Blazor
+
+* [BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor) - A set of enterprise-class UI components based on Bootstrap and Blazor.
 
 ## Blockchain
 
