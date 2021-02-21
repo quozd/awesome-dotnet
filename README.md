@@ -444,6 +444,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [SimplCommerce](https://github.com/simplcommerce/simplcommerce) - Super simple ecommerce system built on .NET Core. Simple to use and easy to customize. Thanks to .NET Core, you can run the SimplCommerce on Windows, Linux. With various RDBMS: Microsoft SQL Server, PostgreSQL, MySQL
 * [GrandNode](https://github.com/grandnode/grandnode) - GrandNode is a functional cross-platform e-commerce solution developed for the most demanding users. You are able to run it on any system - Linux, Windows, Mac. GrandNode supports Docker, so you can install it with Docker for Linux containers. Scalable e-commerce solution which can be adapted in any company independently from company size or industry.
 * [Square](https://github.com/square/connect-csharp-sdk) - The official SDK for Square payments and other Square APIs.
+* [Adyen](https://github.com/Adyen/adyen-dotnet-api-library) - The official Adyen Payment API Library for .NET
 
 ## Environment Management
 
