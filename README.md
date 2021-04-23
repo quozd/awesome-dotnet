@@ -35,6 +35,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Business Intelligence and Reporting](#business-intelligence)
   * [Caching](#caching)
   * [Calendar](#calendar)
+  * [Chat](#chat)
   * [CLI](#cli)
   * [CLR](#clr)
   * [CMS](#cms)
@@ -255,6 +256,10 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## Calendar
 
 * [iCal.NET](https://github.com/rianjs/ical.net) iCal.NET is an iCalendar (RFC 5545) class library for .NET aimed at providing RFC 5545 compliance, while providing full compatibility with popular calendaring applications and libraries.
+
+# Chat
+
+* [Stream](https://github.com/GetStream/stream-chat-net) Official .NET API client for Stream Chat, a service for building chat applications.
 
 ## CLI
 
