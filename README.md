@@ -623,6 +623,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [TeximpNet](https://bitbucket.org/Starnick/teximpnet) - A cross-platform .NET Standard library for reading/manipulating/writing image files. The primary focus is to create 2D/3D/Cubemap textures for graphics/game applications, notably to convert images to GPU compressed formats and generate mipmaps.  The library wraps the FreeImage native library to import/export over 30 common image formats, and wraps the Nvidia Texture Tools native library for GPU compression features. It also has a fully featured DDS format importer/exporter written in C#.
 * [Colourful](https://github.com/tompazourek/Colourful) - Open source .NET library for working with color spaces.
 * [Imgix-CSharp](https://docs.imgix.com/libraries/imgix-csharp) - Easily update image urls to be fast and responsive. **[$]**
+* [ColorHelper](https://github.com/iamartyom/ColorHelper) - Useful methods for work with colors.
 
 ## Install tools
 
