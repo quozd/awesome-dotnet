@@ -930,6 +930,7 @@ metadata in media files, including video, audio, and photo formats
 * [Foundatio](https://github.com/FoundatioFx/Foundatio#queues) - A common interface with in-memory, Redis and Azure implementations.
 * [Kafunk](https://github.com/jet/kafunk) - F# Kafka client from Jet
 * [Brighter](https://github.com/BrighterCommand/Brighter) - Command Dispatcher, Processor, and Distributed Task Queue https://www.goparamore.io/
+* [Silverback](https://silverback-messaging.net) - A simple but feature-rich message bus for .NET core (supports Kafka, RabbitMQ and MQTT).
 
 ## Reactive Programming
 
