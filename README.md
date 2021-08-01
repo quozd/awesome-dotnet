@@ -943,7 +943,7 @@ metadata in media files, including video, audio, and photo formats
 ## SDK and API Clients
 
 * [AWS SDK](https://github.com/aws/aws-sdk-net) - The AWS SDK for .NET enables .NET developers to easily work with Amazon Web Services
-* [Azure PowerShell](https://github.com/Azure/azure-powershell) - A set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications 
+* [Azure PowerShell](https://github.com/Azure/azure-powershell) - A set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications
 * [Countly SDK for Windows](https://github.com/Countly/countly-sdk-windows/) - Windows SDK for Countly analytics and marketing platform for product and marketing managers
 * [Octokit.NET](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
 * [Dropbox.NET](https://github.com/dropbox/dropbox-sdk-dotnet) - Official .NET SDK for the Dropbox API
