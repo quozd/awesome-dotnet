@@ -631,6 +631,10 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Wax](https://marketplace.visualstudio.com/items?itemName=TomEnglert.Wax) - An interactive editor for WiX projects.
 * [Onova](https://github.com/Tyrrrz/Onova) - An unopinionated auto-update framework for desktop applications.
 
+## Interactive programming
+
+* [.NET Interactive](https://github.com/dotnet/interactive) - .NET Interactive takes the power of .NET and embeds it into your interactive experiences.
+
 ## Internationalization
 
 * [i18n](https://github.com/turquoiseowl/i18n) - Smart internationalization for ASP.NET MVC
