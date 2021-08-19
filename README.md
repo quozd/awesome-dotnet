@@ -493,6 +493,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## Game
 
 * [MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games
+* [FNA](https://github.com/FNA-XNA/FNA) - FNA is an XNA4 reimplementation that focuses solely on developing a fully accurate XNA4 runtime for the desktop
 * [CocosSharp](https://github.com/mono/CocosSharp) - CocosSharp is a C# implementation of the Cocos2D and Cocos3D APIs that runs on any platform where MonoGame runs
 * [Duality](https://github.com/AdamsLair/duality) - Duality is a 2D game development framework. Focused on modularity, comes with a visual editor.
 * [Stride Game Engine](https://stride3d.net/ ) - Stride Game Engine is a 2D/3D cross-platform game engine featuring a scene editor, particles, physically based rendering (PBR), scripting, and much more
