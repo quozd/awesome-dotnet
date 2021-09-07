@@ -747,6 +747,7 @@ the Python world. It uses the Pyro protocol to call methods on remote objects.
 * [Rationals](https://github.com/tompazourek/Rationals) - Implementation of rational number arithmetic for .NET with arbitrary precision.
 * [MKL.NET](https://github.com/AnthonyLloyd/MKL.NET) - A simple cross platform .NET API for Intel MKL.
 * [AngouriMath](https://github.com/asc-community/AngouriMath) - An open-source symbolic/computer algebra library, made primarily for C# and F#. It covers a range of features and might be considered as an alternative to SymPy in .NET.
+* [Vim.Math3d](https://github.com/vimaec/math3d) - A feature-rich cross-platform replacement for System.Numerics with support for consistent serialization and binary layout, and additional structures and algorithms for efficient 3D Math. 
 
 ## Media
 
