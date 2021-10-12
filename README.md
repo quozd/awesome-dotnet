@@ -509,6 +509,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [BEPUphysics](https://github.com/bepu/bepuphysics2) - BEPUphysics is a pure C# 3D physics library
 * [Devtodev](https://github.com/devtodev-analytics/winstore-sdk) - A full-cycle analytics solution for game developers.
 * [UnrealCLR](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine .NET Core integration
+* [osu!framework](https://github.com/ppy/osu-framework) - A 2D application/game written with amazing games in mind.
 
 ## GIS
 
