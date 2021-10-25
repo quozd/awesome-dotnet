@@ -744,6 +744,7 @@ the Python world. It uses the Pyro protocol to call methods on remote objects.
 * [MimeKit](https://github.com/jstedfast/MimeKit) - A cross-platform .NET MIME creation and parser library with support for S/MIME, PGP, TNEF and Unix mbox spools.
 * [PreMailer.Net](https://github.com/milkshakesoftware/PreMailer.Net) - C# library that moves your stylesheets to inline style attributes, for maximum compatibility with e-mail clients.
 * [StrongGrid](https://github.com/Jericho/StrongGrid) - Client for SendGrid's v3 API. Not only allows you to send emails, but also allows you to bulk import contacts, manage lists and segments, create custom fields for your lists, etc. Also includes a parser for SendGrid Webhooks.
+* [Mail Dispatcher Core](https://github.com/neurospeech/mail-dispatcher-core) - Authenticated Smtp Relay Service (SES clone) with domain keys, email queue with retry and notifications.
 
 ## Mathematics
 
@@ -977,6 +978,7 @@ metadata in media files, including video, audio, and photo formats
 * [DurableTask](https://github.com/Azure/durabletask) - This framework allows users to write long running persistent workflows in C# using the async/await capabilities.
 * [Wexflow](https://github.com/aelassas/Wexflow) - An extensible workflow engine with a cross-platform manager and designer.
 * [Workflow Core](https://github.com/danielgerlag/workflow-core) - Lightweight embeddable workflow engine
+* [Eternity Framework](https://github.com/neurospeech/eternity) - Persistent long running workflows with ability to suspend and replay the workflow in future. Unit Testable, Simple API, Scheduable C# Methods, External Events, Mobile ready.
 
 ## SDK and API Clients
 
