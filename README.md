@@ -588,6 +588,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Bunifu UI Framework](https://bunifuframework.com) - Carefully crafted Winforms controls and components for creating stunning modern application UI. **[$]**
 * [Ookii.Dialogs.Wpf](https://github.com/augustoproiete/ookii-dialogs-wpf) - Enable WPF applications to access common Windows dialogs such as task dialogs, credential dialog, progress dialog, folder browser dialog, and more
 * [Ookii.Dialogs.WinForms](https://github.com/augustoproiete/ookii-dialogs-winforms) - Enable Windows Forms applications to access common Windows dialogs such as task dialogs, credential dialog, progress dialog, folder browser dialog, and more
+* [UNO Platform](https://github.com/unoplatform) - The only platform for building native mobile, desktop and WebAssembly with C#, XAML from a single codebase. Open source and professionally supported. Website: [platform.uno](https://platform.uno/)
 
 ## HTML and CSS
 
