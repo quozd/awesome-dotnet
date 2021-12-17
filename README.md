@@ -213,6 +213,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 * [BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor) - A set of enterprise-class UI components based on Bootstrap and Blazor.
 * [ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor) - A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.
+* [MASA.Blazor](https://github.com/BlazorComponent/MASA.Blazor) - A set of enterprise-class UI components based on Material Design and Blazor WebAssembly.
 
 ## Blockchain
 
