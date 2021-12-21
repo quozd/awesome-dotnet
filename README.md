@@ -378,6 +378,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Pkcs11Interop](https://github.com/Pkcs11Interop/Pkcs11Interop) - Managed .NET wrapper for unmanaged PKCS#11 libraries that provide access to the cryptographic hardware
 * [StreamCryptor](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf
 * [SecurityDriven.Inferno](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET crypto library. Professionally audited.
+* [CryptoNet](https://github.com/maythamfahmi/CryptoNet) - .NET simple crypto library. Native c#.
 
 ## Database
 
