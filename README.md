@@ -1051,6 +1051,7 @@ metadata in media files, including video, audio, and photo formats
 * [Pretzel](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
 * [Sandra.Snow](https://github.com/Sandra/Sandra.Snow) - Jekyll-inspired static site generation for .NET
 * [Wyam](https://wyam.io/) - A simple to use, highly modular, and extremely configurable static content generator
+* [Clarin](https://github.com/luismedel/clarin) - A simple, zero-dependency, dogmatic static website generator written as a single C# source file
 
 ## Strong Naming
 
