@@ -99,6 +99,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Queue](#queue)
   * [Reactive Programming](#reactive-programming)
   * [Real-time Communications](#real-time-communications)
+  * [Regular Expression](regular-expression)
   * [Scheduling](#scheduling)
   * [SDK and API Clients](#sdk-and-api-clients)
   * [Search](#search)
@@ -985,6 +986,10 @@ metadata in media files, including video, audio, and photo formats
 ## Real-time Communications
 
 * [SIPSorcery](https://github.com/sipsorcery/sipsorcery) - A cross platform C# .NET library supporting SIP, VoIP and WebRTC.
+
+## Regular Expression
+
+* [RegExtract](https://github.com/sblom/RegExtract) - Clean & simple idiomatic C# RegEx-based line parser that emits strongly typed results.
 
 ## Scheduling
 
