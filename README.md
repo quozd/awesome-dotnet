@@ -1131,6 +1131,7 @@ metadata in media files, including video, audio, and photo formats
 * [YARP](https://github.com/microsoft/reverse-proxy) - YARP is a reverse proxy toolkit for building fast proxy servers in .NET using the infrastructure from ASP.NET and .NET.
 * [JSON Formatter and Validator](https://elmah.io/tools/json-formatter/) - A blazing fast JSON formatter and validator that won't share JSON with a server.
 * [CSharpier](https://github.com/belav/csharpier) - An opinionated code formatter for c# that is based on the [Prettier](https://github.com/prettier/prettier) printing process.
+* [UnitsNet](https://github.com/angularsen/UnitsNet) - Makes life working with units of measurement just a little bit better.
 
 ## Trading
 
