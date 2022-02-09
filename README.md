@@ -99,7 +99,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Queue](#queue)
   * [Reactive Programming](#reactive-programming)
   * [Real-time Communications](#real-time-communications)
-  * [Regular Expression](regular-expression)
+  * [Regular Expression](#regular-expression)
   * [Scheduling](#scheduling)
   * [SDK and API Clients](#sdk-and-api-clients)
   * [Search](#search)
