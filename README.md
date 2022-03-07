@@ -237,6 +237,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [ASP.NET Core Security](https://www.manning.com/books/asp-net-core-security) - A practical and hands-on guide to securing web applications built with ASP.NET. **[$]**
 * [Microservices in .NET Second Edition](https://www.manning.com/books/microservices-in-net-second-edition) - A comprehensive guide to building microservice applications using the .NET stack. **[$]**
 * [ASP.NET Core Razor Pages in Action](https://www.manning.com/books/asp-net-core-razor-pages-in-action) - A comprehensive guide to how to use Razor Pages to create dynamic websites that are easy to test and scale. **[$]**
+* [The Business Side of .NET Development](https://www.ideamotive.co/dotnet/guide) - guide covering all business-critical aspects of .NET software development.
 
 ## Build Automation
 
