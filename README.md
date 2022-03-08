@@ -631,7 +631,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Rider](https://www.jetbrains.com/rider/) - A cross-platform C# IDE based on the IntelliJ platform and ReSharper
 * [RoslynPad](https://github.com/aelij/RoslynPad) - A simple C# editor based on Roslyn and AvalonEdit.
 * [Consulo](https://consulo.io) - A cross-platform IDE with C# & Java support, fork of IntelliJ IDEA Community Edition
-* [vvvv](https://visualprogramming.net) A visual live-programming environment for .NET
+* [vvvv](https://visualprogramming.net) A visual live-programming environment for .NET **[Free for OSS]**
 
 ## Image Processing
 
