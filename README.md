@@ -287,7 +287,6 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [CommandLineUtils](https://github.com/natemcmaster/CommandLineUtils) - This is a fork of Microsoft.Extensions.CommandLineUtils, which is no longer under active development.
 * [CsConsoleFormat](https://github.com/Athari/CsConsoleFormat) - .NET C# library for advanced formatting of console output.
 * [Docopt](https://github.com/docopt/docopt.net) - Command-line interface description language that will make you smile.
-* [dotnet-console-games](https://github.com/ZacharyPatten/dotnet-console-games) - Game examples implemented in .NET console applications.
 * [EntryPoint](https://github.com/Nick-Lucas/EntryPoint) - Composable CLI Argument Parser for .NET Core & .NET Framework 4.5+.
 * [Fluent Command Line Parser](https://github.com/fclp/fluent-command-line-parser) - A simple, strongly typed .NET C# command-line parser library using a fluent easy to use interface
 * [JustCli](https://github.com/jden123/JustCli) - That’s just a quick way to create your own command line tool.
@@ -1239,6 +1238,7 @@ metadata in media files, including video, audio, and photo formats
 * [Awesome .NET Core Education](https://github.com/mehdihadeli/awesome-dotnet-core-education) - A collection of awesome articles and resources for learning and practicing about .Net Core and its related technologies.
 * [Awesome .Net Async](https://github.com/mehdihadeli/awesome-dotnet-async) - A Collection of useful articles and resources to learning and practicing about async, threading, and channels in .Net platform.
 * [Awesome Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A Collection of useful articles and resources to learn and practice about software architecture, patterns, and principles.
+* [dotnet-console-games](https://github.com/ZacharyPatten/dotnet-console-games) - Game examples implemented in .NET console applications.
 
 # Resources
 
