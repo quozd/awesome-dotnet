@@ -1011,6 +1011,11 @@ metadata in media files, including video, audio, and photo formats
 * [Dropbox.NET](https://github.com/dropbox/dropbox-sdk-dotnet) - Official .NET SDK for the Dropbox API
 * [Getty Images API SDK](https://github.com/gettyimages/gettyimages-api_dotnet) - SDK for the Getty Images and iStock APIs
 * [Cloudmersive APIs](https://api.cloudmersive.com/csharp-client.asp) - An API client library for .NET **[Proprietary][Free]**
+* [Dog API](https://github.com/thechampagne/dogapi-dotnet) - Dog API client library for .NET
+* [The AudioDB](https://github.com/thechampagne/audiodb-dotnet) - The AudioDB API client library for .NET
+* [The CocktailDB](https://github.com/thechampagne/cocktaildb-dotnet) - The CocktailDB API client library for .NET
+* [The MealDB](https://github.com/thechampagne/mealdb-dotnet) - The MealDB API client library for .NET
+* [Urban Dictionary](https://github.com/thechampagne/urbandictionary-dotnet) - Urban Dictionary API client library for .NET
 
 ## Search
 
