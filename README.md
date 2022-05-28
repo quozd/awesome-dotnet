@@ -122,6 +122,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Windows Services](#windows-services)
   * [WPF](#wpf)
   * [Parser Library](#parser-library)
+  * [Source Generator](#source-generator)
 * [Other Lists](#other-lists)
 * [Resources](#resources)
 
@@ -1221,6 +1222,10 @@ metadata in media files, including video, audio, and photo formats
 * [FParsec](https://github.com/stephan-tolksdorf/fparsec) - A parser combinator library for F#
 * [Superpower](https://github.com/datalust/superpower) - A C# parser construction toolkit with high-quality error reporting
 * [CSLY](https://github.com/b3b00/CSLY) - A light embedded C# lexer/parser generator.
+
+## Source Generator
+* [Supernova.Enum.Generators](https://github.com/EngRajabi/Enum.Source.Generator) - A C# source generator to create an enumeration class from an enum type. With this package, you can work on enums very, very fast without using reflection.
+
 
 # Other Lists
 
