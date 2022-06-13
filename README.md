@@ -62,6 +62,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Extensions librairies](#extensions)
   * [Functional programming](#functional-programming)
   * [Game](#game)
+  * [gRPC](#gRPC)
   * [GIS](#gis)
   * [Git Tools](#git-tools)
   * [Graphics](#graphics)
@@ -524,6 +525,10 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Devtodev](https://github.com/devtodev-analytics/winstore-sdk) - A full-cycle analytics solution for game developers.
 * [UnrealCLR](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine .NET Core integration
 * [osu!framework](https://github.com/ppy/osu-framework) - A 2D application/game written with amazing games in mind.
+
+## gRPC
+
+ * [gRPC on .NET](https://docs.microsoft.com/en-us/aspnet/core/grpc/?view=aspnetcore-6.0)  Overview for gRPC on .NET, Microsoft documentation.
 
 ## GIS
 
