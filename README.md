@@ -62,7 +62,6 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Extensions librairies](#extensions)
   * [Functional programming](#functional-programming)
   * [Game](#game)
-  * [RPC](#RPC)
   * [GIS](#gis)
   * [Git Tools](#git-tools)
   * [Graphics](#graphics)
@@ -98,6 +97,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Push Notifications](#push-notifications)
   * [Query Builders](#query-builders)
   * [Queue](#queue)
+  * [RPC](#RPC)
   * [Reactive Programming](#reactive-programming)
   * [Real-time Communications](#real-time-communications)
   * [Regular Expression](#regular-expression)
@@ -525,10 +525,6 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Devtodev](https://github.com/devtodev-analytics/winstore-sdk) - A full-cycle analytics solution for game developers.
 * [UnrealCLR](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine .NET Core integration
 * [osu!framework](https://github.com/ppy/osu-framework) - A 2D application/game written with amazing games in mind.
-
-## RPC
-
- * [gRPC](https://github.com/grpc/grpc)  An RPC library and framework.
 
 ## GIS
 
@@ -988,6 +984,10 @@ metadata in media files, including video, audio, and photo formats
 * [Kafunk](https://github.com/jet/kafunk) - F# Kafka client from Jet
 * [Brighter](https://github.com/BrighterCommand/Brighter) - Command Dispatcher, Processor, and Distributed Task Queue https://www.goparamore.io/
 * [Silverback](https://silverback-messaging.net) - A simple but feature-rich message bus for .NET core (supports Kafka, RabbitMQ and MQTT).
+
+## RPC
+
+* [gRPC](https://github.com/grpc/grpc)  An RPC library and framework.
 
 ## Reactive Programming
 
