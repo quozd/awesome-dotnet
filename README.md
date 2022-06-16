@@ -987,7 +987,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## RPC
 
-* [gRPC](https://github.com/grpc/grpc)  An RPC library and framework.
+* [gRPC](https://github.com/grpc/grpc-dotnet)  An RPC library and framework for .NET Core.
 
 ## Reactive Programming
 
