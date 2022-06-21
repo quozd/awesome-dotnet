@@ -28,4 +28,4 @@ jobs:
         - name: "install awesome-bot"
           run: gem install awesome_bot
         - name: "linting: ${{ matrix.files }}"
-          run: awesome_bot --allow-redirect -w "${{ env.white-list }}" ${{ matrix.files }} 
+          run: awesome_bot --allow-redirect --allow-dupe --allow-ssl -a 302,429 -w "${{ env.white-list }}" ${{ matrix.files }} 
