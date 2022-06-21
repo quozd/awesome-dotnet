@@ -1,0 +1,31 @@
+name: awesome-bot
+on: 
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+    awesome-bot:
+      env:
+        white-list: "https://github.com/quozd/awesome-dotnet"
+      strategy:
+        fail-fast: false
+        matrix:
+          files:
+            - "readme.md"
+      runs-on: ubuntu-latest
+      steps:
+        - name: "checkout repo"
+          uses: actions/checkout@v2.0.0
+          with:
+            fetch-depth: 0
+        - name: "setup ruby"
+          uses: ruby/setup-ruby@v1
+          with:
+            ruby-version: 3.0.1
+            bundler-cache: true
+        - name: "install awesome-bot"
+          run: gem install awesome_bot
+        - name: "linting: ${{ matrix.files }}"
+          run: awesome_bot --allow-redirect -w "${{ env.white-list }}" ${{ matrix.files }} 
