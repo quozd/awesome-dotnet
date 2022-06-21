@@ -989,6 +989,8 @@ metadata in media files, including video, audio, and photo formats
 * [gRPC](https://github.com/grpc/grpc-dotnet)  An RPC library and framework for .NET Core. Read more about it on [Docs Microsoft](https://docs.microsoft.com/en-us/aspnet/core/grpc)
 * [CoreRPC](https://github.com/kekekeks/CoreRPC) - Extensible library for WCF-like RPC targeting netstandard1.3. Compatible with .NET, Mono and .NET Core.
 * [BloomRPC](https://github.com/bloomrpc/bloomrpc) - BloomRPC aims to provide the simplest and most efficient developer experience for exploring and querying your GRPC services.
+* [gRPCurl](https://github.com/fullstorydev/grpcurl) - gRPCurl is a command-line tool that lets you interact with gRPC servers. It's basically curl for gRPC servers.
+
 
 ## Reactive Programming
 
