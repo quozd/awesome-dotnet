@@ -9,7 +9,7 @@ on:
 jobs:
     awesome-bot:
       env:
-        white-list: "https://github.com/quozd/awesome-dotnet,https://products.aspose.com/drawing/net"
+        white-list: "https://github.com/quozd/awesome-dotnet,https://products.aspose.com,https://www.manning.com,https:/github.com/dotnetcore/FreeSql"
       strategy:
         fail-fast: false
         matrix:
