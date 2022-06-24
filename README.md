@@ -1,7 +1,7 @@
 # Awesome .NET!
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Build Status](https://api.travis-ci.org/quozd/awesome-dotnet.svg)](https://travis-ci.org/quozd/awesome-dotnet)
+[![Build Status](https://github.com/quozd/awesome-dotnet/actions/workflows/awesome-bot.yml/badge.svg)](https://github.com/quozd/awesome-dotnet/actions/workflows/awesome-bot.yml)
 [![Join the chat at https://gitter.im/quozd/awesome-dotnet](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/quozd/awesome-dotnet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A collection of awesome .NET libraries, tools, frameworks, and software.
@@ -97,6 +97,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Push Notifications](#push-notifications)
   * [Query Builders](#query-builders)
   * [Queue](#queue)
+  * [RPC](#RPC)
   * [Reactive Programming](#reactive-programming)
   * [Real-time Communications](#real-time-communications)
   * [Regular Expression](#regular-expression)
@@ -136,6 +137,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 * [Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot) - .NET Client for [Telegram Bot API](https://core.telegram.org/bots/api)
 * [TLSharp](https://github.com/sochix/TLSharp) - It's a perfect fit for any developer who would like to send data directly to Telegram users or write own custom Telegram client.
+* [WTelegramClient](https://github.com/wiz0u/WTelegramClient) - Automate a user account on Telegram, using the latest version of [Telegram Client API](https://core.telegram.org/methods)
 * [NancyFx](https://github.com/NancyFx/Nancy) - Lightweight, low-ceremony, framework for building HTTP-based services on .NET and Mono
 * [ASP.NET Web API](https://dotnet.microsoft.com/apps/aspnet/apis) - Framework that makes it easy to build HTTP services that reach a broad range of clients, including browsers and mobile devices
 * [Breeze](https://breeze.github.io/doc-net/) - API framework enabling rich data access by using the OData 3 protocol. Client libraries available for JavaScript and C#.
@@ -215,6 +217,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor) - A set of enterprise-class UI components based on Bootstrap and Blazor.
 * [ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor) - A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.
 * [MASA.Blazor](https://github.com/BlazorComponent/MASA.Blazor) - A set of enterprise-class UI components based on Material Design and Blazor WebAssembly.
+* [Megabit.Blazorise](https://github.com/Megabit/Blazorise) - Blazorise is a component library built on top of Blazor and CSS frameworks like Bootstrap, Bulma and Material. Very easy to use.
 
 ## Blockchain
 
@@ -620,7 +623,6 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [RestEase](https://github.com/canton7/RestEase) - Easy-to-use typesafe REST API client library, which is simple and customisable. Heavily inspired by Refit
 * [RestLess](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
 * [HttpClientGoodies](https://github.com/jeffijoe/httpclientgoodies.net) - utilities for working with `HttpClient`
-* [CoreRPC](https://github.com/kekekeks/CoreRPC) - Extensible library for WCF-like RPC targeting netstandard1.3. Compatible with .NET, Mono and .NET Core.
 * [WebApiClient](https://github.com/dotnetcore/WebApiClient) An open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
 ## IDE
 
@@ -962,7 +964,6 @@ metadata in media files, including video, audio, and photo formats
 ## Query Builders
 * [SqlKata](https://sqlkata.com) - Elegant SQL query builder, that supports complex queries, joins, sub queries, nested where conditions, vendor engine targets and more
 
-
 ## Queue
 
 * [CAP](https://github.com/dotnetcore/CAP) - An EventBus with local persistent message functionality for RabbitMQ or Kafka.
@@ -982,6 +983,14 @@ metadata in media files, including video, audio, and photo formats
 * [Kafunk](https://github.com/jet/kafunk) - F# Kafka client from Jet
 * [Brighter](https://github.com/BrighterCommand/Brighter) - Command Dispatcher, Processor, and Distributed Task Queue https://www.goparamore.io/
 * [Silverback](https://silverback-messaging.net) - A simple but feature-rich message bus for .NET core (supports Kafka, RabbitMQ and MQTT).
+
+## RPC
+
+* [gRPC](https://github.com/grpc/grpc-dotnet)  An RPC library and framework for .NET Core. Read more about it on [Docs Microsoft](https://docs.microsoft.com/en-us/aspnet/core/grpc)
+* [CoreRPC](https://github.com/kekekeks/CoreRPC) - Extensible library for WCF-like RPC targeting netstandard1.3. Compatible with .NET, Mono and .NET Core.
+* [BloomRPC](https://github.com/bloomrpc/bloomrpc) - BloomRPC aims to provide the simplest and most efficient developer experience for exploring and querying your GRPC services.
+* [gRPCurl](https://github.com/fullstorydev/grpcurl) - gRPCurl is a command-line tool that lets you interact with gRPC servers. It's basically curl for gRPC servers.
+* [gRPC UI](https://github.com/fullstorydev/grpcui) - gRPC UI is a command-line tool that lets you interact with gRPC servers via a browser. It's sort of like Postman, but for gRPC APIs instead of REST.
 
 ## Reactive Programming
 
@@ -1037,7 +1046,7 @@ metadata in media files, including video, audio, and photo formats
 * [Jil](https://github.com/kevin-montrose/Jil) - Fast .NET JSON serializer, built on Sigil (used by StackOverflow)
 * [ProtoBuf](https://github.com/SilentOrbit/protobuf) - Generate C# code for protocol buffer serialization from a .proto specification.
 * [FlatSharp](https://github.com/jamescourtney/FlatSharp) - Fast, idiomatic FlatBuffers implementation. Use .fbs files or attributes.
-* [F# Data](https://fsharp.github.io/FSharp.Data/) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
+* [F# Data](https://fsprojects.github.io/FSharp.Data/) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
 * [Bond](https://github.com/Microsoft/bond) - cross-platform framework for working with schematized data. It supports cross-language de/serialization and powerful generic mechanisms for efficiently manipulating data.
 * [Hyperion](https://github.com/akkadotnet/Hyperion) - A high performance polymorphic serializer for the .NET framework.
 * [FileHelpers](https://github.com/MarcosMeli/FileHelpers) - free and easy to use .NET library to import or export data from fixed length or delimited records in files, strings or streams.
@@ -1246,9 +1255,6 @@ metadata in media files, including video, audio, and photo formats
 * [Awesome Roslyn](https://github.com/ironcev/awesome-roslyn) - A curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
 * [.NET Open Source Developer Projects](https://github.com/Microsoft/dotnet/blob/master/dotnet-developer-projects.md) - This community maintained list showcases .NET open source projects that are useful for any aspect of the development process.
 * [Awesome Microservices .NET Core](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core.
-* [Awesome .NET Core Education](https://github.com/mehdihadeli/awesome-dotnet-core-education) - A collection of awesome articles and resources for learning and practicing about .Net Core and its related technologies.
-* [Awesome .Net Async](https://github.com/mehdihadeli/awesome-dotnet-async) - A Collection of useful articles and resources to learning and practicing about async, threading, and channels in .Net platform.
-* [Awesome Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A Collection of useful articles and resources to learn and practice about software architecture, patterns, and principles.
 * [dotnet-console-games](https://github.com/ZacharyPatten/dotnet-console-games) - Game examples implemented in .NET console applications.
 
 # Resources
