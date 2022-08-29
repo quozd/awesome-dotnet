@@ -346,7 +346,6 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## Code Snippets
 
 * [.NET Fiddle](https://dotnetfiddle.net/) - Write, compile and run C#, F# and VB code in the browser. The .Net equivalent of JSFiddle.
-* [Gistlyn](https://gistlyn.com/) - Create, run and share your executable C# GitHub Gists.
 * [Sharplab](https://sharplab.io/) - Run C# code using different branches and versions of Roslyn, see the IL that was produced and examine the JIT's output.
 
 ## Compilers, Transpilers and Languages
