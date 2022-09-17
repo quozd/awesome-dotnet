@@ -1283,3 +1283,5 @@ metadata in media files, including video, audio, and photo formats
 * [Discover .NET](https://discoverdot.net) - Awesome .NET open source and community resources.
 * [NuGet Trends](https://nugettrends.com) - Check out NuGet packages adoption and what's trending on NuGet.
 * [Weekly C# Digest](https://csharpdigest.net/) - Weekly email newsletter with manually curated top 5 links from the .NET community.
+* [.NET online courses](https://skillcombo.com/topic/net/) - A curated list of .NET online courses.
+
