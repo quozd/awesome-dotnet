@@ -65,6 +65,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [GIS](#gis)
   * [Git Tools](#git-tools)
   * [Graphics](#graphics)
+  * [GraphQL](#graphql)
   * [GUI](#gui)
   * [HTML and CSS](#html-and-css)
   * [HTTP](#http)
@@ -132,6 +133,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Algorithmia](https://github.com/SolutionsDesign/Algorithmia) - Algorithm and data-structure library for .NET 3.5 and up. Algorithmia contains sophisticated algorithms and data-structures like graphs, priority queues, command, undo-redo and more.
 * [C# Algorithms](https://github.com/aalhour/C-Sharp-Algorithms) - A C# plug-and-play class-library project of standard Data Structures and Algorithms. It contains 35+ Data Structures and 30+ Algorithms designed as Object-Oriented isolated components.
 * [Towel](https://github.com/ZacharyPatten/Towel) - data structures, algorithms, mathematics, metadata, extensions, console, measurements, and other useful stuff
+* [Akade.IndexedSet](https://github.com/akade/Akade.IndexedSet) - A convenient data structure supporting efficient in-memory indexing and querying, including range queries and fuzzy string matching.
 
 ## API
 
@@ -245,6 +247,12 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [.NET Maui in Action](https://www.manning.com/books/dot-net-maui-in-action) - A book about creating mobile and desktop apps using a common set of .NET tools. **[$]**
 * [.NET in Action, Second Edition](https://www.manning.com/books/dotnet-in-action-second-edition) - An introduction to implementing full-featured, cross-platform professional applications on the Microsoft .NET platform. **[$]**
 * [Building Web APIs with ASP.NET Core](https://www.manning.com/books/building-web-apis-with-asp-net-core) - Practical beginner’s guide to creating your first web APIs using ASP.NET Core. **[$]**
+* [Pro .NET Memory Management](https://link.springer.com/book/10.1007/978-1-4842-4027-4) - Takes a deep dive into .NET memory management, including comprehensive coverage of how .NET memory works, implementation details, possible pitfalls, and ways to work around them. **[$]**
+* [Pro .NET Benchmarking](https://link.springer.com/book/10.1007/978-1-4842-4941-3) - Provides an in-depth look at software benchmarking for accurate performance measurement. Helps you get maximum performance impact by identifying and targeting the right bottlenecks. Includes coverage of the latest compilers and processors. **[$]**
+* [Pro .NET Framework with the Base Class Library](https://link.springer.com/book/10.1007/978-1-4842-4191-2) - Shows valuable tips and examples that reinforce the correct use of manage types, including how to avoid boxing/unboxing and better use of memory resources. **[$]**
+* [Pro .NET 5 Custom Libraries](https://link.springer.com/book/10.1007/978-1-4842-6391-4) - Consists of sample projects for each data type implementation. Demonstrates implementation in C#. Covers dos and don'ts of each implementation. **[$]**
+* [Pro ASP.NET Core 6](https://link.springer.com/book/10.1007/978-1-4842-7957-1) - The most comprehensive coverage available on ASP.NET Core 6 in full-color. Detailed explanations and plenty of working code to learn new functionality. Provides a fully functioning ASP.NET Core 6 application that can be used as a template for projects. **[$]**
+* [Pro Microservices in .NET 6](https://link.springer.com/book/10.1007/978-1-4842-7833-8) - Shows you how to get up to speed with .NET 6, Docker, and microservices. Teaches you how to leverage microservice design patterns to strengthen an application. Provides environment options for orchestrators and Azure Kubernetes Service. **[$]**
 
 ## Build Automation
 
@@ -334,11 +342,11 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
 * [Codinion](https://www.codinion.com/) - Enhanced syntax highlighting for C# and some other "Visual" features. **[$]**
 * [NsDepCop](https://github.com/realvizu/NsDepCop) - Static code analysis tool to enforce namespace dependency rules in C# projects.
+* [WebBen](https://github.com/omerfarukz/WebBen) - Is a tool for benchmarking your Hypertext Transfer Protocol (HTTP) server.
 
 ## Code Snippets
 
 * [.NET Fiddle](https://dotnetfiddle.net/) - Write, compile and run C#, F# and VB code in the browser. The .Net equivalent of JSFiddle.
-* [Gistlyn](https://gistlyn.com/) - Create, run and share your executable C# GitHub Gists.
 * [Sharplab](https://sharplab.io/) - Run C# code using different branches and versions of Roslyn, see the IL that was produced and examine the JIT's output.
 
 ## Compilers, Transpilers and Languages
@@ -403,6 +411,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Yessql](https://github.com/sebastienros/yessql) - A .NET document database working on any RDBMS
 * [JsonFlatFileDataStore](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data
 * [Db4o-gpl](https://github.com/iboxdb/db4o-gpl) - Object-oriented database, embedded and remote connections supported.
+* [ZoneTree](https://github.com/koculu/ZoneTree) - Persistent, high-performance, transactional, and ACID-compliant ordered key-value database for .NET.
 
 ## Database Drivers
 
@@ -566,6 +575,14 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Silk.NET](https://github.com/Ultz/Silk.NET) - A cross-platform, high-performance, low-level .NET Standard wrapper for many advanced APIs such as OpenGL, OpenCL, OpenAL, OpenXR, Assimp, GLFW, as well as many others. In addition to wrapping over Native APIs, it also comes with its own Windowing and Input abstraction. This makes game and application development with Silk.NET a breeze, and has pretty much everything a 3D application developer would need.
 * [Veldrid](https://github.com/mellinoe/veldrid) - A low-level, portable graphics and compute library for .NET
 * [RealTimeGraphX](https://github.com/royben/RealTimeGraphX) - RealTimeGraphX is a data type agnostic, high performance plotting library for WPF, UWP and soon, Xamarin Forms.
+
+## GraphQL
+* [GraphQL.NET](https://github.com/graphql-dotnet/graphql-dotnet) - Implementation of [Facebook's GraphQL](https://github.com/graphql/graphql-spec) in .Net
+* [HotChocolate](https://github.com/ChilliCream/hotchocolate) - GraphQL server compatible to all GraphQL compliant clients like Strawberry Shake, Relay, Apollo Client, and various other clients and tools.
+* [graphql-net](https://github.com/chkimes/graphql-net) - GraphQL to IQueryable for .NET.
+* [EntityGraphQL](https://github.com/EntityGraphQL/EntityGraphQL) - library to build a GraphQL API on top of data model with the extensibility to easily bring multiple data sources together in the single GraphQL schema (EF is not a requirement - any ORM working with LinqProvider or an in-memory object will work).
+
+
 
 ## GUI
 
@@ -844,6 +861,7 @@ metadata in media files, including video, audio, and photo formats
 * [Quickenshtein](https://github.com/Turnerj/Quickenshtein) - An extremely quick and memory efficient Levenshtein Distance calculator with SIMD and Threading support
 * [Infinity Crawler](https://github.com/TurnerSoftware/InfinityCrawler) - A simple but powerful web crawler library for .NET
 * [Build Versioning](https://github.com/TurnerSoftware/BuildVersioning) - Simple build versioning for .NET, powered by Git tags
+* [SystemTextJson.JsonDiffPatch](https://github.com/weichch/system-text-json-jsondiffpatch) - High-performance, low-allocating JSON object diff and patch extension for System.Text.Json. Support generating patch document in RFC 6902 JSON Patch format.
 
 ## MVVM
 
@@ -984,6 +1002,7 @@ metadata in media files, including video, audio, and photo formats
 * [Kafunk](https://github.com/jet/kafunk) - F# Kafka client from Jet
 * [Brighter](https://github.com/BrighterCommand/Brighter) - Command Dispatcher, Processor, and Distributed Task Queue https://www.goparamore.io/
 * [Silverback](https://silverback-messaging.net) - A simple but feature-rich message bus for .NET core (supports Kafka, RabbitMQ and MQTT).
+* [SlimMessageBus](https://github.com/zarusz/SlimMessageBus) - Lightweight message bus with transports for popular messaging systems (Kafka, Redis, Azure Service Bus, and others) and in-memory communication.
 
 ## RPC
 
@@ -1093,10 +1112,12 @@ metadata in media files, including video, audio, and photo formats
 * [DotLiquid](https://github.com/dotliquid/dotliquid) - C# port of the Ruby Liquid templating language
 * [Mustache Sharp](https://github.com/jehugaleahsa/mustache-sharp) - An extension of the mustache text template engine for .NET.
 * [Scriban](https://github.com/lunet-io/scriban) - A fast, powerful, safe and lightweight text templating language and engine for .NET
+* [Morestachio](https://github.com/JPVenson/morestachio) - A full sized {{mustache}} like template engine with focus on extendibility.
 
 ## Testing
 
 * [ArchUnitNET](https://github.com/TNG/ArchUnitNET) - Simple library for checking the architecture of C# code with a fluent API.
+* [NetArchTest](https://github.com/BenMorris/NetArchTest) - A fluent API for .Net Standard that can enforce architectural rules in unit tests.
 * [AutoFixture](https://github.com/AutoFixture/AutoFixture) - AutoFixture is an open source framework for .NET designed to minimize the 'Arrange' phase of your unit tests
 * [BDTest](https://github.com/thomhurst/BDTest/wiki) - A behaviour driven testing and reporting framework!
 * [BDDfy](https://github.com/TestStack/TestStack.BDDfy) - BDDfy is the simplest BDD framework EVER!
@@ -1109,6 +1130,7 @@ metadata in media files, including video, audio, and photo formats
 * [Fuchu](https://github.com/mausch/Fuchu) - A unit-testing library for F# with tests-as-values which makes DSLs extremely easy to create.
 * [Machine.Specifications](https://github.com/machine/machine.specifications) - Machine.Specifications (MSpec) is a context/specification framework that removes language noise and simplifies tests.
 * [Moq](https://github.com/Moq/moq4) - The most popular and friendly mocking framework for .NET
+* [Moq.Contrib.HttpClient](https://github.com/maxkagamine/Moq.Contrib.HttpClient) - A set of extension methods for mocking HttpClient and IHttpClientFactory with Moq.
 * [NBomber](https://github.com/PragmaticFlow/NBomber) - Very simple load testing framework for Pull and Push scenarios. It's 100% written in F# and targeting .NET Core and full .NET Framework.
 * [NBuilder](https://github.com/garethdown44/nbuilder) - Rapid generation of test objects
 * [NCrunch](https://www.ncrunch.net/) - An automated continuous & concurrent testing tool for Visual Studio. **[$]**
