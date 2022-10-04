@@ -236,6 +236,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Dependency Injection in .NET](https://www.manning.com/books/dependency-injection-principles-practices-patterns) [2nd edition](https://www.manning.com/books/dependency-injection-principles-practices-patterns) - teaches you to use Dependency Injection to reduce hard-coded dependencies between application components in .NET. **[$]**
 * [ASP.NET Core in Action](https://www.manning.com/books/asp-net-core-in-action) - teaches how to write web applications with ASP.NET Core. **[$]**
 * [ASP.NET Core in Action, Second Edition](https://www.manning.com/books/asp-net-core-in-action-second-edition) - A comprehensive guide to creating web applications with ASP.NET Core 5.0. **[$]**
+* [ASP.NET Core in Action, Third Edition](https://www.manning.com/books/asp-net-core-in-action-third-edition) - Build professional-grade full-stack web applications using C# and ASP.NET Core. **[$]**
 * [Entity Framework Core in Action](https://www.manning.com/books/entity-framework-core-in-action) - teaches how to use Entity Framework Core, including lighter weight data access alternatives such as Dapper. **[$]**
 * [The Little ASP.NET Core Book](https://recaffeinate.co/book/) - A free, open-source, tutorial-based book aiming to provide a simple introduction to ASP.NET Core.
 * [Blazor in Action](https://www.manning.com/books/blazor-in-action) - A guide to building  UIs and client-side applications using C# and .NET. **[$]**
