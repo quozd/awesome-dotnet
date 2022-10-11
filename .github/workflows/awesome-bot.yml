@@ -1,0 +1,32 @@
+name: awesome-bot
+on: 
+  workflow_dispatch:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+    awesome-bot:
+      env:
+        white-list: "https://github.com/quozd/awesome-dotnet,https://products.aspose.com,https://www.manning.com,https:/github.com/dotnetcore/FreeSql"
+      strategy:
+        fail-fast: false
+        matrix:
+          files:
+            - "README.md"
+      runs-on: ubuntu-latest
+      steps:
+        - name: "checkout repo"
+          uses: actions/checkout@v2.0.0
+          with:
+            fetch-depth: 0
+        - name: "setup ruby"
+          uses: ruby/setup-ruby@v1
+          with:
+            ruby-version: 3.0.1
+            bundler-cache: true
+        - name: "install awesome-bot"
+          run: gem install awesome_bot
+        - name: "linting: ${{ matrix.files }}"
+          run: awesome_bot --allow-redirect --allow-dupe --allow-ssl -d 1 -a 302,429 -w "${{ env.white-list }}" ${{ matrix.files }} 
