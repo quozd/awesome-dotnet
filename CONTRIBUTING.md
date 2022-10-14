@@ -9,7 +9,7 @@
 
 ## Pull requests workflow
 
-* **Submit one link per pull request.** If you want to add several links, create a PR for each one, unless all of the proposed projects belong to the same category. Pull request should have meaningful description what this project do, why do you want to add it to the list and any other relevant information. This will help maintainers with the review process.
+* **Submit one link per pull request.** If you want to add several links, create a PR for each one, unless all of the proposed projects belong to the same category. Pull requests should have a meaningful project description, why do you want to add it to the list and any other relevant information. This will help maintainers with the review process.
 * **Include a link to the added project in the PR description.** This will greatly improve email messages received by everyone watching this repository.
 
 ## Quality standard
