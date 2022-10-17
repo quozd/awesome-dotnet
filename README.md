@@ -857,6 +857,7 @@ metadata in media files, including video, audio, and photo formats
 * [Infinity Crawler](https://github.com/TurnerSoftware/InfinityCrawler) - A simple but powerful web crawler library for .NET
 * [Build Versioning](https://github.com/TurnerSoftware/BuildVersioning) - Simple build versioning for .NET, powered by Git tags
 * [SystemTextJson.JsonDiffPatch](https://github.com/weichch/system-text-json-jsondiffpatch) - High-performance, low-allocating JSON object diff and patch extension for System.Text.Json. Support generating patch document in RFC 6902 JSON Patch format.
+* [Percentage.NET](https://github.com/romanov/PercentageNET) - simple methods to count percentages and more.
 
 ## MVVM
 
