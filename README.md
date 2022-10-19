@@ -1110,6 +1110,7 @@ metadata in media files, including video, audio, and photo formats
 * [Morestachio](https://github.com/JPVenson/morestachio) - A full sized {{mustache}} like template engine with focus on extendibility.
 * [Fluid](https://github.com/sebastienros/fluid) - Fluid is an open-source .NET template engine based on the Liquid template language.
 * [SmartFormat](https://github.com/axuno/SmartFormat) - A lightweight text templating library written in C# which can be a drop-in replacement for string.Format
+* [Handlebars.Net](https://github.com/Handlebars-Net/Handlebars.Net) - A real .NET Handlebars engine
 
 ## Testing
 
