@@ -791,11 +791,11 @@ the Python world. It uses the Pyro protocol to call methods on remote objects.
 * [AngouriMath](https://github.com/asc-community/AngouriMath) - An open-source symbolic/computer algebra library, made primarily for C# and F#. It covers a range of features and might be considered as an alternative to SymPy in .NET.
 * [Vim.Math3d](https://github.com/vimaec/math3d) - A feature-rich cross-platform replacement for System.Numerics with support for consistent serialization and binary layout, and additional structures and algorithms for efficient 3D Math. 
 * [WPF-Math](https://github.com/ForNeVeR/wpf-math) - a .NET library for rendering mathematical formulae using the LaTeX typesetting style, for the WPF framework
-* [Jodo.Numerics](https://github.com/JosephJShort/Jodo/#3-jodonumerics) - Provides a fully-featured generic interface for defining customer number types with examples such as fixed-point numbers. The project emphasises reliability and an intuitive API.
+* [Jodo.Numerics](https://github.com/JosephJShort/Jodo/#3-jodonumerics) - Provides fully-featured custom number types, such as fixed-point and clamped numbers. The project emphasises reliability and consistency with the .NET API.
 
 ## Media
 
-* [CSCore](https://github.com/filoe/cscore) - An advanced audio library, supporting playback/recording, decoding/encoding and processing of audio data in realtime (effects, visualizations, ...).
+* [CSdCore](https://github.com/filoe/cscore) - An advanced audio library, supporting playback/recording, decoding/encoding and processing of audio data in realtime (effects, visualizations, ...).
 * [TagLib#](https://github.com/mono/taglib-sharp) - TagLib# (aka taglib-sharp) is a library for reading and writing
 metadata in media files, including video, audio, and photo formats
 * [LibVLCSharp](https://github.com/videolan/libvlcsharp) - Xamarin bindings for libvlc, the multimedia framework powering the VLC applications made by VideoLAN.
