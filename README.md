@@ -55,6 +55,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [DLR](#dlr)
   * [Documentation](#documentation)
   * [E-Commerce and Payments](#e-commerce-and-payments)
+  * [Emulators](#emulators)
   * [Environment Management](#environment-management)
   * [ETL](#etl)
   * [Event aggregator and messenger](#event-aggregator-and-messenger)
@@ -482,6 +483,13 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [GrandNode](https://github.com/grandnode/grandnode2) - Headless, multi-vendor, multi-tenant, the most advanced open source e-commerce platform based on .NET Core 5.0 and MongoDB. 
 * [Square](https://github.com/square/connect-csharp-sdk) - The official SDK for Square payments and other Square APIs.
 * [Adyen](https://github.com/Adyen/adyen-dotnet-api-library) - The official Adyen Payment API Library for .NET
+
+## Emulators
+
+* [Blzhawk](https://github.com/TASEmulators/BizHawk) - BizHawk is a multi-system emulator written in C#. BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores.
+* [Mesen](https://github.com/SourMesen/Mesen) - Mesen is a cross-platform (Windows & Linux) NES/Famicom emulator built in C++ and C#
+* [Mesen-S](https://github.com/SourMesen/Mesen-S) - Mesen-S is a cross-platform (Windows & Linux) SNES emulator built in C++ and C#
+* [Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 
 ## Environment Management
 
