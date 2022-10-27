@@ -55,6 +55,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [DLR](#dlr)
   * [Documentation](#documentation)
   * [E-Commerce and Payments](#e-commerce-and-payments)
+  * [Emulators](#emulators)
   * [Environment Management](#environment-management)
   * [ETL](#etl)
   * [Event aggregator and messenger](#event-aggregator-and-messenger)
@@ -483,6 +484,11 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Square](https://github.com/square/connect-csharp-sdk) - The official SDK for Square payments and other Square APIs.
 * [Adyen](https://github.com/Adyen/adyen-dotnet-api-library) - The official Adyen Payment API Library for .NET
 
+## Emulators
+
+* [Blzhawk](https://github.com/TASEmulators/BizHawk) - BizHawk is a multi-system emulator written in C#. BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores.
+* [Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
+
 ## Environment Management
 
 * [Dotnet CLI](https://github.com/dotnet/cli) - The cross-platform .NET Core command-line toolchain utility.
@@ -656,6 +662,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [ImageResizer](https://imageresizing.net/) - Add commands to image URLs to get altered versions in milliseconds. Resizing, editing etc of images in real-time.
 * [ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor) - Open-source .NET library to manipulate images on-the-fly.
 * [ImageSharp](https://github.com/SixLabors/ImageSharp) - Fully managed cross-platform library for processing of image files.
+* [MagicScaler](https://github.com/saucecontrol/PhotoSauce) - High-performance image processing pipeline for .NET, focused on making complex imaging tasks simple.
 * [DynamicImage](https://dynamicimage.apphb.com/) - High-performance open-source image manipulation library for ASP.NET.
 * [MetadataExtractor](https://github.com/drewnoakes/metadata-extractor-dotnet) - Extracts Exif, IPTC, XMP, ICC and other metadata from image files.
 * [Emgu CV](http://www.emgu.com/wiki/index.php/Main_Page) - Cross-platform .NET wrapper for the OpenCV library.
