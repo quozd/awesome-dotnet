@@ -55,6 +55,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [DLR](#dlr)
   * [Documentation](#documentation)
   * [E-Commerce and Payments](#e-commerce-and-payments)
+  * [Emulators](#emulators)
   * [Environment Management](#environment-management)
   * [ETL](#etl)
   * [Event aggregator and messenger](#event-aggregator-and-messenger)
@@ -157,7 +158,6 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [.NET Boxed Framework](https://github.com/Dotnet-Boxed/Framework) - .NET Core Extensions and Helper NuGet packages
 * [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - A starting point for new modern ASP.NET MVC web applications with best practices and most popular tools.
 * [ABP](https://github.com/abpframework/abp) - The next generation of the ASP.NET Boilerplate web application framework.
-* [Butterfly Server .NET](https://butterflyserver.io) - Enables defining a Web API and Subscription API that automatically synchronizes datasets across connected clients. Allows building real-time web apps and native apps with minimal effort.
 * [Orleans](https://github.com/dotnet/orleans) - Orleans is a framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns
 * [Newbe.Claptrap](https://github.com/newbe36524/Newbe.Claptrap) - This is a set of server-side development frameworks with reactive, event sourcing and Actor pattern as basic theories. On top of this, developers can develop "distributed", "scale out", and "easy to test" application more simply.
 * [CoreFX](https://github.com/dotnet/corefx) -  The corefx repo contains the library implementation (called "CoreFX") for .NET Core. It includes System.Collections, System.IO, System.Xml and many other components.
@@ -228,21 +228,21 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## Books
 
 * [The Little ASP.NET Core Book](https://recaffeinate.co/book/) - A free, open-source, tutorial-based book aiming to provide a simple introduction to ASP.NET Core.
-* [.NET in Action](https://www.manning.com/books/dotnet-in-action-second-edition) - An introduction to implementing full-featured, cross-platform professional applications on the Microsoft .NET platform. **[$]**
+* [.NET in Action, Second Edition](https://www.manning.com/books/dotnet-in-action-second-edition) - An introduction to implementing full-featured, cross-platform professional applications on the Microsoft .NET platform. **[$]**
 * [.NET Maui in Action](https://www.manning.com/books/dot-net-maui-in-action) - A book about creating mobile and desktop apps using a common set of .NET tools. **[$]**
-* [ASP.NET Core in Action](https://www.manning.com/books/asp-net-core-in-action-third-edition) - Build professional-grade full-stack web applications using C# and ASP.NET Core. **[$]**
+* [ASP.NET Core in Action, Third Edition](https://www.manning.com/books/asp-net-core-in-action-third-edition) - Build professional-grade full-stack web applications using C# and ASP.NET Core. **[$]**
 * [ASP.NET Core Razor Pages in Action](https://www.manning.com/books/asp-net-core-razor-pages-in-action) - A comprehensive guide to how to use Razor Pages to create dynamic websites that are easy to test and scale. **[$]**
 * [ASP.NET Core Security](https://www.manning.com/books/asp-net-core-security) - A practical and hands-on guide to securing web applications built with ASP.NET. **[$]**
 * [ASP.NET Core Web API](https://www.manning.com/books/asp-net-core-web-api) - A book about designing and implementing APIs using the REST and GraphQL standards. **[$]**
 * [Blazor in Action](https://www.manning.com/books/blazor-in-action) - A guide to building  UIs and client-side applications using C# and .NET. **[$]**
 * [Building Web APIs with ASP.NET Core](https://www.manning.com/books/building-web-apis-with-asp-net-core) - Practical beginner’s guide to creating your first web APIs using ASP.NET Core. **[$]**
-* [C# in Depth](https://www.manning.com/books/c-sharp-in-depth-fourth-edition) - deep dive into the details of the C# language. **[$]**
-* [CLR via C#](https://www.microsoftpressstore.com/store/clr-via-c-sharp-9780735667457) - Dig deep and master the intricacies of the common language runtime, C#, and .NET development. **[$]**
+* [C# in Depth, Fourth Edition](https://www.manning.com/books/c-sharp-in-depth-fourth-edition) - deep dive into the details of the C# language. **[$]**
+* [CLR via C#, Fourth Edition](https://www.microsoftpressstore.com/store/clr-via-c-sharp-9780735667457) - Dig deep and master the intricacies of the common language runtime, C#, and .NET development. **[$]**
 * [Code Like a Pro in C#](https://www.manning.com/books/code-like-a-pro-in-c-sharp) - Build on your existing programming skills and upskill to professional-level C# programming. **[$]**
 * [Dependency Injection in .NET](https://www.manning.com/books/dependency-injection-principles-practices-patterns) - teaches you to use Dependency Injection to reduce hard-coded dependencies between application components in .NET. **[$]**
 * [Entity Framework Core in Action](https://www.manning.com/books/entity-framework-core-in-action) - teaches how to use Entity Framework Core, including lighter weight data access alternatives such as Dapper. **[$]**
-* [Functional Programming in C#](https://www.manning.com/books/functional-programming-in-c-sharp-second-edition) - Real world examples and practical techniques for functional programming in C# without the jargon and theory. **[$]**
-* [Microservices in .NET Core](https://www.manning.com/books/microservices-in-net-core-second-edition) - A comprehensive guide to building microservice systems using the .NET stack. **[$]**
+* [Functional Programming in C#, Second edition](https://www.manning.com/books/functional-programming-in-c-sharp-second-edition) - Real world examples and practical techniques for functional programming in C# without the jargon and theory. **[$]**
+* [Microservices in .NET Core, Second edition](https://www.manning.com/books/microservices-in-net-core-second-edition) - A comprehensive guide to building microservice systems using the .NET stack. **[$]**
 * [Pro .NET 5 Custom Libraries](https://link.springer.com/book/10.1007/978-1-4842-6391-4) - Consists of sample projects for each data type implementation. Demonstrates implementation in C#. Covers dos and don'ts of each implementation. **[$]**
 * [Pro .NET Benchmarking](https://link.springer.com/book/10.1007/978-1-4842-4941-3) - Provides an in-depth look at software benchmarking for accurate performance measurement. Helps you get maximum performance impact by identifying and targeting the right bottlenecks. Includes coverage of the latest compilers and processors. **[$]**
 * [Pro .NET Framework with the Base Class Library](https://link.springer.com/book/10.1007/978-1-4842-4191-2) - Shows valuable tips and examples that reinforce the correct use of manage types, including how to avoid boxing/unboxing and better use of memory resources. **[$]**
@@ -394,6 +394,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Database
 
+* [RocksDB](https://github.com/curiosity-ai/rocksdb-sharp) - C# binding for Facebook's RocksDB Key-Value store + native builds for Windows, macOS and Linux
 * [BrightstarDb](https://github.com/BrightstarDB/BrightstarDB) - BrightstarDB is a native .NET RDF triple store
 * [DBreeze](https://github.com/hhblaze/DBreeze) - DBreeze Database is an open-source embedded Key-Value store
 * [Event Store](https://github.com/EventStore/EventStore) - The open-source, functional database with Complex Event Processing in JavaScript
@@ -483,6 +484,11 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [GrandNode](https://github.com/grandnode/grandnode2) - Headless, multi-vendor, multi-tenant, the most advanced open source e-commerce platform based on .NET Core 5.0 and MongoDB. 
 * [Square](https://github.com/square/connect-csharp-sdk) - The official SDK for Square payments and other Square APIs.
 * [Adyen](https://github.com/Adyen/adyen-dotnet-api-library) - The official Adyen Payment API Library for .NET
+
+## Emulators
+
+* [Blzhawk](https://github.com/TASEmulators/BizHawk) - BizHawk is a multi-system emulator written in C#. BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores.
+* [Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 
 ## Environment Management
 
@@ -657,6 +663,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [ImageResizer](https://imageresizing.net/) - Add commands to image URLs to get altered versions in milliseconds. Resizing, editing etc of images in real-time.
 * [ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor) - Open-source .NET library to manipulate images on-the-fly.
 * [ImageSharp](https://github.com/SixLabors/ImageSharp) - Fully managed cross-platform library for processing of image files.
+* [MagicScaler](https://github.com/saucecontrol/PhotoSauce) - High-performance image processing pipeline for .NET, focused on making complex imaging tasks simple.
 * [DynamicImage](https://dynamicimage.apphb.com/) - High-performance open-source image manipulation library for ASP.NET.
 * [MetadataExtractor](https://github.com/drewnoakes/metadata-extractor-dotnet) - Extracts Exif, IPTC, XMP, ICC and other metadata from image files.
 * [Emgu CV](http://www.emgu.com/wiki/index.php/Main_Page) - Cross-platform .NET wrapper for the OpenCV library.
@@ -1114,6 +1121,9 @@ metadata in media files, including video, audio, and photo formats
 * [Mustache Sharp](https://github.com/jehugaleahsa/mustache-sharp) - An extension of the mustache text template engine for .NET.
 * [Scriban](https://github.com/lunet-io/scriban) - A fast, powerful, safe and lightweight text templating language and engine for .NET
 * [Morestachio](https://github.com/JPVenson/morestachio) - A full sized {{mustache}} like template engine with focus on extendibility.
+* [Fluid](https://github.com/sebastienros/fluid) - Fluid is an open-source .NET template engine based on the Liquid template language.
+* [SmartFormat](https://github.com/axuno/SmartFormat) - A lightweight text templating library written in C# which can be a drop-in replacement for string.Format
+* [Handlebars.Net](https://github.com/Handlebars-Net/Handlebars.Net) - A real .NET Handlebars engine
 
 ## Testing
 
@@ -1139,6 +1149,7 @@ metadata in media files, including video, audio, and photo formats
 * [NSubstitute](https://nsubstitute.github.io/) - A friendly substitute for .NET mocking frameworks
 * [NUnit](https://github.com/nunit/nunit) - A unit-testing framework for all .NET languages
 * [Rhino Mocks](https://github.com/ayende/rhino-mocks) - Dynamic Mocking Framework for .NET
+* [TestContainers dotnet](https://github.com/isen-ng/testcontainers-dotnet) - Testcontainers is a dotnet standard 2.0 library that supports NUnit and XUnit tests, providing lightweight, throwaway instances of common databases or anything else that can run in a Docker container.
 * [Shouldly](https://github.com/shouldly/shouldly) - Shouldly is an assertion framework which focuses on giving great error messages when the assertion fails while being simple and terse.
 * [Snapshooter](https://github.com/SwissLife-OSS/snapshooter) - A snapshot testing tool for .NET Core and .NET Framework
 * [SpecFlow](https://github.com/SpecFlowOSS/SpecFlow) - Binding business requirements to .Net code
