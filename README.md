@@ -644,8 +644,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [RestLess](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
 * [HttpClientGoodies](https://github.com/jeffijoe/httpclientgoodies.net) - utilities for working with `HttpClient`
 * [WebApiClient](https://github.com/dotnetcore/WebApiClient) An open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
-## IDE
 
+## IDE
 * [AvalonStudio](https://github.com/VitalElement/AvalonStudio) - An extensible, cross platform IDE written in C# for Embedded C/C++, .NET Core, Avalonia and Typescript
 * [SharpDevelop](https://github.com/icsharpcode/SharpDevelop) - A free IDE for .NET programming languages
 * [MonoDevelop](https://github.com/mono/monodevelop) - MonoDevelop is a cross-platform IDE mostly aimed at Mono/.NET developers
@@ -658,6 +658,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [RoslynPad](https://github.com/aelij/RoslynPad) - A simple C# editor based on Roslyn and AvalonEdit.
 * [Consulo](https://consulo.io) - A cross-platform IDE with C# & Java support, fork of IntelliJ IDEA Community Edition
 * [vvvv](https://visualprogramming.net) A visual live-programming environment for .NET **[Free for OSS]**
+* * [CSharp Analyzer by MongoDB](https://github.com/mongodb/mongo-csharp-analyzer) A free Visual Studio Extension for MongoDB users, helping translate your code into MongoDB queries
 
 ## Image Processing
 
