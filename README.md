@@ -583,8 +583,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [HotChocolate](https://github.com/ChilliCream/hotchocolate) - GraphQL server compatible to all GraphQL compliant clients like Strawberry Shake, Relay, Apollo Client, and various other clients and tools.
 * [graphql-net](https://github.com/chkimes/graphql-net) - GraphQL to IQueryable for .NET.
 * [EntityGraphQL](https://github.com/EntityGraphQL/EntityGraphQL) - library to build a GraphQL API on top of data model with the extensibility to easily bring multiple data sources together in the single GraphQL schema (EF is not a requirement - any ORM working with LinqProvider or an in-memory object will work).
-
-
+* [ZeroQL](https://github.com/byme8/ZeroQL) - high-performance C#-friendly GraphQL client. It supports Linq-like syntax. It doesn't require Reflection.Emit or expressions. As a result, the runtime provides performance very close to a raw HTTP call.
 
 ## GUI
 
@@ -644,8 +643,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [RestLess](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
 * [HttpClientGoodies](https://github.com/jeffijoe/httpclientgoodies.net) - utilities for working with `HttpClient`
 * [WebApiClient](https://github.com/dotnetcore/WebApiClient) An open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
-## IDE
 
+## IDE
 * [AvalonStudio](https://github.com/VitalElement/AvalonStudio) - An extensible, cross platform IDE written in C# for Embedded C/C++, .NET Core, Avalonia and Typescript
 * [SharpDevelop](https://github.com/icsharpcode/SharpDevelop) - A free IDE for .NET programming languages
 * [MonoDevelop](https://github.com/mono/monodevelop) - MonoDevelop is a cross-platform IDE mostly aimed at Mono/.NET developers
@@ -657,6 +656,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Rider](https://www.jetbrains.com/rider/) - A cross-platform C# IDE based on the IntelliJ platform and ReSharper
 * [RoslynPad](https://github.com/aelij/RoslynPad) - A simple C# editor based on Roslyn and AvalonEdit.
 * [Consulo](https://consulo.io) - A cross-platform IDE with C# & Java support, fork of IntelliJ IDEA Community Edition
+* [vvvv](https://visualprogramming.net) A visual live-programming environment for .NET **[Free for OSS]**
+* * [CSharp Analyzer by MongoDB](https://github.com/mongodb/mongo-csharp-analyzer) A free Visual Studio Extension for MongoDB users, helping translate your code into MongoDB queries
 
 ## Image Processing
 
@@ -799,6 +800,7 @@ the Python world. It uses the Pyro protocol to call methods on remote objects.
 * [AngouriMath](https://github.com/asc-community/AngouriMath) - An open-source symbolic/computer algebra library, made primarily for C# and F#. It covers a range of features and might be considered as an alternative to SymPy in .NET.
 * [Vim.Math3d](https://github.com/vimaec/math3d) - A feature-rich cross-platform replacement for System.Numerics with support for consistent serialization and binary layout, and additional structures and algorithms for efficient 3D Math. 
 * [WPF-Math](https://github.com/ForNeVeR/wpf-math) - a .NET library for rendering mathematical formulae using the LaTeX typesetting style, for the WPF framework
+* [Jodo.Numerics](https://github.com/JosephJShort/Jodo/#numerics) - Provides extra number types (such as fixed-point and non-overflowing numbers) with full support for operators, math, string-parsing etc. Extensively tested, and cross-platform compatible.
 
 ## Media
 
@@ -1149,7 +1151,7 @@ metadata in media files, including video, audio, and photo formats
 * [NSubstitute](https://nsubstitute.github.io/) - A friendly substitute for .NET mocking frameworks
 * [NUnit](https://github.com/nunit/nunit) - A unit-testing framework for all .NET languages
 * [Rhino Mocks](https://github.com/ayende/rhino-mocks) - Dynamic Mocking Framework for .NET
-* [TestContainers dotnet](https://github.com/isen-ng/testcontainers-dotnet) - Testcontainers is a dotnet standard 2.0 library that supports NUnit and XUnit tests, providing lightweight, throwaway instances of common databases or anything else that can run in a Docker container.
+* [Testcontainers](https://github.com/testcontainers/testcontainers-dotnet) - A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.
 * [Shouldly](https://github.com/shouldly/shouldly) - Shouldly is an assertion framework which focuses on giving great error messages when the assertion fails while being simple and terse.
 * [Snapshooter](https://github.com/SwissLife-OSS/snapshooter) - A snapshot testing tool for .NET Core and .NET Framework
 * [SpecFlow](https://github.com/SpecFlowOSS/SpecFlow) - Binding business requirements to .Net code
