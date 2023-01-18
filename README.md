@@ -60,7 +60,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [ETL](#etl)
   * [Event aggregator and messenger](#event-aggregator-and-messenger)
   * [Exceptions](#exceptions)
-  * [Extensions librairies](#extensions)
+  * [Extensions libraries](#extensions)
   * [Functional programming](#functional-programming)
   * [Game](#game)
   * [GIS](#gis)
