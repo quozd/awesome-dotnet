@@ -1273,7 +1273,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## Source Generator
 * [Supernova.Enum.Generators](https://github.com/EngRajabi/Enum.Source.Generator) - A C# source generator to create an enumeration class from an enum type. With this package, you can work on enums very, very fast without using reflection.
-
+* [AjaxService.Gen](https://github.com/MrAliSalehi/AjaxService) - Automatically Generate typescript Ajax calls based on your C# Api endpoints.
 
 # Other Lists
 
