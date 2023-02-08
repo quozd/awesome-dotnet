@@ -340,6 +340,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Codinion](https://www.codinion.com/) - Enhanced syntax highlighting for C# and some other "Visual" features. **[$]**
 * [NsDepCop](https://github.com/realvizu/NsDepCop) - Static code analysis tool to enforce namespace dependency rules in C# projects.
 * [WebBen](https://github.com/omerfarukz/WebBen) - Is a tool for benchmarking your Hypertext Transfer Protocol (HTTP) server.
+* [PVS-Studio](https://pvs-studio.com/en/) - PVS-Studio is a static analyzer on guard of code quality, security (SAST), and code safety.
 
 ## Code Snippets
 
