@@ -1041,6 +1041,7 @@ metadata in media files, including video, audio, and photo formats
 ## Regular Expression
 
 * [RegExtract](https://github.com/sblom/RegExtract) - Clean & simple idiomatic C# RegEx-based line parser that emits strongly typed results.
+* [Gigantor](https://github.com/imagibee/Gigantor) - Fast regular expressions supporting gigantic files combining System.Text.RegularExpressions.Regex with multi-threading. 
 
 ## Scheduling
 
