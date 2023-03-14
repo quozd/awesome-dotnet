@@ -925,7 +925,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## OpenAI
 
-* [Cledev.OpenAI](https://github.com/lucabriguglia/Cledev.OpenAI) - .NET SDK for OpenAI which inlcudes ChatGPT, DALL-E and Whisper APIs and a Blazor Server playground.
+* [Cledev.OpenAI](https://github.com/lucabriguglia/Cledev.OpenAI) - .NET SDK for OpenAI which includes ChatGPT, DALL-E and Whisper APIs and a Blazor Server playground.
 
 ## ORM
 
