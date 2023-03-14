@@ -91,6 +91,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Networking](#networking)
   * [Object to object mapping](#object-to-object-mapping)
   * [Office](#office)
+  * [OpenAI](#openai)
   * [ORM](#orm)
   * [Package Management](#package-management)
   * [PDF](#pdf)
@@ -921,6 +922,10 @@ metadata in media files, including video, audio, and photo formats
 * [ShapeCrawler](https://github.com/ShapeCrawler/ShapeCrawler) - A fluent API for the processing of PowerPoint presentations without Microsoft Office installed.
 * [MiniExcel](https://github.com/shps951023/MiniExcel) - A micro Excel helper avoids OOM and high performance to create/mapping/template-fill-data.
 * [Toxy](https://github.com/nissl-lab/toxy) - .NET text extraction framework supports a few file formats
+
+## OpenAI
+
+* [Cledev.OpenAI](https://github.com/lucabriguglia/Cledev.OpenAI) - .NET SDK for OpenAI which inlcudes ChatGPT, DALL-E and Whisper APIs and a Blazor Server playground.
 
 ## ORM
 
