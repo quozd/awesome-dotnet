@@ -1028,11 +1028,6 @@ metadata in media files, including video, audio, and photo formats
 * [gRPCurl](https://github.com/fullstorydev/grpcurl) - gRPCurl is a command-line tool that lets you interact with gRPC servers. It's basically curl for gRPC servers.
 * [gRPC UI](https://github.com/fullstorydev/grpcui) - gRPC UI is a command-line tool that lets you interact with gRPC servers via a browser. It's sort of like Postman, but for gRPC APIs instead of REST.
 
-## RPC
-
-* [gRPC](https://github.com/grpc/grpc-dotnet)  An RPC library and framework for .NET Core. Read more about it on [Docs Microsoft](https://docs.microsoft.com/en-us/aspnet/core/grpc)
-* [CoreRPC](https://github.com/kekekeks/CoreRPC) - Extensible library for WCF-like RPC targeting netstandard1.3. Compatible with .NET, Mono and .NET Core.
-
 ## Reactive Programming
 
 * [Rx.NET](https://github.com/dotnet/reactive) - The Reactive Extensions (Rx) is a library for composing asynchronous and event-based programs using observable sequences and LINQ-style query operators
