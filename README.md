@@ -477,6 +477,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [F# Formatting](https://fsprojects.github.io/FSharp.Formatting/) - Tools for documenting F# and C# projects from F# script files, Markdown documents and inline XML or Markdown comments
 * [DocFX](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects
 * [DocNet](https://github.com/FransBouma/DocNet) - Your friendly static documentation generator, using markdown files to build the content.
+* [RobiniaDocs](https://github.com/NeuroXiq/RobiniaDocs) - Robinia docs is a free online documentation hosting platform for .NET Core projects.
+
 
 ## E-Commerce and Payments
 
