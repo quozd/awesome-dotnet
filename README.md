@@ -77,6 +77,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Interoperability](#interoperability)
   * [IoC](#ioc)
   * [JavaScript Engines](#javascript-engines)
+  * [Locking](#locking)
   * [Logging](#logging)
   * [Mail](#mail)
   * [Machine Learning and Data Science](#machine-learning-and-data-science)
@@ -742,6 +743,9 @@ the Python world. It uses the Pyro protocol to call methods on remote objects.
 * [Jint](https://github.com/sebastienros/jint) - JavaScript interpreter for .NET which provides full ECMA 5.1 compliance and can run on any .NET platform.
 * [Jurassic](https://github.com/paulbartrum/jurassic) - A implementation of the ECMAScript language and runtime. It aims to provide the best performing and most standards-compliant implementation of JavaScript for .NET.
 * [YantraJS](https://github.com/yantrajs/yantra) - JavaScript Runtime (Similar to NodeJS) for .NET Standard, compiles JavaScript to IL, support for many ES6 features, generators, CommonJS modules, CSX modules and expression compiler.
+
+## Locking
+* [AsyncKeyLock](https://github.com/usercode/AsyncKeyLock) - Async Key-based Reader Writer Lock with Cancellation Support 
 
 ## Logging
 
