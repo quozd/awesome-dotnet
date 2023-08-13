@@ -797,6 +797,7 @@ the Python world. It uses the Pyro protocol to call methods on remote objects.
 
 * [FluentEmail](https://github.com/lukencode/FluentEmail) - A fluent wrapper for System.Net.Mail with Razor templating support.
 * [MailKit](https://github.com/jstedfast/MailKit) - A complete cross-platform mail stack including IMAP, POP3, SMTP, authentication and more. Built on top of MimeKit.
+* [MailKitSimplified](https://github.com/danzuep/MailKitSimplified) - A fully-featured fluent wrapper for MailKit that makes sending _and receiving_ emails as simple as possible.
 * [MimeKit](https://github.com/jstedfast/MimeKit) - A cross-platform .NET MIME creation and parser library with support for S/MIME, PGP, TNEF and Unix mbox spools.
 * [PreMailer.Net](https://github.com/milkshakesoftware/PreMailer.Net) - C# library that moves your stylesheets to inline style attributes, for maximum compatibility with e-mail clients.
 * [StrongGrid](https://github.com/Jericho/StrongGrid) - Client for SendGrid's v3 API. Not only allows you to send emails, but also allows you to bulk import contacts, manage lists and segments, create custom fields for your lists, etc. Also includes a parser for SendGrid Webhooks.
