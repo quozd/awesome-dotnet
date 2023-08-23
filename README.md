@@ -186,6 +186,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Template10](https://github.com/Windows-XAML/Template10) - Windows 10 templates with design patterns.
 * [Nucleus](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
 * [JHipster.NET](https://github.com/jhipster/jhipster-dotnetcore) JHipster blueprint for replace orginal SpringBoot Backend by asp.net core. The main goal generator of jhipster is showcases best practices of modern web development in java. So the goal of the project is to do the same in .net. The Frontend can be generated with angular or react and soon with blazor.
+* [ASP.NET Core Admin Template](https://themeselection.com/item/category/asp-net-dashboard/) Production-ready, easy-to-use, and highly customizable ASP.NET Core Admin Dashboard Templates which offers everything you need to build modern, eye-catching and responsive .NET web apps easily.
+
 
 ## Artificial Intelligence
 * [AIMLBot (Program#)](http://aimlbot.sourceforge.net/) - A small, fast, standards-compliant yet easily customizable implementation of an AIML (Artificial Intelligence Markup Language) based chatter bot in C#.
