@@ -190,6 +190,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## Artificial Intelligence
 * [AIMLBot (Program#)](http://aimlbot.sourceforge.net/) - A small, fast, standards-compliant yet easily customizable implementation of an AIML (Artificial Intelligence Markup Language) based chatter bot in C#.
 * [SIML](https://simlbot.com/) - Synthetic Intelligence Markup Language, a next generation Chatbot & Digital Assistant Language.
+* [Mpt-Instruct-DotNet-S](https://github.com/NethermindEth/Mpt-Instruct-DotNet-S) LLM that can generate and explain C# code (and its C# wrapper to run on consumer CPU with 5GB ram+, contains Console and Blazor sample projects)
 
 ## Assembly Manipulation
 
