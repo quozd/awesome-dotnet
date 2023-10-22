@@ -942,6 +942,7 @@ metadata in media files, including video, audio, and photo formats
 * [Entity Framework 6](https://github.com/dotnet/ef6) - Object-relational mapper that enables .NET developers to work with relational data using domain-specific objects
 * [Entity Framework Core](https://github.com/dotnet/efcore) - Object-relational mapper that enables .NET developers to work with relational data using domain-specific objects
 * [EntityFramework.Exceptions](https://github.com/Giorgi/EntityFramework.Exceptions) - Use typed Exceptions for Entity Framework Core when your SQL query violates database constraints in SqlServer, MySql, PostgreSQL or SQLite
+* [EntityFrameworkCore.SqlServer.SimpleBulks](https://github.com/phongnguyend/EntityFrameworkCore.SqlServer.SimpleBulks) - Simple library that can help to sync a large number of records in-memory into the database. Lambda Expression is supported.
 * [EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions) - Entity Framework Core Bulk Extensions for super fast (BulkCopy) CRUD ops + SaveChanges on multiple DBs: SQL, PG, My, Lite.
 * [Dapper](https://github.com/StackExchange/Dapper) - A simple object mapper for .NET by [StackExchange](https://stackexchange.github.io/)
 * [Dapper Extensions](https://github.com/tmsmith/Dapper-Extensions) - Small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs
