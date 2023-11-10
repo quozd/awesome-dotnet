@@ -265,6 +265,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Nake](https://github.com/yevhen/Nake) - Magic script-based C# task runner
 * [Nuke](https://github.com/nuke-build/nuke) - Cross-platform build automation system
 * [FlubuCore](https://github.com/dotnetcore/FlubuCore) -  A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
+* [ModularPipelines](https://github.com/thomhurst/ModularPipelines) - Write your pipelines in C#
 
 ## Business Intelligence
 
