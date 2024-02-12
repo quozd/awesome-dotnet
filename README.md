@@ -328,6 +328,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 * [.NET Fiddle](https://dotnetfiddle.net/) - Write, compile and run C#, F# and VB code in the browser. The .Net equivalent of JSFiddle.
 * [Sharplab](https://sharplab.io/) - Run C# code using different branches and versions of Roslyn, see the IL that was produced and examine the JIT's output.
+* [Entity Framework Playground](https://efplayground.io) - Examine the generated SQL for migrations and queries by writing `DbContext` and queries using it in the browser. Learn by example, compare different versions of Entity Framework and providers such as MS SQL, PostgreSql and Sqlite.
 
 ## Compilers, Transpilers and Languages
 
