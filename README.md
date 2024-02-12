@@ -525,6 +525,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [UnrealCLR](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine .NET Core integration
 * [osu!framework](https://github.com/ppy/osu-framework) - A 2D application/game written with amazing games in mind.
 * [DotRecast](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
+* [Foster](https://github.com/FosterFramework/Foster) - Foster is a small cross-platform 2D game framework in C#.
 
 ## GIS
 
