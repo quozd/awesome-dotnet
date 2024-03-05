@@ -1197,7 +1197,8 @@ metadata in media files, including video, audio, and photo formats
 * [CSharpier](https://github.com/belav/csharpier) - An opinionated code formatter for c# that is based on the [Prettier](https://github.com/prettier/prettier) printing process.
 * [UnitsNet](https://github.com/angularsen/UnitsNet) - Makes life working with units of measurement just a little bit better.
 * [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) - A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys.
-
+* [OctaneEngine](https://github.com/gregyjames/OctaneDownloader) - A high preformance multipart downloader with many features such as pause/resume support, asynchronous progress, and throttling.
+  
 ## Trading
 
 * [Lean](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. https://www.quantconnect.com/lean/
