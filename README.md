@@ -352,6 +352,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Roslyn-linq-rewrite](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.
 * [Iron python](https://github.com/IronLanguages/ironpython2) - A python 2 implementation that is integrated with the dot net framework.
 * [Amplifier.NET](https://github.com/tech-quantum/Amplifier.NET) - Write and compile your own kernel function using C# and Amplifier will take care of running it on your favorite hardware. Amplifier allows .NET developers to easily run complex applications with intensive mathematical computation on Intel CPU/GPU, NVIDIA, AMD without writing any additional C kernel code.
+* [Lib.Harmony](https://github.com/pardeike/Harmony) - Rewrite mono and C# methods at the runtime, Either write a method that will be executed, or edit the code of the method in IL, mainly used for game modding.  
 
 ## Compression
 
