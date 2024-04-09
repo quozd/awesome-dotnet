@@ -86,6 +86,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Micro Framework](#micro-framework)
   * [Minification](#minification)
   * [Misc](#misc)
+  * [MQTT](#mqtt)
   * [MVVM](#mvvm)
   * [Networking](#networking)
   * [Object to object mapping](#object-to-object-mapping)
@@ -864,6 +865,11 @@ metadata in media files, including video, audio, and photo formats
 * [Build Versioning](https://github.com/TurnerSoftware/BuildVersioning) - Simple build versioning for .NET, powered by Git tags
 * [SystemTextJson.JsonDiffPatch](https://github.com/weichch/system-text-json-jsondiffpatch) - High-performance, low-allocating JSON object diff and patch extension for System.Text.Json. Support generating patch document in RFC 6902 JSON Patch format.
 * [dotnet-exec](https://github.com/WeihanLi/dotnet-exec) - A command-line tool for executing C# program without a project file, and you can have your custom entry point other than Main method.
+
+## MQTT
+
+* [HiveMQtt](https://github.com/hivemq/hivemq-mqtt-client-dotnet) - The HiveMQ C# MQTT client for .NET
+* [MQTTNet](https://github.com/dotnet/MQTTnet) - A high performance .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker).
 
 ## MVVM
 
