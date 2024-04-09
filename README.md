@@ -673,6 +673,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Colourful](https://github.com/tompazourek/Colourful) - Open source .NET library for working with color spaces.
 * [Imgix-CSharp](https://docs.imgix.com/libraries/imgix-csharp) - Easily update image urls to be fast and responsive. **[$]**
 * [ColorHelper](https://github.com/iamartyom/ColorHelper) - Useful methods for work with colors.
+* [Unicolour](https://github.com/waacton/Unicolour) - Colour conversion, interpolation, and comparison for .NET.
 
 ## Install tools
 
