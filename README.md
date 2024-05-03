@@ -293,6 +293,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [RunInfoBuilder](https://github.com/rushfive/RunInfoBuilder) - A unique command line parser, utilizing object trees for commands.
 * [SharpNetSH](https://github.com/rpetz/SharpNetSH) - A simple netsh library for C#.
 * [spectre.console](https://github.com/spectresystems/spectre.console) - A library that makes it easier to create beautiful console applications.
+* [NibblePoker.Library.Arguments](https://github.com/aziascreations/DotNet-Arguments) - A lightweight library to parse launch arguments with support for git-like verbs.
 
 ## CLR
 
