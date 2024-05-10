@@ -210,6 +210,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Authentication and Authorization
 
+* [Abblix OIDC Server](https://github.com/Abblix/Oidc.Server) - A fully certified OpenID Connect server library for .NET by the OpenID Foundation, providing comprehensive support for OAuth2 and SSO across all profiles. **[$][Free for non-commercial use]**
 * [ASP.NET Identity](https://github.com/aspnet/Identity/) - New membership system for ASP.NET applications
 * [ASP.NET SAML](https://github.com/jitbit/AspNetSaml) - SAML authentication support for ASP.NET apps
 * [Logibit Hawk](https://github.com/logibit/logibit.hawk/) - A F# [Hawk](https://github.com/outmoded/hawk) authentication library
