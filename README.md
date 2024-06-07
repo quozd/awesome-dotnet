@@ -403,6 +403,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Database Drivers
 
+* [DuckDB.NET](https://github.com/Giorgi/DuckDB.NET) - .NET data provider for DuckDB
 * [MySQL Connector](https://dev.mysql.com/downloads/connector/net/) - Connector/Net is a fully-managed ADO.NET driver for MySQL
 * [Npgsql](https://github.com/npgsql/Npgsql) - .NET data provider for PostgreSQL
 * [MongoDB](https://github.com/mongodb/mongo-csharp-driver) - Official MongoDB C# driver
