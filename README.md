@@ -44,6 +44,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Compression](#compression)
   * [Continuous Integration](#continuous-integration)
   * [Cryptography](#cryptography)
+  * [Cloud Storage](#cloud-storage)
   * [Database](#database)
   * [Database Drivers](#database-drivers)
   * [DateTime](#datetime)
@@ -154,7 +155,6 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [FFImageLoading - Fast & Furious Image Loading](https://github.com/luberda-molinet/FFImageLoading) - This Library to load images quickly & easily on Xamarin.iOS, Xamarin.Android, Xamarin.Forms, Xamarin.Mac / Xamarin.Tizen and Windows (UWP, WinRT)
 * [Ocelot](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
 * [CommandQuery](https://github.com/hlaueriksson/CommandQuery) - Command Query Separation for 🌐ASP.NET Core ⚡AWS Lambda ⚡Azure Functions ⚡Google Cloud Functions 🌐ASP.NET Web API 2
-* [Cloud Storage](https://github.com/managedcode/Storage):- This library provides a universal interface for accessing and manipulating data in different cloud blob storage providers (Azure Storage, AWS S3, Google Cloud Storage. It makes it easy to switch between providers or to use multiple providers simultaneously, without having to learn and use multiple APIs.
 
 ## Application Frameworks
 
@@ -384,6 +384,13 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [SecurityDriven.Inferno](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET crypto library. Professionally audited.
 * [CryptoNet](https://github.com/maythamfahmi/CryptoNet) - .NET simple crypto library. Native c#.
 
+## Cloud Storage
+
+* [Foundatio](https://github.com/FoundatioFx/Foundatio#jobs) - Cloud Storage library with AWS, Azure and many other providers supported.
+* [FluentStorage](https://github.com/robinrodricks/FluentStorage) - A polycloud .NET cloud storage abstraction layer originally known as Storage.Net. Provides a generic interface for Blob storage (AWS S3, GCP, FTP, SFTP, Azure Blob/File/Event Hub/Data Lake) and Messaging (AWS SQS, Azure Queue/ServiceBus).
+* [Stowage](https://github.com/aloneguid/stowage) - Bloat-free zero dependency .NET cloud storage kit that supports at minimum THE major cloud providers.
+* [Cloud Storage](https://github.com/managedcode/Storage):- This library provides a universal interface for accessing and manipulating data in different cloud blob storage providers (Azure Storage, AWS S3, Google Cloud Storage. It makes it easy to switch between providers or to use multiple providers simultaneously, without having to learn and use multiple APIs.
+
 ## Database
 
 * [SliccDB](https://github.com/pmikstacki/SliccDB) - Lightweight Embedded (In-Memory) Graph Database for .net
@@ -415,8 +422,6 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Cassandra](https://github.com/datastax/csharp-driver) - DataStax .NET driver for Apache Cassandra
 * [Couchbase](https://github.com/couchbase/couchbase-net-client) - Official Couchbase .NET client library, based on the Enyim memcached client
 * [Firebird.NET](https://sourceforge.net/projects/firebird/) - The .NET Data provider is written in C# and provides a high-performance, native implementation of the Firebird API
-* [FluentStorage](https://github.com/robinrodricks/FluentStorage) - A polycloud .NET cloud storage abstraction layer originally known as Storage.Net. Provides a generic interface for Blob storage (AWS S3, GCP, FTP, SFTP, Azure Blob/File/Event Hub/Data Lake) and Messaging (AWS SQS, Azure Queue/ServiceBus).
-* [Stowage](https://github.com/aloneguid/stowage) - Bloat-free zero dependency .NET cloud storage kit that supports at minimum THE major cloud providers.
 
 ## Datetime
 
@@ -449,7 +454,6 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Akka.net](https://github.com/akkadotnet/akka.net) - Akka.NET is a port of the popular Java/Scala framework Akka to .NET. This is a community-driven port and is not affiliated with Typesafe who makes the original Java/Scala version.
 * [Zebus](https://github.com/Abc-Arbitrage/Zebus) - Zebus is a lightweight, highly versatile, peer-to-peer service bus, built with CQRS principles in mind. It allows applications to communicate with each other in a fast and easy manner. Most of the complexity is hidden in the library and you can focus on writing code that matters to you, not debugging messaging code. A very fundamental base for any distributed application.
 * [FsShelter](https://github.com/Prolucid/FsShelter) - F# library for authoring [Apache Storm](https://storm.apache.org) components and topologies. Offering high-level abstractions for distributed and fault-tolerant event stream processing.
-* [Foundatio](https://github.com/FoundatioFx/Foundatio#jobs) - Pluggable foundation blocks for building distributed apps.
 * [MBrace](https://github.com/mbraceproject) - Integrated Data Scripting for the Cloud
 * [protoactor-dotnet](https://github.com/AsynkronIT/protoactor-dotnet) - Proto Actor - Ultra fast distributed actors for Golang and C#
 
