@@ -220,6 +220,9 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Stuntman](https://rimdev.io/stuntman/) - Stuntman is a library for impersonating users during development leveraging .NET Claims Identity.
 * [openiddict](https://github.com/openiddict/openiddict-core) - Flexible and versatile OAuth 2.0/OpenID Connect stack for .NET
 * [Topaz](https://www.topaz.sh/docs/software-development-kits/dotnet/install) - A fine-grained authorization system with .NET SDK.
+* [Enforcer](https://www.identityserver.com/products/enforcer) - Write fine grained authorization policy in easy-to-read language, and have it compiled to native .NET code **[$]**
+* [SAML IdentityServer](https://www.identityserver.com/products/saml2p) - Add SAML 2P support to your Duende IdentityServer **[$]**
+* [SAML OpenIddict](https://www.openiddictcomponents.com/home/) - Add SAML 2P support to your OpenIddict **[$]**
 
 ## Blazor
 
