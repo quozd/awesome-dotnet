@@ -947,7 +947,7 @@ metadata in media files, including video, audio, and photo formats
 * [Cledev.OpenAI](https://github.com/lucabriguglia/Cledev.OpenAI) - .NET SDK for OpenAI which includes ChatGPT, DALL-E and Whisper APIs and a Blazor Server playground.
 
 ## ORM
-
+* [AutoCompute](https://github.com/lucaslorentz/auto-compute) - Persisted computed properties in EF Core that update automatically on save changes.
 * [Entity Framework 6](https://github.com/dotnet/ef6) - Object-relational mapper that enables .NET developers to work with relational data using domain-specific objects
 * [Entity Framework Core](https://github.com/dotnet/efcore) - Object-relational mapper that enables .NET developers to work with relational data using domain-specific objects
 * [EntityFramework.Exceptions](https://github.com/Giorgi/EntityFramework.Exceptions) - Use typed Exceptions for Entity Framework Core when your SQL query violates database constraints in SqlServer, MySql, PostgreSQL or SQLite
