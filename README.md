@@ -1325,6 +1325,7 @@ metadata in media files, including video, audio, and photo formats
 
 # Other Lists
 
+* [List of Automated Testing Tools and Frameworks for .NET](https://github.com/dariusz-wozniak/List-of-Testing-Tools-and-Frameworks-for-.NET) - List of Automated Testing (TDD/BDD/ATDD/SBE) Tools and Frameworks for .NET
 * [.NET-libraries-that-make-your-life-easier](https://github.com/tallesl/net-libraries-that-make-your-life-easier) - Open Source .NET libraries that make your life easier
 * [awesome-LINQ](https://github.com/aloisdg/awesome-linq) - A curated collection of awesome LINQ libraries, tools, and more.
 * [awesome-analyzers](https://github.com/Cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
