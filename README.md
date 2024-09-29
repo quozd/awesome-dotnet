@@ -365,6 +365,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Amplifier.NET](https://github.com/tech-quantum/Amplifier.NET) - Write and compile your own kernel function using C# and Amplifier will take care of running it on your favorite hardware. Amplifier allows .NET developers to easily run complex applications with intensive mathematical computation on Intel CPU/GPU, NVIDIA, AMD without writing any additional C kernel code.
 * [IKVM](https://ikvm.org) - A Java Virtual Machine and Bytecode-to-IL Converter for .NET. Execute compiled Java code (bytecode) on .NET Framework or .NET Core.
 * [Lib.Harmony](https://github.com/pardeike/Harmony) - Rewrite mono and C# methods at the runtime, Either write a method that will be executed, or edit the code of the method in IL, mainly used for game modding.  
+* [dotnet-repl](https://github.com/jonsequitur/dotnet-repl) - C# REPL (read-eval-print loop)
 
 ## Compression
 
