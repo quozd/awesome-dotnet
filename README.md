@@ -523,7 +523,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Z.ExtensionMethods](https://github.com/zzzprojects/Z.ExtensionMethods) - Over a 1000 useful extension methods
 
 ## Feature management
-* [Microsoft.FeatureManagement](https://github.com/microsoft/FeatureManagement-Dotnet) - This library provides a way to develop and expose applicaiton functionality based on feature flags. It enables scenarios like new feature rollouts and A/B testing for experimentation purposes. It also provides integration with common .NET coding patterns and ASP.NET Core.
+* [Microsoft.FeatureManagement](https://github.com/microsoft/FeatureManagement-Dotnet) - This library provides a way to develop and expose application functionality based on feature flags. It enables scenarios like new feature rollouts and A/B testing for experimentation purposes. It also provides integration with common .NET coding patterns and ASP.NET Core.
 
 ## Functional programming
 
@@ -1017,7 +1017,7 @@ metadata in media files, including video, audio, and photo formats
 
 * [SSH.NET](https://github.com/sshnet/SSH.NET) - A Secure Shell (SSH) library for .NET, optimized for parallelism. Provides SSH commands, SFTP/SCP uploads and downloads, and SOCKS4/SOCKS5/HTTP proxies.
 * [FluentFTP](https://github.com/robinrodricks/FluentFTP) - An FTP and FTPS library for .NET, optimized for speed. Provides extensive FTP commands, file uploads/downloads and FTP proxies.
-* [SharpSnmpLib](https://docs.sharpsnmp.com/) - An open source SNMP implementation for .NET/Mono/Xamarin. Versioin 1, 2c, and 3 are supported.
+* [SharpSnmpLib](https://docs.sharpsnmp.com/) - An open source SNMP implementation for .NET/Mono/Xamarin. Version 1, 2c, and 3 are supported.
 * [DNS](https://github.com/kapetan/dns) - A library for parsing and serializing DNS messages. Includes a basic DNS client and server.
 * [DnsClient.NET](https://github.com/MichaCo/DnsClient.NET) - A simple yet very powerful and high performant open source library for the .NET Framework to do DNS lookups.
 * [Tecan SiLA2 SDK](https://gitlab.com/SiLA2/vendors/sila_tecan) - A library and code generator to develop SiLA2 clients and servers.
@@ -1231,7 +1231,7 @@ metadata in media files, including video, audio, and photo formats
 * [CSharpier](https://github.com/belav/csharpier) - An opinionated code formatter for c# that is based on the [Prettier](https://github.com/prettier/prettier) printing process.
 * [UnitsNet](https://github.com/angularsen/UnitsNet) - Makes life working with units of measurement just a little bit better.
 * [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) - A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys.
-* [OctaneEngine](https://github.com/gregyjames/OctaneDownloader) - A high preformance multipart downloader with many features such as pause/resume support, asynchronous progress, and throttling.
+* [OctaneEngine](https://github.com/gregyjames/OctaneDownloader) - A high performance multipart downloader with many features such as pause/resume support, asynchronous progress, and throttling.
   
 ## Trading
 
