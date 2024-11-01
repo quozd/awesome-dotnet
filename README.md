@@ -301,6 +301,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [RunInfoBuilder](https://github.com/rushfive/RunInfoBuilder) - A unique command line parser, utilizing object trees for commands.
 * [SharpNetSH](https://github.com/rpetz/SharpNetSH) - A simple netsh library for C#.
 * [spectre.console](https://github.com/spectresystems/spectre.console) - A library that makes it easier to create beautiful console applications.
+* [xsl-transformer](https://github.com/armanossiloko/xsl-transformer) - A simple CLI tool that transforms XML data files into human / browser readable content (e.g HTML) using the XSL transformations.
 
 ## CLR
 
