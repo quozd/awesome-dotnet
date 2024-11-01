@@ -887,6 +887,7 @@ metadata in media files, including video, audio, and photo formats
 * [Build Versioning](https://github.com/TurnerSoftware/BuildVersioning) - Simple build versioning for .NET, powered by Git tags
 * [SystemTextJson.JsonDiffPatch](https://github.com/weichch/system-text-json-jsondiffpatch) - High-performance, low-allocating JSON object diff and patch extension for System.Text.Json. Support generating patch document in RFC 6902 JSON Patch format.
 * [dotnet-exec](https://github.com/WeihanLi/dotnet-exec) - A command-line tool for executing C# program without a project file, and you can have your custom entry point other than Main method.
+* [badge-generator](https://github.com/armanossiloko/badge-generator) - A simple .NET library for generating dynamic status indicators / badges in format of SVG.
 
 ## MQTT
 
