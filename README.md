@@ -376,6 +376,9 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Snappy for Windows](https://snappy.machinezoo.com/) - Snappy compression library for .NET baked on P/Invoke
 * [Snappy.Sharp](https://github.com/jeffesp/Snappy.Sharp) - An implementation of Google's Snappy compression algorithm in C#.
 
+## Configuration
+* [AgileConfig](https://github.com/dotnetcore/AgileConfig) - AgileConfig is a lightweight configuration center that helps you manage all your application's configurations through website.
+
 ## Continuous Integration
 * [TeamCity](https://www.jetbrains.com/teamcity/) - Ready to work, extensible and developer-friendly build server — out of the box **[$]**
 * [MyGet](https://www.myget.org/) - Continuous Integration and Deployment, Hosted Package Repository for NuGet, NPM, Bower and VSIX **[$]**
