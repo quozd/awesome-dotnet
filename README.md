@@ -42,6 +42,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Code Snippets](#code-snippets)
   * [Compilers, Transpilers and Languages](#compilers-transpilers-and-languages)
   * [Compression](#compression)
+  * [Configuration](#configuration)
   * [Continuous Integration](#continuous-integration)
   * [Cryptography](#cryptography)
   * [Cloud Storage](#cloud-storage)
@@ -375,6 +376,9 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [SharpZipLib](https://icsharpcode.github.io/SharpZipLib/) - a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform
 * [Snappy for Windows](https://snappy.machinezoo.com/) - Snappy compression library for .NET baked on P/Invoke
 * [Snappy.Sharp](https://github.com/jeffesp/Snappy.Sharp) - An implementation of Google's Snappy compression algorithm in C#.
+
+## Configuration
+* [AgileConfig](https://github.com/dotnetcore/AgileConfig) - AgileConfig is a lightweight configuration center that helps you manage all your application's configurations through website.
 
 ## Continuous Integration
 * [TeamCity](https://www.jetbrains.com/teamcity/) - Ready to work, extensible and developer-friendly build server — out of the box **[$]**
