@@ -42,6 +42,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Code Snippets](#code-snippets)
   * [Compilers, Transpilers and Languages](#compilers-transpilers-and-languages)
   * [Compression](#compression)
+  * [Configuration](#configuration)
   * [Continuous Integration](#continuous-integration)
   * [Cryptography](#cryptography)
   * [Cloud Storage](#cloud-storage)
