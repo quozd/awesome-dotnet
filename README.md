@@ -337,6 +337,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Codinion](https://www.codinion.com/) - Enhanced syntax highlighting for C# and some other "Visual" features. **[$]**
 * [NsDepCop](https://github.com/realvizu/NsDepCop) - Static code analysis tool to enforce namespace dependency rules in C# projects.
 * [WebBen](https://github.com/omerfarukz/WebBen) - Is a tool for benchmarking your Hypertext Transfer Protocol (HTTP) server.
+* [CodeLineCounter](https://github.com/magic5644/codeLineCounter) - Is a tool to analyze .NET projects and extract some metrics (number of code lines, cognitive complexity, duplication codes, dependency analysis, etc.)
 
 ## Code Snippets
 
