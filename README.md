@@ -143,7 +143,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## API
 
-* [FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - High-performance middleground between classic ASP.NET Core API controllers and Minimal APIs. Using a REPR ([Request-Endpoint-Response](https://deviq.com/design-patterns/repr-design-pattern)) pattern, this library eliminates the boilerplate and monolithic feel of controllers by improving colocation of code. 
+* [FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - High-performance middleground between classic ASP.NET Core API controllers and Minimal APIs. Using a REPR ([Request-Endpoint-Response](https://deviq.com/design-patterns/repr-design-pattern)) pattern, this library eliminates the boilerplate and monolithic feel of controllers by improving colocation of code.
 * [Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot) - .NET Client for [Telegram Bot API](https://core.telegram.org/bots/api)
 * [TLSharp](https://github.com/sochix/TLSharp) - It's a perfect fit for any developer who would like to send data directly to Telegram users or write own custom Telegram client.
 * [WTelegramClient](https://github.com/wiz0u/WTelegramClient) - Automate a user account on Telegram, using the latest version of [Telegram Client API](https://core.telegram.org/methods)
@@ -269,7 +269,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Cache Tower](https://github.com/TurnerSoftware/CacheTower) - An efficient multi-layered caching system for .NET (In-Memory, Redis, Database, File etc)
 * [FusionCache](https://github.com/jodydonetti/ZiggyCreatures.FusionCache) - An easy to use, high performance and robust cache with an optional distributed 2nd layer and some advanced features, like a fail-safe mechanism and advanced timeouts management
 * [LazyCache](https://github.com/alastairtree/LazyCache) - A simple, developer friendly, in-memory thread-safe caching service. It leverages Microsoft.Extensions.Caching and Lazy to provide performance and reliability in heavy load scenarios.
-* [BitFaster.Caching](https://github.com/bitfaster/BitFaster.Caching) - Thread-safe in-memory caches optimized for very high concurrent throughput, near optimal hit rate and low latency.   
+* [BitFaster.Caching](https://github.com/bitfaster/BitFaster.Caching) - Thread-safe in-memory caches optimized for very high concurrent throughput, near optimal hit rate and low latency.
 
 ## Calendar
 
@@ -366,7 +366,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Iron python](https://github.com/IronLanguages/ironpython2) - A python 2 implementation that is integrated with the dot net framework.
 * [Amplifier.NET](https://github.com/tech-quantum/Amplifier.NET) - Write and compile your own kernel function using C# and Amplifier will take care of running it on your favorite hardware. Amplifier allows .NET developers to easily run complex applications with intensive mathematical computation on Intel CPU/GPU, NVIDIA, AMD without writing any additional C kernel code.
 * [IKVM](https://ikvm.org) - A Java Virtual Machine and Bytecode-to-IL Converter for .NET. Execute compiled Java code (bytecode) on .NET Framework or .NET Core.
-* [Lib.Harmony](https://github.com/pardeike/Harmony) - Rewrite mono and C# methods at the runtime, Either write a method that will be executed, or edit the code of the method in IL, mainly used for game modding.  
+* [Lib.Harmony](https://github.com/pardeike/Harmony) - Rewrite mono and C# methods at the runtime, Either write a method that will be executed, or edit the code of the method in IL, mainly used for game modding.
 * [dotnet-repl](https://github.com/jonsequitur/dotnet-repl) - C# REPL (read-eval-print loop)
 
 ## Compression
@@ -492,7 +492,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Stripe.Net](https://github.com/stripe/stripe-dotnet) - Stripe.net is a full service .NET API for https://stripe.com/
 * [Virto Commerce](https://github.com/VirtoCommerce/vc-platform) - Virto Commerce is the second generation release and is the only enterprise level e-commerce product fully available under Open Source license. Virto Commerce is based on .NET 4.5 with extensive use of MVC, IoC, EF, Azure, AngularJS and many other cutting edge technologies. It can be deployed in Microsoft Cloud (Azure), Amazon Web Services (AWS) and on-premise. https://virtocommerce.com
 * [SimplCommerce](https://github.com/simplcommerce/simplcommerce) - Super simple ecommerce system built on .NET Core. Simple to use and easy to customize. Thanks to .NET Core, you can run the SimplCommerce on Windows, Linux. With various RDBMS: Microsoft SQL Server, PostgreSQL, MySQL
-* [GrandNode](https://github.com/grandnode/grandnode2) - Headless, multi-vendor, multi-tenant, the most advanced open source e-commerce platform based on .NET Core 5.0 and MongoDB. 
+* [GrandNode](https://github.com/grandnode/grandnode2) - Headless, multi-vendor, multi-tenant, the most advanced open source e-commerce platform based on .NET Core 5.0 and MongoDB.
 * [Adyen](https://github.com/Adyen/adyen-dotnet-api-library) - The official Adyen Payment API Library for .NET
 
 ## Emulators
@@ -517,7 +517,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [TinyMessenger](https://github.com/grumpydev/TinyMessenger) - A lightweight event aggregator/messenger for loosely coupled communication.
 * [Xer.Cqrs](https://github.com/XerProjects/Xer.Cqrs) - A simple library for creating applications based on the CQRS pattern with support for attribute routing and hosted handlers. Developed in C# targeting .NET Standard 1.0.
 * [FluentMediator](https://github.com/ivanpaulovich/FluentMediator) - FluentMediator is an unobtrusive library that allows developers to build custom pipelines for Commands, Queries and Events
-* [EventFlow](https://github.com/eventflow/EventFlow) - EventFlow is an Async/await first CQRS and Event Sourcing DDD framework for .NET 
+* [EventFlow](https://github.com/eventflow/EventFlow) - EventFlow is an Async/await first CQRS and Event Sourcing DDD framework for .NET
 
 ## Exceptions
 * [Exceptionless](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
@@ -558,13 +558,13 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## GIS
 
- * [NetTopologySuite](https://github.com/NetTopologySuite/NetTopologySuite/)  A .NET GIS solution that is fast and reliable for the .NET platform
- * [SharpMap](https://github.com/SharpMap) An easy-to-use mapping library for use in web and desktop applications
- * [OsmSharp](https://www.osmsharp.com/) - C# library to work with OpenStreetMap (OSM) data. Provides reading, writing and route-planning for OSM data.
- * [GeoJSON4EntityFramework](https://github.com/alatas/GeoJSON4EntityFramework) - A library to create GeoJSON from Entity Framework Spatial Data or Well-Known Text (WKT) inputs.
- * [GeoJSON.NET](https://github.com/GeoJSON-Net/GeoJSON.Net) - .Net library for GeoJSON types & corresponding Json.Net (de)serializers
- * [CoordinateSharp](https://github.com/Tronald/CoordinateSharp) - Easily parse or convert coordinate formats and calculate location based solar/lunar information.
- * [DEM Net Elevation API](https://github.com/dem-net/dem.net) - .Net library for Digital Elevation Models, allows 3D terrain generation in glTF / STL format.
+* [NetTopologySuite](https://github.com/NetTopologySuite/NetTopologySuite/)  A .NET GIS solution that is fast and reliable for the .NET platform
+* [SharpMap](https://github.com/SharpMap) An easy-to-use mapping library for use in web and desktop applications
+* [OsmSharp](https://www.osmsharp.com/) - C# library to work with OpenStreetMap (OSM) data. Provides reading, writing and route-planning for OSM data.
+* [GeoJSON4EntityFramework](https://github.com/alatas/GeoJSON4EntityFramework) - A library to create GeoJSON from Entity Framework Spatial Data or Well-Known Text (WKT) inputs.
+* [GeoJSON.NET](https://github.com/GeoJSON-Net/GeoJSON.Net) - .Net library for GeoJSON types & corresponding Json.Net (de)serializers
+* [CoordinateSharp](https://github.com/Tronald/CoordinateSharp) - Easily parse or convert coordinate formats and calculate location based solar/lunar information.
+* [DEM Net Elevation API](https://github.com/dem-net/dem.net) - .Net library for Digital Elevation Models, allows 3D terrain generation in glTF / STL format.
 
 ## Git Tools
 
@@ -728,7 +728,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [pinvoke](https://github.com/dotnet/pinvoke) - A library containing P/Invoke code for latest Windows OS.
 * [LegacyWrapper](https://github.com/CodefoundryDE/LegacyWrapper) - LegacyWrapper uses a wrapper process to call DLLs from a process of the opposing architecture (x86 or AMD64).
 * [Pyrolite](https://github.com/irmen/Pyrolite) - This library allows your Java or .NET program to interface very easily with
-the Python world. It uses the Pyro protocol to call methods on remote objects.
+  the Python world. It uses the Pyro protocol to call methods on remote objects.
 
 ## IoC
 
@@ -821,7 +821,7 @@ the Python world. It uses the Pyro protocol to call methods on remote objects.
 * [Rationals](https://github.com/tompazourek/Rationals) - Implementation of rational number arithmetic for .NET with arbitrary precision.
 * [MKL.NET](https://github.com/AnthonyLloyd/MKL.NET) - A simple cross platform .NET API for Intel MKL.
 * [AngouriMath](https://github.com/asc-community/AngouriMath) - An open-source symbolic/computer algebra library, made primarily for C# and F#. It covers a range of features and might be considered as an alternative to SymPy in .NET.
-* [Vim.Math3d](https://github.com/vimaec/math3d) - A feature-rich cross-platform replacement for System.Numerics with support for consistent serialization and binary layout, and additional structures and algorithms for efficient 3D Math. 
+* [Vim.Math3d](https://github.com/vimaec/math3d) - A feature-rich cross-platform replacement for System.Numerics with support for consistent serialization and binary layout, and additional structures and algorithms for efficient 3D Math.
 * [WPF-Math](https://github.com/ForNeVeR/wpf-math) - a .NET library for rendering mathematical formulae using the LaTeX typesetting style, for the WPF framework
 * [Jodo.Numerics](https://github.com/JosephJShort/Jodo/#numerics) - Provides extra number types (such as fixed-point and non-overflowing numbers) with full support for operators, math, string-parsing etc. Extensively tested, and cross-platform compatible.
 
@@ -829,7 +829,7 @@ the Python world. It uses the Pyro protocol to call methods on remote objects.
 
 * [CSCore](https://github.com/filoe/cscore) - An advanced audio library, supporting playback/recording, decoding/encoding and processing of audio data in realtime (effects, visualizations, ...).
 * [TagLib#](https://github.com/mono/taglib-sharp) - TagLib# (aka taglib-sharp) is a library for reading and writing
-metadata in media files, including video, audio, and photo formats
+  metadata in media files, including video, audio, and photo formats
 * [LibVLCSharp](https://github.com/videolan/libvlcsharp) - Xamarin bindings for libvlc, the multimedia framework powering the VLC applications made by VideoLAN.
 * [NAudio](https://github.com/naudio/NAudio) - Playback, decode and encode audio in a variety of file formats such as MP3, MP4, WAV, AIFF, Speex, etc.
 * [Xabe.FFmpeg](https://github.com/tomaszzmuda/Xabe.FFmpeg) - .NET Standard wrapper for FFmpeg. It allows to process media without know how FFmpeg works, and can be used to pass customized arguments to FFmpeg from C# application. **[$]**
@@ -929,6 +929,7 @@ metadata in media files, including video, audio, and photo formats
 * [AgileMapper](https://github.com/agileobjects/AgileMapper) - A zero-configuration Object-Object mapper supporting .NET Standard 1.0
 * [Mapperly](https://github.com/riok/mapperly) - A .NET source generator for generating object mappings. No runtime reflection.
 * [Mapster](https://github.com/MapsterMapper/Mapster) - A high performance object mapper in .net
+* [OfX](https://github.com/quyvu01/OfX) - OfX is an open-source, which focus on Attribute-based Data Mapping, simplifying data handling across services and enhancing maintainability.
 
 ## Office
 
@@ -1005,7 +1006,7 @@ metadata in media files, including video, audio, and photo formats
 * [PdfiumViewer](https://github.com/pvginkel/PdfiumViewer) - PdfiumViewer is a PDF viewer based on the PDFium project.
 * [WkhtmlToPdf](https://github.com/codaxy/wkhtmltopdf) - C# wrapper around wkhtmltopdf console utility. Allow to generate preety PDF using HTML and CSS.
 * [Pdfium.Net SDK](https://pdfium.patagames.com/) - Advanced C# PDF library for render, create, edit, merge, split, print, and view PDFs. Open source PDF Viewer is available on [GitHub](https://github.com/patagames). A [NuGet package](https://www.nuget.org/packages/Pdfium.Net.SDK/) is also available for easy inclusion into your projects.**[$]**
-* [PdfPig](https://uglytoad.github.io/PdfPig/) - Read and create and extract text and other content from PDFs in C# (port of PdfBox) 
+* [PdfPig](https://uglytoad.github.io/PdfPig/) - Read and create and extract text and other content from PDFs in C# (port of PdfBox)
 * [QuestPDF](https://www.questpdf.com/) - QuestPDF is an open-source, modern and battle-tested library that can help you with generating PDF documents by offering friendly, discoverable and predictable C# fluent API.
 * [Kevsoft.PDFtk](https://github.com/kevbite/Kevsoft.PDFtk) - A wrapper to drive the awesome pdftk binary, which can fill PDF forms, get field information, concatenate multiple documents or pages, split documents, add or replace stamps, and can attach files to or download files from pages.
 * [IronPDF](https://ironpdf.com/)  - High-performance C# PDF library with compatibility for various .NET versions, HTML to PDF conversion, content page conversion, file format support (e.g., DOCX, RTF, MD), responsive layouts, and robust PDF capabilities features ranging from compability, generating PDFs, formatting PDFs, and editing PDFs. **[$]** **[Free trial available]**
@@ -1077,7 +1078,7 @@ metadata in media files, including video, audio, and photo formats
 ## Regular Expression
 
 * [RegExtract](https://github.com/sblom/RegExtract) - Clean & simple idiomatic C# RegEx-based line parser that emits strongly typed results.
-* [Gigantor](https://github.com/imagibee/Gigantor) - Fast regular expressions supporting gigantic files combining System.Text.RegularExpressions.Regex with multi-threading. 
+* [Gigantor](https://github.com/imagibee/Gigantor) - Fast regular expressions supporting gigantic files combining System.Text.RegularExpressions.Regex with multi-threading.
 
 ## Scheduling
 
@@ -1236,7 +1237,7 @@ metadata in media files, including video, audio, and photo formats
 * [UnitsNet](https://github.com/angularsen/UnitsNet) - Makes life working with units of measurement just a little bit better.
 * [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) - A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys.
 * [OctaneEngine](https://github.com/gregyjames/OctaneDownloader) - A high performance multipart downloader with many features such as pause/resume support, asynchronous progress, and throttling.
-  
+
 ## Trading
 
 * [Lean](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. https://www.quantconnect.com/lean/
@@ -1292,7 +1293,7 @@ metadata in media files, including video, audio, and photo formats
 
 * [EmbedIO](https://github.com/unosquare/embedio) - Web server built on Mono and cross-platform
 * [GenHTTP](https://github.com/Kaliumhexacyanoferrat/GenHTTP) - A lightweight, embeddable web server for quickly creating REST APIs
-* [SimpleW](https://github.com/stratdev3/SimpleW) - Simple Web Server, build your RestAPI, fast, lightweight and cross-platform. 
+* [SimpleW](https://github.com/stratdev3/SimpleW) - Simple Web Server, build your RestAPI, fast, lightweight and cross-platform.
 * [XSP](https://github.com/mono/xsp) - Mono's ASP.NET hosting server. This module includes an Apache Module, a FastCGI module that can be hooked to other web servers as well as a standalone server used for testing (similar to Microsoft's Cassini)
 
 ## WebSocket
@@ -1314,7 +1315,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## WPF
 
-* [DeftSharp.Windows.Input](https://github.com/Empiree/DeftSharp.Windows.Input) - A simple keyboard/mouse event handler for Windows UI applications (WPF, MAUI, Avalonia) 
+* [DeftSharp.Windows.Input](https://github.com/Empiree/DeftSharp.Windows.Input) - A simple keyboard/mouse event handler for Windows UI applications (WPF, MAUI, Avalonia)
 * [Data Grid Extensions](https://github.com/tom-englert/DataGridExtensions) - Modular extensions for the WPF DataGrid control, like filtering, additional column events, extended star-size column behavior, and more...
 * [Extended WPF Toolkit™](https://github.com/xceedsoftware/wpftoolkit) - A rich collection of controls, components and utilities for creating WPF applications
 * [WPF](https://github.com/dotnet/wpf) - WPF is a .NET Core UI framework for building Windows desktop applications.
@@ -1327,10 +1328,10 @@ metadata in media files, including video, audio, and photo formats
 * [Superpower](https://github.com/datalust/superpower) - A C# parser construction toolkit with high-quality error reporting
 * [CSLY](https://github.com/b3b00/CSLY) - A light embedded C# lexer/parser generator.
 * [Parakeet](https://github.com/ara3d/parakeet) - A recursive descent parsing library with operator overloading for C#.
-  
+
 ## Source Generator
 
-* [CodegenCS](https://github.com/Drizin/CodegenCS) - Code Generation Toolkit where templates are written using plain C#. Command-line tool, MSBuild task, Visual Studio Extension, and Roslyn Source Generator. 
+* [CodegenCS](https://github.com/Drizin/CodegenCS) - Code Generation Toolkit where templates are written using plain C#. Command-line tool, MSBuild task, Visual Studio Extension, and Roslyn Source Generator.
 * [M31.FluentAPI](https://github.com/m31coding/M31.FluentAPI) - Effortlessly generate fluent APIs for your C# classes.
 * [Supernova.Enum.Generators](https://github.com/EngRajabi/Enum.Source.Generator) - A C# source generator to create an enumeration class from an enum type. With this package, you can work on enums very, very fast without using reflection.
 
@@ -1351,7 +1352,7 @@ metadata in media files, including video, audio, and photo formats
 * [.NET Open Source Developer Projects](https://github.com/Microsoft/dotnet/blob/master/dotnet-developer-projects.md) - This community maintained list showcases .NET open source projects that are useful for any aspect of the development process.
 * [Awesome Microservices .NET Core](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core.
 * [dotnet-console-games](https://github.com/dotnet/dotnet-console-games) - Game examples implemented in .NET console applications.
-* [extra-awesome-dotnet](https://github.com/ara3d/extra-awesome-dotnet) - Sorted lists of awesome .NET repositories, with counts of stars, issues, and forks! 
+* [extra-awesome-dotnet](https://github.com/ara3d/extra-awesome-dotnet) - Sorted lists of awesome .NET repositories, with counts of stars, issues, and forks!
 
 # Resources
 
