@@ -1361,7 +1361,9 @@ metadata in media files, including video, audio, and photo formats
 * [.NET Open Source Developer Projects](https://github.com/Microsoft/dotnet/blob/master/dotnet-developer-projects.md) - This community maintained list showcases .NET open source projects that are useful for any aspect of the development process.
 * [Awesome Microservices .NET Core](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core.
 * [dotnet-console-games](https://github.com/dotnet/dotnet-console-games) - Game examples implemented in .NET console applications.
-* [extra-awesome-dotnet](https://github.com/ara3d/extra-awesome-dotnet) - Sorted lists of awesome .NET repositories, with counts of stars, issues, and forks! 
+* [extra-awesome-dotnet](https://github.com/ara3d/extra-awesome-dotnet) - Sorted lists of awesome .NET repositories, with counts of stars, issues, and forks!
+* [Asp.Net-Core-Inventory-Order-Management-System](https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System) - 🔥 A powerful and ready-to-use inventory management system, built with **Monolithic Clean Architecture**, **CQRS**, and **MediatR**. It features a **completely RESTful API** for seamless integration and a modern front-end powered by **Vue.js**.  
+
 
 # Resources
 
