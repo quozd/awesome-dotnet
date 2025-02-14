@@ -254,9 +254,10 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Nuke](https://github.com/nuke-build/nuke) - Cross-platform build automation system
 * [FlubuCore](https://github.com/dotnetcore/FlubuCore) -  A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
 * [ModularPipelines](https://github.com/thomhurst/ModularPipelines) - Write your pipelines in C#.
-* [GitVersion](https://github.com/GitTools/GitVersion) -Versioning tool for Git repositories, widely used in CI/CD
-* [AppVeyor](https://github.com/appveyor/ci) - Continuous Integration (CI) for .NET applications
-* [Octopus Deploy]( https://github.com/OctopusDeploy) -Automated deployment and release management
+* [GitVersion](https://github.com/GitTools/GitVersion) - A tool for versioning .NET projects using Git history.  
+* [AppVeyor](https://www.appveyor.com/) - Continuous Integration (CI) and Deployment tool for .NET applications. **[$]**
+* [Octopus Deploy](https://octopus.com/) - An automated deployment and release management tool for .NET. **[$]**
+* [Cake](https://github.com/cake-build/cake) - A cross-platform build automation tool with a C# DSL.  
 
 ## Business Intelligence
 
