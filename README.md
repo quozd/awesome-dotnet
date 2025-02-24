@@ -238,6 +238,12 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Megabit.Blazorise](https://github.com/Megabit/Blazorise) - Blazorise is a component library built on top of Blazor and CSS frameworks like Bootstrap, Bulma and Material. Very easy to use.
 * [blazork8s](https://github.com/weibaohui/blazork8s) - k8s management ui in blazor and .NET Core.
 * [MudBlazor](https://github.com/MudBlazor/MudBlazor) - A Material Design framework for Blazor, allowing .NET developers to quickly build web apps, with extensive documentation and examples.
+* [Blazorise](https://blazorise.com/)  - A component library for Blazor supporting Bootstrap, Tailwind, Bulma, AntDesign, and Material.  MIT  [Website](https://blazorise.com/?utm_source=awesome-dotnet) 
+* [MudBlazor](https://mudblazor.com/)  - Material Design components for Blazor with minimal JavaScript usage.  MIT  [Website](https://mudblazor.com/?utm_source=awesome-dotnet) 
+* [Radzen Blazor Components](https://blazor.radzen.com/) - A free set of 90+ native Blazor UI controls.  MIT  [Website](https://blazor.radzen.com/?utm_source=awesome-dotnet) 
+* [Syncfusion Blazor Components](https://www.syncfusion.com/blazor-components) - A comprehensive UI library with 105+ components.  Commercial / Free  [Website](https://www.syncfusion.com/blazor-components?utm_source=awesome-dotnet) 
+* [Telerik UI for Blazor](https://www.telerik.com/blazor-ui)  - 110+ native Blazor UI components for building modern applications.  Commercial  [Website](https://www.telerik.com/blazor-ui?utm_source=awesome-dotnet) 
+* [Microsoft Fluent UI Blazor Components](https://github.com/microsoft/fluentui-blazor) - A set of Blazor components implementing Microsoft's Fluent UI.  MIT  [GitHub](https://github.com/microsoft/fluentui-blazor?utm_source=awesome-dotnet) 
 
 ## Blockchain
 
