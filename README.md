@@ -245,15 +245,18 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Build Automation
 
-* [Psake](https://github.com/psake/psake) - .NET-based build automation tool written in PowerShell
-* [FAKE](https://github.com/fsharp/FAKE) - F# Make, a cross-platform build automation system
-* [Invoke-Build](https://github.com/nightroman/Invoke-Build) - PowerShell build and test automation tool inspired by Psake.
-* [MSBuild](https://github.com/dotnet/msbuild) - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio
+* [Bullseye](https://github.com/adamralph/bullseye) - A simple .NET package for defining and running build targets.
+* [Buildalyzer](https://github.com/daveaglick/Buildalyzer) - A utility for analyzing .NET project files and extracting build information.
 * [Cake](https://github.com/cake-build/cake) - Cake (C# Make) is a cross-platform build automation system with a C# DSL.
-* [Nake](https://github.com/yevhen/Nake) - Magic script-based C# task runner
-* [Nuke](https://github.com/nuke-build/nuke) - Cross-platform build automation system
-* [FlubuCore](https://github.com/dotnetcore/FlubuCore) -  A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
-* [ModularPipelines](https://github.com/thomhurst/ModularPipelines) - Write your pipelines in C#
+* [FAKE](https://github.com/fsharp/FAKE) - F# Make, a cross-platform build automation system.
+* [FlubuCore](https://github.com/dotnetcore/FlubuCore) - A cross-platform build and deployment automation system for building projects and executing deployment scripts using C# code.
+* [Invoke-Build](https://github.com/nightroman/Invoke-Build) - PowerShell build and test automation tool inspired by Psake.
+* [ModularPipelines](https://github.com/thomhurst/ModularPipelines) - Write your pipelines in C#.
+* [MSBuild](https://github.com/dotnet/msbuild) - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.
+* [Nake](https://github.com/yevhen/Nake) - Magic script-based C# task runner.
+* [Nuke](https://github.com/nuke-build/nuke) - Cross-platform build automation system.
+* [Psake](https://github.com/psake/psake) - .NET-based build automation tool written in PowerShell.
+
 
 ## Business Intelligence
 
