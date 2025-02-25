@@ -219,16 +219,26 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Abblix OIDC Server](https://github.com/Abblix/Oidc.Server) - A fully certified OpenID Connect server library for .NET by the OpenID Foundation, providing comprehensive support for OAuth2 and OpenID Connect across all profiles. **[$][Free for non-commercial use]**
 * [ASP.NET Identity](https://github.com/aspnet/Identity/) - New membership system for ASP.NET applications
 * [ASP.NET SAML](https://github.com/jitbit/AspNetSaml) - SAML authentication support for ASP.NET apps
-* [Logibit Hawk](https://github.com/logibit/logibit.hawk/) - A F# [Hawk](https://github.com/outmoded/hawk) authentication library
+* [AspNet.Security.OAuth.Providers](https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers) - Security OAuth providers for external authentication in ASP.NET Core.
+* [Auth0 .NET SDK](https://github.com/auth0/auth0.net) - Auth0 authentication and authorization SDK for .NET applications. **[$]**
+* [BouncyCastle C#](https://github.com/bcgit/bc-csharp) - A cryptographic API that supports various authentication and authorization mechanisms.
+* [Duende IdentityServer](https://duendesoftware.com/products/identityserver) - OpenID Connect & OAuth 2.0 framework for .NET. **[$]**
+* [Enforcer](https://www.identityserver.com/products/enforcer) - Write fine-grained authorization policy in easy-to-read language, and have it compiled to native .NET code **[$]**
+* [FAPWS](https://github.com/FAPWS/FAPWS) - A fine-grained permission system for .NET Core applications.
+* [Firebase Authentication for .NET](https://github.com/step-up-labs/firebase-authentication-dotnet) - Firebase authentication client for .NET apps.
+* [FusionAuth .NET SDK](https://github.com/FusionAuth/fusionauth-netcore-client) - .NET client for FusionAuth, a flexible authentication and authorization platform. **[$]**
 * [IdentityModel](https://github.com/IdentityModel) - Helper library for identity & access control in .NET 4.5 and MVC4/Web API.
 * [IdentityServer](https://github.com/IdentityServer) - Extensible OAuth2 and OpenID Connect provider framework.
+* [ITfoxtec Identity Saml2](https://github.com/ITfoxtec/ITfoxtec.Identity.Saml2) - SAML 2.0 authentication middleware for ASP.NET Core. **[$]**
+* [Logibit Hawk](https://github.com/logibit/logibit.hawk/) - A F# [Hawk](https://github.com/outmoded/hawk) authentication library
 * [OAuth](https://github.com/danielcrenna/vault/tree/master/oauth) - A very lightweight library for generating OAuth 1.0a signatures written in C#
-* [Stuntman](https://rimdev.io/stuntman/) - Stuntman is a library for impersonating users during development leveraging .NET Claims Identity.
 * [openiddict](https://github.com/openiddict/openiddict-core) - Flexible and versatile OAuth 2.0/OpenID Connect stack for .NET
-* [Topaz](https://www.topaz.sh/docs/software-development-kits/dotnet/install) - A fine-grained authorization system with .NET SDK.
-* [Enforcer](https://www.identityserver.com/products/enforcer) - Write fine grained authorization policy in easy-to-read language, and have it compiled to native .NET code **[$]**
 * [SAML IdentityServer](https://www.identityserver.com/products/saml2p) - Add SAML 2P support to your Duende IdentityServer **[$]**
 * [SAML OpenIddict](https://www.openiddictcomponents.com/home/) - Add SAML 2P support to your OpenIddict **[$]**
+* [Stuntman](https://rimdev.io/stuntman/) - Stuntman is a library for impersonating users during development leveraging .NET Claims Identity.
+* [Topaz](https://www.topaz.sh/docs/software-development-kits/dotnet/install) - A fine-grained authorization system with .NET SDK.
+
+
 
 ## Blazor
 
