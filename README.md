@@ -136,11 +136,15 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Algorithms and Data structures
 
-* [OneOf](https://github.com/mcintyre321/OneOf) - OneOf provides discriminated unions for C# with exhaustive compile time matching.
+* [Akade.IndexedSet](https://github.com/akade/Akade.IndexedSet) - A convenient data structure supporting efficient in-memory indexing and querying, including range queries and fuzzy string matching.
 * [Algorithmia](https://github.com/SolutionsDesign/Algorithmia) - Algorithm and data-structure library for .NET 3.5 and up. Algorithmia contains sophisticated algorithms and data-structures like graphs, priority queues, command, undo-redo and more.
 * [C# Algorithms](https://github.com/aalhour/C-Sharp-Algorithms) - A C# plug-and-play class-library project of standard Data Structures and Algorithms. It contains 35+ Data Structures and 30+ Algorithms designed as Object-Oriented isolated components.
-* [Towel](https://github.com/ZacharyPatten/Towel) - data structures, algorithms, mathematics, metadata, extensions, console, measurements, and other useful stuff
-* [Akade.IndexedSet](https://github.com/akade/Akade.IndexedSet) - A convenient data structure supporting efficient in-memory indexing and querying, including range queries and fuzzy string matching.
+* [OneOf](https://github.com/mcintyre321/OneOf) - OneOf provides discriminated unions for C# with exhaustive compile-time matching.
+* [Towel](https://github.com/ZacharyPatten/Towel) - Data structures, algorithms, mathematics, metadata, extensions, console, measurements, and other useful stuff.
+* [TheAlgorithms/C-Sharp](https://github.com/TheAlgorithms/C-Sharp) - A collection of algorithms and data structures implemented in C# for learning and practice.
+* [QuickGraph](https://github.com/Pomax/QuickGraph) - A library for directed graph data structures and algorithms in .NET.
+* [FLAME Graphs](https://github.com/tylermcginnis/FLAME) - A library for generating FLAME Graphs from performance profiling data in C#.
+
 
 ## API
 
