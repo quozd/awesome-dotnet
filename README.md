@@ -181,6 +181,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [HopFramework](https://github.com/DiegoTondim/hop-framework) - HopFramework is a framework to create projects easily applying Domain Driven Design and a lot of patterns to delivery a better solution.
 * [Fusion](https://github.com/servicetitan/Stl.Fusion) - .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples 1](https://github.com/servicetitan/Stl.Fusion.Samples) [Samples 2](https://github.com/alexyakunin/BoardGames)
 * [silky](https://github.com/liuhll/silky) - The Silky framework is designed to help developers quickly build a microservice development framework through simple code and configuration under the .net platform.
+* [Positron-JS](https://github.com/Positron-JS/positron-web-view) - An advanced Web View (PositronWebView) with native JavaScript Context to access .NET APIs from hybrid applications inspired from capacitor/cordova.
 
 ## Application Templates
 
