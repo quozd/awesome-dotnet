@@ -1116,6 +1116,13 @@ metadata in media files, including video, audio, and photo formats
 * [SolrExpress](https://github.com/solr-express/solr-express) - A simple and lightweight query .NET library for Solr, in a controlled, buildable and fail fast way
 * [Lucene.net](https://lucenenet.apache.org/) - Lucene.Net is a port of the Lucene search engine library, written in C# and targeted at .NET runtime users
 
+### Search library 
+like lucene, but way easier to use.  
+    
+* [Lunr-Core](https://github.com/bleroy/lunr-core) - Lunr-core is a small, full text search library for use in small applications. It's a .NET port of LUNR.js. 
+* [hOOt](https://github.com/mgholam/hOOt) - Smallest full text search engine (lucene replacement). built from scratch using inverted Roaring bitmap index, highly compact storage, operating in database and document modes 
+* [ZoneTree.FullTextSearch](https://github.com/koculu/ZoneTree.FullTextSearch) - efficient full-text search library. extends ZoneTree. It is fast, embedded search engine suitable for applications that require high performance and do not rely on external databases. 
+
 ## Serialization
 
 * [Ceras](https://github.com/rikimaru0345/Ceras) - Ceras is a binary serializer. It converts any object into a byte[] and back. It goes above and beyond in terms of features, speed, and comfort. Supports reference loops, large/complicated inheritance chains, splitting objects into parts and more.
