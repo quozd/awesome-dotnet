@@ -647,8 +647,6 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [DockPanelSuite](https://sourceforge.net/projects/dockpanelsuite/) - The Visual Studio inspired docking library for .NET WinForms
 * [AvalonEdit](https://github.com/icsharpcode/AvalonEdit) - The WPF-based text editor component used in SharpDevelop
 
-
-
 ## HTML and CSS
 
 * [AngleSharp](https://github.com/AngleSharp/AngleSharp) - Complete HTML5 DOM and CSS3 OM construction
