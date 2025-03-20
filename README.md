@@ -673,9 +673,6 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## IDE
 * [AvalonStudio](https://github.com/VitalElement/AvalonStudio) - An extensible, cross platform IDE written in C# for Embedded C/C++, .NET Core, Avalonia and Typescript
-* [SharpDevelop](https://github.com/icsharpcode/SharpDevelop) - A free IDE for .NET programming languages
-* [MonoDevelop](https://github.com/mono/monodevelop) - MonoDevelop is a cross-platform IDE mostly aimed at Mono/.NET developers
-* [Visual Studio Express](https://visualstudio.microsoft.com/vs/express/) - The free lightweight version of Visual Studio for .NET programming.
 * [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) - A full-featured IDE
 * [Waf DotNetPad](https://jbe2277.github.io/dotnetpad/) - A simple and fast code editor that makes fun program with C# or Visual Basic.
 * [Visual Studio Code](https://code.visualstudio.com/) - Excellent open source editor from Microsoft, based on Electron.
