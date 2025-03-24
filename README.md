@@ -414,8 +414,6 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## DLR
 
-* [cmd](https://github.com/manojlds/cmd) - C# library to run external programs in a simpler way. Demonstration of "dynamic" features of C#.
-
 ## Documentation
 
 * [Sandcastle](https://github.com/EWSoftware/SHFB) - Sandcastle Help File Builder similar to NDoc
