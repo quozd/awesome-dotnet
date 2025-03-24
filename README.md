@@ -194,12 +194,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Mono.Cecil](https://github.com/jbevain/cecil) - Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.
 
 ## Assets
-
-* [Cassette](https://github.com/andrewdavey/cassette) - Manages .NET web application assets (scripts, css and templates)
-* [NodeAssets](https://github.com/ajorkowski/NodeAssets) - Asset Manager for .NET that has live CSS updates using SignalR and can optionally leverage Node.js compilers
 * [Bundle Transformer](https://github.com/Taritsyn/BundleTransformer) - Modular extension for [Microsoft ASP.NET Web Optimization Framework](https://www.nuget.org/packages/Microsoft.AspNet.Web.Optimization). Its modules supports LESS, Sass, CoffeeScript, TypeScript, Mustache, Handlebars, Autoprefixer along with a bunch of different JS and CSS minifiers.
-* [Bundler](https://github.com/ServiceStack/Bundler) - Compile & Minify Less/Sass/Stylus/Css/JS/CoffeeScript/LiveScript files. Integrates with MVC and ServiceStack
-* [SquishIt](https://github.com/jetheredge/SquishIt) - Lets you *easily* bundle some CSS and JavaScript
 
 ## Authentication and Authorization
 
