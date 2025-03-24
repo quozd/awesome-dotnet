@@ -394,7 +394,6 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [MySQL Connector](https://dev.mysql.com/downloads/connector/net/) - Connector/Net is a fully-managed ADO.NET driver for MySQL
 * [Npgsql](https://github.com/npgsql/Npgsql) - .NET data provider for PostgreSQL
 * [MongoDB](https://github.com/mongodb/mongo-csharp-driver) - Official MongoDB C# driver
-* [RethinkDb.Driver](https://github.com/bchavez/RethinkDb.Driver/) - A RethinkDB database driver in C# striving for 100% ReQL API compatibility and completeness.
 * [ServiceStack Redis](https://github.com/ServiceStack/ServiceStack) - .NET's leading C# Redis client
 * [StackExchange Redis](https://github.com/ServiceStack/ServiceStack) - General purpose Redis client from StackExchange
 * [Cassandra](https://github.com/datastax/csharp-driver) - DataStax .NET driver for Apache Cassandra
