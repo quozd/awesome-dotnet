@@ -543,15 +543,9 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## HTTP
 
-* [Tiny.RestClient](https://github.com/jgiacomini/Tiny.RestClient) - Simpliest Fluent REST client for .NET.
-* [Http.fs](https://github.com/haf/Http.fs) - A functional HTTP client for F#.
 * [RestSharp](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API client for .NET
 * [Flurl](https://flurl.dev) - Fluent, portable, testable REST/HTTP client library
-* [EasyHttp](https://github.com/EasyHttp/EasyHttp) - HTTP library for C#
 * [Refit](https://github.com/reactiveui/refit) - The automatic type-safe REST library for Xamarin and .NET
-* [RestEase](https://github.com/canton7/RestEase) - Easy-to-use typesafe REST API client library, which is simple and customisable. Heavily inspired by Refit
-* [RestLess](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
-* [HttpClientGoodies](https://github.com/jeffijoe/httpclientgoodies.net) - utilities for working with `HttpClient`
 * [WebApiClient](https://github.com/dotnetcore/WebApiClient) An open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
 * [Apizr](https://github.com/Respawnsive/Apizr) Refit based web api client, but resilient (retry, connectivity, cache, auth, log, priority, etc...).
 * [Fluxzy.Core](https://github.com/haga-rak/fluxzy.core) - A fully managed and fully streamed Man-On-The-Middle library to intercept, record and alter HTTP/1.1, H2, websocket traffic over plain or secure channels.
