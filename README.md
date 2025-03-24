@@ -790,24 +790,17 @@ metadata in media files, including video, audio, and photo formats
 * [FluentMigrator](https://github.com/fluentmigrator/fluentmigrator) - Fluent Migrations framework for .net
 * [ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack/tree/main/ServiceStack.OrmLite) - Light, simple and fast convention-based POCO ORM **[[Free for OSS](https://github.com/ServiceStack/ServiceStack/blob/master/license.txt)]** **[$]**
 * [LINQ to DB](https://github.com/linq2db/linq2db) - The fastest LINQ database access library offering a simple, light, fast, and type-safe layer between your POCO objects and your database.
-* [MicroLite ORM](https://github.com/MicroLite-ORM/MicroLite) MicroLite ORM is a micro Object Relational Mapper for the .NET framework. It is designed to be easy to use, extensible and testable.
 * [PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco) - A tiny ORM-ish thing for your POCOs
-* [AsyncPoco](https://github.com/tmenier/AsyncPoco) - A long-"awaited" fully asynchronous PetaPoco fork
 * [NPoco](https://github.com/schotime/NPoco) - Simple microORM that maps the results of a query onto a POCO object. Based on Schotime's branch of PetaPoco
-* [Limebean](https://github.com/Nick-Lucas/LimeBean) - Hybrid ORM which uses SQL fragments and doesn't require Model Classes.
 * [LLBLGen Pro](https://www.llblgen.com) - Entity Modeling solution for Entity Framework, NHibernate, Linq to SQL and its own ORM framework: LLBLGen Pro Runtime Framework. **[$][Free Lite version]**
 * [Insight.Database](https://github.com/jonwagner/Insight.Database) - Insight.Database is a fast, lightweight, micro-ORM for .NET
-* [DbExtensions](https://maxtoroq.github.io/DbExtensions/) - Data-access framework with a strong focus on query composition, granularity and code aesthetics.
-* [SmartSql](https://github.com/dotnetcore/SmartSql) - SmartSql = MyBatis + Cache（Memory | Redis）+ ZooKeeper + R / W Splitting + Dynamic Repository ....
 * [RepoDb](https://github.com/mikependon/RepoDb) - A hybrid ORM library for .NET.
-* [Venflow](https://github.com/TwentyFourMinutes/Venflow) - A super fast and lightweight ORM for PostgreSQL.
 * [MongoFramework](https://github.com/TurnerSoftware/MongoFramework) - An "Entity Framework"-like interface for MongoDB
 * [Friflo.Json.Fliox](https://github.com/friflo/Friflo.Json.Fliox) - High performane ORM for Sqlite, MySql, SqlServer, PostgreSQL & NoSQL. Provides server with REST, GraphQL & WebSocket / PubSub API.
 
 ## Package Management
 
 * [NuGet](https://www.nuget.org/) - The .NET package manager
-* [BaGet](https://github.com/loic-sharma/BaGet/) - A cross-platform, lightweight NuGet and Symbol server
 * [Cloudsmith](https://cloudsmith.com/nuget-feed/) - A fully managed package management SaaS, with support for NuGet, Npm, Docker and much more. **[Free for Public/OSS]** **[$]**
 * [MyGet](https://www.myget.org/) - Hosted Package Repository for NuGet, NPM, Bower and VSIX. Also provides CI as-a-Service. **[$]**
 * [Paket](https://github.com/fsprojects/Paket) - A package dependency manager for .NET with support for NuGet packages and GitHub repositories. https://fsprojects.github.io/Paket/
@@ -818,9 +811,7 @@ metadata in media files, including video, audio, and photo formats
 * [QPdfSharp](https://github.com/svengeance/QPdfSharp) - A C# wrapper written around QPdf to allow for easy PDF manipulation that is tested for both linux and windows. QPdf is one of the only libraries capable of PDF linearization, and this wrapper ensures you keep up to date with the underlying improvements.
 * [Cloudmersive PDF](https://cloudmersive.com/pdf-api) - Cloudmersive PDF is a native .NET Framework and .NET Core NuGet library and API service that can create, modify, encrypt or convert PDF documents at high scale and fidelity; and is free to use with no expiration **[Free]**
 * [Docotic.Pdf](https://bitmiracle.com/pdf-library/) - PDF library to create, read, edit, draw, and print PDF documents in .NET and .NET Core applications. 100% managed, without unsafe blocks. **[$]** **[[Free for OSS](https://bitmiracle.com/pdf-library/free-pdf-library.aspx)]**
-* [ITextSharp](https://github.com/itext/itextsharp) - iText is a PDF library that allows you to CREATE, ADAPT, INSPECT and MAINTAIN documents in the Portable Document Format (PDF)**[$]** **[Free for OSS]**
-* [PdfiumViewer](https://github.com/pvginkel/PdfiumViewer) - PdfiumViewer is a PDF viewer based on the PDFium project.
-* [WkhtmlToPdf](https://github.com/codaxy/wkhtmltopdf) - C# wrapper around wkhtmltopdf console utility. Allow to generate preety PDF using HTML and CSS.
+* [IText](https://github.com/itext/itext-dotnet) - iText is a PDF library that allows you to CREATE, ADAPT, INSPECT and MAINTAIN documents in the Portable Document Format (PDF)**[$]** **[Free for OSS]**
 * [Pdfium.Net SDK](https://pdfium.patagames.com/) - Advanced C# PDF library for render, create, edit, merge, split, print, and view PDFs. Open source PDF Viewer is available on [GitHub](https://github.com/patagames). A [NuGet package](https://www.nuget.org/packages/Pdfium.Net.SDK/) is also available for easy inclusion into your projects.**[$]**
 * [PdfPig](https://uglytoad.github.io/PdfPig/) - Read and create and extract text and other content from PDFs in C# (port of PdfBox) 
 * [QuestPDF](https://www.questpdf.com/) - QuestPDF is a modern and battle-tested library that can help you with generating PDF documents by offering friendly, discoverable and predictable C# fluent API. **[Source Available]** **[Free for OSS]**
@@ -831,21 +822,17 @@ metadata in media files, including video, audio, and photo formats
 ## Profiler
 
 * [MiniProfiler](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET websites
-* [Glimpse](https://github.com/glimpse/glimpse) - The open source diagnostics platform for the web
-* [Unchase.FluentPerformanceMeter](https://github.com/unchase/Unchase.FluentPerformanceMeter) - An open-source and cross-platform .Net Standard 2.0 library that is designed for the method’s performance measurement.
 
 ## Protocols
 
 * [SSH.NET](https://github.com/sshnet/SSH.NET) - A Secure Shell (SSH) library for .NET, optimized for parallelism. Provides SSH commands, SFTP/SCP uploads and downloads, and SOCKS4/SOCKS5/HTTP proxies.
 * [FluentFTP](https://github.com/robinrodricks/FluentFTP) - An FTP and FTPS library for .NET, optimized for speed. Provides extensive FTP commands, file uploads/downloads and FTP proxies.
 * [SharpSnmpLib](https://docs.sharpsnmp.com/) - An open source SNMP implementation for .NET/Mono/Xamarin. Version 1, 2c, and 3 are supported.
-* [DNS](https://github.com/kapetan/dns) - A library for parsing and serializing DNS messages. Includes a basic DNS client and server.
 * [DnsClient.NET](https://github.com/MichaCo/DnsClient.NET) - A simple yet very powerful and high performant open source library for the .NET Framework to do DNS lookups.
 * [Tecan SiLA2 SDK](https://gitlab.com/SiLA2/vendors/sila_tecan) - A library and code generator to develop SiLA2 clients and servers.
 
 ## Push Notifications
 
-* [PushSharp](https://github.com/Redth/PushSharp) - A server-side library for sending Push Notifications to iOS, OSX, Android, Chrome, Windows Phone, Windows 8, Blackberry, and Amazon devices.
 
 ## Query Builders
 * [SqlKata](https://sqlkata.com) - Elegant SQL query builder, that supports complex queries, joins, sub queries, nested where conditions, vendor engine targets and more
@@ -855,19 +842,15 @@ metadata in media files, including video, audio, and photo formats
 * [CAP](https://github.com/dotnetcore/CAP) - An EventBus with local persistent message functionality for RabbitMQ or Kafka.
 * [Cap.Outbox](https://github.com/dex-it/dex-common/tree/main/src/Dex.Cap) - Implementation of the Outbox pattern and OnceExecutor service that guarantees idempotence: the operation will be performed once
 * [NServiceBus](https://github.com/Particular/NServiceBus) - The most popular service bus for .NET
-* [Gofer.NET](https://github.com/brthor/Gofer.NET) - Easy C# API for Distributed Background Tasks/Jobs for .NET Core. Inspired by celery for python.
 * [Hangfire](https://github.com/HangfireIO/Hangfire) - Incredibly easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET applications
 * [RabbitMQ.NET](https://github.com/rabbitmq/rabbitmq-dotnet-client) - Implementation of an AMQP client library for C#, and a binding exposing AMQP services via WCF
 * [NetMQ](https://github.com/zeromq/netmq) - NetMQ is 100% native C# port of ZeroMQ
 * [MassTransit](https://github.com/MassTransit/MassTransit) - MassTransit is lean service bus implementation for building loosely coupled applications using the .NET Framework.
 * [Rebus](https://github.com/rebus-org/Rebus) - Rebus is a lean service bus implementation for .NET, similar in nature to NServiceBus and MassTransit, only leaner
-* [RestBus](https://github.com/tenor/RestBus) - A service-oriented .NET messaging library for RabbitMQ.
-* [RawRabbit](https://github.com/pardahlman/RawRabbit) - A modern .NET Core library for RabbitMQ.
 * [EasyNetQ](https://github.com/EasyNetQ/EasyNetQ) - An easy to use .NET API for RabbitMQ
 * [Warewolf ESB](https://github.com/Warewolf-ESB/Warewolf) - An easy to use service bus and microservices platform. Easily build applications and services in a visual IDE.
 * [Confluent's .NET Client](https://github.com/confluentinc/confluent-kafka-dotnet) - Confluent's .NET Client for Apache Kafka.
 * [Foundatio](https://github.com/FoundatioFx/Foundatio#queues) - A common interface with in-memory, Redis and Azure implementations.
-* [Kafunk](https://github.com/jet/kafunk) - F# Kafka client from Jet
 * [Brighter](https://github.com/BrighterCommand/Brighter) - Command Dispatcher, Processor, and Distributed Task Queue https://www.goparamore.io/
 * [Silverback](https://silverback-messaging.net) - A simple but feature-rich message bus for .NET core (supports Kafka, RabbitMQ and MQTT).
 * [SlimMessageBus](https://github.com/zarusz/SlimMessageBus) - Lightweight message bus with transports for popular messaging systems (Kafka, Redis, Azure Service Bus, and others) and in-memory communication.
@@ -876,8 +859,6 @@ metadata in media files, including video, audio, and photo formats
 ## RPC
 
 * [gRPC](https://github.com/grpc/grpc-dotnet)  An RPC library and framework for .NET Core. Read more about it on [Docs Microsoft](https://docs.microsoft.com/en-us/aspnet/core/grpc)
-* [CoreRPC](https://github.com/kekekeks/CoreRPC) - Extensible library for WCF-like RPC targeting netstandard1.3. Compatible with .NET, Mono and .NET Core.
-* [BloomRPC](https://github.com/bloomrpc/bloomrpc) - BloomRPC aims to provide the simplest and most efficient developer experience for exploring and querying your GRPC services.
 * [gRPCurl](https://github.com/fullstorydev/grpcurl) - gRPCurl is a command-line tool that lets you interact with gRPC servers. It's basically curl for gRPC servers.
 * [gRPC UI](https://github.com/fullstorydev/grpcui) - gRPC UI is a command-line tool that lets you interact with gRPC servers via a browser. It's sort of like Postman, but for gRPC APIs instead of REST.
 
@@ -885,7 +866,6 @@ metadata in media files, including video, audio, and photo formats
 
 * [Rx.NET](https://github.com/dotnet/reactive) - The Reactive Extensions (Rx) is a library for composing asynchronous and event-based programs using observable sequences and LINQ-style query operators
 * [Dynamic Data](https://github.com/reactivemarbles/DynamicData) - Reactive Extensions (Rx) for collections
-* [ObsevableComputations](https://github.com/IgorBuchelnikov/ObservableComputations) - A cross-platform .NET library for computations whose arguments and results are objects that implement INotifyPropertyChanged and INotifyCollectionChanged (ObservableCollection) interfaces.
 
 ## Real-time Communications
 
@@ -893,17 +873,12 @@ metadata in media files, including video, audio, and photo formats
 
 ## Regular Expression
 
-* [RegExtract](https://github.com/sblom/RegExtract) - Clean & simple idiomatic C# RegEx-based line parser that emits strongly typed results.
-* [Gigantor](https://github.com/imagibee/Gigantor) - Fast regular expressions supporting gigantic files combining System.Text.RegularExpressions.Regex with multi-threading. 
-
 ## Scheduling
 
-* [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler) - Task scheduler with fluent interface that runs automated jobs from your application
 * [NCrontab](https://github.com/atifaziz/NCrontab) - Class library for parsing & formatting [crontab](http://crontab.org/) expressions as well as calculating occurrences of time based on a crontab schedule
 * [NCrontab.Scheduler](https://github.com/thomasgalliker/NCrontab.Scheduler) - Simple task scheduler library for scheduling NCrontab-based tasks
 * [QuartzNet](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET
 * [Hangfire](https://github.com/HangfireIO) - An easy way to perform fire-and-forget, delayed and recurring tasks inside .NET apps
-* [Chroniton](https://github.com/leosperry/Chroniton) - A simple, fully integrable, and customizable library for running strongly typed jobs (tasks) on schedules.
 * [DurableTask](https://github.com/Azure/durabletask) - This framework allows users to write long running persistent workflows in C# using the async/await capabilities.
 * [Workflow Core](https://github.com/danielgerlag/workflow-core) - Lightweight embeddable workflow engine
 
@@ -915,14 +890,11 @@ metadata in media files, including video, audio, and photo formats
 * [Octokit.NET](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
 * [Dropbox.NET](https://github.com/dropbox/dropbox-sdk-dotnet) - Official .NET SDK for the Dropbox API
 * [Getty Images API SDK](https://github.com/gettyimages/gettyimages-api_dotnet) - SDK for the Getty Images and iStock APIs
-* [Cloudmersive APIs](https://api.cloudmersive.com/csharp-client.asp) - An API client library for .NET **[Proprietary][Free]**
 
 ## Search
 
 * [Elasticsearch .NET](https://github.com/elastic/elasticsearch-net) - Elasticsearch.Net & NEST
-* [PlainElastic.Net](https://github.com/Yegoroff/PlainElastic.Net) - Plain .NET client for ElasticSearch
 * [SolrNet](https://github.com/SolrNet/SolrNet) - Solr client for .NET
-* [SolrExpress](https://github.com/solr-express/solr-express) - A simple and lightweight query .NET library for Solr, in a controlled, buildable and fail fast way
 * [Lucene.net](https://lucenenet.apache.org/) - Lucene.Net is a port of the Lucene search engine library, written in C# and targeted at .NET runtime users
 
 ## Serialization
