@@ -458,7 +458,6 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Extensions
 * [ExtensionMethods.Net](https://www.extensionmethod.net/csharp) - Site with collection of extension methods
-* [Z.ExtensionMethods](https://github.com/zzzprojects/Z.ExtensionMethods) - Over a 1000 useful extension methods
 
 ## Feature management
 * [Microsoft.FeatureManagement](https://github.com/microsoft/FeatureManagement-Dotnet) - This library provides a way to develop and expose application functionality based on feature flags. It enables scenarios like new feature rollouts and A/B testing for experimentation purposes. It also provides integration with common .NET coding patterns and ASP.NET Core.
