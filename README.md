@@ -503,7 +503,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [NGit](https://github.com/mono/ngit) - NGit is a port of JGit to C#
 * [posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 * [RepoZ](https://github.com/awaescher/RepoZ) - A Git repository information aggregator with Windows Explorer & CLI-enhancements
-* [Git Credential Manager for Windows](https://github.com/Microsoft/Git-Credential-Manager-for-Windows) - Helps solving issues of credentials, made by Microsoft
+* [Git Credential Manager](https://github.com/git-ecosystem/git-credential-manager) - Helps solving issues of credentials
 
 ## Graphics
 
