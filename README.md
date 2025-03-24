@@ -160,7 +160,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - A starting point for new modern ASP.NET MVC web applications with best practices and most popular tools.
 * [ABP](https://github.com/abpframework/abp) - The next generation of the ASP.NET Boilerplate web application framework.
 * [Orleans](https://github.com/dotnet/orleans) - Orleans is a framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns
-* [CoreFX](https://github.com/dotnet/corefx) -  The corefx repo contains the library implementation (called "CoreFX") for .NET Core. It includes System.Collections, System.IO, System.Xml and many other components.
+* [Runtime](https://github.com/dotnet/runtime) -  The runtime repo contains the library implementation (formerly called "CoreFX") for .NET (5+). It includes System.Collections, System.IO, System.Xml and many other components.
 * [CSLA .NET](https://github.com/MarimerLLC/csla) - business layer development framework https://cslanet.com/
 * [Mono](https://github.com/mono/mono) - Open source ECMA CLI, C#, F#, VB and .NET implementation
 * [Mono-Addins](https://github.com/mono/mono-addins) - Mono.Addins is a generic framework for creating extensible applications, and for creating add-ins which extend those applications
