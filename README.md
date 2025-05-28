@@ -881,6 +881,7 @@ metadata in media files, including video, audio, and photo formats
 * [Hangfire](https://github.com/HangfireIO) - An easy way to perform fire-and-forget, delayed and recurring tasks inside .NET apps
 * [DurableTask](https://github.com/Azure/durabletask) - This framework allows users to write long running persistent workflows in C# using the async/await capabilities.
 * [Workflow Core](https://github.com/danielgerlag/workflow-core) - Lightweight embeddable workflow engine
+* [Occurify](https://github.com/Occurify/Occurify) - A powerful and intuitive .NET library for defining, filtering, transforming, and scheduling instant and period timelines.
 
 ## SDK and API Clients
 
