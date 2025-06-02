@@ -950,6 +950,7 @@ metadata in media files, including video, audio, and photo formats
 ## Static Site Generators
 
 * [Sandra.Snow](https://github.com/Sandra/Sandra.Snow) - Jekyll-inspired static site generation for .NET
+* [AspNetStatic](https://github.com/ZarehD/AspNetStatic) - Transform ASP.NET Core web app into a static site generator.
 
 ## Strong Naming
 
