@@ -532,6 +532,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Qml.Net](https://github.com/qmlnet/qmlnet) - A cross-platform Qml/.NET integration for Mono/.NET/.NET Core
 * [Lara](https://github.com/integrativesoft/lara) - Lara Web Engine is a library for developing Web user interfaces in C# - (Blazor Server-Side Alternative)
 * [Neutronium](https://github.com/NeutroniumCore/Neutronium) - Build .NET desktop applications using HTML, CSS, javascript and MVVM bindings such as with WPF.
+* [photino.NET](https://github.com/tryphotino/photino.NET) - Photino is a lightweight open-source framework for building native, cross-platform desktop applications with Web UI technology.
   
 ### GUI - Themed Control Toolkits
 
