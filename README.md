@@ -1022,7 +1022,8 @@ metadata in media files, including video, audio, and photo formats
 * [OctaneEngine](https://github.com/gregyjames/OctaneDownloader) - A high performance multipart downloader with many features such as pause/resume support, asynchronous progress, and throttling.
 * [FastCloner](https://github.com/lofcz/FastCloner) - Fast deep cloning library for .NET 8+. Zero-config, works out of the box.
 * [STranslate](https://github.com/ZGGSONG/STranslate) - STranslate is a ready-to-go translation ocr tool developed with WPF.
-  
+* [BouncyHSM](https://github.com/harrison314/BouncyHsm) - A software simulator of HSM and smartcard simulator with HTML UI, REST API and PKCS#11 interface.
+
 ## Trading
 
 * [Lean](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. https://www.quantconnect.com/lean/
