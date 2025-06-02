@@ -254,7 +254,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 * [iCal.NET](https://github.com/rianjs/ical.net) iCal.NET is an iCalendar (RFC 5545) class library for .NET aimed at providing RFC 5545 compliance, while providing full compatibility with popular calendaring applications and libraries.
 
-# Chat
+## Chat
 
 * [Stream](https://github.com/GetStream/stream-chat-net) Official .NET API client for Stream Chat, a service for building chat applications.
 
