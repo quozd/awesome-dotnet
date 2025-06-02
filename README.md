@@ -741,6 +741,7 @@ metadata in media files, including video, audio, and photo formats
 * [Build Versioning](https://github.com/TurnerSoftware/BuildVersioning) - Simple build versioning for .NET, powered by Git tags
 * [SystemTextJson.JsonDiffPatch](https://github.com/weichch/system-text-json-jsondiffpatch) - High-performance, low-allocating JSON object diff and patch extension for System.Text.Json. Support generating patch document in RFC 6902 JSON Patch format.
 * [dotnet-exec](https://github.com/WeihanLi/dotnet-exec) - A command-line tool for executing C# program without a project file, and you can have your custom entry point other than Main method.
+* [ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A a .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute and pixel shaders.
 * [ILGPU](https://github.com/m4rs-mt/ILGPU) - A JIT (just-in-time) compiler for high-performance GPU programs written in .Net-based languages.
 
 ## MQTT
