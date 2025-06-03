@@ -153,7 +153,9 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Ocelot](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
 * [CommandQuery](https://github.com/hlaueriksson/CommandQuery) - Command Query Separation for 🌐ASP.NET Core ⚡AWS Lambda ⚡Azure Functions ⚡Google Cloud Functions 🌐ASP.NET Web API 2
 * [Population.NET](https://github.com/Authentic199/Population.NET) - A .NET library allows clients to specify the exact fields they need, reducing unnecessary data transfer by avoiding the retrieval of all fields by default.
-
+* [Deepseek.ASPClient](https://github.com/Anwar-alhitar/Deepseek.Asp.Client) - A lightweight ASP.NET wrapper for the Deepseek AI API, designed to simplify AI-driven text processing in .NET applications. [Repository](https://github.com/Anwar-alhitar/Deepseek.Asp.Client) [Documentation](https://github.com/Anwar-alhitar/Deepseek.Asp.Client/blob/master/README.md)
+* [qwen.ASPClient](https://github.com/Anwar-alhitar/qwen.ASPClient) - A lightweight ASP.NET wrapper for the Qwen AI API, designed to simplify AI-driven text processing in .NET applications. [Repository](https://github.com/Anwar-alhitar/qwen.ASPClient) [Documentation](https://github.com/Anwar-alhitar/qwen.AASPClient/blob/master/README.md)
+* 
 ## Application Frameworks
 
 * [.NET Boxed Framework](https://github.com/Dotnet-Boxed/Framework) - .NET Core Extensions and Helper NuGet packages
@@ -186,7 +188,9 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## Artificial Intelligence
 * [LLamaSharp](https://github.com/SciSharp/LLamaSharp) - C#/.NET Binding of llama.cpp, run LLaMA/GPT model using C# without having to compile lama.cpp.
 * [LlmTornado](https://github.com/lofcz/LlmTornado) - One .NET library to consume OpenAI, Anthropic, Cohere, Google, Azure, Groq, and self-hosed APIs.
-
+* [Deepseek.ASPClient](https://github.com/Anwar-alhitar/Deepseek.Asp.Client) - A lightweight ASP.NET wrapper for the Deepseek AI API, designed to simplify AI-driven text processing in .NET applications. [Repository](https://github.com/Anwar-alhitar/Deepseek.Asp.Client) [Documentation](https://github.com/Anwar-alhitar/Deepseek.Asp.Client/blob/master/README.md)
+*  [qwen.ASPClient](https://github.com/Anwar-alhitar/qwen.ASPClient) - A lightweight ASP.NET wrapper for the Qwen AI API, designed to simplify AI-driven text processing in .NET applications. [Repository](https://github.com/Anwar-alhitar/qwen.ASPClient) [Documentation](https://github.com/Anwar-alhitar/qwen.AASPClient/blob/master/README.md)
+*  
 ## Assembly Manipulation
 
 * [Fody](https://github.com/Fody/Fody) - Extensible tool for weaving .NET assemblies.
