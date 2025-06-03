@@ -882,7 +882,6 @@ metadata in media files, including video, audio, and photo formats
 * [Silverback](https://silverback-messaging.net) - A simple but feature-rich message bus for .NET core (supports Kafka, RabbitMQ and MQTT).
 * [SlimMessageBus](https://github.com/zarusz/SlimMessageBus) - Lightweight message bus with transports for popular messaging systems (Kafka, Redis, Azure Service Bus, and others) and in-memory communication.
 * [AsyncMonolith](https://github.com/Timmoth/AsyncMonolith) - Facilitates simple asynchronous messaging in dotnet apps.
-
 ## RPC
 
 * [gRPC](https://github.com/grpc/grpc-dotnet)  An RPC library and framework for .NET Core. Read more about it on [Docs Microsoft](https://docs.microsoft.com/en-us/aspnet/core/grpc)
@@ -908,6 +907,7 @@ metadata in media files, including video, audio, and photo formats
 * [Hangfire](https://github.com/HangfireIO) - An easy way to perform fire-and-forget, delayed and recurring tasks inside .NET apps
 * [DurableTask](https://github.com/Azure/durabletask) - This framework allows users to write long running persistent workflows in C# using the async/await capabilities.
 * [Workflow Core](https://github.com/danielgerlag/workflow-core) - Lightweight embeddable workflow engine
+* [TickerQ](https://github.com/Arcenox-co/TickerQ) - Lightweight, high-performance, reflection-free job scheduler for .NET with EF Core, cron/time-based execution, custom locking, and retry support.
 * [NCronJob](https://github.com/NCronJob-Dev/NCronJob) - A Job Scheduler sitting on top of IHostedService in dotnet.
 
 ## SDK and API Clients
