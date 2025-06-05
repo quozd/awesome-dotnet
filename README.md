@@ -343,6 +343,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Pkcs11Interop](https://github.com/Pkcs11Interop/Pkcs11Interop) - Managed .NET wrapper for unmanaged PKCS#11 libraries that provide access to the cryptographic hardware
 * [SecurityDriven.Inferno](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET crypto library. Professionally audited.
 * [CryptoNet](https://github.com/maythamfahmi/CryptoNet) - .NET simple crypto library. Native c#.
+* [cas-dotnet-sdk](https://github.com/Cryptographic-API-Services/cas-dotnet-sdk) - .NET cryptographic wrapper around the RustCrypto and Dalek-Cryptography crates.
 
 ## Cloud Storage
 
