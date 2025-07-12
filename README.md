@@ -671,6 +671,7 @@ the Python world. It uses the Pyro protocol to call methods on remote objects.
 * [FsLab](https://fslab.org/) - A collection of data science and machine learning libraries for F# and .NET
 * [GeneticSharp](https://github.com/giacomelli/GeneticSharp) - Multi-platform genetic algorithm library for .NET Core and .NET Framework. The library has several implementations of GA operators, like: selection, crossover, mutation, reinsertion and termination.
 * [ML.NET](https://github.com/dotnet/machinelearning) - Cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers.
+* [ML.NET.Classifier](https://github.com/Bgajski/ML.NET.Classifier) - Binary and textual classifier built on ML.NET with training, evaluation, and performance modules.
 * [F# Data](https://github.com/fsprojects/FSharp.Data) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
 * [SciSharp STACK](https://scisharp.github.io/SciSharp/) - A rich machine learning ecosystem for .NET created by porting the most popular Python libraries to C#.
 
