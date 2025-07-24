@@ -464,6 +464,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Feature management
 * [Microsoft.FeatureManagement](https://github.com/microsoft/FeatureManagement-Dotnet) - This library provides a way to develop and expose application functionality based on feature flags. It enables scenarios like new feature rollouts and A/B testing for experimentation purposes. It also provides integration with common .NET coding patterns and ASP.NET Core.
+* [OpenFeature](https://openfeature.dev) - OpenFeature is an open standard for feature flag management designed to provide a unified API and SDK, enabling developers to decouple feature flag evaluation from vendor-specific implementations. It promotes interoperability, flexibility, and standardization for managing feature flags across different tools and platforms.
 
 ## Functional programming
 * [language-ext](https://github.com/louthy/language-ext) - This library uses and abuses the features of C# 6+ to provide a functional 'Base class library', that, if you squint, can look like extensions to the language itself. It also includes an 'Erlang like' process system (actors) that can optionally persist messages and state to Redis (note you can use it without Redis for in-app messaging). The process system additionally supports Rx streams of messages and state allowing for a complete system of reactive events and message dispatch.
