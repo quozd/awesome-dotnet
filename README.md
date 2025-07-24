@@ -307,21 +307,26 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Compilers, Transpilers and Languages
 
-* [ClojureCLR](https://github.com/clojure/clojure-clr) - A port of Clojure to the CLR, part of the Clojure project
-* [F#](https://github.com/fsharp/fsharp/) -  The F# compiler, core library and tools - a functional programming language for safer, faster, better code writing.
-* [Hybridizer](https://www.altimesh.com/hybridizer-essentials/) - CIL (C#, VB.Net, F#) to CUDA compiler. **[$]**
+* [ClojureCLR](https://github.com/clojure/clojure-clr) - A port of Clojure to the CLR in C#
+* [ClojureCLR Next](https://github.com/dmiller/clojure-clr-next?tab=readme-ov-file) - Rewrite of Clojure CLR in F#
+* [F#](https://github.com/fsharp/fsharp/) - The F# programming language empowers everyone to write succinct, robust, and performant code
+* [Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript, TypeScript, JSX, Python, Dart, and Rust transpiler
+* [Eiffel](https://www.eiffel.org/doc/solutions/The_Eiffel_for_.NET_language) - Eiffel for .NET is the Eiffel programming language made available in the .NET environment.
+* [Rust](https://github.com/FractalFir/rustc_codegen_clr) - Experimental Rust compiler for .NET.
+* [Wrapped Mono](https://github.com/FractalFir/wrapped_mono) - Mono runtime embedded in Rust. 
+* [Hybridizer](https://www.altimesh.com/hybridizer-essentials/) - CIL (C#, VB.Net, F#, ClojureCLR, ...) to CUDA compiler. **[$]**
 * [IronScheme](https://github.com/IronScheme/IronScheme) - R6RS Scheme compiler, runtime and many standard libraries
-* [Mond](https://github.com/Rohansi/Mond) - A dynamically typed scripting language written in C# with a REPL, debugger, and simple embedding API.
-* [Nemerle](https://github.com/rsdn/nemerle) - Nemerle is a high-level statically-typed programming language for the .NET platform. It offers functional, object-oriented and imperative features. It has a simple C#-like syntax and a powerful meta-programming system.
+* [Mond](https://github.com/Rohansi/Mond) - A dynamically typed scripting language written in C# with a REPL, debugger, and simple embedding API
+* [Lua-C#](https://github.com/nuskey8/Lua-CSharp) - A Lua implementation on .NET in C#
+* [Nemerle](https://github.com/rsdn/nemerle) - Nemerle is a high-level statically-typed programming language for the .NET platform. It offers functional, object-oriented, and imperative features. It has a simple C#-like syntax and a powerful meta-programming system.
 * [P](https://github.com/p-org/P) - P is a language for asynchronous event-driven programming.
 * [PeachPie](https://github.com/peachpiecompiler/peachpie) - PeachPie is a PHP compiler and runtime for .NET and .NET Core, which allows entire PHP applications to run on the modern, secure and performant .NET and .NET Core platforms.
 * [Roslyn](https://github.com/dotnet/roslyn) - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs. It enables building code analysis tools with the same APIs that are used by Visual Studio.
-* [FSharp](https://github.com/dotnet/fsharp) - The F# compiler and tools
-* [Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler
-* [Iron python](https://github.com/IronLanguages/ironpython3) - A python 3 implementation that is integrated with the dot net framework.
-* [IKVM](https://ikvm.org) - A Java Virtual Machine and Bytecode-to-IL Converter for .NET. Execute compiled Java code (bytecode) on .NET Framework or .NET Core.
-* [Lib.Harmony](https://github.com/pardeike/Harmony) - Rewrite mono and C# methods at the runtime, Either write a method that will be executed, or edit the code of the method in IL, mainly used for game modding.  
-* [dotnet-repl](https://github.com/jonsequitur/dotnet-repl) - C# REPL (read-eval-print loop)
+* [PascalABC.NET](https://github.com/pascalabcnet/pascalabcnet) Pascal implementation on .NET.
+* [Iron Python](https://github.com/IronLanguages/ironpython3) - A Python 3 implementation that is integrated with the .NET framework.
+* [IKVM](https://ikvm.org) - A Java Virtual Machine and Bytecode-to-IL converter for .NET. Execute compiled Java code (bytecode) on .NET
+* [Lib.Harmony](https://github.com/pardeike/Harmony) - A library for patching, replacing, and decorating .NET and Mono methods during runtime, mainly used for game modding.  
+* [dotnet-repl](https://github.com/jonsequitur/dotnet-repl) - A polyglot REPL built on .NET Interactive 
 
 ## Compression
 
