@@ -201,6 +201,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Abblix OIDC Server](https://github.com/Abblix/Oidc.Server) - A fully certified OpenID Connect server library for .NET by the OpenID Foundation, providing comprehensive support for OAuth2 and OpenID Connect across all profiles. **[$][Free for non-commercial use]**
 * [ASP.NET Core Identity](https://github.com/dotnet/aspnetcore/) - New membership system for ASP.NET applications
 * [ASP.NET SAML](https://github.com/jitbit/AspNetSaml) - SAML authentication support for ASP.NET apps
+* [Logibit Hawk](https://github.com/logibit/logibit.hawk/) - A F# [Hawk](https://github.com/outmoded/hawk) authentication library
+* [Logto](https://github.com/logto-io/csharp) - An IAM infrastructure for modern apps and SaaS products, supporting OIDC, OAuth 2.0 and SAML for authentication and authorization **[$][Free for OSS]**
 * [IdentityModel](https://github.com/IdentityModel) - Helper library for identity & access control in .NET 4.5 and MVC4/Web API.
 * [openiddict](https://github.com/openiddict/openiddict-core) - Flexible and versatile OAuth 2.0/OpenID Connect stack for .NET
 * [Topaz](https://www.topaz.sh/docs/software-development-kits/dotnet/install) - A fine-grained authorization system with .NET SDK.
