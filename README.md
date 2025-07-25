@@ -1112,6 +1112,8 @@ metadata in media files, including video, audio, and photo formats
 * [Supernova.Enum.Generators](https://github.com/EngRajabi/Enum.Source.Generator) - A C# source generator to create an enumeration class from an enum type. With this package, you can work on enums very, very fast without using reflection.
 * [Vogan](https://github.com/SteveDunn/Vogen) - A value object generator with analizers.
 * [Dunet](https://github.com/domn1995/dunet) - A simple source generator for discriminated unions in C#.
+* [SyncMethodGenerator](https://github.com/zompinc/sync-method-generator) – Generates synchronous methods from async ones to avoid code duplication.
+
 
 # Other Lists
 
