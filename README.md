@@ -29,6 +29,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Assembly Manipulation](#assembly-manipulation)
   * [Assets](#assets)
   * [Authentication and Authorization](#authentication-and-authorization)
+  * [Background Processing](#background-processing)
   * [Blazor](#blazor)
   * [Build Automation](#build-automation)
   * [Business Intelligence and Reporting](#business-intelligence)
@@ -210,6 +211,10 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Enforcer](https://www.identityserver.com/products/enforcer) - Write fine grained authorization policy in easy-to-read language, and have it compiled to native .NET code **[$]**
 * [SAML IdentityServer](https://www.identityserver.com/products/saml2p) - Add SAML 2P support to your Duende IdentityServer **[$]**
 * [SAML OpenIddict](https://www.openiddictcomponents.com/home/) - Add SAML 2P support to your OpenIddict **[$]**
+
+## Background Processing
+
+* [BusyBee](https://github.com/mikasjp/BusyBee) - Fast, in-memory background job processing for .NET apps with configurable queues, timeouts, parallelism, and built-in OpenTelemetry support.
 
 ## Blazor
 
