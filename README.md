@@ -1107,6 +1107,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## Parser Library
 
+* [Silverfly](https://github.com/furesoft/Silverfly) - A pratt parser library.
 * [Pidgin](https://github.com/benjamin-hodgson/Pidgin) - A lightweight, fast and flexible parsing library for C#, developed at Stack Overflow
 * [Superpower](https://github.com/datalust/superpower) - A C# parser construction toolkit with high-quality error reporting
 * [CSLY](https://github.com/b3b00/CSLY) - A light embedded C# lexer/parser generator.
