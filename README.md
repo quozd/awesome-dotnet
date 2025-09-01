@@ -584,6 +584,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [WebApiClient](https://github.com/dotnetcore/WebApiClient) An open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
 * [Apizr](https://github.com/Respawnsive/Apizr) Refit based web api client, but resilient (retry, connectivity, cache, auth, log, priority, etc...).
 * [Fluxzy.Core](https://github.com/haga-rak/fluxzy.core) - A fully managed and fully streamed Man-On-The-Middle library to intercept, record and alter HTTP/1.1, H2, websocket traffic over plain or secure channels.
+* [NotoriousClient](https://github.com/Notorious-Coding/Notorious-Client) – Strongly-typed, extensible HTTP client with fluent request builder, streaming & multipart. Built on .NET's HttpRequestMessage.
 
 ## IDE
 * [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) - A full-featured IDE
