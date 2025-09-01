@@ -154,6 +154,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Ocelot](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
 * [CommandQuery](https://github.com/hlaueriksson/CommandQuery) - Command Query Separation for 🌐ASP.NET Core ⚡AWS Lambda ⚡Azure Functions ⚡Google Cloud Functions 🌐ASP.NET Web API 2
 * [Population.NET](https://github.com/Authentic199/Population.NET) - A .NET library allows clients to specify the exact fields they need, reducing unnecessary data transfer by avoiding the retrieval of all fields by default.
+* [Apitally](https://github.com/apitally/apitally-dotnet) - Simple, privacy-focused API monitoring, analytics and request logging for ASP.NET Core.
 
 ## Application Frameworks
 
