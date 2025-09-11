@@ -1110,6 +1110,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## Windows Services
 
+* [Servy](https://github.com/aelassas/servy) - A tool to turn any app into a native Windows service with powerful configuration and management options (a modern alternative to NSSM and WinSW).
 
 ## WPF
 
