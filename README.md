@@ -887,6 +887,7 @@ metadata in media files, including video, audio, and photo formats
 ## Query Builders
 * [SqlKata](https://sqlkata.com) - Elegant SQL query builder, that supports complex queries, joins, sub queries, nested where conditions, vendor engine targets and more
 * [InterpolatedSql](https://github.com/Drizin/InterpolatedSql) - SQL Builder using String Interpolation and Fluent API
+* [Unleasharp.DB.Base](https://github.com/TraberSoftware/Unleasharp.DB.Base) - Unleasharp.DB.Base is a lightweight library for fluent, type-safe, and database-agnostic query building with multi-engine support.
 
 ## Queue
 * [CAP](https://github.com/dotnetcore/CAP) - An EventBus with local persistent message functionality for RabbitMQ or Kafka. -  **NOTE**: This is not affiliated with Microsoft or .NET
