@@ -1040,6 +1040,7 @@ metadata in media files, including video, audio, and photo formats
 * [Fiddler](https://www.telerik.com/fiddler) -  The free web debugging proxy for any browser, system or platform **[Proprietary]** **[$]** **[Free Trial available]**
 * [Open Live Writer](https://github.com/OpenLiveWriter/OpenLiveWriter) - Blog writer which integrated with WordPress, Blogger, et. al. Open Live Writer makes it easy to write, preview, and post to your blog.
 * [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
+* [SnapX](https://github.com/SnapXL/SnapX) - Formerly known as ShareX Linux, SnapX is a sleek, cross-platform hard fork of ShareX using Avalonia and FluentAvalonia, designed to bring ShareX's power to every desktop. 
 * [Opserver](https://github.com/Opserver/Opserver) - Stack Exchange's Monitoring System
 * [CatLight](https://catlight.io) - Build status notifications for TFS/Jenkins/Travis/Appveyor. Cross-platform desktop app based on .NET Core and Electron. **[Free version available][Proprietary]**
 * [Mockaco](https://github.com/natenho/Mockaco/) - API mock server with fast setup, useful to simulate HTTP responses, leveraging ASP.NET Core features, built-in fake data generation and C# scripting engine powered by Roslyn scripting API.
