@@ -307,6 +307,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Bencher](https://bencher.dev/) - Suite of continuous benchmarking tools designed to catch performance regressions in CI.
 * [NsDepCop](https://github.com/realvizu/NsDepCop) - Static code analysis tool to enforce namespace dependency rules in C# projects.
 * [WebBen](https://github.com/omerfarukz/WebBen) - Is a tool for benchmarking your Hypertext Transfer Protocol (HTTP) server.
+* [PosInformatique.Moq.Analyzers](https://github.com/PosInformatique/PosInformatique.Moq.Analyzers) - A set of code analyzers to verify syntax and code design when writing the unit tests using the [Moq](https://github.com/devlooped/moq) library.
 
 ## Code Snippets
 
