@@ -189,6 +189,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## Artificial Intelligence
 * [LLamaSharp](https://github.com/SciSharp/LLamaSharp) - C#/.NET Binding of llama.cpp, run LLaMA/GPT model using C# without having to compile lama.cpp.
 * [LlmTornado](https://github.com/lofcz/LlmTornado) - One .NET library to consume OpenAI, Anthropic, Cohere, Google, Azure, Groq, and self-hosed APIs.
+* [LM-Kit.NET](https://lm-kit.com) - On-device AI agent orchestration and LLM integration for C# and VB.NET applications. Supports text generation, RAG, structured data extraction, sentiment analysis, translation, and more. **[$][Free Community License]**
+
 
 ## Assembly Manipulation
 
