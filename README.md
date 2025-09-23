@@ -335,7 +335,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Iron Python](https://github.com/IronLanguages/ironpython3) - A Python 3 implementation that is integrated with the .NET framework.
 * [IKVM](https://ikvm.org) - A Java Virtual Machine and Bytecode-to-IL converter for .NET. Execute compiled Java code (bytecode) on .NET
 * [Lib.Harmony](https://github.com/pardeike/Harmony) - A library for patching, replacing, and decorating .NET and Mono methods during runtime, mainly used for game modding.  
-* [dotnet-repl](https://github.com/jonsequitur/dotnet-repl) - A polyglot REPL built on .NET Interactive 
+* [dotnet-repl](https://github.com/jonsequitur/dotnet-repl) - A polyglot REPL built on .NET Interactive
+* [HydraScript](https://github.com/Stepami/hydrascript/) - TypeScript & Go inspired small interpreted programming language written in C#. The interpreter build with DDD principles and Clean Architecture
 
 ## Compression
 
