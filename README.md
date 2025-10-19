@@ -798,6 +798,7 @@ metadata in media files, including video, audio, and photo formats
 ## Object to object mapping
 
 * [AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET. https://automapper.org
+* [Facet](https://www.github.com/Tim-Maes/Facet) - A source generator for DTO's, projections and mappings.
 * [Mapperly](https://github.com/riok/mapperly) - A .NET source generator for generating object mappings. No runtime reflection.
 * [Mapster](https://github.com/MapsterMapper/Mapster) - A high performance object mapper in .net
 
