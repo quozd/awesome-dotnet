@@ -129,6 +129,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Web Servers](#web-servers)
   * [WebSocket](#websocket)
   * [Windows Services](#windows-services)
+  * [Workflow Automations](#workflow-automations)
   * [WPF](#wpf)
   * [Parser Library](#parser-library)
   * [Source Generator](#source-generator)
@@ -1113,6 +1114,10 @@ metadata in media files, including video, audio, and photo formats
 ## Windows Services
 
 * [Servy](https://github.com/aelassas/servy) - A tool to turn any app into a native Windows service with powerful configuration and management options (a modern alternative to NSSM and WinSW).
+
+## Workflow Automations
+
+* [FlowSynx](https://github.com/flowsynx/flowsynx) - Seamless Workflow Automation - Declarative, Extensible, and Fully Controllable
 
 ## WPF
 
