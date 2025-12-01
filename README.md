@@ -280,6 +280,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Power Args](https://github.com/adamabdelhamed/PowerArgs) - PowerArgs converts command-line arguments into .NET objects that are easy to program against. It also provides a ton of optional capabilities such as argument validation, auto generated usage, tab completion, and plenty of extensibility
 * [SharpNetSH](https://github.com/rpetz/SharpNetSH) - A simple netsh library for C#.
 * [spectre.console](https://github.com/spectresystems/spectre.console) - A library that makes it easier to create beautiful console applications.
+* [Argx](https://github.com/mihaicaragheorghe/argx) - A simple and modern command-line argument parsing library for .NET.
 
 ## CLR
 
