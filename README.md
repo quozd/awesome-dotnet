@@ -358,7 +358,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Pkcs11Interop](https://github.com/Pkcs11Interop/Pkcs11Interop) - Managed .NET wrapper for unmanaged PKCS#11 libraries that provide access to the cryptographic hardware
 * [SecurityDriven.Inferno](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET crypto library. Professionally audited.
 * [CryptoNet](https://github.com/maythamfahmi/CryptoNet) - .NET simple crypto library. Native c#.
-* [MOSS](https://github.com/mosscomputing/moss-dotnet) - Cryptographic signing for AI agents using ML-DSA-44 post-quantum signatures. Creates tamper-proof audit trails for attribution, compliance, and policy enforcement.
+* [MOSS](https://www.nuget.org/packages/Moss.Sdk) - Cryptographic signing for AI agents using ML-DSA-44 post-quantum signatures. Creates tamper-proof audit trails for attribution, compliance, and policy enforcement.
 
 ## Cloud Storage
 
