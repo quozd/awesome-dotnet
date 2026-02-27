@@ -154,7 +154,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Ocelot](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
 * [CommandQuery](https://github.com/hlaueriksson/CommandQuery) - Command Query Separation for 🌐ASP.NET Core ⚡AWS Lambda ⚡Azure Functions ⚡Google Cloud Functions 🌐ASP.NET Web API 2
 * [Population.NET](https://github.com/Authentic199/Population.NET) - A .NET library allows clients to specify the exact fields they need, reducing unnecessary data transfer by avoiding the retrieval of all fields by default.
-* [Wissance.WebApiTookit](https://github.com/Wissance/WebApiToolkit) - A set of libraries and classes that simplify building REST APIs and gRPC services, reducing the amount of code to be written with even one line of code for a fully functional REST controller.
+* [Wissance.WebApiToolkit](https://github.com/Wissance/WebApiToolkit) - A set of libraries and classes that simplify building REST APIs and gRPC services, reducing the amount of code to be written with even one line of code for a fully functional REST controller.
 
 ## Application Frameworks
 
@@ -197,7 +197,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Mono.Cecil](https://github.com/jbevain/cecil) - Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.
 
 ## Assets
-* [Bundle Transformer](https://github.com/Taritsyn/BundleTransformer) - Modular extension for [Microsoft ASP.NET Web Optimization Framework](https://www.nuget.org/packages/Microsoft.AspNet.Web.Optimization). Its modules supports LESS, Sass, CoffeeScript, TypeScript, Mustache, Handlebars, Autoprefixer along with a bunch of different JS and CSS minifiers.
+* [Bundle Transformer](https://github.com/Taritsyn/BundleTransformer) - Modular extension for [Microsoft ASP.NET Web Optimization Framework](https://www.nuget.org/packages/Microsoft.AspNet.Web.Optimization). Its modules support LESS, Sass, CoffeeScript, TypeScript, Mustache, Handlebars, Autoprefixer along with a bunch of different JS and CSS minifiers.
 
 ## Authentication and Authorization
 
@@ -288,9 +288,9 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## CMS
 
 * [FluentCMS](https://github.com/fluentcms/FluentCMS) - FluentCMS is open source AI Driven ASP.NET Core Blazor Content Management System (CMS)
-* [Composite C1](https://github.com/Orckestra/C1-CMS-Foundation) - A web CMS that focus on UX and adaptability
-* [mojoPortal ](https://github.com/i7media/mojoportal) - MojoPortal is an extensible, cross database, mobile friendly, web content management system (CMS) and web application framework written in C# ASP.NET
-* [Orchard ](https://github.com/OrchardCMS/Orchard) - Free, open source, community-focused project aimed at delivering applications and reusable components on the ASP.NET platform
+* [Composite C1](https://github.com/Orckestra/C1-CMS-Foundation) - A web CMS that focuses on UX and adaptability
+* [mojoPortal](https://github.com/i7media/mojoportal) - MojoPortal is an extensible, cross database, mobile friendly, web content management system (CMS) and web application framework written in C# ASP.NET
+* [Orchard](https://github.com/OrchardCMS/Orchard) - Free, open source, community-focused project aimed at delivering applications and reusable components on the ASP.NET platform
 * [Piranha CMS](https://github.com/PiranhaCMS/piranha.core) - Piranha is the fun, fast and lightweight .NET framework for developing cms-based web applications with an extra bite. It's built on ASP.NET MVC and Web Pages and is fully compatible with both Visual Studio and WebMatrix. https://piranhacms.org
 * [Umbraco](https://github.com/umbraco/Umbraco-CMS) - Umbraco is a free open source Content Management System built on the ASP.NET platform
 * [DotNetNuke](https://www.dnnsoftware.com/community/download) - DNN Platform is our free, open source web CMS and the foundation of every professional DNN solution. Over 750,000 organizations worldwide have built websites powered by the DNN Platform.
@@ -388,7 +388,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Npgsql](https://github.com/npgsql/Npgsql) - .NET data provider for PostgreSQL
 * [MongoDB](https://github.com/mongodb/mongo-csharp-driver) - Official MongoDB C# driver
 * [ServiceStack Redis](https://github.com/ServiceStack/ServiceStack) - .NET's leading C# Redis client
-* [StackExchange Redis](https://github.com/ServiceStack/ServiceStack) - General purpose Redis client from StackExchange
+* [StackExchange Redis](https://github.com/StackExchange/StackExchange.Redis) - General purpose Redis client from StackExchange
 * [Cassandra](https://github.com/datastax/csharp-driver) - DataStax .NET driver for Apache Cassandra
 * [Couchbase](https://github.com/couchbase/couchbase-net-client) - Official Couchbase .NET client library, based on the Enyim memcached client
 * [Firebird.NET](https://sourceforge.net/projects/firebird/) - The .NET Data provider is written in C# and provides a high-performance, native implementation of the Firebird API
@@ -836,7 +836,7 @@ metadata in media files, including video, audio, and photo formats
 * [Dapper.FastCRUD](https://github.com/MoonStorm/Dapper.FastCRUD) - The fastest micro-ORM extension for Dapper
 * [DapperQueryBuilder](https://github.com/Drizin/DapperQueryBuilder) - Dapper Query Builder using String Interpolation and Fluent API
 * [SqlSugar](https://github.com/DotNetNext/SqlSugar) - Another ORM library supports many RDBMS including MySql, SqlServer, Sqlite, Oracle, Postgresql -  **NOTE**: This is not affiliated with Microsoft or .NET
-* [FreeSql](https:/github.com/dotnetcore/FreeSql) - a convenient ORM in dotnet, supports MySql, SqlServer, PostgreSQL, Oracle, Sqlite, Firebird, 达梦, 人大金仓, 神舟通用, 翰高 and Access. -  **NOTE**: This is not affiliated with Microsoft or .NET
+* [FreeSql](https://github.com/dotnetcore/FreeSql) - a convenient ORM in dotnet, supports MySql, SqlServer, PostgreSQL, Oracle, Sqlite, Firebird, 达梦, 人大金仓, 神舟通用, 翰高 and Access. -  **NOTE**: This is not affiliated with Microsoft or .NET
 * [NHibernate](https://github.com/nhibernate) - NHibernate Object Relational Mapper
 * [Fluent NHibernate](https://github.com/nhibernate/fluent-nhibernate) - Fluent, XML-less, compile safe, automated, convention-based mappings for NHibernate.
 * [FluentMigrator](https://github.com/fluentmigrator/fluentmigrator) - Fluent Migrations framework for .net
@@ -964,7 +964,7 @@ metadata in media files, including video, audio, and photo formats
 * [CsvExport](https://github.com/jitbit/CsvExport) - Very simple & lightweight CSV exporter, Excel friendly, escapes text & quotes etc.
 * [Protobuf.NET](https://github.com/protobuf-net/protobuf-net) - Protocol buffers is the name of the binary serialization format used by Google for much of their data communications
 * [Json.NET](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET
-* [ServiceStack.Text]https://github.com/ServiceStack/ServiceStack/tree/main/ServiceStack.Text) - JSON, JSV and CSV Text Serializers used in servicestack.net
+* [ServiceStack.Text](https://github.com/ServiceStack/ServiceStack/tree/main/ServiceStack.Text) - JSON, JSV and CSV Text Serializers used in servicestack.net
 * [Msgpack-Cli](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure
 * [FlatSharp](https://github.com/jamescourtney/FlatSharp) - Fast, idiomatic FlatBuffers implementation. Use .fbs files or attributes.
 * [F# Data](https://fsprojects.github.io/FSharp.Data/) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
