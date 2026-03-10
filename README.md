@@ -278,6 +278,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Docopt](https://github.com/docopt/docopt.net) - Command-line interface description language that will make you smile.
 * [Gui.cs](https://github.com/migueldeicaza/gui.cs) - Terminal UI toolkit for .NET.
 * [Power Args](https://github.com/adamabdelhamed/PowerArgs) - PowerArgs converts command-line arguments into .NET objects that are easy to program against. It also provides a ton of optional capabilities such as argument validation, auto generated usage, tab completion, and plenty of extensibility
+* [SharpConsoleUI](https://github.com/nickprotop/ConsoleEx) - Console windowing system with overlapping windows, drag/resize/minimize/maximize, 30+ controls, embedded terminal emulator, and async per-window threads.
 * [SharpNetSH](https://github.com/rpetz/SharpNetSH) - A simple netsh library for C#.
 * [spectre.console](https://github.com/spectresystems/spectre.console) - A library that makes it easier to create beautiful console applications.
 
