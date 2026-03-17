@@ -607,6 +607,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 * [ImageWizard](https://github.com/usercode/ImageWizard) - Image processing webservice based on ASP.NET Core and ImageSharp / SkiaSharp / SvgNet / DocNET
 * [ImageResizer](https://imageresizing.net/) - Add commands to image URLs to get altered versions in milliseconds. Resizing, editing etc of images in real-time.
+* [ImageMinify](https://github.com/Moresl/ImageMinify) - Lightweight batch image compression tool supporting JPEG/PNG/WebP, built with WPF + ImageSharp.
 * [ImageSharp](https://github.com/SixLabors/ImageSharp) - Fully managed cross-platform library for processing of image files.
 * [MagicScaler](https://github.com/saucecontrol/PhotoSauce) - High-performance image processing pipeline for .NET, focused on making complex imaging tasks simple.
 * [MetadataExtractor](https://github.com/drewnoakes/metadata-extractor-dotnet) - Extracts Exif, IPTC, XMP, ICC and other metadata from image files.
