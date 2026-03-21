@@ -26,6 +26,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Application Frameworks](#application-frameworks)
   * [Application Templates](#application-templates)
   * [Artificial Intelligence](#artificial-intelligence)
+  * [Aspire](#aspire)
   * [Assembly Manipulation](#assembly-manipulation)
   * [Assets](#assets)
   * [Authentication and Authorization](#authentication-and-authorization)
@@ -189,6 +190,9 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## Artificial Intelligence
 * [LLamaSharp](https://github.com/SciSharp/LLamaSharp) - C#/.NET Binding of llama.cpp, run LLaMA/GPT model using C# without having to compile lama.cpp.
 * [LlmTornado](https://github.com/lofcz/LlmTornado) - One .NET library to consume OpenAI, Anthropic, Cohere, Google, Azure, Groq, and self-hosed APIs.
+
+## Aspire
+* [MVFC.Aspire.Helpers](https://github.com/Marcus-V-Freitas/MVFC.Aspire.Helpers) - Collection of .NET Aspire hosting integrations and helpers for GCP PubSub, Cloud Storage, Gotenberg, Keycloak, Mailpit, MongoDB, RabbitMQ, Redis and WireMock.
 
 ## Assembly Manipulation
 
