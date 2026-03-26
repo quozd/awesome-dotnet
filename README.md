@@ -850,6 +850,10 @@ metadata in media files, including video, audio, and photo formats
 * [MongoFramework](https://github.com/TurnerSoftware/MongoFramework) - An "Entity Framework"-like interface for MongoDB
 * [Friflo.Json.Fliox](https://github.com/friflo/Friflo.Json.Fliox) - High performane ORM for Sqlite, MySql, SqlServer, PostgreSQL & NoSQL. Provides server with REST, GraphQL & WebSocket / PubSub API.
 
+## Payroll
+
+* [PayrollEngine](https://github.com/Payroll-Engine/PayrollEngine) - Open-source framework for building multi-country, multi-industry payroll applications. Business rules are defined in configurable regulation layers, embedded via REST API, .NET Client SDK, or Docker containers. MIT license.
+
 ## Package Management
 
 * [NuGet](https://www.nuget.org/) - The .NET package manager
