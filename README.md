@@ -852,6 +852,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## Package Management
 
+* [ReleaseRun NuGet Package Health](https://releaserun.com/tools/nuget-package-health/) - A free tool that checks any NuGet package for deprecation status, latest version, and active maintenance with an instant A–F health grade.
 * [NuGet](https://www.nuget.org/) - The .NET package manager
 * [Cloudsmith](https://cloudsmith.com/nuget-feed/) - A fully managed package management SaaS, with support for NuGet, Npm, Docker and much more. **[Free for Public/OSS]** **[$]**
 * [MyGet](https://www.myget.org/) - Hosted Package Repository for NuGet, NPM, Bower and VSIX. Also provides CI as-a-Service. **[$]**
