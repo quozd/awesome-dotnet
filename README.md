@@ -633,6 +633,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 * [MessageFormat.NET](https://github.com/jeffijoe/MessageFormat.NET) - ICU MessageFormat implementation in .NET lets you write contextual UI messages (PCL library)
 * [ResX Resource Manager](https://github.com/dotnet/ResXResourceManager) - The most popular free tool to localize all kind of applications with resx-based resources.
+* [Tlumach](https://github.com/Allied-Bits-Ltd/tlumach-net) - Translation and localization for all kinds of .NET applications with UI framework integration (WPF, UWP, WinUI, MAUI, and Avalonia), support for multiple concurrent languages/locales and loading of strings from JSON, Arb (JSON with additional features, used in Dart/Flutter), simple INI, TOML, CSV and TSV, and .NET ResX files.
 
 ## Interoperability
 
@@ -715,6 +716,7 @@ the Python world. It uses the Pyro protocol to call methods on remote objects.
 * [GeometRi](https://github.com/RiSearcher/GeometRi.CSharp) - Simple and lightweight computational geometry library for .Net
 * [Rationals](https://github.com/tompazourek/Rationals) - Implementation of rational number arithmetic for .NET with arbitrary precision.
 * [MKL.NET](https://github.com/AnthonyLloyd/MKL.NET) - A simple cross platform .NET API for Intel MKL.
+* [NCalc](https://github.com/Allied-Bits-Ltd/ncalc) - A fast and lightweight expression evaluator library, designed for flexibility and high performance. NCalc by Allied Bits supports support for functions in expressions, loops and conditions, and much more.
 * [AngouriMath](https://github.com/asc-community/AngouriMath) - An open-source symbolic/computer algebra library, made primarily for C# and F#. It covers a range of features and might be considered as an alternative to SymPy in .NET.
 * [WPF-Math](https://github.com/ForNeVeR/wpf-math) - a .NET library for rendering mathematical formulae using the LaTeX typesetting style, for the WPF framework
 * [Jodo.Numerics](https://github.com/JosephJShort/Jodo/#numerics) - Provides extra number types (such as fixed-point and non-overflowing numbers) with full support for operators, math, string-parsing etc. Extensively tested, and cross-platform compatible.
