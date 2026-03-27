@@ -633,6 +633,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 * [MessageFormat.NET](https://github.com/jeffijoe/MessageFormat.NET) - ICU MessageFormat implementation in .NET lets you write contextual UI messages (PCL library)
 * [ResX Resource Manager](https://github.com/dotnet/ResXResourceManager) - The most popular free tool to localize all kind of applications with resx-based resources.
+* [Rh.MessageFormat](https://github.com/Rheopyrin/Rh.MessageFormat) - High-performance ICU MessageFormat implementation with full CLDR support for 200+ locales, AOT-compatible, targeting .NET 8+.
 
 ## Interoperability
 
