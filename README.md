@@ -463,6 +463,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 * [Cinchoo ETL](https://github.com/Cinchoo/ChoETL) - ETL Framework for .NET (Read / Write CSV, Flat, Xml, JSON, Key-Value formatted files)
 * [EtlBox.Classic](https://github.com/rpsft/etlbox) - Lightweight ETL (extract, transform, load) library and data integration toolbox for .NET built on top of Microsoft TPL.Dataflow library.
+* [NBatch](https://github.com/tenzinkabsang/NBatch) - A lightweight, Spring Batch-inspired batch processing framework with chunk-oriented pipelines, skip policies, restart-from-failure, and DI/hosted service integration
 
 ## Event aggregator and messenger
 
