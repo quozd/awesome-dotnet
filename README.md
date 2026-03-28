@@ -1038,6 +1038,7 @@ metadata in media files, including video, audio, and photo formats
 * [NotoriousTest](https://github.com/Notorious-Coding/Notorious-Test) - A lightweight .NET framework that makes integration tests fully isolated by orchestrating reusable infrastructures and environments, auto-resetting between tests. TestContainers and SQL Server built-in support. Based on XUnit.
 ## Tools
 
+* [debug-mcp](https://github.com/jkolo/debug-mcp) - MCP server exposing .NET debugging as 34 AI-accessible tools via ICorDebug APIs — breakpoints, stepping, inspection, exception autopsy, and code analysis.
 * [Downloader](https://github.com/bezzad/Downloader) - Fast and reliable multipart downloader with asynchronous progress events for .NET applications.
 * [Fiddler](https://www.telerik.com/fiddler) -  The free web debugging proxy for any browser, system or platform **[Proprietary]** **[$]** **[Free Trial available]**
 * [Open Live Writer](https://github.com/OpenLiveWriter/OpenLiveWriter) - Blog writer which integrated with WordPress, Blogger, et. al. Open Live Writer makes it easy to write, preview, and post to your blog.
