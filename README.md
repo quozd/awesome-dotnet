@@ -800,6 +800,7 @@ metadata in media files, including video, audio, and photo formats
 * [AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET. https://automapper.org
 * [Mapperly](https://github.com/riok/mapperly) - A .NET source generator for generating object mappings. No runtime reflection.
 * [Mapster](https://github.com/MapsterMapper/Mapster) - A high performance object mapper in .net
+* [ZeroReflection](https://github.com/younos1986/ZeroReflection) - ZeroReflection is a high-performance .NET source generator for object mapping. Great for AOT
 
 ## Office
 
