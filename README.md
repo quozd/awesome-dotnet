@@ -94,6 +94,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [MQTT](#mqtt)
   * [MVVM](#mvvm)
   * [Networking](#networking)
+  * [Obfuscation](#obfuscation)
   * [Object to object mapping](#object-to-object-mapping)
   * [Office](#office)
   * [OpenAI](#openai)
@@ -225,6 +226,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Megabit.Blazorise](https://github.com/Megabit/Blazorise) - Blazorise is a component library built on top of Blazor and CSS frameworks like Bootstrap, Bulma and Material. Very easy to use.
 * [blazork8s](https://github.com/weibaohui/blazork8s) - k8s management ui in blazor and .NET Core.
 * [MudBlazor](https://github.com/MudBlazor/MudBlazor) - A Material Design framework for Blazor, allowing .NET developers to quickly build web apps, with extensive documentation and examples.
+* [BlazorWASMPackager](https://github.com/dcsoft-yyf/BlazorWASMPackager) - A tool to compress all Blazor WASM files (.dll,.js,.json,.wasm) into a single JS file.and let Blazor WASM software support cross-domain calls.
 
 ## Blockchain
 
@@ -794,6 +796,10 @@ metadata in media files, including video, audio, and photo formats
 
 * [NetCoreServer](https://github.com/chronoxor/NetCoreServer) - Ultra fast and low latency asynchronous socket server & client C# .NET Core library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution (NETStandard).
 * [SharpPcap](https://github.com/chmorgan/sharppcap) - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets from live and file based devices.
+
+## Obfuscation
+
+* [JIEJIE.NET](https://github.com/dcsoft-yyf/JIEJIE.NET) - Open-source .NET obfuscator with rename, string encryption,resx encryption, control flow obfuscation, anti-ILdasm, and full Blazor WASM support.
 
 ## Object to object mapping
 
