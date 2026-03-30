@@ -732,6 +732,7 @@ metadata in media files, including video, audio, and photo formats
 ## Metrics
 
 * [Foundatio](https://github.com/FoundatioFx/Foundatio#metrics) - A common interface with in-memory, Redis, StatsD, and Metrics.NET implementations.
+* [NetEvolve.HealthChecks](https://github.com/dailydevops/healthchecks) - Provides a wide variety of health checks for .NET applications, with support for over 80 existing services and extensible custom checks.
 
 ## Micro Framework
 
