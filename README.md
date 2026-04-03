@@ -393,6 +393,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Couchbase](https://github.com/couchbase/couchbase-net-client) - Official Couchbase .NET client library, based on the Enyim memcached client
 * [Firebird.NET](https://sourceforge.net/projects/firebird/) - The .NET Data provider is written in C# and provides a high-performance, native implementation of the Firebird API
 * [Rqlite-dotnet](https://github.com/rqlite/rqlite-dotnet) - .NET client for rqlite (distributed relational DB based on SQLite)
+* [Fyper](https://github.com/Neftedollar/fyper) - Type-safe Cypher query builder for F#. Computation expressions for Neo4j and Apache AGE graph databases. Zero dependencies, parameterized by default.
 
 ## Datetime
 
