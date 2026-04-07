@@ -189,6 +189,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## Artificial Intelligence
 * [LLamaSharp](https://github.com/SciSharp/LLamaSharp) - C#/.NET Binding of llama.cpp, run LLaMA/GPT model using C# without having to compile lama.cpp.
 * [LlmTornado](https://github.com/lofcz/LlmTornado) - One .NET library to consume OpenAI, Anthropic, Cohere, Google, Azure, Groq, and self-hosed APIs.
+* [Lorex](https://github.com/alirezanet/Lorex) - A Git-native skill manager CLI for AI coding agents and teams (Claude Code, GitHub Copilot, Gemini, Cursor, etc.).
 
 ## Assembly Manipulation
 
