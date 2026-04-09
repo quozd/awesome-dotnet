@@ -517,6 +517,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 * [Git Credential Manager](https://github.com/git-ecosystem/git-credential-manager) - Helps solving issues of credentials
 
+- [Gitstar](https://gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=quozd_awesome-dotnet) - Follow GitHub developers, see their activity feed, and discover trending repos in your stack.
 ## Graphics
 
 * [Oxyplot](https://github.com/oxyplot/) - OxyPlot is a cross-platform plotting library for .NET
