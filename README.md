@@ -798,6 +798,7 @@ metadata in media files, including video, audio, and photo formats
 ## Object to object mapping
 
 * [AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET. https://automapper.org
+* [ForgeMap](https://github.com/superyyrrzz/ForgeMap) - A Roslyn incremental source generator for compile-time object mapping. Zero reflection, MIT licensed.
 * [Mapperly](https://github.com/riok/mapperly) - A .NET source generator for generating object mappings. No runtime reflection.
 * [Mapster](https://github.com/MapsterMapper/Mapster) - A high performance object mapper in .net
 
