@@ -305,6 +305,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [StyleCop](https://github.com/StyleCop) - StyleCop analyzes C# source code to enforce a set of style and consistency rules
 * [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
 * [Bencher](https://bencher.dev/) - Suite of continuous benchmarking tools designed to catch performance regressions in CI.
+* [GauntletCI](https://gauntletci.com) - Pre-commit change-risk detector for C# and .NET. Analyzes only the changed diff to catch behavioral regressions that pass tests and code review, with no cloud connection required. **[[Free](https://github.com/EricCogen/GauntletCI)]** **[$]**
 * [NsDepCop](https://github.com/realvizu/NsDepCop) - Static code analysis tool to enforce namespace dependency rules in C# projects.
 * [WebBen](https://github.com/omerfarukz/WebBen) - Is a tool for benchmarking your Hypertext Transfer Protocol (HTTP) server.
 
