@@ -439,6 +439,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [DocFX](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects
 * [DocNet](https://github.com/FransBouma/DocNet) - Your friendly static documentation generator, using markdown files to build the content.
 * [HubDocs](https://github.com/mberrishdev/HubDocs) - Swagger-like UI tool like Swagger, but for SignalR hubs — auto-discover your hubs, explore methods, invoke calls, and preview live client messages..
+* [TestTrackingDiagrams](https://github.com/lemonlion/TestTrackingDiagrams) - Automatically generates interactive HTML reports with PlantUML sequence diagrams, component diagrams, Activity Diagrams, and timeline visualizations from your component test HTTP traffic (real or faked) and SUT telemetry.
 
 ## E-Commerce and Payments
 
