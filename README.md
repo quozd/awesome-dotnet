@@ -953,6 +953,7 @@ metadata in media files, including video, audio, and photo formats
 * [Elasticsearch .NET](https://github.com/elastic/elasticsearch-net) - Elasticsearch.Net & NEST
 * [SolrNet](https://github.com/SolrNet/SolrNet) - Solr client for .NET
 * [Lucene.net](https://lucenenet.apache.org/) - Lucene.Net is a port of the Lucene search engine library, written in C# and targeted at .NET runtime users
+* [LeanLucene](https://github.com/jordansrowles/leanlucene) - A modern seach engine using modern C#, targeting .NET 10+. Inspired by Apache Lucene.
 
 **Embedded Search Libraries** - like lucene, but easier to use.  
   * [Lunr-Core](https://github.com/bleroy/lunr-core) - Lunr-core is a small, full text search library for use in small applications. It's a .NET port of LUNR.js. 
