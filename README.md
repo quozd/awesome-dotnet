@@ -708,6 +708,7 @@ the Python world. It uses the Pyro protocol to call methods on remote objects.
 
 ## Mathematics
 
+* [ILNumerics](https://ilnumerics.net) - High-performance numerical computing, visualization, and algorithm acceleration platform for .NET, featuring multidimensional arrays, advanced charting, GPU/CPU acceleration, Visual Studio debugging tools, and MATLAB-/NumPy-compatible numerical computing APIs. **[Proprietary]** and **[Free Edition]**
 * [MathFlow](https://github.com/Nonanti/MathFlow) - Comprehensive math expression library with symbolic computation support including differentiation, simplification, and equation solving.
 * [MathNet](https://www.mathdotnet.com/) - Math.NET is an open source initiative to build and maintain toolkits covering fundamental mathematics, targeting advanced but also every day needs of .NET developers
 * [Microsoft Automatic Graph Layout](https://github.com/Microsoft/automatic-graph-layout) - A set of tools for graph layout and viewing.
