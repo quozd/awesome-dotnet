@@ -708,6 +708,7 @@ the Python world. It uses the Pyro protocol to call methods on remote objects.
 
 ## Mathematics
 
+* [ILNumerics.ONAL](https://github.com/ilnumerics/ILNumerics.ONAL) - Open-source numerical array language for .NET with MATLAB-/NumPy-compatible semantics, multidimensional arrays, advanced indexing, complex numbers, FFTs, and linear algebra as native or managed LAPACK transpilation.
 * [MathFlow](https://github.com/Nonanti/MathFlow) - Comprehensive math expression library with symbolic computation support including differentiation, simplification, and equation solving.
 * [MathNet](https://www.mathdotnet.com/) - Math.NET is an open source initiative to build and maintain toolkits covering fundamental mathematics, targeting advanced but also every day needs of .NET developers
 * [Microsoft Automatic Graph Layout](https://github.com/Microsoft/automatic-graph-layout) - A set of tools for graph layout and viewing.
