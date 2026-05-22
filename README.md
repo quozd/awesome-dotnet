@@ -1156,6 +1156,7 @@ metadata in media files, including video, audio, and photo formats
 * [Awesome Microservices .NET Core](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core.
 * [dotnet-console-games](https://github.com/dotnet/dotnet-console-games) - Game examples implemented in .NET console applications.
 * [extra-awesome-dotnet](https://github.com/ara3d/extra-awesome-dotnet) - Sorted lists of awesome .NET repositories, with counts of stars, issues, and forks! 
+* [Awesome .NET Testing](https://github.com/ilya-chumakov/awesome-dotnet-testing) - A curated collection of .NET testing, coverage, and code quality tooling.
 
 # Resources
 
