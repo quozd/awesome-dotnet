@@ -1163,3 +1163,4 @@ metadata in media files, including video, audio, and photo formats
 * [NuGet Trends](https://nugettrends.com) - Check out NuGet packages adoption and what's trending on NuGet.
 * [Weekly C# Digest](https://csharpdigest.net/) - Weekly email newsletter with manually curated top 5 links from the .NET community.
 * [ASP.NET Core Developer Roadmap](https://roadmap.sh/aspnet-core) - A complete guide to become a ASP.NET Developer.
+* [.NET Web API Zero to Hero](https://github.com/codewithmukesh/dotnet-webapi-zero-to-hero-course) - Free course building a production-ready ASP.NET Core Web API on .NET 10, from REST basics to Clean Architecture, CQRS, Docker, CI/CD and testing.
