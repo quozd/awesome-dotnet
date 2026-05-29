@@ -470,6 +470,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET
 * [EventFlow](https://github.com/eventflow/EventFlow) - EventFlow is an Async/await first CQRS and Event Sourcing DDD framework for .NET
 * [LiteBus](https://github.com/litenova/LiteBus) -An easy-to-use and ambitious in-process mediator providing the foundation to implement Command Query Separation (CQS)
+* [Stratara](https://github.com/yesbert/Stratara) - CQRS and Event Sourcing framework for .NET with tamper-evident event streams, tenant-aware encryption, and an integrated mediator, outbox, sagas and projections
 
 ## Exceptions
 * [Exceptionless](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
