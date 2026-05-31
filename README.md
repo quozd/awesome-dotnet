@@ -344,6 +344,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Configuration
 * [AgileConfig](https://github.com/dotnetcore/AgileConfig) - AgileConfig is a lightweight configuration center that helps you manage all your application's configurations through website. -  **NOTE**: This is not affiliated with Microsoft or .NET
+* [EnvironmentConfigurator](https://github.com/sametbrr/EnvironmentConfigurator) - ASP.NET Core package for single-call environment-aware config loading with auto-scaffolded publish profiles and appsettings files.
 
 ## Continuous Integration
 * [TeamCity](https://www.jetbrains.com/teamcity/) - Ready to work, extensible and developer-friendly build server — out of the box **[$]**
@@ -654,6 +655,7 @@ the Python world. It uses the Pyro protocol to call methods on remote objects.
 * [Scrutor](https://github.com/khellang/Scrutor) - Assembly scanning extensions for Microsoft.Extensions.DependencyInjection.
 * [VS MEF](https://github.com/Microsoft/vs-mef) - Managed Extensibility Framework (MEF) implementation used by Visual Studio.
 * [Stashbox](https://github.com/z4kn4fein/stashbox) - A lightweight, portable dependency injection framework for .NET based solutions.
+* [AssemblyServiceRegistrar](https://github.com/sametbrr/AssemblyServiceRegistrar) - Zero-boilerplate DI registration for .NET — auto-registers services via marker interfaces and attributes, all lifetimes and open generics supported.
 
 ## JavaScript Engines
 
