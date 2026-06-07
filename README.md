@@ -1036,6 +1036,7 @@ metadata in media files, including video, audio, and photo formats
 * [Verify](https://github.com/VerifyTests/Verify) - Verification tool to enable simple approval of complex models and documents.
 * [CsCheck](https://github.com/AnthonyLloyd/CsCheck) - Random testing library for C#. Including concurrency, causal profiling, regression and performance testing.
 * [NotoriousTest](https://github.com/Notorious-Coding/Notorious-Test) - A lightweight .NET framework that makes integration tests fully isolated by orchestrating reusable infrastructures and environments, auto-resetting between tests. TestContainers and SQL Server built-in support. Based on XUnit.
+* [ConfIT](https://github.com/techygarg/ConfIT) - ConfIT is a .NET library for declarative API integration testing. Define tests in JSON or YAML — no boilerplate for the common case. ConfIT handles request execution, mock setup, response matching, variable extraction, and test filtering; you write the test definitions.
 ## Tools
 
 * [Downloader](https://github.com/bezzad/Downloader) - Fast and reliable multipart downloader with asynchronous progress events for .NET applications.
