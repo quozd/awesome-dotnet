@@ -559,6 +559,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Modern UI for WPF - MUI](https://github.com/firstfloorsoftware/mui) - Set of controls and styles to convert WPF applications into a great looking Modern UI apps.
 * [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - Toolkit for creating Metro-styled WPF apps
 * [MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin) - Theming .NET WinForms, C# or VB.Net, to Google's Material Design principles.
+* [Material3.WinForms](https://github.com/dary1337/material3-winforms) - Material 3 (Material You) controls and design tokens for WinForms: dynamic color from a seed (HCT), runtime light/dark theming, the full type scale, elevation and motion.
 * [AdonisUI](https://github.com/benruehl/adonis-ui) - Lightweight UI toolkit for WPF applications offering classic but enhanced Windows visuals.
 * [Bunifu UI Framework](https://bunifuframework.com) - Carefully crafted Winforms controls and components for creating stunning modern application UI. **[$]**
 * [HandyControl](https://github.com/HandyOrg/HandyControl) - Contains some simple and commonly used WPF controls
