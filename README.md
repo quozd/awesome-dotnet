@@ -352,6 +352,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Cryptography
 
+* [Blake3.Managed](https://github.com/Dissimilis/Blake3.Managed) - Pure C# implementation of the BLAKE3 cryptographic hash function. SIMD accelerated (AVX2/SSE/NEON), multithreaded, faster than SHA-256, no native dependencies.
 * [BouncyCastle](https://bouncycastle.org/) - Together with the .Net System.Security.Cryptography, the reference implementation for cryptographic algorithms on the CLR.
 * [NaCl.Core](https://github.com/daviddesmet/NaCl.Core) - A managed-only cryptography library for .NET which provides modern cryptographic primitives.
 * [Paseto.Core](https://github.com/daviddesmet/paseto-dotnet) - A Paseto (Platform-Agnostic Security Tokens) implementation for .NET
