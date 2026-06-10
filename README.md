@@ -1062,6 +1062,7 @@ metadata in media files, including video, audio, and photo formats
 
 * [Lean](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. https://www.quantconnect.com/lean/
 * [StockSharp](https://github.com/StockSharp/StockSharp) - Trading and algorithmic trading open source platform (stock markets, forex, bitcoins and options). https://stocksharp.com
+* [Wickra](https://github.com/wickra-lib/wickra) - Streaming-first technical-analysis library with 514 O(1)-per-tick indicators; native Rust core on NuGet as Wickra. https://wickra.org
 
 ## UI Automation
 
