@@ -187,6 +187,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [JHipster.NET](https://github.com/jhipster/jhipster-dotnetcore) JHipster blueprint for replace orginal SpringBoot Backend by asp.net core. The main goal generator of jhipster is showcases best practices of modern web development in java. So the goal of the project is to do the same in .net. The Frontend can be generated with angular or react and soon with blazor. -  **NOTE**: This is not affiliated with Microsoft or .NET
 
 ## Artificial Intelligence
+* [LiteRtLmSharp](https://github.com/OrihuelaConde/LiteRtLmSharp) - .NET bindings for Google's LiteRT-LM, run LLMs (e.g. Gemma) on-device with chat, token streaming and function calling. Works on desktop and in MAUI apps.
 * [LLamaSharp](https://github.com/SciSharp/LLamaSharp) - C#/.NET Binding of llama.cpp, run LLaMA/GPT model using C# without having to compile lama.cpp.
 * [LlmTornado](https://github.com/lofcz/LlmTornado) - One .NET library to consume OpenAI, Anthropic, Cohere, Google, Azure, Groq, and self-hosed APIs.
 
