@@ -771,6 +771,7 @@ metadata in media files, including video, audio, and photo formats
 * [dotnet-exec](https://github.com/WeihanLi/dotnet-exec) - A command-line tool for executing C# program without a project file, and you can have your custom entry point other than Main method.
 * [ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A a .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute and pixel shaders.
 * [ILGPU](https://github.com/m4rs-mt/ILGPU) - A JIT (just-in-time) compiler for high-performance GPU programs written in .Net-based languages.
+* [StoryCADLib](https://github.com/storybuilder-org/StoryCAD) - Story outlining library for fiction writing tools: reads and writes StoryCAD outlines, validates story structure, and applies craft frameworks (Hero's Journey, GMC, the 36 Dramatic Situations). Docs and runnable samples at [api.storybuilder.org](https://api.storybuilder.org).
 
 ## MQTT
 
