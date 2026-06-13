@@ -482,6 +482,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [OpenFeature](https://openfeature.dev) - OpenFeature is an open standard for feature flag management designed to provide a unified API and SDK, enabling developers to decouple feature flag evaluation from vendor-specific implementations. It promotes interoperability, flexibility, and standardization for managing feature flags across different tools and platforms.
 
 ## Functional programming
+* [Bogoware.Monads](https://github.com/bogoware/Monads) - Result and Maybe monads for railway-oriented, functional error handling and safe optional values; targets .NET Standard 2.1 and .NET 8/9/10.
 * [language-ext](https://github.com/louthy/language-ext) - This library uses and abuses the features of C# 6+ to provide a functional 'Base class library', that, if you squint, can look like extensions to the language itself. It also includes an 'Erlang like' process system (actors) that can optionally persist messages and state to Redis (note you can use it without Redis for in-app messaging). The process system additionally supports Rx streams of messages and state allowing for a complete system of reactive events and message dispatch.
 * [MoreLinq](https://github.com/MoreLinq/MoreLinq) - Provides extra methods to LINQ to Objects.
 
