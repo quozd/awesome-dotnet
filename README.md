@@ -225,6 +225,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Megabit.Blazorise](https://github.com/Megabit/Blazorise) - Blazorise is a component library built on top of Blazor and CSS frameworks like Bootstrap, Bulma and Material. Very easy to use.
 * [blazork8s](https://github.com/weibaohui/blazork8s) - k8s management ui in blazor and .NET Core.
 * [MudBlazor](https://github.com/MudBlazor/MudBlazor) - A Material Design framework for Blazor, allowing .NET developers to quickly build web apps, with extensive documentation and examples.
+* [Radzen Blazor](https://github.com/radzenhq/radzen-blazor) - The Radzen Blazor component library provides more than 100 UI controls for building rich ASP.NET Core web applications.
 
 ## Blockchain
 
