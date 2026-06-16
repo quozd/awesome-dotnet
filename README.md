@@ -507,6 +507,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
  * [GeoJSON.NET](https://github.com/GeoJSON-Net/GeoJSON.Net) - .Net library for GeoJSON types & corresponding Json.Net (de)serializers
  * [CoordinateSharp](https://github.com/Tronald/CoordinateSharp) - Easily parse or convert coordinate formats and calculate location based solar/lunar information.
  * [DEM Net Elevation API](https://github.com/dem-net/dem.net) - .Net library for Digital Elevation Models, allows 3D terrain generation in glTF / STL format.
+ * [GoogleMapsApi](https://github.com/maximn/google-maps) - Strongly-typed, async .NET wrapper for the Google Maps web service APIs (Geocoding, Routes, Distance Matrix, Places, Elevation, Time Zone, and more).
 
 ## Git Tools
 
