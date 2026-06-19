@@ -641,6 +641,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [pinvoke](https://github.com/dotnet/pinvoke) - A library containing P/Invoke code for latest Windows OS.
 * [Pyrolite](https://github.com/irmen/Pyrolite) - This library allows your Java or .NET program to interface very easily with
 the Python world. It uses the Pyro protocol to call methods on remote objects.
+* [Tmds.DBus](https://github.com/tmds/Tmds.DBus) - D-Bus protocol library for .NET, enables communication with Linux desktop and system services.
 
 ## IoC
 * [Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container
