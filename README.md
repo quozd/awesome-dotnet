@@ -349,6 +349,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [TeamCity](https://www.jetbrains.com/teamcity/) - Ready to work, extensible and developer-friendly build server — out of the box **[$]**
 * [MyGet](https://www.myget.org/) - Continuous Integration and Deployment, Hosted Package Repository for NuGet, NPM, Bower and VSIX **[$]**
 * [AppVeyor](https://www.appveyor.com/) - .NET Continuous Integration and Deployment as a service. **[$]** **[Free for OSS]**
+* [DeployHQ](https://www.deployhq.com/) - Git-based deployment automation to servers via SSH, SFTP, and S3. **[$]** **[Free]**
 
 ## Cryptography
 
