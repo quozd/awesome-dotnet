@@ -877,11 +877,12 @@ metadata in media files, including video, audio, and photo formats
 
 ## Protocols
 
-* [SSH.NET](https://github.com/sshnet/SSH.NET) - A Secure Shell (SSH) library for .NET, optimized for parallelism. Provides SSH commands, SFTP/SCP uploads and downloads, and SOCKS4/SOCKS5/HTTP proxies.
+* [DnsClient.NET](https://github.com/MichaCo/DnsClient.NET) - A simple yet very powerful and high performant open source library for the .NET Framework to do DNS lookups.
 * [FluentFTP](https://github.com/robinrodricks/FluentFTP) - An FTP and FTPS library for .NET, optimized for speed. Provides extensive FTP commands, file uploads/downloads and FTP proxies.
 * [SharpSnmpLib](https://docs.sharpsnmp.com/) - An open source SNMP implementation for .NET/Mono/Xamarin. Version 1, 2c, and 3 are supported.
-* [DnsClient.NET](https://github.com/MichaCo/DnsClient.NET) - A simple yet very powerful and high performant open source library for the .NET Framework to do DNS lookups.
+* [SSH.NET](https://github.com/sshnet/SSH.NET) - A Secure Shell (SSH) library for .NET, optimized for parallelism. Provides SSH commands, SFTP/SCP uploads and downloads, and SOCKS4/SOCKS5/HTTP proxies.
 * [Tecan SiLA2 SDK](https://gitlab.com/SiLA2/vendors/sila_tecan) - A library and code generator to develop SiLA2 clients and servers.
+* [Tmds.Ssh](https://github.com/tmds/Tmds.Ssh) - A modern async .NET SSH client library that supports command execution, SFTP, port forwarding, jump hosts, and OpenSSH config.
 
 ## Push Notifications
 
