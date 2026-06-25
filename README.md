@@ -652,6 +652,7 @@ the Python world. It uses the Pyro protocol to call methods on remote objects.
 * [Simple Injector](https://github.com/simpleinjector/SimpleInjector) - Simple Injector is an easy-to-use Dependency Injection (DI) library for .NET 4+ that supports Silverlight 4+, Windows Phone 8, Windows 8 including Universal apps and Mono.
 * [Microsoft.Extensions.DependencyInjection](https://github.com/dotnet/runtime/tree/main/src/libraries/Microsoft.Extensions.DependencyInjection) - The default IoC container for NET applications.
 * [Scrutor](https://github.com/khellang/Scrutor) - Assembly scanning extensions for Microsoft.Extensions.DependencyInjection.
+* [AutoWire](https://github.com/Swevo/AutoWire) - Compile-time DI auto-registration for .NET via Roslyn source generators. Add [Scoped]/[Singleton]/[Transient] to generate IServiceCollection code at build time. Zero runtime overhead, no reflection.
 * [VS MEF](https://github.com/Microsoft/vs-mef) - Managed Extensibility Framework (MEF) implementation used by Visual Studio.
 * [Stashbox](https://github.com/z4kn4fein/stashbox) - A lightweight, portable dependency injection framework for .NET based solutions.
 
@@ -800,6 +801,7 @@ metadata in media files, including video, audio, and photo formats
 * [AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET. https://automapper.org
 * [Mapperly](https://github.com/riok/mapperly) - A .NET source generator for generating object mappings. No runtime reflection.
 * [Mapster](https://github.com/MapsterMapper/Mapster) - A high performance object mapper in .net
+* [AutoMap](https://github.com/Swevo/AutoMap) - A .NET source generator for compile-time object mapping. Add [Map] to generate strongly-typed extension methods at build time. No runtime reflection, AOT-safe.
 
 ## Office
 
