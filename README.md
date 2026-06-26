@@ -408,6 +408,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [dotPeek](https://www.jetbrains.com/decompiler/) - Free-of-charge standalone tool based on ReSharper's bundled decompiler. It can reliably decompile any .NET assembly into equivalent C# or IL code. It can create Visual Studio solutions based on the original binary files in a straight-forward way. **[Proprietary]** **[Free]**
 
 ## Deployment
+
+* [Corterm](https://github.com/monster-echo/CortexTerminal2) - Self-hosted remote terminal platform with browser-native terminal, session persistence, and multi-worker support. Includes native mobile apps (iOS, Android, HarmonyOS). MIT licensed, Docker deploy.
 * [DbUp](https://github.com/DbUp/DbUp) - .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date
 
 
