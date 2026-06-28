@@ -581,6 +581,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [ExCSS](https://github.com/TylerBrinks/ExCSS) - CSS3 parser library for C#
 * [HtmlAgilityPack](https://html-agility-pack.net/?z=codeplex) - an agile HTML parser that builds a read/write DOM and supports plain XPath or XSLT
 * [LibSass Host](https://github.com/Taritsyn/LibSassHost) - .NET wrapper around the [libSass](https://sass-lang.com/libsass) library with the ability to support a virtual file system
+* [WebReaper](https://github.com/alex-on-ai/WebReaper) - AI-native web scraper. Single binary, MCP server, clean-markdown output, MIT alternative to Firecrawl
 
 ## HTTP
 
