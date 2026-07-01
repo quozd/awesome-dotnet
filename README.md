@@ -696,6 +696,7 @@ the Python world. It uses the Pyro protocol to call methods on remote objects.
 
 ## Markdown Processors
 * [F# Formatting](https://fsprojects.github.io/FSharp.Formatting/) - Tools for documenting F# and C# projects.  The library contains extensible Markdown parser as a core component.
+* [html-to-markdown](https://github.com/xberg-io/html-to-markdown) - Fast, CommonMark-compliant HTML to Markdown converter (.NET binding over a Rust core).
 * [markdig](https://github.com/lunet-io/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET.
 
 ## Mail
