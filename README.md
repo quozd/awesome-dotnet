@@ -187,6 +187,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [JHipster.NET](https://github.com/jhipster/jhipster-dotnetcore) JHipster blueprint for replace orginal SpringBoot Backend by asp.net core. The main goal generator of jhipster is showcases best practices of modern web development in java. So the goal of the project is to do the same in .net. The Frontend can be generated with angular or react and soon with blazor. -  **NOTE**: This is not affiliated with Microsoft or .NET
 
 ## Artificial Intelligence
+* [liter-llm](https://github.com/xberg-io/liter-llm) - Universal LLM API client (.NET binding over a Rust core) with one unified interface across 142+ providers and streaming.
 * [LLamaSharp](https://github.com/SciSharp/LLamaSharp) - C#/.NET Binding of llama.cpp, run LLaMA/GPT model using C# without having to compile lama.cpp.
 * [LlmTornado](https://github.com/lofcz/LlmTornado) - One .NET library to consume OpenAI, Anthropic, Cohere, Google, Azure, Groq, and self-hosed APIs.
 
@@ -696,6 +697,7 @@ the Python world. It uses the Pyro protocol to call methods on remote objects.
 
 ## Markdown Processors
 * [F# Formatting](https://fsprojects.github.io/FSharp.Formatting/) - Tools for documenting F# and C# projects.  The library contains extensible Markdown parser as a core component.
+* [html-to-markdown](https://github.com/xberg-io/html-to-markdown) - Fast, CommonMark-compliant HTML to Markdown converter (.NET binding over a Rust core).
 * [markdig](https://github.com/lunet-io/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET.
 
 ## Mail
@@ -870,6 +872,7 @@ metadata in media files, including video, audio, and photo formats
 * [Kevsoft.PDFtk](https://github.com/kevbite/Kevsoft.PDFtk) - A wrapper to drive the awesome pdftk binary, which can fill PDF forms, get field information, concatenate multiple documents or pages, split documents, add or replace stamps, and can attach files to or download files from pages.
 * [IronPDF](https://ironpdf.com/)  - High-performance C# PDF library with compatibility for various .NET versions, HTML to PDF conversion, content page conversion, file format support (e.g., DOCX, RTF, MD), responsive layouts, and robust PDF capabilities features ranging from compability, generating PDFs, formatting PDFs, and editing PDFs. **[$]** **[Free trial available]**
 * [Syncfusion .NET PDF Framework](https://www.syncfusion.com/document-processing/pdf-framework/net)  - A high-performance .NET PDF framework with no Adobe dependencies. Create, read, and edit PDF files seamlessly. Utilize PDF viewer controls for easy viewing, reviewing, and printing. Effortlessly convert HTML, Word, Excel, PowerPoint files, and images to PDF with powerful conversion APIs. **[$]** **[[Free for Individuals and Small Businesses](https://www.syncfusion.com/products/communitylicense)]**
+* [xberg](https://github.com/xberg-io/xberg) - Document intelligence library (.NET binding over a Rust core) that extracts text, tables, and metadata from PDFs, Office documents, images, and 97+ formats, with optional OCR.
 
 ## Profiler
 
