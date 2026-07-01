@@ -238,7 +238,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [MSBuild](https://github.com/dotnet/msbuild) - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio
 * [Cake](https://github.com/cake-build/cake) - Cake (C# Make) is a cross-platform build automation system with a C# DSL.
 * [Nake](https://github.com/yevhen/Nake) - Magic script-based C# task runner
-* [Nuke](https://github.com/nuke-build/nuke) - Cross-platform build automation system
+* [Fallout](https://github.com/Fallout-build/Fallout) - Cross-platform build automation system where builds are C# console apps; maintained hard-fork successor to NUKE
 * [FlubuCore](https://github.com/dotnetcore/FlubuCore) -  A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code. - **NOTE**: This is not affiliated with Microsoft or .NET
 * [ModularPipelines](https://github.com/thomhurst/ModularPipelines) - Write your pipelines in C#
 
