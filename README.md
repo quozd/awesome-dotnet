@@ -417,6 +417,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Desktop
 
+* [ShortcutHook](https://github.com/veera-bharath/ShortcutHook) - A lightweight utility to map mouse gestures, keyboard combos, and chords to custom actions, shell commands, or text expansions, featuring a dark-mode WPF settings UI.
 * [Sucrose Wallpaper Engine](https://github.com/Taiizor/Sucrose) - Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers.
 
 ## Distributed Computing
