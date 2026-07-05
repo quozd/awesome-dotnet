@@ -859,7 +859,7 @@ metadata in media files, including video, audio, and photo formats
 * [Sleet](https://github.com/emgarten/sleet/) - A NuGet v3 static feed generator with support for AWS S3 and Azure Storage
 
 ## PDF
-
+- [Bhowra.Ink](https://bhowra.com/bhowra-ink.html) – Pure C# HTML-to-PDF engine for .NET 8, serverless-ready,works with Azure Functions, no Chromium, no AGPL.
 * [QPdfSharp](https://github.com/svengeance/QPdfSharp) - A C# wrapper written around QPdf to allow for easy PDF manipulation that is tested for both linux and windows. QPdf is one of the only libraries capable of PDF linearization, and this wrapper ensures you keep up to date with the underlying improvements.
 * [Cloudmersive PDF](https://cloudmersive.com/pdf-api) - Cloudmersive PDF is a native .NET Framework and .NET Core NuGet library and API service that can create, modify, encrypt or convert PDF documents at high scale and fidelity; and is free to use with no expiration **[Free]**
 * [Docotic.Pdf](https://bitmiracle.com/pdf-library/) - PDF library to create, read, edit, draw, and print PDF documents in .NET and .NET Core applications. 100% managed, without unsafe blocks. **[$]** **[[Free for OSS](https://bitmiracle.com/pdf-library/free-pdf-library.aspx)]**
