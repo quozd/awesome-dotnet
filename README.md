@@ -1028,6 +1028,7 @@ metadata in media files, including video, audio, and photo formats
 * [Shouldly](https://github.com/shouldly/shouldly) - Shouldly is an assertion framework which focuses on giving great error messages when the assertion fails while being simple and terse.
 * [Snapshooter](https://github.com/SwissLife-OSS/snapshooter) - A snapshot testing tool for .NET Core and .NET Framework
 * [Stryker.NET](https://github.com/stryker-mutator/stryker-net) - Mutation testing for .NET Core projects
+* [XModelBuilder](https://github.com/jlamfers2/XModelBuilder) - Fast, extensible, reflection-based deterministic test-data builder for any C# class; set values via lambdas, string deep-paths or Gherkin tables, with Bogus and Reqnroll/SpecFlow integrations.
 * [xUnit.net](https://github.com/xunit/xunit) - A free, open source, community-focused unit testing tool for the .NET Framework.
 * [Canopy](https://github.com/lefthandedgoat/canopy) - Canopy is a free, open source F# web automation and testing framework
 * [Expecto](https://github.com/haf/expecto) - A smooth testing framework for F# with tests as values. Unit testing, property based testing, performance testing and stress testing.
