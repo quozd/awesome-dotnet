@@ -602,6 +602,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Consulo](https://consulo.io) - A cross-platform IDE with C# & Java support, fork of IntelliJ IDEA Community Edition
 * [vvvv](https://visualprogramming.net) A visual live-programming environment for .NET **[Free for OSS]**
 * [CSharp Analyzer by MongoDB](https://github.com/mongodb/mongo-csharp-analyzer) A free Visual Studio Extension for MongoDB users, helping translate your code into MongoDB queries
+* [Claude Code for Visual Studio](https://github.com/firish/claude_code_vs) - Free Visual Studio extension that connects Anthropic's Claude Code CLI to the IDE: native diff review of agent edits, compiler diagnostics, a debugger the agent can read and drive (including data breakpoints), Test Explorer integration, and Roslyn code navigation.
 
 ## Image Processing
 
