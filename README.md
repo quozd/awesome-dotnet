@@ -771,6 +771,7 @@ metadata in media files, including video, audio, and photo formats
 * [dotnet-exec](https://github.com/WeihanLi/dotnet-exec) - A command-line tool for executing C# program without a project file, and you can have your custom entry point other than Main method.
 * [ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A a .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute and pixel shaders.
 * [ILGPU](https://github.com/m4rs-mt/ILGPU) - A JIT (just-in-time) compiler for high-performance GPU programs written in .Net-based languages.
+* [Goplasmatic.Datalogic](https://github.com/GoPlasmatic/datalogic-rs) - A JSONLogic rules engine backed by a native Rust core through P/Invoke. Rules are plain JSON, so they can be stored in a database or sent over an API and changed without a redeploy. Supports compiled rules, typed and batch evaluation, and custom operators written in C#.
 
 ## MQTT
 
