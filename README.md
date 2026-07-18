@@ -417,6 +417,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Desktop
 
+* [Liveolator](https://github.com/zalmanimrecords-stack/DJliveolator) - Cross-platform DJ + VJ performance app built with Avalonia; two decks and a beat-synced GPU visual engine share one beat clock.
 * [Sucrose Wallpaper Engine](https://github.com/Taiizor/Sucrose) - Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers.
 
 ## Distributed Computing
