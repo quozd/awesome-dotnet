@@ -800,6 +800,7 @@ metadata in media files, including video, audio, and photo formats
 * [AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET. https://automapper.org
 * [Mapperly](https://github.com/riok/mapperly) - A .NET source generator for generating object mappings. No runtime reflection.
 * [Mapster](https://github.com/MapsterMapper/Mapster) - A high performance object mapper in .net
+* [SimpleMapper.Net](https://github.com/giacomeli/SimpleMapper) - Zero-configuration, convention-based object-to-object mapper powered by compiled expression trees. Open-source and MIT-licensed.
 
 ## Office
 
