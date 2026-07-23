@@ -225,6 +225,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Megabit.Blazorise](https://github.com/Megabit/Blazorise) - Blazorise is a component library built on top of Blazor and CSS frameworks like Bootstrap, Bulma and Material. Very easy to use.
 * [blazork8s](https://github.com/weibaohui/blazork8s) - k8s management ui in blazor and .NET Core.
 * [MudBlazor](https://github.com/MudBlazor/MudBlazor) - A Material Design framework for Blazor, allowing .NET developers to quickly build web apps, with extensive documentation and examples.
+* [Signs of AI Writing](https://github.com/peopleworks/SignsofAI) - Privacy-first Blazor WebAssembly toolkit for academic and writing integrity: an explainable AI-writing linter that suggests a fix for every flagged tell, plus an originality checker that surfaces shared passages as evidence a human judges. Runs almost entirely in the browser; English and Spanish.
 
 ## Blockchain
 
