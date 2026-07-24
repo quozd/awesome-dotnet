@@ -155,6 +155,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [CommandQuery](https://github.com/hlaueriksson/CommandQuery) - Command Query Separation for 🌐ASP.NET Core ⚡AWS Lambda ⚡Azure Functions ⚡Google Cloud Functions 🌐ASP.NET Web API 2
 * [Population.NET](https://github.com/Authentic199/Population.NET) - A .NET library allows clients to specify the exact fields they need, reducing unnecessary data transfer by avoiding the retrieval of all fields by default.
 * [Wissance.WebApiTookit](https://github.com/Wissance/WebApiToolkit) - A set of libraries and classes that simplify building REST APIs and gRPC services, reducing the amount of code to be written with even one line of code for a fully functional REST controller.
+* [LiveTennisApi](https://github.com/livetennisapi/livetennisapi-dotnet) - .NET client for the [Live Tennis API](https://livetennisapi.com), providing real-time tennis scores, players and fixtures for ATP, WTA, Challenger and ITF tours.
 
 ## Application Frameworks
 
