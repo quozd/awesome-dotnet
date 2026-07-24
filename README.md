@@ -409,6 +409,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Deployment
 * [DbUp](https://github.com/DbUp/DbUp) - .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date
+* [SchemaSmith](https://github.com/Schema-Smith/SchemaSmith) - State-based schema management for SQL Server, PostgreSQL, MySQL and MariaDB — declare the desired state as metadata and it transforms any target to match, no migration scripts to author or order. **[Proprietary]** **[Free]**
 
 
 ## DirectX
