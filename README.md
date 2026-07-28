@@ -580,6 +580,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [dotless](https://github.com/dotless/dotless) - .NET port of the Ruby Less CSS lib http://www.dotlesscss.org
 * [ExCSS](https://github.com/TylerBrinks/ExCSS) - CSS3 parser library for C#
 * [HtmlAgilityPack](https://html-agility-pack.net/?z=codeplex) - an agile HTML parser that builds a read/write DOM and supports plain XPath or XSLT
+* [HtmlMinifier](https://github.com/deanhume/html-minifier) - A simple, fast command-line tool for minifying HTML, Razor, and Web Forms views, with parallel processing and built-in MSBuild integration.
 * [LibSass Host](https://github.com/Taritsyn/LibSassHost) - .NET wrapper around the [libSass](https://sass-lang.com/libsass) library with the ability to support a virtual file system
 
 ## HTTP
