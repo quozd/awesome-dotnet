@@ -466,6 +466,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Event aggregator and messenger
 
+* [AutoDispatch.Generator](https://github.com/Swevo/AutoDispatch.Generator) - Compile-time CQRS dispatcher using Roslyn source generators — MediatR-style command/handler pattern with zero reflection, no marker interfaces, and AOT-friendly generated dispatch code.
 * [Mediator.Net](https://github.com/mayuanyang/Mediator.Net) - A simple mediator for .NET for sending command, publishing event and request response with pipelines supported
 * [MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET
 * [EventFlow](https://github.com/eventflow/EventFlow) - EventFlow is an Async/await first CQRS and Event Sourcing DDD framework for .NET
@@ -756,6 +757,24 @@ metadata in media files, including video, audio, and photo formats
 * [LINQPad](https://www.linqpad.net) - a C#/VB/F# scratchpad that instantly executes any expression, statement block or program with rich output formatting and a wealth of features. Also lets you interactively query databases in LINQ. [$]
 * [LINQPad.QueryPlanVisualizer](https://github.com/Giorgi/LINQPad.QueryPlanVisualizer/)  - View SQL Server and Postgres query plans directly inside LINQPad.
 * [Polly](https://github.com/App-vNext/Polly) - Express transient-exception-handling and resilience policies such as Retry, Wait-and-Retry, Circuit Breaker, and Bulkhead Isolation in a fluent manner. Fully thread-safe and full async support.  (4.0 / 4.5 / .NET Core / .NET Standard / Xamarin).
+* [PollyEFCore](https://github.com/Swevo/PollyEFCore) - Polly v8 resilience for Entity Framework Core — retry, timeout, circuit-breaker for every query and SaveChanges with a single line of DI registration.
+* [PollyDapper](https://github.com/Swevo/PollyDapper) - Polly v8 resilience for Dapper — wrap QueryAsync, ExecuteAsync and other calls with retry, timeout, circuit-breaker via a ResilientDbConnection decorator.
+* [PollyMongo](https://github.com/Swevo/PollyMongo) - Polly v8 resilience for MongoDB.Driver — wrap IMongoCollection operations with retry, timeout, and circuit-breaker via a ResilientMongoCollection decorator.
+* [PollyNpgsql](https://github.com/Swevo/PollyNpgsql) - Polly v8 resilience for Npgsql (PostgreSQL) — retry, timeout, circuit-breaker for NpgsqlConnection, with built-in PostgresTransientErrors predicate for all common PostgreSQL SQLSTATE codes.
+* [PollySqlClient](https://github.com/Swevo/PollySqlClient) - Polly v8 resilience for Microsoft.Data.SqlClient (SQL Server and Azure SQL) — retry, timeout, circuit-breaker with built-in SqlServerTransientErrors predicate covering 16 transient error numbers.
+* [PollyAzureBlob](https://github.com/Swevo/PollyAzureBlob) - Polly v8 resilience for Azure Blob Storage — retry, timeout, circuit-breaker for BlobClient and BlobContainerClient via drop-in decorators.
+* [PollyCosmosDb](https://github.com/Swevo/PollyCosmosDb) - Polly v8 resilience for Azure Cosmos DB — retry, timeout, circuit-breaker for Container operations with built-in CosmosTransientErrors predicate covering rate limiting (429), timeouts (408), and partition failovers (410).
+* [PollyAzureServiceBus](https://github.com/Swevo/PollyAzureServiceBus) - Polly v8 resilience for Azure Service Bus — retry, circuit breaker, and timeout for ServiceBusSender and ServiceBusReceiver.
+* [PollyRedis](https://github.com/Swevo/PollyRedis) - Polly v8 resilience for StackExchange.Redis — retry on connection/timeout errors, circuit breaker, per-command timeout, DI integration.
+* [PollyMediatR](https://github.com/Swevo/PollyMediatR) - Polly v8 resilience for MediatR — add retry, timeout, circuit-breaker to any request handler with a single line of DI registration.
+* [PollyOpenAI](https://github.com/Swevo/PollyOpenAI) - Polly v8 resilience for OpenAI and Azure OpenAI — retry on 429, Retry-After support, circuit breaker, timeout.
+* [PollyHealthChecks](https://github.com/Swevo/PollyHealthChecks) - ASP.NET Core health checks for Polly v8 circuit breakers — expose circuit state as a health check with one line.
+* [PollySignalR](https://github.com/Swevo/PollySignalR) - Polly v8 reconnect policy for SignalR — exponential back-off with jitter, drop-in for WithAutomaticReconnect.
+* [PollyGrpc](https://github.com/Swevo/PollyGrpc) - Polly v8 resilience for gRPC .NET clients — retry, circuit breaker, timeout via Interceptor.
+* [PollyKafka](https://github.com/Swevo/PollyKafka) - Polly v8 resilience for Confluent.Kafka — retry, circuit breaker, timeout for producers and consumers.
+* [PollyRabbitMQ](https://github.com/Swevo/PollyRabbitMQ) - Polly v8 resilience for RabbitMQ.Client — retry, circuit breaker, timeout for IChannel.
+* [PollyBackoff](https://github.com/Swevo/PollyBackoff) - Backoff delay strategies for Polly v8 — decorrelated jitter, exponential, linear, constant.
+* [PollyChaos](https://github.com/Swevo/PollyChaos) - Chaos engineering and fault-injection for Polly v8 pipelines.
 * [Aeron.NET](https://github.com/AdaptiveConsulting/Aeron.NET) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport - .NET port of Aeron
 * [TypeShape](https://github.com/eiriktsarpalis/TypeShape) - TypeShape is a small, extensible F# library for practical generic programming
 * [ByteSize](https://github.com/omar/ByteSize) - ByteSize is a utility class that makes byte size representation in code easier by removing ambiguity of the value being represented. ByteSize is to bytes what System.TimeSpan is to time.
