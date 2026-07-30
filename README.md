@@ -855,6 +855,7 @@ metadata in media files, including video, audio, and photo formats
 * [NuGet](https://www.nuget.org/) - The .NET package manager
 * [Cloudsmith](https://cloudsmith.com/nuget-feed/) - A fully managed package management SaaS, with support for NuGet, Npm, Docker and much more. **[Free for Public/OSS]** **[$]**
 * [MyGet](https://www.myget.org/) - Hosted Package Repository for NuGet, NPM, Bower and VSIX. Also provides CI as-a-Service. **[$]**
+* [NuGate](https://github.com/AbelSolutions-io/nugate) - Dependency age gate for NuGet: fails the build when a resolved package (direct or transitive) was published less than a configurable number of days ago. MSBuild-integrated or standalone CLI; runs locally and in CI with no proxy or server.
 * [Paket](https://github.com/fsprojects/Paket) - A package dependency manager for .NET with support for NuGet packages and GitHub repositories. https://fsprojects.github.io/Paket/
 * [Sleet](https://github.com/emgarten/sleet/) - A NuGet v3 static feed generator with support for AWS S3 and Azure Storage
 
