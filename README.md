@@ -937,7 +937,7 @@ metadata in media files, including video, audio, and photo formats
 * [TickerQ](https://github.com/Arcenox-co/TickerQ) - Lightweight, high-performance, reflection-free job scheduler for .NET with EF Core, cron/time-based execution, custom locking, and retry support.
 * [NCronJob](https://github.com/NCronJob-Dev/NCronJob) - A Job Scheduler sitting on top of IHostedService in dotnet.
 * [NaturalCron](https://github.com/hugoj0s3/NaturalCron) – Human-readable scheduling library for .NET using natural-language expressions.
-
+* [Milvaion](https://github.com/Milvasoft/milvaion) – Distributed job scheduler for .NET with stateless workers, and a real-time modern dashboard for runtime job management. Also dashboard for Hangfire and Quartz.NET.
 
 ## SDK and API Clients
 
