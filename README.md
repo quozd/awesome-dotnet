@@ -882,6 +882,7 @@ metadata in media files, including video, audio, and photo formats
 * [SharpSnmpLib](https://docs.sharpsnmp.com/) - An open source SNMP implementation for .NET/Mono/Xamarin. Version 1, 2c, and 3 are supported.
 * [DnsClient.NET](https://github.com/MichaCo/DnsClient.NET) - A simple yet very powerful and high performant open source library for the .NET Framework to do DNS lookups.
 * [Tecan SiLA2 SDK](https://gitlab.com/SiLA2/vendors/sila_tecan) - A library and code generator to develop SiLA2 clients and servers.
+* [DruOPC](https://github.com/drusteeby/DruOPC) - An OPC UA toolkit: a configurable PLC simulation server and a Blazor web-based client for browsing, monitoring, alarms and historical data.
 
 ## Push Notifications
 
