@@ -307,6 +307,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Bencher](https://bencher.dev/) - Suite of continuous benchmarking tools designed to catch performance regressions in CI.
 * [NsDepCop](https://github.com/realvizu/NsDepCop) - Static code analysis tool to enforce namespace dependency rules in C# projects.
 * [WebBen](https://github.com/omerfarukz/WebBen) - Is a tool for benchmarking your Hypertext Transfer Protocol (HTTP) server.
+* [Predictive-ML-Core](https://github.com/cloudsealed/Predictive-ML-Core) - Deterministic, auditable architecture risk scoring from a declared system inventory (single point of failure, excessive coupling, scalability gap). Every score ships with a rule-by-rule breakdown instead of a black-box output. .NET 10 HTTP service, CLI and NuGet package.
 
 ## Code Snippets
 
