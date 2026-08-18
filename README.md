@@ -1057,6 +1057,7 @@ metadata in media files, including video, audio, and photo formats
 * [FastCloner](https://github.com/lofcz/FastCloner) - Fast deep cloning library for .NET 8+. Zero-config, works out of the box.
 * [STranslate](https://github.com/ZGGSONG/STranslate) - STranslate is a ready-to-go translation ocr tool developed with WPF.
 * [BouncyHSM](https://github.com/harrison314/BouncyHsm) - A software simulator of HSM and smartcard simulator with HTML UI, REST API and PKCS#11 interface.
+* [CapMonsterCloud.DotNet](https://github.com/CapMonsterCloud/capmonster-dotnet-captcha-solver) - Official .NET / C# SDK for automating CAPTCHA solving with CapMonster Cloud API. **[$]**
 
 ## Trading
 
