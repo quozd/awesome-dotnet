@@ -1016,6 +1016,7 @@ metadata in media files, including video, audio, and photo formats
 * [FakeItEasy](https://github.com/FakeItEasy/FakeItEasy) - The easy mocking library for .NET https://fakeiteasy.github.io
 * [Fluent Assertions](https://github.com/fluentassertions/fluentassertions) - A set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test **[Source Available]** **[Free for OSS]**
 * [FsCheck](https://github.com/fscheck/FsCheck) - Random Testing for .NET.
+* [Impact](https://github.com/CrimsonMartin/dotnet-impact) - Live unit testing for VS Code: runs only the tests affected by your change, hot-patched into warm test hosts for sub-100ms feedback on save. Includes a CLI for pre-commit hooks.
 * [Machine.Specifications](https://github.com/machine/machine.specifications) - Machine.Specifications (MSpec) is a context/specification framework that removes language noise and simplifies tests.
 * [Moq](https://github.com/devlooped/moq) - The most popular and friendly mocking framework for .NET
 * [NBomber](https://github.com/PragmaticFlow/NBomber) - Very simple load testing framework for Pull and Push scenarios. It's 100% written in F# and targeting .NET Core and full .NET Framework.
