@@ -870,6 +870,7 @@ metadata in media files, including video, audio, and photo formats
 * [Kevsoft.PDFtk](https://github.com/kevbite/Kevsoft.PDFtk) - A wrapper to drive the awesome pdftk binary, which can fill PDF forms, get field information, concatenate multiple documents or pages, split documents, add or replace stamps, and can attach files to or download files from pages.
 * [IronPDF](https://ironpdf.com/)  - High-performance C# PDF library with compatibility for various .NET versions, HTML to PDF conversion, content page conversion, file format support (e.g., DOCX, RTF, MD), responsive layouts, and robust PDF capabilities features ranging from compability, generating PDFs, formatting PDFs, and editing PDFs. **[$]** **[Free trial available]**
 * [Syncfusion .NET PDF Framework](https://www.syncfusion.com/document-processing/pdf-framework/net)  - A high-performance .NET PDF framework with no Adobe dependencies. Create, read, and edit PDF files seamlessly. Utilize PDF viewer controls for easy viewing, reviewing, and printing. Effortlessly convert HTML, Word, Excel, PowerPoint files, and images to PDF with powerful conversion APIs. **[$]** **[[Free for Individuals and Small Businesses](https://www.syncfusion.com/products/communitylicense)]**
+* [The KillerPDF.Engine](https://killerpdf.net/engine) - An open source .NET library for reading, validating, authoring, structurally editing, signing, encrypting, and writing PDF 2.0, PDF/A, and PDF/UA documents.
 
 ## Profiler
 
