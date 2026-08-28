@@ -306,6 +306,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
 * [Bencher](https://bencher.dev/) - Suite of continuous benchmarking tools designed to catch performance regressions in CI.
 * [NsDepCop](https://github.com/realvizu/NsDepCop) - Static code analysis tool to enforce namespace dependency rules in C# projects.
+* [Slnmap](https://github.com/EMahmoudNabil/slnmap) - Roslyn-based code graph and MCP server for .NET solutions; `impact_analysis` on a C# handler traces through to the React/TypeScript call sites that break. 15 read-only MCP tools, 100% local (SQLite), MIT licensed.
 * [WebBen](https://github.com/omerfarukz/WebBen) - Is a tool for benchmarking your Hypertext Transfer Protocol (HTTP) server.
 
 ## Code Snippets
