@@ -499,6 +499,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Foster](https://github.com/FosterFramework/Foster) - Foster is a small cross-platform 2D game framework in C#.
 * [Friflo.Engine.ECS](https://github.com/friflo/Friflo.Engine.ECS) -  High-performance C# ECS with simple API. Supports .NET, WASM/WebAssembly, Native AOT, Unity, Godot, MonoGame, ...
 * [Box2D.NET](https://github.com/ikpil/Box2D.NET) - A C# port of Box2D, a 2D physics engine for games, servers, and Unity3D
+* [GameFrameX](https://github.com/GameFrameX/GameFrameX) - An actor-model game server framework with hot-update and MongoDB persistence, matching Unity/Godot client packages, and in-repo AI-agent instructions (AGENTS.md/CLAUDE.md)
 
 ## GIS
 
