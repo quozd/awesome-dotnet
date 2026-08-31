@@ -333,6 +333,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Roslyn](https://github.com/dotnet/roslyn) - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs. It enables building code analysis tools with the same APIs that are used by Visual Studio.
 * [PascalABC.NET](https://github.com/pascalabcnet/pascalabcnet) Pascal implementation on .NET.
 * [Iron Python](https://github.com/IronLanguages/ironpython3) - A Python 3 implementation that is integrated with the .NET framework.
+* [TokenVector](https://github.com/nguyenhungtran18/TokenVector) - Python-syntax subset compiled AHEAD-OF-TIME to CIL (no interpreter, no GIL) - standalone .exe output, MIT license
 * [IKVM](https://ikvm.org) - A Java Virtual Machine and Bytecode-to-IL converter for .NET. Execute compiled Java code (bytecode) on .NET
 * [Lib.Harmony](https://github.com/pardeike/Harmony) - A library for patching, replacing, and decorating .NET and Mono methods during runtime, mainly used for game modding.  
 * [dotnet-repl](https://github.com/jonsequitur/dotnet-repl) - A polyglot REPL built on .NET Interactive 
