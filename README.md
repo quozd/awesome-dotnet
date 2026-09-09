@@ -825,6 +825,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## OpenAI
 
+* [Picasso](https://github.com/1picassoai/picasso) - Local conversation store and read-only dashboard for Microsoft Agent Framework. Persists agent chat history to SQLite with one line of configuration, and surfaces context compaction events that silently drop messages. Runs inside your own app; no external services.
 
 ## ORM
 
