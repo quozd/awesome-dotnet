@@ -792,6 +792,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## Networking
 
+* [macula-dotnet](https://github.com/macula-io/macula-dotnet) - Native .NET client for the Macula peer-to-peer mesh wire protocol: QUIC transport, CBOR codec, RPC/pub-sub/content-sharing/streaming, no FFI.
 * [NetCoreServer](https://github.com/chronoxor/NetCoreServer) - Ultra fast and low latency asynchronous socket server & client C# .NET Core library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution (NETStandard).
 * [SharpPcap](https://github.com/chmorgan/sharppcap) - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets from live and file based devices.
 
