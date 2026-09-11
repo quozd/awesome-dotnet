@@ -258,7 +258,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Cache Tower](https://github.com/TurnerSoftware/CacheTower) - An efficient multi-layered caching system for .NET (In-Memory, Redis, Database, File etc)
 * [FusionCache](https://github.com/jodydonetti/ZiggyCreatures.FusionCache) - An easy to use, high performance and robust cache with an optional distributed 2nd layer and some advanced features, like a fail-safe mechanism and advanced timeouts management
 * [BitFaster.Caching](https://github.com/bitfaster/BitFaster.Caching) - Thread-safe in-memory caches optimized for very high concurrent throughput, near optimal hit rate and low latency.   
-
+* [HybridCache.Plus](https://github.com/sagasta/HybridCachePlus) - High-performance .NET 10 extensions for HybridCache featuring Roslyn source-generated invalidation, Redis Pub/Sub L1 backplane, and isolated multi-tenant L2 routing.
+  
 ## Calendar
 
 * [iCal.NET](https://github.com/rianjs/ical.net) iCal.NET is an iCalendar (RFC 5545) class library for .NET aimed at providing RFC 5545 compliance, while providing full compatibility with popular calendaring applications and libraries.
