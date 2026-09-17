@@ -828,6 +828,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## ORM
 
+* [JD.Efcpt.Build](https://github.com/JerrettDavis/JD.Efcpt.Build) - MSBuild integration for EF Core Power Tools that regenerates database-first models when schemas or configuration change.
 * [Entity Framework Core](https://github.com/dotnet/efcore) - Object-relational mapper that enables .NET developers to work with relational data using domain-specific objects
 * [EntityFramework.Exceptions](https://github.com/Giorgi/EntityFramework.Exceptions) - Use typed Exceptions for Entity Framework Core when your SQL query violates database constraints in SqlServer, MySql, PostgreSQL or SQLite
 * [EntityFrameworkCore.SqlServer.SimpleBulks](https://github.com/phongnguyend/EntityFrameworkCore.SqlServer.SimpleBulks) - Simple library that can help to sync a large number of records in-memory into the database. Lambda Expression is supported.
