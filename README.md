@@ -913,6 +913,7 @@ metadata in media files, including video, audio, and photo formats
 * [gRPC](https://github.com/grpc/grpc-dotnet)  An RPC library and framework for .NET Core. Read more about it on [Docs Microsoft](https://docs.microsoft.com/en-us/aspnet/core/grpc)
 * [gRPCurl](https://github.com/fullstorydev/grpcurl) - gRPCurl is a command-line tool that lets you interact with gRPC servers. It's basically curl for gRPC servers.
 * [gRPC UI](https://github.com/fullstorydev/grpcui) - gRPC UI is a command-line tool that lets you interact with gRPC servers via a browser. It's sort of like Postman, but for gRPC APIs instead of REST.
+* [Graftcode](https://github.com/grft-dev/graftcode) - Integration-free development layer that lets you call methods across languages and runtimes as if they were local dependencies, without hand-writing REST, gRPC, or Thrift integration code.
 
 ## Reactive Programming
 
