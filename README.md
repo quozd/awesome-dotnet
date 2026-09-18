@@ -584,6 +584,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## HTTP
 
+* [Tiny.RestClient](https://github.com/jgiacomini/Tiny.RestClient) - Fluent REST client for .NET with JSON/XML serialization, file transfers, and Server-Sent Events streaming.
 * [RestSharp](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API client for .NET
 * [Flurl](https://flurl.dev) - Fluent, portable, testable REST/HTTP client library
 * [Refit](https://github.com/reactiveui/refit) - The automatic type-safe REST library for Xamarin and .NET
