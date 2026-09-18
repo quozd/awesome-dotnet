@@ -1073,6 +1073,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## Visual Studio Plugins
 
+* [iolys](https://marketplace.visualstudio.com/items?itemName=iolys.iolys-visual-studio) - Use your existing ChatGPT/Codex, Claude Code, Kiro, or Kimi subscription in Visual Studio 2026, or connect providers such as DeepSeek and local models through Ollama. **[Proprietary]** **[Free]**
 * [EFCore.Visualizer](https://marketplace.visualstudio.com/items?itemName=GiorgiDalakishvili.EFCoreVisualizer) - View Entity Framework Core query plan directly in Visual Studio.
 * [VsVIM](https://github.com/VsVim/VsVim) - VIM in Visual Studio
 * [Resharper](https://www.jetbrains.com/resharper/) - Developer Productivity Tool for Visual Studio **[$]**
