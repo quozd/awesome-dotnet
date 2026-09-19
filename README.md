@@ -728,6 +728,7 @@ metadata in media files, including video, audio, and photo formats
 * [NAudio](https://github.com/naudio/NAudio) - Playback, decode and encode audio in a variety of file formats such as MP3, MP4, WAV, AIFF, Speex, etc.
 * [Xabe.FFmpeg](https://github.com/tomaszzmuda/Xabe.FFmpeg) - .NET Standard wrapper for FFmpeg. It allows to process media without know how FFmpeg works, and can be used to pass customized arguments to FFmpeg from C# application. **[$]**
 * [Sonora](https://github.com/ImAxel0/Sonora) - .NET Audio Framework for audio and MIDI playback, editing, and plugin integration.
+* [AudioFlow](https://github.com/JavierparraDev/audioflow) - Per-application audio routing for Windows: decide where each app plays its audio, built on NAudio (.NET 8 / WPF).
 
 ## Metrics
 
