@@ -212,6 +212,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Enforcer](https://www.identityserver.com/products/enforcer) - Write fine grained authorization policy in easy-to-read language, and have it compiled to native .NET code **[$]**
 * [SAML IdentityServer](https://www.identityserver.com/products/saml2p) - Add SAML 2P support to your Duende IdentityServer **[$]**
 * [SAML OpenIddict](https://www.openiddictcomponents.com/home/) - Add SAML 2P support to your OpenIddict **[$]**
+* [Tessio.Verifier](https://github.com/tripledownab/tessio-verifier) - Verifier for the EU Digital Identity Wallet, relying party side. OpenID4VP 1.0 with SD-JWT VC and ISO 18013-5 mdoc
 
 ## Background Processing
 
