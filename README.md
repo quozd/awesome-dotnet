@@ -118,6 +118,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Static Site Generators](#static-site-generators)
   * [Strong Naming](#strong-naming)
   * [Style Guide](#style-guide)
+  * [Subscription Management](#subscription-management)
   * [Template Engine](#template-engine)
   * [Testing](#testing)
   * [Tools](#tools)
@@ -995,6 +996,10 @@ metadata in media files, including video, audio, and photo formats
 * [C# Style Guide](https://stackoverflow.com/questions/4678178/style-guide-for-c) - StackOverflow Q & A on style guides
 * [C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions) - Official MSDN C# code conventions
 * [C# Async Guidance](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md) - list of problematic asynchronous patterns for .NET Core with an explanation of how to solve those issues
+
+## Subscription Management
+
+* [Subscrio](https://github.com/subscrio/subscrio-dotnet) - Embedded entitlement engine for subscription plans, feature access, numeric limits, and customer overrides, with PostgreSQL and SQL Server support.
 
 ## Template Engine
 
