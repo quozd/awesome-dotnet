@@ -418,6 +418,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## Desktop
 
 * [Sucrose Wallpaper Engine](https://github.com/Taiizor/Sucrose) - Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers.
+* [UltraExplorer](https://github.com/So2K/UltraExplorer) - Native Windows file manager with an infinite zoomable 2D canvas, Direct3D 11 hardware acceleration and Shell integration.
 
 ## Distributed Computing
 
