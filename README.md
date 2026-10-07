@@ -417,6 +417,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Desktop
 
+* [Mazapan](https://github.com/rick-dev-creator/mazapan) - An Arch Linux desktop OS whose core is C# compiled with Native AOT into one binary: plugins, themes, updates with rollback, checkpoints, and an MCP server for coding agents.
 * [Sucrose Wallpaper Engine](https://github.com/Taiizor/Sucrose) - Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers.
 
 ## Distributed Computing
