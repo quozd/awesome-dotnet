@@ -889,6 +889,7 @@ metadata in media files, including video, audio, and photo formats
 ## Query Builders
 * [SqlKata](https://sqlkata.com) - Elegant SQL query builder, that supports complex queries, joins, sub queries, nested where conditions, vendor engine targets and more
 * [InterpolatedSql](https://github.com/Drizin/InterpolatedSql) - SQL Builder using String Interpolation and Fluent API
+* [DynamicWhere.ex](https://github.com/Sajadh92/DynamicWhere.ex) - Turns JSON filter, sort, paging, grouping and set-operation requests into `IQueryable<T>` queries for Entity Framework Core
 
 ## Queue
 * [CAP](https://github.com/dotnetcore/CAP) - An EventBus with local persistent message functionality for RabbitMQ or Kafka. -  **NOTE**: This is not affiliated with Microsoft or .NET
