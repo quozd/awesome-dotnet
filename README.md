@@ -393,6 +393,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Couchbase](https://github.com/couchbase/couchbase-net-client) - Official Couchbase .NET client library, based on the Enyim memcached client
 * [Firebird.NET](https://sourceforge.net/projects/firebird/) - The .NET Data provider is written in C# and provides a high-performance, native implementation of the Firebird API
 * [Rqlite-dotnet](https://github.com/rqlite/rqlite-dotnet) - .NET client for rqlite (distributed relational DB based on SQLite)
+* [ChromaDotNet.Client](https://github.com/ChromaDotNet/ChromaDB.Client) - .NET client for Chroma, the open-source vector database, and Chroma Cloud
 
 ## Datetime
 
