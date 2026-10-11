@@ -835,6 +835,7 @@ metadata in media files, including video, audio, and photo formats
 * [Dapper](https://github.com/DapperLib/Dapper) - A simple object mapper for .NET by [StackExchange](https://stackexchange.github.io/)
 * [Dapper.FastCRUD](https://github.com/MoonStorm/Dapper.FastCRUD) - The fastest micro-ORM extension for Dapper
 * [DapperQueryBuilder](https://github.com/Drizin/DapperQueryBuilder) - Dapper Query Builder using String Interpolation and Fluent API
+* [Forget](https://github.com/davidedalcortivo/Forget) - A thin, provider-aware extension layer on top of Dapper: type-safe CRUD, filtering, sorting, and paging, with the right SQL for MySQL, Oracle, PostgreSQL, and SQL Server — more providers planned.
 * [SqlSugar](https://github.com/DotNetNext/SqlSugar) - Another ORM library supports many RDBMS including MySql, SqlServer, Sqlite, Oracle, Postgresql -  **NOTE**: This is not affiliated with Microsoft or .NET
 * [FreeSql](https:/github.com/dotnetcore/FreeSql) - a convenient ORM in dotnet, supports MySql, SqlServer, PostgreSQL, Oracle, Sqlite, Firebird, 达梦, 人大金仓, 神舟通用, 翰高 and Access. -  **NOTE**: This is not affiliated with Microsoft or .NET
 * [NHibernate](https://github.com/nhibernate) - NHibernate Object Relational Mapper
