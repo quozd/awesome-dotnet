@@ -693,6 +693,7 @@ the Python world. It uses the Pyro protocol to call methods on remote objects.
 * [F# Data](https://github.com/fsprojects/FSharp.Data) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
 * [SciSharp STACK](https://scisharp.github.io/SciSharp/) - A rich machine learning ecosystem for .NET created by porting the most popular Python libraries to C#.
 * [OpenGA.Net](https://github.com/asarnaout/OpenGeneticAlgorithm.NET) - Genetic algorithm .NET library for solving optimization problems, featuring extensible operators and adaptive strategy selection.
+* [Fuuga](https://bitbucket.org/thorium/fuuga) - Train, fine-tune and run LLMs from scratch in F# on TorchSharp, no Python.
 
 ## Markdown Processors
 * [F# Formatting](https://fsprojects.github.io/FSharp.Formatting/) - Tools for documenting F# and C# projects.  The library contains extensible Markdown parser as a core component.
