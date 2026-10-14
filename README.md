@@ -1057,6 +1057,7 @@ metadata in media files, including video, audio, and photo formats
 * [FastCloner](https://github.com/lofcz/FastCloner) - Fast deep cloning library for .NET 8+. Zero-config, works out of the box.
 * [STranslate](https://github.com/ZGGSONG/STranslate) - STranslate is a ready-to-go translation ocr tool developed with WPF.
 * [BouncyHSM](https://github.com/harrison314/BouncyHsm) - A software simulator of HSM and smartcard simulator with HTML UI, REST API and PKCS#11 interface.
+* [Bowire](https://github.com/Kuestenlogik/Bowire) - The API workbench that embeds in your own service. Discover, call, record, mock and replay gRPC, REST, GraphQL, SignalR, MQTT, WebSocket, SSE and more from a browser UI mounted into your ASP.NET Core app with `MapBowire()`, or from the standalone `bowire` CLI.
 
 ## Trading
 
