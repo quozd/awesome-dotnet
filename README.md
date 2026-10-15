@@ -216,6 +216,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## Background Processing
 
 * [BusyBee](https://github.com/mikasjp/BusyBee) - Fast, in-memory background job processing for .NET apps with configurable queues, timeouts, parallelism, and built-in OpenTelemetry support.
+* [NexJob](https://github.com/oluciano/NexJob) - Background job scheduler and runner for .NET 8+ with native async/await, priority queues, throttling, and pluggable storage providers.
 
 ## Blazor
 
