@@ -1109,6 +1109,7 @@ metadata in media files, including video, audio, and photo formats
 * [Websocket-Sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
 * [Crossertech](https://crosser.io/) - Provides a great set of tools for you to build real-time applications on the Microsoft.NET plattform and much more. **[$]**
 * [Websocket.Client](https://github.com/Marfusios/websocket-client) - A multiplatform wrapper over native C# class ClientWebSocket with built-in reconnection and error handling.
+* [WebSoket.Otp](https://github.com/VladUl287/WebSoket.Otp) - A fast, light-weight WebSocket library built around REPR as its core idea.
 
 ## Windows Services
 
