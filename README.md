@@ -1057,6 +1057,7 @@ metadata in media files, including video, audio, and photo formats
 * [FastCloner](https://github.com/lofcz/FastCloner) - Fast deep cloning library for .NET 8+. Zero-config, works out of the box.
 * [STranslate](https://github.com/ZGGSONG/STranslate) - STranslate is a ready-to-go translation ocr tool developed with WPF.
 * [BouncyHSM](https://github.com/harrison314/BouncyHsm) - A software simulator of HSM and smartcard simulator with HTML UI, REST API and PKCS#11 interface.
+* [web.config to appsettings.json converter](https://www.codefirst.co.uk/tools/web-config-to-appsettings/) - Converts an ASP.NET Framework web.config to appsettings.json for ASP.NET Core in the browser, with a note for every setting that moves to Program.cs, the host or nowhere. Nothing is uploaded. **[Proprietary]** **[Free]**
 
 ## Trading
 
