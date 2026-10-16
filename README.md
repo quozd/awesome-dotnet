@@ -1057,6 +1057,7 @@ metadata in media files, including video, audio, and photo formats
 * [FastCloner](https://github.com/lofcz/FastCloner) - Fast deep cloning library for .NET 8+. Zero-config, works out of the box.
 * [STranslate](https://github.com/ZGGSONG/STranslate) - STranslate is a ready-to-go translation ocr tool developed with WPF.
 * [BouncyHSM](https://github.com/harrison314/BouncyHsm) - A software simulator of HSM and smartcard simulator with HTML UI, REST API and PKCS#11 interface.
+* [Codayak](https://github.com/Techniche-Labs/codayak-releases) - Free Windows AI coding workbench for .NET: maps the repo, writes and builds code, runs tests and SQL, tests browser and desktop UI, reviews pull requests, and verifies its own output with a scored trust report. **[Proprietary]**
 
 ## Trading
 
