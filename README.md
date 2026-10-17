@@ -189,6 +189,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## Artificial Intelligence
 * [LLamaSharp](https://github.com/SciSharp/LLamaSharp) - C#/.NET Binding of llama.cpp, run LLaMA/GPT model using C# without having to compile lama.cpp.
 * [LlmTornado](https://github.com/lofcz/LlmTornado) - One .NET library to consume OpenAI, Anthropic, Cohere, Google, Azure, Groq, and self-hosed APIs.
+* [EmberLlm](https://github.com/msmith211/EmberLlm) - .NET client for local LLM servers (LM Studio, Ollama, llama.cpp, vLLM) built on Microsoft.Extensions.AI with server discovery, strict option validation, and typed structured output.
 
 ## Assembly Manipulation
 
