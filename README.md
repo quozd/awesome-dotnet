@@ -1040,6 +1040,7 @@ metadata in media files, including video, audio, and photo formats
 
 * [Downloader](https://github.com/bezzad/Downloader) - Fast and reliable multipart downloader with asynchronous progress events for .NET applications.
 * [Fiddler](https://www.telerik.com/fiddler) -  The free web debugging proxy for any browser, system or platform **[Proprietary]** **[$]** **[Free Trial available]**
+* [LiveClaude](https://github.com/LeandroCannizzaro/LiveClaude) - OS supervisor and Avalonia app that restarts a configured CLI worker (Claude Code Remote Control or Cursor My Machines) after close, crash, sign-out, or reboot. Windows, Linux, and macOS.
 * [Open Live Writer](https://github.com/OpenLiveWriter/OpenLiveWriter) - Blog writer which integrated with WordPress, Blogger, et. al. Open Live Writer makes it easy to write, preview, and post to your blog.
 * [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
 * [Opserver](https://github.com/Opserver/Opserver) - Stack Exchange's Monitoring System
