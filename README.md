@@ -498,6 +498,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [DotRecast](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
 * [Foster](https://github.com/FosterFramework/Foster) - Foster is a small cross-platform 2D game framework in C#.
 * [Friflo.Engine.ECS](https://github.com/friflo/Friflo.Engine.ECS) -  High-performance C# ECS with simple API. Supports .NET, WASM/WebAssembly, Native AOT, Unity, Godot, MonoGame, ...
+* [EasyEcs](https://github.com/JasonXuDeveloper/EasyEcs) - Archetype-based C# ECS for .NET 10 game servers, simulations and real-time backends, with source-generated systems and allocation-free updates after warm-up.
 * [Box2D.NET](https://github.com/ikpil/Box2D.NET) - A C# port of Box2D, a 2D physics engine for games, servers, and Unity3D
 
 ## GIS
