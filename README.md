@@ -1081,6 +1081,7 @@ metadata in media files, including video, audio, and photo formats
 * [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput) - Color highlighting for Build, Find and Debug output windows. Custom match patterns and colors can be added.
 * [Roslynator](https://github.com/JosefPihrt/Roslynator) - A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn
 * [SonarSource.sonarlint-visualstudio](https://github.com/SonarSource/sonarlint-visualstudio) - SonarLint is a free, open source Visual Studio 2017, 2019 and 2022 extension that provides on-the-fly feedback to developers on new bugs and quality issues in C#, VB.NET, C/C++, TypeScript and JavaScript.
+* [Inferpal](https://github.com/EstaxNet/Inferpal) - AI coding agent for Visual Studio and VS Code that runs on local models (Ollama, LM Studio, OpenAI-compatible servers), with ghost-text completion and a test loop that re-runs a failing .NET test under the debugger.
 
 ## Web Browsers
 
