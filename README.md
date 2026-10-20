@@ -743,7 +743,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## Misc
 * [RazorKit](https://github.com/ekondur/RazorKit) - RazorKit is a collection of lightweight, fluent-style Razor HTML helpers that make it easy for developers to integrate popular JavaScript libraries into their ASP.NET applications.
-* [CSharp Pad](http://csharppad.com) - A web-based C# REPL with awesome code completion.
+* [Coddy C# Playground](https://coddy.tech/playground/csharp) - A web-based C# editor that compiles and runs snippets, with no sign-up.
 * [AzureCrawler](https://github.com/yagopv/AzureCrawler) - Take HTML Snapshots for your Angular, Ember, Durandal or any JavaScript applications
 * [CSScript](https://www.cs-script.net/) - CS-Script is a CLR based scripting system which uses C# as a programming language. CS-Script currently targets Microsoft implementation of CLR (.NET 2.0/3.0/3.5/4.0/4.5) with full support on Mono. Comes with many additional features, such as script hosting.
 * [CsvHelper](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files https://github.com/JoshClose/CsvHelper
