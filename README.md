@@ -849,6 +849,7 @@ metadata in media files, including video, audio, and photo formats
 * [RepoDb](https://github.com/mikependon/RepoDb) - A hybrid ORM library for .NET.
 * [MongoFramework](https://github.com/TurnerSoftware/MongoFramework) - An "Entity Framework"-like interface for MongoDB
 * [Friflo.Json.Fliox](https://github.com/friflo/Friflo.Json.Fliox) - High performane ORM for Sqlite, MySql, SqlServer, PostgreSQL & NoSQL. Provides server with REST, GraphQL & WebSocket / PubSub API.
+* [Aumerial.EntityFrameworkCore](https://www.nuget.org/packages/Aumerial.EntityFrameworkCore) - Entity Framework Core provider for IBM i (Db2 for i, AS/400, iSeries), built on the fully managed NTi Data Provider. **[$]**
 
 ## Package Management
 
