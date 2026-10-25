@@ -344,6 +344,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Configuration
 * [AgileConfig](https://github.com/dotnetcore/AgileConfig) - AgileConfig is a lightweight configuration center that helps you manage all your application's configurations through website. -  **NOTE**: This is not affiliated with Microsoft or .NET
+* [Nops](https://github.com/atulmish/Nops) - Reads SOPS-encrypted files in-process into IConfiguration, with no sops binary, no subprocess and no plaintext on disk. Supports age, PGP, AWS KMS, GCP KMS, Azure Key Vault and HashiCorp Vault.
 
 ## Continuous Integration
 * [TeamCity](https://www.jetbrains.com/teamcity/) - Ready to work, extensible and developer-friendly build server — out of the box **[$]**
