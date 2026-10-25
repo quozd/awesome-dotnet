@@ -1137,6 +1137,7 @@ metadata in media files, including video, audio, and photo formats
 * [Vogan](https://github.com/SteveDunn/Vogen) - A value object generator with analizers.
 * [Dunet](https://github.com/domn1995/dunet) - A simple source generator for discriminated unions in C#.
 * [SyncMethodGenerator](https://github.com/zompinc/sync-method-generator) – Generates synchronous methods from async ones to avoid code duplication.
+* [ZeroAlloc](https://github.com/ZeroAlloc-Net) - Family of Roslyn source-generator libraries for .NET 8+ (mediator, dependency injection, mapping, ORM, validation, caching and more) with zero reflection, zero steady-state allocations and Native AOT support.
 
 
 # Other Lists
