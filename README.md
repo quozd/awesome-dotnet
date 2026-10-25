@@ -187,8 +187,11 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [JHipster.NET](https://github.com/jhipster/jhipster-dotnetcore) JHipster blueprint for replace orginal SpringBoot Backend by asp.net core. The main goal generator of jhipster is showcases best practices of modern web development in java. So the goal of the project is to do the same in .net. The Frontend can be generated with angular or react and soon with blazor. -  **NOTE**: This is not affiliated with Microsoft or .NET
 
 ## Artificial Intelligence
+* [AI.Sentinel](https://github.com/MarcelRoozekrans/AI.Sentinel) - Security monitoring middleware for IChatClient from Microsoft.Extensions.AI: scans prompts and responses for prompt injection, hallucination and PII leakage, with an audit trail and dashboard.
 * [LLamaSharp](https://github.com/SciSharp/LLamaSharp) - C#/.NET Binding of llama.cpp, run LLaMA/GPT model using C# without having to compile lama.cpp.
 * [LlmTornado](https://github.com/lofcz/LlmTornado) - One .NET library to consume OpenAI, Anthropic, Cohere, Google, Azure, Groq, and self-hosed APIs.
+* [Minos.NET](https://github.com/MarcelRoozekrans/Minos.NET) - Unofficial .NET client for decision models: typed questions with calibrated, typed answers, generated at compile time by a source generator. Native AOT compatible.
+* [Rag.NET](https://github.com/MarcelRoozekrans/Rag.NET) - Modular retrieval-augmented generation pipeline for .NET on Microsoft.Extensions.AI: ingestion, chunking, vector stores, retrieval and streaming chat, with GraphRAG and RAPTOR.
 
 ## Assembly Manipulation
 
