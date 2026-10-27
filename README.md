@@ -794,6 +794,7 @@ metadata in media files, including video, audio, and photo formats
 
 * [NetCoreServer](https://github.com/chronoxor/NetCoreServer) - Ultra fast and low latency asynchronous socket server & client C# .NET Core library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution (NETStandard).
 * [SharpPcap](https://github.com/chmorgan/sharppcap) - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets from live and file based devices.
+* [ProtocolForge](https://github.com/yangying-dev/protocol-forge) - Cross-platform 3GPP protocol workbench for inspecting, editing, and replaying PFCP/NGAP/GTP-U/NAS/S1AP/Diameter packets from PCAP files. Built with .NET 10 + Avalonia, powered by tshark.
 
 ## Object to object mapping
 
