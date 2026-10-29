@@ -1036,6 +1036,7 @@ metadata in media files, including video, audio, and photo formats
 * [Verify](https://github.com/VerifyTests/Verify) - Verification tool to enable simple approval of complex models and documents.
 * [CsCheck](https://github.com/AnthonyLloyd/CsCheck) - Random testing library for C#. Including concurrency, causal profiling, regression and performance testing.
 * [NotoriousTest](https://github.com/Notorious-Coding/Notorious-Test) - A lightweight .NET framework that makes integration tests fully isolated by orchestrating reusable infrastructures and environments, auto-resetting between tests. TestContainers and SQL Server built-in support. Based on XUnit.
+* [TeaPie](https://github.com/Kros-sk/TeaPie) - CLI tool for API integration testing with `.http` files and C# scripts, designed for automation and AI coding agents.
 ## Tools
 
 * [Downloader](https://github.com/bezzad/Downloader) - Fast and reliable multipart downloader with asynchronous progress events for .NET applications.
