@@ -393,6 +393,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Couchbase](https://github.com/couchbase/couchbase-net-client) - Official Couchbase .NET client library, based on the Enyim memcached client
 * [Firebird.NET](https://sourceforge.net/projects/firebird/) - The .NET Data provider is written in C# and provides a high-performance, native implementation of the Firebird API
 * [Rqlite-dotnet](https://github.com/rqlite/rqlite-dotnet) - .NET client for rqlite (distributed relational DB based on SQLite)
+* [Thunder.Dbf](https://github.com/pthunder/Thunder.Dbf) - ADO.NET provider and library for dBASE, FoxPro and Clipper .dbf files, with indexes, memos and locks, on Windows, Linux and macOS
 
 ## Datetime
 
