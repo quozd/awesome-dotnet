@@ -1062,6 +1062,7 @@ metadata in media files, including video, audio, and photo formats
 
 * [Lean](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. https://www.quantconnect.com/lean/
 * [StockSharp](https://github.com/StockSharp/StockSharp) - Trading and algorithmic trading open source platform (stock markets, forex, bitcoins and options). https://stocksharp.com
+* [TA-Lib](https://github.com/TA-Lib/ta-lib) - Pure C# TA-Lib: 200+ technical analysis functions, including candlestick patterns, with batch and streaming APIs. https://www.nuget.org/packages/TA-Lib
 
 ## UI Automation
 
