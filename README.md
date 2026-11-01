@@ -937,6 +937,7 @@ metadata in media files, including video, audio, and photo formats
 * [TickerQ](https://github.com/Arcenox-co/TickerQ) - Lightweight, high-performance, reflection-free job scheduler for .NET with EF Core, cron/time-based execution, custom locking, and retry support.
 * [NCronJob](https://github.com/NCronJob-Dev/NCronJob) - A Job Scheduler sitting on top of IHostedService in dotnet.
 * [NaturalCron](https://github.com/hugoj0s3/NaturalCron) – Human-readable scheduling library for .NET using natural-language expressions.
+* [inngest-dotnet](https://github.com/damikun/inngest-dotnet) - Community Inngest SDK for .NET: durable functions and workflows as plain C# classes, with steps that retry, sleep and wait for events.
 
 
 ## SDK and API Clients
