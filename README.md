@@ -358,6 +358,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Pkcs11Interop](https://github.com/Pkcs11Interop/Pkcs11Interop) - Managed .NET wrapper for unmanaged PKCS#11 libraries that provide access to the cryptographic hardware
 * [SecurityDriven.Inferno](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET crypto library. Professionally audited.
 * [CryptoNet](https://github.com/maythamfahmi/CryptoNet) - .NET simple crypto library. Native c#.
+* [SimpleSign](https://github.com/eupassarin/simplesign) - Digital signature library for .NET: create, validate, and inspect PAdES, CAdES, and XAdES signatures (B-B to B-LTA), with ICP-Brasil support, PDF/A preservation, and a CLI tool.
 
 ## Cloud Storage
 
