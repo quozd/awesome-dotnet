@@ -418,6 +418,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## Desktop
 
 * [Sucrose Wallpaper Engine](https://github.com/Taiizor/Sucrose) - Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers.
+* [Session Dock](https://github.com/paragpandyareal/session-dock) - A WPF app bar docked to the screen edge that shows the live status of every Claude Code session, with notifications when one needs your input.
 
 ## Distributed Computing
 
