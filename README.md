@@ -189,6 +189,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## Artificial Intelligence
 * [LLamaSharp](https://github.com/SciSharp/LLamaSharp) - C#/.NET Binding of llama.cpp, run LLaMA/GPT model using C# without having to compile lama.cpp.
 * [LlmTornado](https://github.com/lofcz/LlmTornado) - One .NET library to consume OpenAI, Anthropic, Cohere, Google, Azure, Groq, and self-hosed APIs.
+* [OpenCode .NET SDK](https://github.com/opencode-dotnet/opencode-sdk-dotnet) - Unofficial typed .NET SDK for the [OpenCode](https://opencode.ai) coding agent's server API: event streaming, terminals, a local server launcher and dependency injection.
 
 ## Assembly Manipulation
 
