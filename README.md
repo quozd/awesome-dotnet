@@ -141,6 +141,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Algorithmia](https://github.com/SolutionsDesign/Algorithmia) - Algorithm and data-structure library for .NET 3.5 and up. Algorithmia contains sophisticated algorithms and data-structures like graphs, priority queues, command, undo-redo and more.
 * [Towel](https://github.com/ZacharyPatten/Towel) - data structures, algorithms, mathematics, metadata, extensions, console, measurements, and other useful stuff
 * [Akade.IndexedSet](https://github.com/akade/Akade.IndexedSet) - A convenient data structure supporting efficient in-memory indexing and querying, including range queries and fuzzy string matching.
+* [CardinalityEstimation](https://github.com/saguiitay/CardinalityEstimation) - C# library using HyperLogLog for memory-efficient estimation of the number of distinct elements in a set.
 
 ## API
 
