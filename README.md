@@ -185,6 +185,11 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Template10](https://github.com/Windows-XAML/Template10) - Windows 10 templates with design patterns.
 * [Nucleus](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
 * [JHipster.NET](https://github.com/jhipster/jhipster-dotnetcore) JHipster blueprint for replace orginal SpringBoot Backend by asp.net core. The main goal generator of jhipster is showcases best practices of modern web development in java. So the goal of the project is to do the same in .net. The Frontend can be generated with angular or react and soon with blazor. -  **NOTE**: This is not affiliated with Microsoft or .NET
+* [CleanGraphQLApi](https://github.com/LeanMeanCleanApps/CleanGraphQLApi) - A `dotnet new` template for a Hot Chocolate GraphQL API on .NET 10 with Clean Architecture, DataLoaders, EF Core and OpenTelemetry.
+* [CleanLambdaFunction](https://github.com/LeanMeanCleanApps/CleanLambdaFunction) - A `dotnet new` template for an AWS Lambda function on .NET 10 with Clean Architecture, Lambda Annotations, a SAM template and local runs in Docker.
+* [CleanMinimalApi](https://github.com/LeanMeanCleanApps/CleanMinimalApi) - A `dotnet new` template for an ASP.NET Core Minimal API on .NET 10 with Clean Architecture, EF Core, Scalar and OpenTelemetry.
+* [CleanModelContextProtocol](https://github.com/LeanMeanCleanApps/CleanModelContextProtocol) - A `dotnet new` template for a Model Context Protocol server on .NET 10 using the official C# SDK, with Clean Architecture and OpenTelemetry.
+* [CleanWebApi](https://github.com/LeanMeanCleanApps/CleanWebApi) - A `dotnet new` template for a controller-based ASP.NET Core Web API on .NET 10 with Clean Architecture, EF Core, Scalar and OpenTelemetry.
 
 ## Artificial Intelligence
 * [LLamaSharp](https://github.com/SciSharp/LLamaSharp) - C#/.NET Binding of llama.cpp, run LLaMA/GPT model using C# without having to compile lama.cpp.
