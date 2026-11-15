@@ -417,6 +417,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Desktop
 
+* [Nubis](https://github.com/windevase/nubis) - Tabbed SSH, RDP and SFTP client for Windows that imports servers from AWS, GCP, Azure, Tencent Cloud and OCI and includes a Claude Code panel.
 * [Sucrose Wallpaper Engine](https://github.com/Taiizor/Sucrose) - Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers.
 
 ## Distributed Computing
