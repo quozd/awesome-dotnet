@@ -344,6 +344,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Configuration
 * [AgileConfig](https://github.com/dotnetcore/AgileConfig) - AgileConfig is a lightweight configuration center that helps you manage all your application's configurations through website. -  **NOTE**: This is not affiliated with Microsoft or .NET
+* [Envilder](https://github.com/macalbert/envilder) - .NET SDK (NuGet `Envilder`) for configuration and dependency injection: one versioned map file shared by local dev, CI and runtime, resolving secrets from AWS SSM Parameter Store or Azure Key Vault.
 
 ## Continuous Integration
 * [TeamCity](https://www.jetbrains.com/teamcity/) - Ready to work, extensible and developer-friendly build server — out of the box **[$]**
