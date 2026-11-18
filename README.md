@@ -406,6 +406,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [dnSpyEx](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of dnSpy
 * [ILSpy](https://ilspy.net/) - ILSpy is the open-source .NET assembly browser and decompiler
 * [dotPeek](https://www.jetbrains.com/decompiler/) - Free-of-charge standalone tool based on ReSharper's bundled decompiler. It can reliably decompile any .NET assembly into equivalent C# or IL code. It can create Visual Studio solutions based on the original binary files in a straight-forward way. **[Proprietary]** **[Free]**
+* [REA](https://github.com/morluto/rea) - Local CLI and MCP server for inspecting .NET assembly metadata and CIL, and comparing managed members across builds
 
 ## Deployment
 * [DbUp](https://github.com/DbUp/DbUp) - .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date
