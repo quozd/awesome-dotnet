@@ -418,6 +418,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## Desktop
 
 * [Sucrose Wallpaper Engine](https://github.com/Taiizor/Sucrose) - Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers.
+* [SoundVisualizer](https://github.com/SOVIS-TEAM/SoundVisualizer-Windows) - WPF accessibility app for deaf and hard-of-hearing people. It captures the Windows audio output with NAudio (WASAPI loopback) and shows the direction, loudness and type of sounds along the screen edges, using on-device sound classification with ONNX Runtime.
 
 ## Distributed Computing
 
