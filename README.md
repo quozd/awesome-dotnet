@@ -553,6 +553,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Lara](https://github.com/integrativesoft/lara) - Lara Web Engine is a library for developing Web user interfaces in C# - (Blazor Server-Side Alternative)
 * [Neutronium](https://github.com/NeutroniumCore/Neutronium) - Build .NET desktop applications using HTML, CSS, javascript and MVVM bindings such as with WPF.
 * [photino.NET](https://github.com/tryphotino/photino.NET) - Photino is a lightweight open-source framework for building native, cross-platform desktop applications with Web UI technology.
+* [eQuantic.UI](https://github.com/eQuantic/equantic-ui) - Write UI components once in C#: compiled to JavaScript for the web, with no WebAssembly, and drawn by its own GPU engine on macOS, iOS, Android and Windows.
   
 ### GUI - Themed Control Toolkits
 
