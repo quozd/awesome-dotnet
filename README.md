@@ -1120,6 +1120,7 @@ metadata in media files, including video, audio, and photo formats
 * [Data Grid Extensions](https://github.com/tom-englert/DataGridExtensions) - Modular extensions for the WPF DataGrid control, like filtering, additional column events, extended star-size column behavior, and more...
 * [Extended WPF Toolkit™](https://github.com/xceedsoftware/wpftoolkit) - A rich collection of controls, components and utilities for creating WPF applications
 * [WPF](https://github.com/dotnet/wpf) - WPF is a .NET Core UI framework for building Windows desktop applications.
+* [ZYC.Framework](https://github.com/ZiYuCai1984/ZYC.Framework) - A modular desktop application framework for WPF on .NET 10, with runtime-loaded modules (tabs, menus, notifications, background tasks), .NET Aspire integration and Blazor/WebView2 interop.
 
 ## Parser Library
 
