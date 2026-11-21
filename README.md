@@ -277,6 +277,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [CommandLineUtils](https://github.com/natemcmaster/CommandLineUtils) - This is a fork of Microsoft.Extensions.CommandLineUtils, which is no longer under active development.
 * [Docopt](https://github.com/docopt/docopt.net) - Command-line interface description language that will make you smile.
 * [Gui.cs](https://github.com/migueldeicaza/gui.cs) - Terminal UI toolkit for .NET.
+* [iTerminal](https://github.com/nagytam/iTerminal) - Two-panel terminal file manager and developer toolbox in C# on .NET 11, with encryption, signing and malware scanning, a local AI assistant (Ollama), Office, PDF and archive support, music and video players, online radio and a web browser. Built on iConsole, a reusable TUI framework in the same repository.
 * [Power Args](https://github.com/adamabdelhamed/PowerArgs) - PowerArgs converts command-line arguments into .NET objects that are easy to program against. It also provides a ton of optional capabilities such as argument validation, auto generated usage, tab completion, and plenty of extensibility
 * [SharpNetSH](https://github.com/rpetz/SharpNetSH) - A simple netsh library for C#.
 * [spectre.console](https://github.com/spectresystems/spectre.console) - A library that makes it easier to create beautiful console applications.
