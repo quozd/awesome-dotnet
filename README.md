@@ -155,6 +155,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [CommandQuery](https://github.com/hlaueriksson/CommandQuery) - Command Query Separation for 🌐ASP.NET Core ⚡AWS Lambda ⚡Azure Functions ⚡Google Cloud Functions 🌐ASP.NET Web API 2
 * [Population.NET](https://github.com/Authentic199/Population.NET) - A .NET library allows clients to specify the exact fields they need, reducing unnecessary data transfer by avoiding the retrieval of all fields by default.
 * [Wissance.WebApiTookit](https://github.com/Wissance/WebApiToolkit) - A set of libraries and classes that simplify building REST APIs and gRPC services, reducing the amount of code to be written with even one line of code for a fully functional REST controller.
+* [AutoNormalize](https://github.com/SkyDevLab/DotNet.AutoNormalize) - Consistent, configurable, safe-by-default input normalization for modern .NET applications (ASP.NET Core Minimal APIs, System.Text.Json, and EF Core).
 
 ## Application Frameworks
 
