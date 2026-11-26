@@ -341,6 +341,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 * [SharpCompress](https://github.com/adamhathcock/sharpcompress) - SharpCompress is a compression library for .NET/Mono/Silverlight/WP7 that can unrar, un7zip, unzip, untar unbzip2 and ungzip with forward-only reading and file random access APIs. Write support for zip/tar/bzip2/gzip are implemented
 * [FastLZMA2NET](https://github.com/kingsznhone/FastLZMA2Net) - A .NET Wrapper of [Fast LZMA2 Algorithm](https://github.com/conor42/fast-lzma2).
+* [XDeltaSharp](https://github.com/israellot/xdeltasharp) - Managed .NET library for creating and applying xdelta3-compatible VCDIFF binary patches.
 
 ## Configuration
 * [AgileConfig](https://github.com/dotnetcore/AgileConfig) - AgileConfig is a lightweight configuration center that helps you manage all your application's configurations through website. -  **NOTE**: This is not affiliated with Microsoft or .NET
