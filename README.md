@@ -174,6 +174,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [ActualLab.Fusion](https://github.com/ActualLab/Fusion) - Skip SignalR and gRPC. Build real-time Blazor and MAUI apps while writing just 0.1% of the usual real-time update code. Handle 10× more API requests with the ActualLab.Rpc protocol—or 1000× more with Fusion’s transparent and perfectly coherent caching. [Samples](https://github.com/ActualLab/Fusion.Samples). [Documentation](https://fusion.actuallab.net/).
 * [silky](https://github.com/liuhll/silky) - The Silky framework is designed to help developers quickly build a microservice development framework through simple code and configuration under the .net platform.
 * [Positron-JS](https://github.com/Positron-JS/positron-web-view) - An advanced Web View (PositronWebView) with native JavaScript Context to access .NET APIs from hybrid applications inspired from capacitor/cordova.
+* [MORYX Framework](https://github.com/PHOENIXCONTACT/MORYX-Framework) - Open-source .NET framework for building modular three-tier industrial applications with a pluggable runtime, digital twin abstractions, process engines, and hardware driver integration.
 
 ## Application Templates
 
